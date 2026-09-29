@@ -6808,6 +6808,2651 @@
     "en": "Elderly people are often targets of phone fraud.",
     "zh": "年長者常常是電話詐騙的目標。"
    }
+  },
+  {
+   "a": "border",
+   "b": "frontier",
+   "kind": "semantic",
+   "score": 0.631,
+   "aZh": "n. 邊界；邊境",
+   "bZh": "n. 邊境；國界；新領域",
+   "diff": "border 是最常用的邊界，指兩地之間的分界線；frontier 較正式，指邊境地帶，也常比喻尚待探索的新領域。",
+   "points": [
+    "常用度：border 較常用；frontier 較正式",
+    "範圍：border 是分界線；frontier 是邊境地帶",
+    "比喻：frontier 可指科學等新領域"
+   ],
+   "tip": "border 是一條線；frontier 是一個前線地帶，常指未知的新領域。",
+   "exA": {
+    "en": "The travelers crossed the border between the two countries by train.",
+    "zh": "旅客搭火車越過了兩國之間的邊界。"
+   },
+   "exB": {
+    "en": "Scientists are exploring new frontiers in clean energy.",
+    "zh": "科學家正在探索潔淨能源的新領域。"
+   }
+  },
+  {
+   "a": "gathering",
+   "b": "meeting",
+   "kind": "semantic",
+   "score": 0.704,
+   "aZh": "n. 聚會；集會",
+   "bZh": "n. 會議；集會；相遇",
+   "diff": "meeting 通常有討論、工作或明確議程；gathering 是人們聚在一起的活動，氣氛可正式也可輕鬆。",
+   "points": [
+    "目的：meeting 常有議程；gathering 常是聚會",
+    "搭配：a class meeting 班會；a family gathering 家庭聚會",
+    "字義：meeting 也可指相遇"
+   ],
+   "tip": "meeting 要開會；gathering 是聚在一起。",
+   "exA": {
+    "en": "The whole village came to the gathering in the town square.",
+    "zh": "全村的人都來到鎮上廣場參加這場集會。"
+   },
+   "exB": {
+    "en": "The class meeting will start at three o'clock.",
+    "zh": "班會將在三點開始。"
+   }
+  },
+  {
+   "a": "assembly",
+   "b": "gathering",
+   "kind": "semantic",
+   "score": 0.783,
+   "aZh": "n. 集會；組裝",
+   "bZh": "n. 聚會；集會",
+   "diff": "assembly 常指學校或組織的正式集會，也可指組裝；gathering 較泛指人聚在一起，可以輕鬆。",
+   "points": [
+    "正式度：assembly 較正式；gathering 較隨意",
+    "搭配：a school assembly 學校朝會；a family gathering 家庭聚會",
+    "字義：assembly 還可指組裝"
+   ],
+   "tip": "assembly 想到全校集合；gathering 想到親友聚會。",
+   "exA": {
+    "en": "The whole school met in the hall for a morning assembly.",
+    "zh": "全校在禮堂集合，參加早晨的朝會。"
+   },
+   "exB": {
+    "en": "Our family had a small gathering after the ceremony.",
+    "zh": "典禮結束後，我們家辦了一場小聚會。"
+   }
+  },
+  {
+   "a": "create",
+   "b": "generate",
+   "kind": "semantic",
+   "score": 0.644,
+   "aZh": "v. 創造；創作；造成",
+   "bZh": "v. 產生；造成",
+   "diff": "create 是創造出原本不存在的東西；generate 較正式，指產生能源、興趣或結果。",
+   "points": [
+    "重點：create 強調創造；generate 強調產生",
+    "搭配：create a plan 擬定計畫；generate electricity 發電",
+    "語氣：generate 較正式"
+   ],
+   "tip": "create 是無中生有；generate 是持續產生。",
+   "exA": {
+    "en": "The students created a poster for the school festival.",
+    "zh": "學生們為校慶做了一張海報。"
+   },
+   "exB": {
+    "en": "The solar panels generate electricity for the school.",
+    "zh": "太陽能板為學校發電。"
+   }
+  },
+  {
+   "a": "generate",
+   "b": "produce",
+   "kind": "semantic",
+   "score": 0.654,
+   "aZh": "v. 產生；造成",
+   "bZh": "v. 生產；製作；產生",
+   "diff": "produce 常指製造實際的產品，也可指造成結果；generate 較正式，多指產生能源、資料、興趣。",
+   "points": [
+    "對象：produce 常接產品、農作物；generate 常接電力、興趣",
+    "詞性：produce 也可作 n. 農產品",
+    "重音：produce 名詞重音在前，動詞重音在後"
+   ],
+   "tip": "produce 做出東西；generate 產生能量。",
+   "exA": {
+    "en": "The new solar panels generate clean energy for the school.",
+    "zh": "新的太陽能板為學校產生潔淨能源。"
+   },
+   "exB": {
+    "en": "The factory produces thousands of bicycles every month.",
+    "zh": "那間工廠每個月生產數千輛腳踏車。"
+   }
+  },
+  {
+   "a": "generate",
+   "b": "generator",
+   "kind": "visual",
+   "score": 0.809,
+   "aZh": "v. 產生；造成",
+   "bZh": "n. 發電機；產生器",
+   "diff": "generate 是動詞，指產生；generator 是名詞，指產生電力的機器。-or 表示做這件事的人或物。",
+   "points": [
+    "詞性：generate 是 v.；generator 是 n.",
+    "字尾：-or 表示做某事的人或物（actor、operator）",
+    "搭配：generate power 發電；a backup generator 備用發電機"
+   ],
+   "tip": "generator 就是會 generate 的機器。",
+   "exA": {
+    "en": "Wind farms generate electricity for thousands of homes.",
+    "zh": "風力發電場為數千戶家庭發電。"
+   },
+   "exB": {
+    "en": "The hospital has a large generator in case of a power cut.",
+    "zh": "醫院有一台大型發電機，以防停電。"
+   }
+  },
+  {
+   "a": "genetic",
+   "b": "genetics",
+   "kind": "visual",
+   "score": 0.882,
+   "aZh": "adj. 遺傳的；基因的",
+   "bZh": "n. 遺傳學",
+   "diff": "genetic 是形容詞，指與基因、遺傳有關；genetics 是名詞，指研究遺傳的學科。",
+   "points": [
+    "詞性：genetic 是 adj.；genetics 是 n.",
+    "搭配：genetic factors 遺傳因素；study genetics 研讀遺傳學",
+    "字尾：-ics 表示學科，如 physics、economics"
+   ],
+   "tip": "-ics 是學科（genetics）；-ic 是形容詞（genetic）。",
+   "exA": {
+    "en": "Genetic tests can show whether a disease runs in a family.",
+    "zh": "基因檢測可以顯示某種疾病是否在家族中遺傳。"
+   },
+   "exB": {
+    "en": "Jenny wants to study genetics at university after high school.",
+    "zh": "Jenny 想在高中畢業後到大學讀遺傳學。"
+   }
+  },
+  {
+   "a": "genre",
+   "b": "type",
+   "kind": "semantic",
+   "score": 0.538,
+   "aZh": "n. 類型；體裁",
+   "bZh": "n. 種類；類型；v. 打字",
+   "diff": "type 是一般的種類；genre 是按風格或內容分出的類型，常用於文學、電影和音樂。",
+   "points": [
+    "範圍：type 用途廣；genre 常用於藝術",
+    "搭配：a film genre 電影類型；a type of food 一種食物",
+    "詞性：type 也可作 v. 打字"
+   ],
+   "tip": "genre 是藝術作品的分類；type 是一般種類。",
+   "exA": {
+    "en": "Mystery is Amy's favorite genre of book to read at night.",
+    "zh": "推理小說是 Amy 晚上最喜歡讀的書籍類型。"
+   },
+   "exB": {
+    "en": "What type of book do you enjoy reading most?",
+    "zh": "你最喜歡讀哪一種書？"
+   }
+  },
+  {
+   "a": "glance",
+   "b": "glare",
+   "kind": "visual",
+   "score": 0.606,
+   "aZh": "n. 一瞥；v. 瞥見",
+   "bZh": "n. 刺眼的強光；v. 怒目而視",
+   "diff": "glance 是匆匆看一眼；glare 是刺眼的強光，或帶著怒氣瞪人。兩個字只差 nc 和 r。",
+   "points": [
+    "字義：glance 是快速看一下；glare 是瞪或強光",
+    "介系詞：glance at；glare at",
+    "拼字：glan-ce 與 glar-e"
+   ],
+   "tip": "glare 的 r 想成 red（氣紅了眼）。",
+   "exA": {
+    "en": "She took a quick glance at the clock.",
+    "zh": "她很快地瞥了一眼時鐘。"
+   },
+   "exB": {
+    "en": "She glared at the boy who broke her pencil.",
+    "zh": "她瞪著弄斷她鉛筆的男孩。"
+   }
+  },
+  {
+   "a": "glare",
+   "b": "stare",
+   "kind": "semantic",
+   "score": 0.48,
+   "aZh": "n. 強光；v. 怒目而視",
+   "bZh": "v. 盯著看；凝視",
+   "diff": "stare 是目不轉睛地看，不一定生氣；glare 是帶著怒氣瞪人，也可指刺眼的強光。",
+   "points": [
+    "情緒：glare 帶怒氣；stare 可以是好奇或驚訝",
+    "介系詞：兩者都常接 at",
+    "字義：glare 還可指強光"
+   ],
+   "tip": "glare 是「瞪」；stare 是「盯」。",
+   "exA": {
+    "en": "The coach glared at the players after their mistake.",
+    "zh": "球員犯錯後，教練怒視著他們。"
+   },
+   "exB": {
+    "en": "The little girl stared at the giant balloon in surprise.",
+    "zh": "小女孩驚訝地盯著那顆巨大的氣球。"
+   }
+  },
+  {
+   "a": "gloomy",
+   "b": "grim",
+   "kind": "semantic",
+   "score": 0.517,
+   "aZh": "adj. 陰暗的；憂鬱的",
+   "bZh": "adj. 嚴峻的；陰沉的",
+   "diff": "gloomy 是光線陰暗或心情低落；grim 是情況嚴峻、令人不安，或表情嚴肅冷酷。",
+   "points": [
+    "重點：gloomy 是陰沉低落；grim 是嚴峻可怕",
+    "搭配：gloomy weather 陰沉的天氣；a grim reality 嚴峻的現實",
+    "對象：grim 常形容表情與局勢"
+   ],
+   "tip": "gloomy 像陰天；grim 像板著臉。",
+   "exA": {
+    "en": "Tom felt gloomy on the rainy Monday morning.",
+    "zh": "下雨的星期一早上，Tom 覺得心情很低落。"
+   },
+   "exB": {
+    "en": "The doctor had a grim look on his face.",
+    "zh": "醫生臉上帶著嚴肅的表情。"
+   }
+  },
+  {
+   "a": "grant",
+   "b": "subsidy",
+   "kind": "semantic",
+   "score": 0.578,
+   "aZh": "n. 補助金；v. 授予；准許",
+   "bZh": "n. 補助金；津貼",
+   "diff": "grant 是給特定對象的補助款，常用於研究、學校或計畫；subsidy 是政府為了降低成本而給的補貼，例如農業補貼。",
+   "points": [
+    "用途：grant 給計畫或個人；subsidy 補貼產業或商品價格",
+    "搭配：a research grant 研究補助款；a farm subsidy 農業補貼",
+    "詞性：grant 也可作 v."
+   ],
+   "tip": "grant 是申請得到的補助款；subsidy 是政府補貼價格。",
+   "exA": {
+    "en": "The school received a grant to improve its science lab.",
+    "zh": "學校獲得一筆補助款來改善自然科教室。"
+   },
+   "exB": {
+    "en": "The government gives a subsidy to help farmers lower their costs.",
+    "zh": "政府提供補貼，幫助農民降低成本。"
+   }
+  },
+  {
+   "a": "award",
+   "b": "grant",
+   "kind": "semantic",
+   "score": 0.576,
+   "aZh": "n. 獎；v. 授予；頒發",
+   "bZh": "n. 補助金；v. 授予；准許",
+   "diff": "award 是評選後頒發的獎項或獎金；grant 是正式給予許可或補助，不一定經過競賽。",
+   "points": [
+    "來源：award 常因成績或表現；grant 常因申請或同意",
+    "搭配：win an award 得獎；grant permission 准許",
+    "詞性：兩者都可作 n. 和 v."
+   ],
+   "tip": "award 是得獎；grant 是獲准。",
+   "exA": {
+    "en": "The school awarded Amy a prize for her science project.",
+    "zh": "學校因為 Amy 的自然科專題頒獎給她。"
+   },
+   "exB": {
+    "en": "The school granted Amy permission to join the trip.",
+    "zh": "學校准許 Amy 參加這趟旅行。"
+   }
+  },
+  {
+   "a": "graph",
+   "b": "graphic",
+   "kind": "visual",
+   "score": 0.725,
+   "aZh": "n. 圖表；曲線圖",
+   "bZh": "adj. 圖像的；n. 圖表",
+   "diff": "graph 是名詞，指圖表；graphic 是形容詞，指圖像的，也可作名詞指圖表、圖像。",
+   "points": [
+    "詞性：graph 是 n.；graphic 主要是 adj.",
+    "搭配：a bar graph 長條圖；graphic design 平面設計",
+    "字尾：-ic 是形容詞字尾"
+   ],
+   "tip": "graphic 多了 -ic，變成形容詞。",
+   "exA": {
+    "en": "The graph shows how many students ride bicycles to school.",
+    "zh": "這張圖表顯示有多少學生騎腳踏車上學。"
+   },
+   "exB": {
+    "en": "Jenny wants to study graphic design after high school.",
+    "zh": "Jenny 想在高中畢業後學平面設計。"
+   }
+  },
+  {
+   "a": "greed",
+   "b": "greedy",
+   "kind": "visual",
+   "score": 0.818,
+   "aZh": "n. 貪心；貪婪",
+   "bZh": "adj. 貪心的；貪吃的",
+   "diff": "greed 是名詞，指貪心；greedy 是形容詞，形容人貪心。",
+   "points": [
+    "詞性：greed 是 n.；greedy 是 adj.",
+    "搭配：greed for money 貪財；a greedy person 貪心的人",
+    "字尾：-y 是形容詞字尾"
+   ],
+   "tip": "greedy 多了 -y，變成形容詞。",
+   "exA": {
+    "en": "Greed led the businessman to lie to his customers.",
+    "zh": "貪心讓那位商人對顧客說謊。"
+   },
+   "exB": {
+    "en": "The greedy businessman kept lying to his customers.",
+    "zh": "那位貪心的商人一直對顧客說謊。"
+   }
+  },
+  {
+   "a": "grief",
+   "b": "grieve",
+   "kind": "visual",
+   "score": 0.679,
+   "aZh": "n. 悲傷；悲痛",
+   "bZh": "v. 悲傷；哀悼",
+   "diff": "grief 是名詞，指悲痛的感受；grieve 是動詞，指感到悲痛。",
+   "points": [
+    "詞性：grief 是 n.；grieve 是 v.",
+    "拼字：grief 是 grie 加 f；grieve 是 grie 加 ve",
+    "搭配：deep grief 深切的悲痛；grieve for someone 為某人哀傷"
+   ],
+   "tip": "grief 是感受；grieve 是動作。",
+   "exA": {
+    "en": "She felt deep grief after her grandfather died.",
+    "zh": "祖父過世後，她感到深切的悲痛。"
+   },
+   "exB": {
+    "en": "She grieved for her grandfather for many months.",
+    "zh": "她為祖父哀傷了好幾個月。"
+   }
+  },
+  {
+   "a": "grieve",
+   "b": "mourn",
+   "kind": "semantic",
+   "score": 0.818,
+   "aZh": "v. 悲傷；哀悼",
+   "bZh": "v. 哀悼；為……悲傷",
+   "diff": "grieve 是內心深切的悲傷；mourn 是為死亡或重大失去而哀悼，常包含公開表達的悲傷或儀式。",
+   "points": [
+    "重點：grieve 是內心的悲傷；mourn 可以是公開的哀悼",
+    "介系詞：grieve for / over；mourn 直接接受詞",
+    "語氣：mourn 較正式"
+   ],
+   "tip": "mourn 是為逝者哀悼；grieve 是心裡難過。",
+   "exA": {
+    "en": "The family grieved quietly after their dog died.",
+    "zh": "家裡的狗過世後，全家人默默地哀傷。"
+   },
+   "exB": {
+    "en": "The whole town mourned the death of the old teacher.",
+    "zh": "全鎮的人都為老教師的過世而哀悼。"
+   }
+  },
+  {
+   "a": "barbecue",
+   "b": "grill",
+   "kind": "semantic",
+   "score": 0.654,
+   "aZh": "n. 烤肉；烤肉聚會；v. 燒烤",
+   "bZh": "n. 烤架；v. 燒烤；追問",
+   "diff": "barbecue 常指戶外烤肉活動或烤好的肉；grill 指烤肉用的烤架，或用烤架烹調，也可指追問。",
+   "points": [
+    "重點：barbecue 是烤肉活動；grill 是烤架或烹調方式",
+    "字義：grill 還可指嚴格盤問",
+    "搭配：have a barbecue 烤肉；clean the grill 清理烤架"
+   ],
+   "tip": "barbecue 是一場烤肉派對；grill 是那個烤架。",
+   "exA": {
+    "en": "We had a barbecue in the garden on Sunday.",
+    "zh": "星期天我們在花園裡烤肉。"
+   },
+   "exB": {
+    "en": "Dad cleaned the grill before our family dinner.",
+    "zh": "爸爸在家庭聚餐前清理了烤架。"
+   }
+  },
+  {
+   "a": "grasp",
+   "b": "grip",
+   "kind": "semantic",
+   "score": 0.549,
+   "aZh": "v. 抓住；理解",
+   "bZh": "n. 緊握；v. 緊握；吸引",
+   "diff": "grasp 是抓住，也常指理解概念；grip 是用力握緊，強調握得穩。",
+   "points": [
+    "字義：grasp 可指理解；grip 強調握力",
+    "搭配：grasp an idea 理解概念；a firm grip 緊握",
+    "詞性：兩者都可作 n. 和 v."
+   ],
+   "tip": "grasp 是抓得到、想得通；grip 是握得緊。",
+   "exA": {
+    "en": "It took me a while to grasp the idea.",
+    "zh": "我花了一點時間才理解這個想法。"
+   },
+   "exB": {
+    "en": "Amy gripped the handrail while walking down the stairs.",
+    "zh": "Amy 下樓梯時緊緊抓住扶手。"
+   }
+  },
+  {
+   "a": "guidance",
+   "b": "guideline",
+   "kind": "semantic",
+   "score": 0.567,
+   "aZh": "n. 指導；引導",
+   "bZh": "n. 指導方針；準則",
+   "diff": "guidance 是提供指點與協助的行為，不可數；guideline 是具體的準則或方針，可數，常用複數 guidelines。",
+   "points": [
+    "可數性：guidance 不可數；guideline 可數",
+    "重點：guidance 是指導的過程；guideline 是寫好的原則",
+    "搭配：career guidance 生涯輔導；safety guidelines 安全準則"
+   ],
+   "tip": "guideline 裡有 line（一條一條的準則）；guidance 是被人帶領。",
+   "exA": {
+    "en": "The students asked the counselor for guidance about college.",
+    "zh": "學生們向輔導老師請教有關大學的指引。"
+   },
+   "exB": {
+    "en": "The school published guidelines for using the library.",
+    "zh": "學校公布了使用圖書館的指導方針。"
+   }
+  },
+  {
+   "a": "guideline",
+   "b": "rule",
+   "kind": "semantic",
+   "score": 0.451,
+   "aZh": "n. 指導方針；準則",
+   "bZh": "n. 規則；規定",
+   "diff": "rule 是明確的規定，通常要求遵守；guideline 是提供方向的原則，通常保留彈性。",
+   "points": [
+    "強制性：rule 通常必須遵守；guideline 較有彈性",
+    "搭配：school rules 校規；safety guidelines 安全準則",
+    "詞性：rule 也可作 v. 統治"
+   ],
+   "tip": "rule 是不能越線；guideline 是給你參考的線。",
+   "exA": {
+    "en": "The teacher gave us clear guidelines for the group project.",
+    "zh": "老師給了我們小組報告的清楚準則。"
+   },
+   "exB": {
+    "en": "Students must follow the school rules at all times.",
+    "zh": "學生隨時都必須遵守校規。"
+   }
+  },
+  {
+   "a": "courage",
+   "b": "gut",
+   "kind": "semantic",
+   "score": 0.878,
+   "aZh": "n. 勇氣；膽量",
+   "bZh": "n. 腸；膽量；直覺",
+   "diff": "courage 是正式、正面的勇氣；gut 的複數 guts 是口語的「膽量」，另有腸子和直覺的意思。",
+   "points": [
+    "語氣：courage 正式；guts 口語",
+    "搭配：have the courage to；have the guts to",
+    "字義：gut 還有腸子和直覺的意思"
+   ],
+   "tip": "guts 是肚子裡的膽量；courage 是勇氣本身。",
+   "exA": {
+    "en": "It takes courage to speak in front of the whole class.",
+    "zh": "要在全班面前發言需要勇氣。"
+   },
+   "exB": {
+    "en": "It takes guts to speak in front of the whole class.",
+    "zh": "要在全班面前發言需要膽量。"
+   }
+  },
+  {
+   "a": "habit",
+   "b": "habitat",
+   "kind": "visual",
+   "score": 0.754,
+   "aZh": "n. 習慣；習性",
+   "bZh": "n. 棲地；生長環境",
+   "diff": "habit 是習慣；habitat 是生物居住的棲地。habitat 比 habit 多了 -at。",
+   "points": [
+    "拼字：habitat 比 habit 多兩個字母 at",
+    "字義：habit 是行為；habitat 是地方",
+    "搭配：a good habit 好習慣；a natural habitat 自然棲地"
+   ],
+   "tip": "habitat 多的 at，想成 at home（在家的地方）。",
+   "exA": {
+    "en": "Reading for twenty minutes before bed is a good habit.",
+    "zh": "睡前讀二十分鐘的書是個好習慣。"
+   },
+   "exB": {
+    "en": "The forest is the natural habitat of many rare animals.",
+    "zh": "這座森林是許多稀有動物的自然棲地。"
+   }
+  },
+  {
+   "a": "hall",
+   "b": "haul",
+   "kind": "visual",
+   "score": 0.684,
+   "aZh": "n. 大廳；禮堂",
+   "bZh": "v. 拖；拉；運送；n. 大量收穫",
+   "diff": "hall 是大廳或禮堂；haul 是拖拉、運送重物。兩個字讀音相同（都讀 /hɔːl/），拼字不同。",
+   "points": [
+    "發音：兩個字都讀 /hɔːl/",
+    "拼字：hall 是 -all；haul 是 -aul",
+    "搭配：the school hall 學校禮堂；haul a box 搬運箱子"
+   ],
+   "tip": "haul 有 u，像 pull（拉）；hall 有兩個 l，像兩根柱子的大廳。",
+   "exA": {
+    "en": "The students gathered in the school hall for the ceremony.",
+    "zh": "學生們聚集在學校禮堂參加典禮。"
+   },
+   "exB": {
+    "en": "Trucks haul food from the farms to the city markets.",
+    "zh": "卡車把食物從農場運到城裡的市場。"
+   }
+  },
+  {
+   "a": "danger",
+   "b": "hazard",
+   "kind": "semantic",
+   "score": 0.867,
+   "aZh": "n. 危險；危害",
+   "bZh": "n. 危險；危害；v. 冒險提出",
+   "diff": "danger 是最常用的危險，指可能造成傷害的情況；hazard 較正式，指某種潛在的危害來源，如火災隱患、健康危害。",
+   "points": [
+    "常用度：danger 較常用；hazard 較正式",
+    "對象：hazard 常指具體的危害源",
+    "搭配：in danger 處於危險中；a health hazard 健康危害"
+   ],
+   "tip": "danger 是危險本身；hazard 是造成危險的東西。",
+   "exA": {
+    "en": "The children are in danger near the busy road.",
+    "zh": "孩子們在車多的路邊有危險。"
+   },
+   "exB": {
+    "en": "Old electric wires in the building are a fire hazard.",
+    "zh": "大樓裡老舊的電線是火災的隱患。"
+   }
+  },
+  {
+   "a": "hazard",
+   "b": "risk",
+   "kind": "semantic",
+   "score": 0.737,
+   "aZh": "n. 危險；危害",
+   "bZh": "n. 風險；危險；v. 冒險",
+   "diff": "risk 強調遭受損失的可能性；hazard 指本身具有危害的事物。",
+   "points": [
+    "重點：risk 是可能性；hazard 是危害源",
+    "搭配：take a risk 冒險；a safety hazard 安全隱患",
+    "詞性：risk 也常作 v."
+   ],
+   "tip": "hazard 是那個危險的東西；risk 是出事的機率。",
+   "exA": {
+    "en": "A wet floor is a safety hazard in the school hallway.",
+    "zh": "學校走廊上濕滑的地板是安全隱患。"
+   },
+   "exB": {
+    "en": "There is a risk of falling on a wet floor.",
+    "zh": "在濕滑的地板上有跌倒的風險。"
+   }
+  },
+  {
+   "a": "air",
+   "b": "heir",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 空氣；空中",
+   "bZh": "n. 繼承人；後嗣",
+   "diff": "air 是空氣；heir 是繼承人。兩個字讀音相同（都讀 /ɛr/），因為 heir 的 h 不發音。",
+   "points": [
+    "發音：兩個字都讀 /ɛr/",
+    "拼字：heir 有不發音的 h",
+    "搭配：fresh air 新鮮空氣；heir to a fortune 財產繼承人"
+   ],
+   "tip": "heir 和 inherit（繼承）同源，繼承人才有 h。",
+   "exA": {
+    "en": "Fresh air helps students stay awake in class.",
+    "zh": "新鮮的空氣能幫助學生上課保持清醒。"
+   },
+   "exB": {
+    "en": "The old man's only heir is his young niece.",
+    "zh": "那位老先生唯一的繼承人是他年幼的姪女。"
+   }
+  },
+  {
+   "a": "heir",
+   "b": "successor",
+   "kind": "semantic",
+   "score": 0.47,
+   "aZh": "n. 繼承人；後嗣",
+   "bZh": "n. 繼任者；接替者",
+   "diff": "heir 是依法或依家族關係繼承財產或頭銜的人；successor 是接替某個職位或職責的人，不一定繼承財產。",
+   "points": [
+    "重點：heir 是繼承財產；successor 是接替職位",
+    "搭配：heir to the throne 王位繼承人；the successor of the principal 校長的繼任者",
+    "關係：heir 常有血緣或法律關係"
+   ],
+   "tip": "heir 繼承財產；successor 接續職位。",
+   "exA": {
+    "en": "The company owner's daughter is the heir to the business.",
+    "zh": "公司老闆的女兒是這門事業的繼承人。"
+   },
+   "exB": {
+    "en": "Mr. Lin's successor will take charge of the school next month.",
+    "zh": "林老師的繼任者下個月將接掌學校。"
+   }
+  },
+  {
+   "a": "hence",
+   "b": "therefore",
+   "kind": "semantic",
+   "score": 0.821,
+   "aZh": "adv. 因此",
+   "bZh": "adv. 因此；所以",
+   "diff": "兩個字都表示因果。therefore 是最常用的「因此」，可放在句首、句中；hence 較正式書面，後面常直接接名詞，也可表示從現在起多久之後。",
+   "points": [
+    "常用度：therefore 較常用；hence 較書面",
+    "句型：hence + N；therefore + 句子",
+    "字義：hence 也可指從現在起（如 a year hence）"
+   ],
+   "tip": "hence 短短的很正式，常後接名詞；therefore 較長，後接完整句。",
+   "exA": {
+    "en": "The road was closed, hence our decision to take another route.",
+    "zh": "道路封閉了，因此我們決定改走另一條路。"
+   },
+   "exB": {
+    "en": "The road was closed; therefore, we decided to take another route.",
+    "zh": "道路封閉了，因此我們決定改走另一條路。"
+   }
+  },
+  {
+   "a": "hence",
+   "b": "thus",
+   "kind": "semantic",
+   "score": 0.679,
+   "aZh": "adv. 因此",
+   "bZh": "adv. 因此；如此",
+   "diff": "thus 可表示因此，也可表示這樣、如此；hence 只表示因此，常後接名詞，語氣正式。",
+   "points": [
+    "字義：thus 也可指如此；hence 只指因此",
+    "句型：hence + N；thus + 句子",
+    "語氣：兩者都較正式"
+   ],
+   "tip": "thus 有兩個意思：因此、這樣；hence 只有因果。",
+   "exA": {
+    "en": "The library is being repaired, hence the delay in its opening.",
+    "zh": "圖書館正在整修，因此延後開放。"
+   },
+   "exB": {
+    "en": "He studied hard every day and thus passed the exam.",
+    "zh": "他每天用功讀書，因此通過了考試。"
+   }
+  },
+  {
+   "a": "herb",
+   "b": "spice",
+   "kind": "semantic",
+   "score": 0.473,
+   "aZh": "n. 香草；藥草",
+   "bZh": "n. 香料；香辛料",
+   "diff": "herb 是可作調味或藥用的植物，多用葉子；spice 是用來增添風味的香料，常來自種子、根或樹皮，通常已曬乾磨粉。",
+   "points": [
+    "來源：herb 多用葉子；spice 多來自種子、根或樹皮",
+    "例子：mint、basil 是 herb；pepper、cinnamon 是 spice",
+    "用途：herb 也可作藥草"
+   ],
+   "tip": "herb 是綠色的葉子；spice 是乾燥的粉。",
+   "exA": {
+    "en": "Mom adds fresh herbs to the soup just before serving it.",
+    "zh": "媽媽在湯上桌前才加入新鮮香草。"
+   },
+   "exB": {
+    "en": "Dad added some spice to the soup to give it a strong flavor.",
+    "zh": "爸爸在湯裡加了一些香料，讓味道更濃。"
+   }
+  },
+  {
+   "a": "heritage",
+   "b": "tradition",
+   "kind": "semantic",
+   "score": 0.65,
+   "aZh": "n. 文化遺產；傳統",
+   "bZh": "n. 傳統；慣例",
+   "diff": "tradition 是長期沿襲的習俗或做法；heritage 是世代傳承下來的文化、歷史或遺產，範圍更廣，常是值得保存的東西。",
+   "points": [
+    "範圍：tradition 是習俗、做法；heritage 是整體傳承下來的遺產",
+    "搭配：cultural heritage 文化遺產；a family tradition 家族傳統",
+    "數量：tradition 可數；heritage 通常不可數"
+   ],
+   "tip": "tradition 是一直在做的事；heritage 是留下來的寶貝。",
+   "exA": {
+    "en": "The old temple is part of the country's cultural heritage.",
+    "zh": "這座古老的廟宇是這個國家文化遺產的一部分。"
+   },
+   "exB": {
+    "en": "Having dinner together on New Year's Eve is a family tradition.",
+    "zh": "除夕夜全家一起吃飯是家裡的傳統。"
+   }
+  },
+  {
+   "a": "heritage",
+   "b": "legacy",
+   "kind": "semantic",
+   "score": 0.518,
+   "aZh": "n. 文化遺產；傳統",
+   "bZh": "n. 遺產；遺留事物",
+   "diff": "legacy 是前人留下的影響或成果，也可指遺產；heritage 側重世代傳承的文化與傳統。",
+   "points": [
+    "重點：legacy 是留下的影響；heritage 是傳承的文化",
+    "搭配：leave a legacy 留下遺澤；cultural heritage 文化遺產",
+    "字義：legacy 也可指遺贈的財物"
+   ],
+   "tip": "legacy 是「某人留給後人的」；heritage 是「整個社會傳下來的」。",
+   "exA": {
+    "en": "Old buildings are an important part of our city's heritage.",
+    "zh": "老建築是我們城市文化遺產的重要一部分。"
+   },
+   "exB": {
+    "en": "The teacher left a legacy of kindness in the school.",
+    "zh": "那位老師在學校留下了善良的遺澤。"
+   }
+  },
+  {
+   "a": "emphasize",
+   "b": "highlight",
+   "kind": "semantic",
+   "score": 0.589,
+   "aZh": "v. 強調；著重",
+   "bZh": "v. 強調；凸顯；n. 精彩部分",
+   "diff": "emphasize 是說出或寫出某點的重要；highlight 是用標記或說明讓某點特別顯眼，也可指最精彩的部分。",
+   "points": [
+    "方式：emphasize 靠強調語氣；highlight 靠標示、凸顯",
+    "詞性：highlight 也可作 n. 精彩部分",
+    "搭配：emphasize the importance 強調重要性；highlight the main points 標出重點"
+   ],
+   "tip": "highlight 像用螢光筆畫重點。",
+   "exA": {
+    "en": "The teacher emphasized the importance of sleep before the exam.",
+    "zh": "老師強調考試前睡眠的重要性。"
+   },
+   "exB": {
+    "en": "The teacher highlighted the main points before the test.",
+    "zh": "老師在考試前強調了幾個重點。"
+   }
+  },
+  {
+   "a": "honorable",
+   "b": "honorary",
+   "kind": "visual",
+   "score": 0.651,
+   "aZh": "adj. 值得尊敬的；光榮的",
+   "bZh": "adj. 名譽上的；榮譽的",
+   "diff": "honorable 是行為值得尊敬；honorary 是名譽上的，指沒有實際職責，只是給予的榮譽，如名譽會員。",
+   "points": [
+    "字義：honorable 是值得敬佩；honorary 是名譽性的",
+    "搭配：an honorable person 正直的人；an honorary member 名譽會員",
+    "字尾：-able 是值得；-ary 是相關的"
+   ],
+   "tip": "honorable 是值得 honor（榮譽）；honorary 是只掛個名。",
+   "exA": {
+    "en": "It is honorable to help others without asking for anything.",
+    "zh": "不求回報地幫助別人是值得敬佩的。"
+   },
+   "exB": {
+    "en": "The school gave the retired teacher an honorary award.",
+    "zh": "學校頒給那位退休老師一個榮譽獎。"
+   }
+  },
+  {
+   "a": "honorable",
+   "b": "respectable",
+   "kind": "semantic",
+   "score": 0.791,
+   "aZh": "adj. 值得尊敬的；光榮的",
+   "bZh": "adj. 值得尊敬的；體面的",
+   "diff": "honorable 強調行為正直、光榮；respectable 強調名聲或外表體面，也可指相當不錯。",
+   "points": [
+    "重點：honorable 是正直光榮；respectable 是體面受尊重",
+    "搭配：an honorable choice 光榮的選擇；a respectable job 體面的工作",
+    "字義：respectable 也可指不錯的（a respectable score）"
+   ],
+   "tip": "honorable 看品格；respectable 看名聲和體面。",
+   "exA": {
+    "en": "Admitting his mistake in front of everyone was an honorable choice.",
+    "zh": "在大家面前承認錯誤是個值得敬佩的選擇。"
+   },
+   "exB": {
+    "en": "Being a nurse is a respectable job in every country.",
+    "zh": "護理師在每個國家都是受人尊敬的職業。"
+   }
+  },
+  {
+   "a": "horizontal",
+   "b": "vertical",
+   "kind": "semantic",
+   "score": 0.475,
+   "aZh": "adj. 水平的；橫向的",
+   "bZh": "adj. 垂直的；直立的",
+   "diff": "horizontal 是與地平線平行、左右延伸；vertical 是與地面垂直、上下延伸。",
+   "points": [
+    "方向：horizontal 橫向；vertical 縱向",
+    "字源：horizontal 與 horizon（地平線）有關",
+    "搭配：a horizontal line 水平線；a vertical line 垂直線"
+   ],
+   "tip": "horizon（地平線）是橫的，所以 horizontal 是橫的。",
+   "exA": {
+    "en": "Draw a horizontal line across the top of the page.",
+    "zh": "在頁面上方畫一條水平線。"
+   },
+   "exB": {
+    "en": "Draw a vertical line down the middle of the page.",
+    "zh": "在頁面中間畫一條垂直線。"
+   }
+  },
+  {
+   "a": "hostel",
+   "b": "hostile",
+   "kind": "visual",
+   "score": 0.747,
+   "aZh": "n. 青年旅館；宿舍",
+   "bZh": "adj. 敵意的；不友善的",
+   "diff": "hostel 是便宜的青年旅館或宿舍；hostile 是形容詞，指敵意的、不友善的。兩個字開頭都是 host-，結尾不同。",
+   "points": [
+    "詞性：hostel 是 n.；hostile 是 adj.",
+    "拼字：host-el 與 host-ile",
+    "搭配：a youth hostel 青年旅館；a hostile attitude 敵對的態度"
+   ],
+   "tip": "hostel 是旅人住的地方（像 hotel）；hostile 是不歡迎人。",
+   "exA": {
+    "en": "We stayed in a youth hostel near the train station.",
+    "zh": "我們住在火車站附近的青年旅館。"
+   },
+   "exB": {
+    "en": "The new student felt uncomfortable in the hostile classroom.",
+    "zh": "新同學在不友善的教室裡感到不自在。"
+   }
+  },
+  {
+   "a": "hostage",
+   "b": "hostile",
+   "kind": "visual",
+   "score": 0.637,
+   "aZh": "n. 人質",
+   "bZh": "adj. 敵意的；不友善的",
+   "diff": "hostage 是被挾持的人質，名詞；hostile 是敵意的，形容詞。兩個字都以 host 開頭。",
+   "points": [
+    "詞性：hostage 是 n.；hostile 是 adj.",
+    "拼字：host-age 與 host-ile",
+    "搭配：take someone hostage 挾持某人；a hostile attitude 敵對的態度"
+   ],
+   "tip": "hostage 是被抓的人；hostile 是不友善的態度。",
+   "exA": {
+    "en": "The hostage was safe after the police talked with the criminals.",
+    "zh": "警方和歹徒談判後，人質安全了。"
+   },
+   "exB": {
+    "en": "The animals became hostile when strangers came near their nest.",
+    "zh": "陌生人靠近牠們的巢時，動物變得帶有敵意。"
+   }
+  },
+  {
+   "a": "hospitality",
+   "b": "hostility",
+   "kind": "visual",
+   "score": 0.74,
+   "aZh": "n. 好客；款待",
+   "bZh": "n. 敵意；敵對",
+   "diff": "hospitality 是熱情款待客人；hostility 是敵意。兩個字前面都是 hos-，意思完全相反。",
+   "points": [
+    "字義：hospitality 是友善；hostility 是敵意",
+    "拼字：hospit-ality 與 hostil-ity",
+    "搭配：warm hospitality 熱情款待；open hostility 公開的敵意"
+   ],
+   "tip": "hospitality 連到 hospital 與 host（主人）；hostility 連到 hostile（敵意的）。",
+   "exA": {
+    "en": "The family showed warm hospitality to all their guests.",
+    "zh": "這家人熱情款待所有的客人。"
+   },
+   "exB": {
+    "en": "There was open hostility between the two neighbors after the fight.",
+    "zh": "兩位鄰居吵架後，彼此公開地敵視。"
+   }
+  },
+  {
+   "a": "accommodation",
+   "b": "housing",
+   "kind": "semantic",
+   "score": 0.505,
+   "aZh": "n. 住宿；住處",
+   "bZh": "n. 住宅；居住空間",
+   "diff": "housing 泛指住宅或住宅供應，常用於政策與生活議題；accommodation 指住宿安排，常用於旅行或短期居住。",
+   "points": [
+    "情境：housing 常談政策、房價；accommodation 常談旅館與住宿",
+    "可數性：兩者在此義多不可數",
+    "搭配：affordable housing 可負擔的住宅；hotel accommodation 旅館住宿"
+   ],
+   "tip": "housing 是長期住的房子；accommodation 是有地方睡。",
+   "exA": {
+    "en": "The travel agency helped us find cheap accommodation in Tokyo.",
+    "zh": "旅行社幫我們在東京找到便宜的住宿。"
+   },
+   "exB": {
+    "en": "The city plans to build more housing near the train station.",
+    "zh": "這座城市計畫在火車站附近興建更多住宅。"
+   }
+  },
+  {
+   "a": "fool",
+   "b": "idiot",
+   "kind": "semantic",
+   "score": 0.628,
+   "aZh": "n. 傻瓜；v. 愚弄",
+   "bZh": "n. 笨蛋；蠢人",
+   "diff": "idiot 是很不客氣的辱罵；fool 也指笨人，但語氣較輕，還可作動詞表示欺騙。",
+   "points": [
+    "語氣：idiot 較粗魯；fool 較輕",
+    "詞性：fool 也可作 v. 愚弄",
+    "搭配：make a fool of oneself 出洋相；a complete idiot 十足的笨蛋"
+   ],
+   "tip": "fool 可以開玩笑；idiot 就是罵人。",
+   "exA": {
+    "en": "He felt like a fool when he forgot his own name.",
+    "zh": "他忘了自己的名字時，覺得自己像個傻瓜。"
+   },
+   "exB": {
+    "en": "I felt like an idiot when I forgot my own phone number.",
+    "zh": "我忘了自己的電話號碼時，覺得自己像個笨蛋。"
+   }
+  },
+  {
+   "a": "enormous",
+   "b": "immense",
+   "kind": "semantic",
+   "score": 1.0,
+   "aZh": "adj. 巨大的；極大的",
+   "bZh": "adj. 巨大的；極大的",
+   "diff": "兩個字都表示極大。enormous 可形容尺寸、數量或影響，最常用；immense 強調規模或程度大到難以衡量，語氣較強。",
+   "points": [
+    "常用度：enormous 較常用",
+    "搭配：an enormous change 巨大的改變；immense pressure 極大的壓力",
+    "字源：immense 原意是無法測量的"
+   ],
+   "tip": "immense 是大到量不出來（im- 是不，mense 是測量）。",
+   "exA": {
+    "en": "The elephant looked enormous next to the small boy.",
+    "zh": "那頭大象在小男孩旁邊看起來很巨大。"
+   },
+   "exB": {
+    "en": "The team felt immense pressure before the final game.",
+    "zh": "決賽前，這支隊伍感受到極大的壓力。"
+   }
+  },
+  {
+   "a": "immense",
+   "b": "immune",
+   "kind": "visual",
+   "score": 0.597,
+   "aZh": "adj. 巨大的；極大的",
+   "bZh": "adj. 免疫的；不受影響的",
+   "diff": "immense 是巨大；immune 是免疫。兩個字開頭都是 imm-，只差 ense 和 une，意思差很多。",
+   "points": [
+    "拼字：imm-ense 與 imm-une",
+    "字義：immense 指大；immune 指不受影響",
+    "搭配：immense pressure 極大的壓力；immune to disease 對疾病有免疫力"
+   ],
+   "tip": "immune 想到免疫系統；immense 想到 size（尺寸）很大。",
+   "exA": {
+    "en": "The company faced immense pressure to lower its prices.",
+    "zh": "公司面臨要降價的巨大壓力。"
+   },
+   "exB": {
+    "en": "The vaccine helps the body become immune to the disease.",
+    "zh": "疫苗能幫助身體對這種疾病產生免疫力。"
+   }
+  },
+  {
+   "a": "immense",
+   "b": "intense",
+   "kind": "visual",
+   "score": 0.634,
+   "aZh": "adj. 巨大的；極大的",
+   "bZh": "adj. 強烈的；劇烈的；專注的",
+   "diff": "immense 是大小或規模巨大；intense 是強度很高，如強烈的光、熱、情緒。",
+   "points": [
+    "重點：immense 是大；intense 是強",
+    "搭配：an immense building 巨大的建築；intense heat 酷熱",
+    "拼字：immense 是 imm-；intense 是 int-"
+   ],
+   "tip": "immense 是 size（大）；intense 是 strength（強）。",
+   "exA": {
+    "en": "The school library has an immense collection of books.",
+    "zh": "學校圖書館收藏了大量的書。"
+   },
+   "exB": {
+    "en": "The runners struggled in the intense heat of summer.",
+    "zh": "跑者在夏天的酷熱中很辛苦。"
+   }
+  },
+  {
+   "a": "hint",
+   "b": "implication",
+   "kind": "semantic",
+   "score": 0.464,
+   "aZh": "n. 暗示；提示；v. 暗示",
+   "bZh": "n. 含意；暗示；可能影響",
+   "diff": "hint 是輕輕地提示或暗示，常是有意的；implication 是話或事情沒有明說的含意，也可指可能帶來的後果。",
+   "points": [
+    "意圖：hint 通常是有意給提示；implication 可能是無意的含意",
+    "字義：implication 還可指可能的影響",
+    "搭配：drop a hint 暗示；serious implications 嚴重影響"
+   ],
+   "tip": "hint 是小提示；implication 是話外之意。",
+   "exA": {
+    "en": "The teacher gave us a hint about the answer.",
+    "zh": "老師給了我們一點答案的提示。"
+   },
+   "exB": {
+    "en": "His words carried the implication that we had made a mistake.",
+    "zh": "他的話暗示我們犯了錯。"
+   }
+  },
+  {
+   "a": "impulse",
+   "b": "pulse",
+   "kind": "visual",
+   "score": 0.712,
+   "aZh": "n. 衝動；一時念頭",
+   "bZh": "n. 脈搏；脈動",
+   "diff": "impulse 是突然的衝動；pulse 是脈搏，心臟跳動的節奏。impulse 就是 im- 加 pulse。",
+   "points": [
+    "拼字：impulse 是 im- 加 pulse",
+    "字義：impulse 是念頭；pulse 是脈搏",
+    "搭配：act on impulse 憑衝動行事；take a pulse 量脈搏"
+   ],
+   "tip": "impulse 就像心跳（pulse）忽然被推了一下。",
+   "exA": {
+    "en": "Kevin bought the jacket on impulse and later returned it.",
+    "zh": "Kevin 一時衝動買了那件外套，後來又退掉了。"
+   },
+   "exB": {
+    "en": "The nurse checked the patient's pulse every ten minutes.",
+    "zh": "護理師每十分鐘量一次病人的脈搏。"
+   }
+  },
+  {
+   "a": "impulse",
+   "b": "urge",
+   "kind": "semantic",
+   "score": 0.423,
+   "aZh": "n. 衝動；一時念頭",
+   "bZh": "n. 強烈慾望；v. 力勸；敦促",
+   "diff": "impulse 是未經思考就採取行動的衝動；urge 是強烈想做某事的感覺，不一定會立刻行動，也可作動詞指力勸。",
+   "points": [
+    "行動：impulse 常直接行動；urge 可能忍住",
+    "詞性：urge 也可作 v. 力勸",
+    "搭配：on impulse 一時衝動；urge someone to 力勸某人"
+   ],
+   "tip": "impulse 是衝出去；urge 是心裡癢癢的。",
+   "exA": {
+    "en": "She bought the shoes on impulse and regretted it later.",
+    "zh": "她一時衝動買了那雙鞋，後來很後悔。"
+   },
+   "exB": {
+    "en": "She felt a strong urge to call her old friend.",
+    "zh": "她強烈地想打電話給老朋友。"
+   }
+  },
+  {
+   "a": "incentive",
+   "b": "reward",
+   "kind": "semantic",
+   "score": 0.571,
+   "aZh": "n. 誘因；獎勵",
+   "bZh": "n. 獎賞；報酬；v. 獎勵",
+   "diff": "reward 是做完事之後得到的獎賞；incentive 是事情發生之前用來鼓勵人去做的誘因。",
+   "points": [
+    "時間：incentive 在事前；reward 在事後",
+    "搭配：an incentive to work 工作的誘因；receive a reward 獲得獎賞",
+    "詞性：reward 也可作 v."
+   ],
+   "tip": "incentive 是先給的胡蘿蔔；reward 是完成後給的獎品。",
+   "exA": {
+    "en": "The promise of a trip gave Amy an incentive to study harder.",
+    "zh": "去旅行的承諾讓 Amy 更有動力用功。"
+   },
+   "exB": {
+    "en": "Amy received a reward for finding the lost wallet.",
+    "zh": "Amy 因為找到遺失的錢包而得到獎賞。"
+   }
+  },
+  {
+   "a": "incorporate",
+   "b": "integrate",
+   "kind": "semantic",
+   "score": 0.571,
+   "aZh": "v. 納入；包含",
+   "bZh": "v. 整合；融入",
+   "diff": "incorporate 是把某物加進整體，成為其中一部分；integrate 是使不同部分融合成一體，強調彼此結合。",
+   "points": [
+    "重點：incorporate 是加進去；integrate 是融合",
+    "搭配：incorporate feedback 納入回饋；integrate art into lessons 把藝術融入課程",
+    "句型：incorporate A into B；integrate A into / with B"
+   ],
+   "tip": "incorporate 是放進身體（corpus）裡；integrate 是合成一個整體。",
+   "exA": {
+    "en": "The company incorporated recycled materials into its new products.",
+    "zh": "公司把回收材料納入它的新產品中。"
+   },
+   "exB": {
+    "en": "The school integrated art and science into one class.",
+    "zh": "學校把藝術和自然科學整合成一門課。"
+   }
+  },
+  {
+   "a": "corporate",
+   "b": "incorporate",
+   "kind": "visual",
+   "score": 0.792,
+   "aZh": "adj. 公司的；企業的",
+   "bZh": "v. 納入；包含",
+   "diff": "corporate 是形容詞，指公司的；incorporate 是動詞，指納入。兩個字同源，corpor 有「團體、身體」的意思。",
+   "points": [
+    "詞性：corporate 是 adj.；incorporate 是 v.",
+    "發音：corporate 字尾讀 /ət/；incorporate 動詞字尾讀 /eɪt/",
+    "搭配：corporate culture 企業文化；incorporate ideas 納入想法"
+   ],
+   "tip": "corporate 是 corporation（公司）的形容詞；incorporate 是把東西納入整體。",
+   "exA": {
+    "en": "The company has a strong corporate culture of teamwork.",
+    "zh": "這家公司有強烈的團隊合作企業文化。"
+   },
+   "exB": {
+    "en": "The team incorporated student ideas into the new plan.",
+    "zh": "團隊把學生的想法納入新計畫。"
+   }
+  },
+  {
+   "a": "different",
+   "b": "indifferent",
+   "kind": "visual",
+   "score": 0.82,
+   "aZh": "adj. 不同的；另外的",
+   "bZh": "adj. 漠不關心的；不在乎的",
+   "diff": "different 是不同的；indifferent 是漠不關心，對事情沒有偏好。indifferent 就是 in-（沒有）加 different。",
+   "points": [
+    "拼字：indifferent 多了 in-",
+    "字義：different 是不同；indifferent 是不在乎",
+    "搭配：different from 與……不同；indifferent to 對……漠不關心"
+   ],
+   "tip": "indifferent 是「沒有差別」，所以不在乎。",
+   "exA": {
+    "en": "Her new plan is very different from the old one.",
+    "zh": "她的新計畫和舊的很不一樣。"
+   },
+   "exB": {
+    "en": "Kevin seemed indifferent to the results of the school contest.",
+    "zh": "Kevin 似乎不在乎校內比賽的結果。"
+   }
+  },
+  {
+   "a": "aboriginal",
+   "b": "indigenous",
+   "kind": "semantic",
+   "score": 0.704,
+   "aZh": "adj. 原住民的；原生的；n. 原住民",
+   "bZh": "adj. 本土的；原生的",
+   "diff": "indigenous 是最通用的說法，指原本就在當地生活或生長的民族與物種；aboriginal 多用於澳洲等地區，指最早居住的人。",
+   "points": [
+    "用法：indigenous 適用範圍較廣；aboriginal 有地區色彩",
+    "對象：indigenous 可形容植物、動物與民族",
+    "語氣：indigenous 較常用於現代正式場合"
+   ],
+   "tip": "indigenous 可以用在世界各地的原住民族與原生物種。",
+   "exA": {
+    "en": "The museum shows the art of the aboriginal people of Australia.",
+    "zh": "博物館展出澳洲原住民的藝術。"
+   },
+   "exB": {
+    "en": "Taiwan's indigenous peoples have their own languages and cultures.",
+    "zh": "台灣的原住民族有自己的語言與文化。"
+   }
+  },
+  {
+   "a": "indigenous",
+   "b": "native",
+   "kind": "semantic",
+   "score": 0.588,
+   "aZh": "adj. 本土的；原生的",
+   "bZh": "adj. 本地的；土生土長的；n. 本地人",
+   "diff": "native 指出生或原生於某地，適用範圍很廣，也可指母語；indigenous 強調原本就在該地，多用於民族與物種。",
+   "points": [
+    "範圍：native 較廣；indigenous 較強調原生",
+    "搭配：native language 母語；indigenous plants 本土植物",
+    "詞性：native 也可作 n."
+   ],
+   "tip": "native 是在那裡出生；indigenous 是本來就在那裡。",
+   "exA": {
+    "en": "These birds are indigenous to the island and live nowhere else.",
+    "zh": "這些鳥原生於這座島，別的地方沒有。"
+   },
+   "exB": {
+    "en": "Mandarin is my native language, and English is my second one.",
+    "zh": "中文是我的母語，英文是我的第二語言。"
+   }
+  },
+  {
+   "a": "essential",
+   "b": "indispensable",
+   "kind": "semantic",
+   "score": 0.902,
+   "aZh": "adj. 必要的；不可或缺的",
+   "bZh": "adj. 不可或缺的；必要的",
+   "diff": "essential 是極重要、必要，適用範圍廣；indispensable 語氣更強，指少了就無法進行，常形容關鍵的人或物。",
+   "points": [
+    "語氣：indispensable 更強",
+    "對象：indispensable 常形容關鍵的人或工具",
+    "搭配：essential information 必要資訊；an indispensable tool 不可或缺的工具"
+   ],
+   "tip": "indispensable 是「沒它不行」（in- 不 + dispense 免除）。",
+   "exA": {
+    "en": "Clean water is essential for all living things on Earth.",
+    "zh": "乾淨的水對地球上所有生物都很重要。"
+   },
+   "exB": {
+    "en": "A good dictionary is indispensable for learning a language.",
+    "zh": "好的字典是學語言不可或缺的工具。"
+   }
+  },
+  {
+   "a": "dispensable",
+   "b": "indispensable",
+   "kind": "both",
+   "score": 0.838,
+   "aZh": "adj. 可有可無的；非必要的",
+   "bZh": "adj. 不可或缺的；必要的",
+   "diff": "dispensable 是可有可無、可以省略的；indispensable 是少了不行。兩個字只差字首 in-，意思相反。",
+   "points": [
+    "字首：in- 表示不，加上後意思相反",
+    "搭配：a dispensable item 可有可無的東西；an indispensable part 不可或缺的一部分",
+    "詞性：兩者都是 adj."
+   ],
+   "tip": "dispense 是免除；in- 否定它，就是「不能免除」。",
+   "exA": {
+    "en": "Some of the extra rules are dispensable and can be removed.",
+    "zh": "有些額外的規定可有可無，可以拿掉。"
+   },
+   "exB": {
+    "en": "A good map is indispensable for a long hike in the mountains.",
+    "zh": "要到山上長程健行，一張好地圖是不可或缺的。"
+   }
+  },
+  {
+   "a": "induce",
+   "b": "indulge",
+   "kind": "visual",
+   "score": 0.654,
+   "aZh": "v. 引起；促使",
+   "bZh": "v. 沉溺；放縱",
+   "diff": "induce 是引起或促使某事發生；indulge 是放縱自己享受。兩個字開頭都是 ind-，只差 uce 和 ulge。",
+   "points": [
+    "拼字：ind-uce 與 ind-ulge",
+    "句型：induce sb to V；indulge in + N",
+    "字義：induce 是引起；indulge 是沉溺"
+   ],
+   "tip": "induce 是引出結果；indulge 是放縱自己。",
+   "exA": {
+    "en": "Some medicine can induce sleep within thirty minutes.",
+    "zh": "有些藥能在三十分鐘內讓人入睡。"
+   },
+   "exB": {
+    "en": "Amy indulges in chocolate after finishing her homework.",
+    "zh": "Amy 做完作業後會放縱自己吃巧克力。"
+   }
+  },
+  {
+   "a": "infect",
+   "b": "insect",
+   "kind": "visual",
+   "score": 0.727,
+   "aZh": "v. 感染；傳染",
+   "bZh": "n. 昆蟲",
+   "diff": "infect 是感染；insect 是昆蟲。兩個字只差第三個字母 f 和 s，很容易看錯。",
+   "points": [
+    "詞性：infect 是 v.；insect 是 n.",
+    "拼字：in-f-ect 與 in-s-ect",
+    "搭配：be infected with a virus 感染病毒；an insect bite 昆蟲叮咬"
+   ],
+   "tip": "insect 有 s，像 six（六隻腳）；infect 有 f，像 fever（發燒）。",
+   "exA": {
+    "en": "A dirty cut can infect the whole finger.",
+    "zh": "髒的傷口可能讓整根手指感染。"
+   },
+   "exB": {
+    "en": "An insect landed on my notebook during the exam.",
+    "zh": "考試時，一隻昆蟲停在我的筆記本上。"
+   }
+  },
+  {
+   "a": "infect",
+   "b": "inject",
+   "kind": "visual",
+   "score": 0.739,
+   "aZh": "v. 感染；傳染",
+   "bZh": "v. 注射；注入",
+   "diff": "infect 是使病原進入身體而生病；inject 是用針把藥物或液體打進身體。前者讓人生病，後者常是治療。",
+   "points": [
+    "結果：infect 讓人生病；inject 常為治療",
+    "拼字：in-fect 與 in-ject，只差 f 和 j",
+    "搭配：infected with a virus 感染病毒；inject a vaccine 注射疫苗"
+   ],
+   "tip": "inject 的 j 像針（jab）；infect 的 f 像 fever（發燒）。",
+   "exA": {
+    "en": "Dirty water can infect a small cut with harmful germs.",
+    "zh": "髒水可能讓小傷口感染有害的細菌。"
+   },
+   "exB": {
+    "en": "The nurse injected the vaccine into her arm.",
+    "zh": "護理師把疫苗打進她的手臂。"
+   }
+  },
+  {
+   "a": "definite",
+   "b": "infinite",
+   "kind": "visual",
+   "score": 0.646,
+   "aZh": "adj. 明確的；確定的",
+   "bZh": "adj. 無限的；無窮的",
+   "diff": "definite 是確定、明確的；infinite 是沒有盡頭。兩個字都以 -finite 結尾，字首不同。",
+   "points": [
+    "拼字：de-finite 與 in-finite",
+    "字義：definite 有界限，所以明確；infinite 沒有界限",
+    "搭配：a definite answer 明確的答案；infinite possibilities 無限的可能"
+   ],
+   "tip": "finite 是有限；in- 否定它就是無限；de- 是把界線畫清楚。",
+   "exA": {
+    "en": "Please give me a definite answer by Friday.",
+    "zh": "請在星期五前給我一個明確的答覆。"
+   },
+   "exB": {
+    "en": "The night sky seems to have an infinite number of stars.",
+    "zh": "夜空看起來有無數顆星星。"
+   }
+  },
+  {
+   "a": "finite",
+   "b": "infinite",
+   "kind": "both",
+   "score": 0.706,
+   "aZh": "adj. 有限的；有盡頭的",
+   "bZh": "adj. 無限的；無窮的",
+   "diff": "finite 是有限的，有盡頭；infinite 是無限的。infinite 就是 finite 加上否定字首 in-。",
+   "points": [
+    "字首：in- 表示不",
+    "搭配：finite resources 有限的資源；infinite space 無限的空間",
+    "詞性：兩者都是 adj."
+   ],
+   "tip": "infinite = in- + finite。",
+   "exA": {
+    "en": "The Earth has finite resources, so we must use them wisely.",
+    "zh": "地球的資源有限，所以我們必須明智地使用。"
+   },
+   "exB": {
+    "en": "Many people think that outer space is infinite and has no end.",
+    "zh": "許多人認為外太空是無限的，沒有盡頭。"
+   }
+  },
+  {
+   "a": "inherent",
+   "b": "inherit",
+   "kind": "visual",
+   "score": 0.692,
+   "aZh": "adj. 固有的；內在的",
+   "bZh": "v. 繼承；承襲",
+   "diff": "inherent 是形容詞，指事物本身就有的；inherit 是動詞，指從前一代取得。兩個字很像，只差字尾 -ent 和 -it。",
+   "points": [
+    "詞性：inherent 是 adj.；inherit 是 v.",
+    "字尾：inherent 是 -ent；inherit 是 -it",
+    "搭配：inherent risk 固有風險；inherit a house 繼承房子"
+   ],
+   "tip": "inherit 是「拿到」的動作；inherent 是「本來就有」的狀態。",
+   "exA": {
+    "en": "Curiosity is inherent in most young children around the world.",
+    "zh": "好奇心是全世界大多數幼兒本來就有的特質。"
+   },
+   "exB": {
+    "en": "Jenny inherited her grandmother's house after she finished college.",
+    "zh": "Jenny 大學畢業後繼承了祖母的房子。"
+   }
+  },
+  {
+   "a": "inhabit",
+   "b": "inherit",
+   "kind": "visual",
+   "score": 0.676,
+   "aZh": "v. 居住於；棲息於",
+   "bZh": "v. 繼承；承襲",
+   "diff": "inhabit 是居住或棲息在某處；inherit 是繼承財產或特質。兩個字都以 inh- 開頭，只差 abit 和 erit。",
+   "points": [
+    "拼字：inh-abit 與 inh-erit",
+    "字義：inhabit 是住；inherit 是繼承",
+    "搭配：inhabit an island 居住在島上；inherit a fortune 繼承財產"
+   ],
+   "tip": "inhabit 裡有 habit（習慣住在那裡）；inherit 裡有 heir（繼承人）。",
+   "exA": {
+    "en": "Many rare birds inhabit the forests on this island.",
+    "zh": "許多稀有的鳥棲息在這座島的森林裡。"
+   },
+   "exB": {
+    "en": "Many children inherit their parents' hair color and dark eyes.",
+    "zh": "許多孩子遺傳了父母的髮色和深色眼睛。"
+   }
+  },
+  {
+   "a": "begin",
+   "b": "initiate",
+   "kind": "semantic",
+   "score": 0.706,
+   "aZh": "v. 開始；著手",
+   "bZh": "v. 開始；發起",
+   "diff": "begin 是最一般的開始；initiate 較正式，指發起一項計畫、程序或討論，常是由某人主動帶頭。",
+   "points": [
+    "語氣：begin 日常；initiate 正式",
+    "對象：initiate 常接計畫、討論、改革",
+    "搭配：begin a lesson 開始上課；initiate a project 發起計畫"
+   ],
+   "tip": "begin 是自然開始；initiate 是有人帶頭發起。",
+   "exA": {
+    "en": "The class will begin at eight o'clock every morning.",
+    "zh": "這堂課每天早上八點開始。"
+   },
+   "exB": {
+    "en": "The club initiated a project to clean the beach.",
+    "zh": "社團發起一項淨灘計畫。"
+   }
+  },
+  {
+   "a": "initiate",
+   "b": "launch",
+   "kind": "semantic",
+   "score": 0.603,
+   "aZh": "v. 開始；發起",
+   "bZh": "v. 發起；推出；發射",
+   "diff": "launch 是正式推出計畫、產品或活動，也可指發射火箭；initiate 是發起或開始一項程序，不一定公開宣布。",
+   "points": [
+    "重點：launch 強調正式推出；initiate 強調發起",
+    "搭配：launch a campaign 發起活動；initiate a discussion 開始討論",
+    "字義：launch 也可指發射"
+   ],
+   "tip": "launch 像發射出去，很公開；initiate 是先踏出第一步。",
+   "exA": {
+    "en": "The new principal initiated a talk between teachers and parents.",
+    "zh": "新校長發起了老師與家長之間的座談。"
+   },
+   "exB": {
+    "en": "The company will launch its new phone next month.",
+    "zh": "這家公司下個月將推出新手機。"
+   }
+  },
+  {
+   "a": "initiate",
+   "b": "initiative",
+   "kind": "visual",
+   "score": 0.759,
+   "aZh": "v. 開始；發起",
+   "bZh": "n. 主動性；倡議",
+   "diff": "initiate 是動詞，指發起；initiative 是名詞，指主動性或新的倡議。",
+   "points": [
+    "詞性：initiate 是 v.；initiative 是 n.",
+    "字尾：-ate 是動詞字尾；-ative 多是形容詞或名詞字尾",
+    "搭配：initiate a program 發起計畫；take the initiative 採取主動"
+   ],
+   "tip": "take the initiative（採取主動）要用名詞 initiative。",
+   "exA": {
+    "en": "The school initiated a program to reduce food waste.",
+    "zh": "學校發起一項減少食物浪費的計畫。"
+   },
+   "exB": {
+    "en": "Jenny took the initiative to organize a study group.",
+    "zh": "Jenny 主動組織了一個讀書會。"
+   }
+  },
+  {
+   "a": "initial",
+   "b": "initiative",
+   "kind": "visual",
+   "score": 0.643,
+   "aZh": "adj. 最初的；n. 姓名首字母",
+   "bZh": "n. 主動性；倡議",
+   "diff": "initial 是最初的、開頭的，也可指姓名的首字母；initiative 是主動性或倡議。initiative 多了 -ative。",
+   "points": [
+    "詞性：initial 主要是 adj.；initiative 是 n.",
+    "字義：initial 是最初；initiative 是主動",
+    "搭配：the initial stage 初期；take the initiative 採取主動"
+   ],
+   "tip": "initial 是起頭；initiative 是自己起頭去做。",
+   "exA": {
+    "en": "The initial results of the test were very good.",
+    "zh": "考試的初步結果非常好。"
+   },
+   "exB": {
+    "en": "Tom took the initiative to ask the teacher for help.",
+    "zh": "Tom 主動向老師求助。"
+   }
+  },
+  {
+   "a": "incentive",
+   "b": "initiative",
+   "kind": "semantic",
+   "score": 0.586,
+   "aZh": "n. 誘因；獎勵",
+   "bZh": "n. 主動性；倡議",
+   "diff": "incentive 是促使人行動的獎勵；initiative 是自己主動行動的能力，或新提出的計畫。前者來自外面，後者來自自己。",
+   "points": [
+    "來源：incentive 來自外在；initiative 來自自己",
+    "搭配：a financial incentive 金錢誘因；take the initiative 採取主動",
+    "拼字：incent-ive 與 initi-ative"
+   ],
+   "tip": "incentive 有 cent（錢），常是金錢誘因；initiative 是自己啟動。",
+   "exA": {
+    "en": "Free lunch gave students an incentive to join the club.",
+    "zh": "免費午餐讓學生更有動力加入社團。"
+   },
+   "exB": {
+    "en": "Jenny showed initiative by organizing a study group before the exam.",
+    "zh": "Jenny 在考前主動組織讀書會，展現了主動性。"
+   }
+  },
+  {
+   "a": "inject",
+   "b": "insert",
+   "kind": "semantic",
+   "score": 0.418,
+   "aZh": "v. 注射；注入",
+   "bZh": "v. 插入；嵌入",
+   "diff": "inject 是把液體或藥物打進身體或某物裡；insert 是把東西放進縫隙或空間，通常不是液體。",
+   "points": [
+    "對象：inject 接液體；insert 接鑰匙、卡片等物件",
+    "搭配：inject medicine 注射藥物；insert a key 插入鑰匙",
+    "詞性：insert 也可作 n. 插頁"
+   ],
+   "tip": "inject 有 j，像針筒（jab）；insert 是把東西放進去。",
+   "exA": {
+    "en": "The nurse injected the medicine into Amy's arm.",
+    "zh": "護理師把藥注射到 Amy 的手臂裡。"
+   },
+   "exB": {
+    "en": "Please insert your card into the machine and enter the number.",
+    "zh": "請把卡片插入機器，並輸入號碼。"
+   }
+  },
+  {
+   "a": "injection",
+   "b": "shot",
+   "kind": "semantic",
+   "score": 0.571,
+   "aZh": "n. 注射；注入",
+   "bZh": "n. 射擊；照片；注射；疫苗",
+   "diff": "shot 是口語，常指疫苗或藥物注射；injection 較正式，指以針或管道注入液體，也可指注入資金。",
+   "points": [
+    "語氣：shot 口語；injection 較正式",
+    "搭配：a flu shot 流感疫苗；an injection of money 資金注入",
+    "字義：shot 還可指射擊、投籃、照片"
+   ],
+   "tip": "去診所會說 get a shot；病歷上會寫 injection。",
+   "exA": {
+    "en": "The doctor gave the child an injection to stop the pain.",
+    "zh": "醫生給那孩子打了一針來止痛。"
+   },
+   "exB": {
+    "en": "The nurse gave every student a flu shot at school.",
+    "zh": "護理師在學校替每位學生打了流感疫苗。"
+   }
+  },
+  {
+   "a": "creative",
+   "b": "innovative",
+   "kind": "semantic",
+   "score": 0.613,
+   "aZh": "adj. 有創意的；創造性的",
+   "bZh": "adj. 創新的；有新意的",
+   "diff": "creative 強調想像力與創造力；innovative 強調提出新的方法或想法，常帶來改進，多用在科技與設計。",
+   "points": [
+    "重點：creative 是想像力；innovative 是新方法",
+    "搭配：a creative writer 有創意的作家；an innovative design 創新的設計",
+    "對象：creative 常形容人；innovative 常形容方法、產品"
+   ],
+   "tip": "creative 是有想像力；innovative 是帶來新做法。",
+   "exA": {
+    "en": "The teacher praised the creative story written by Amy.",
+    "zh": "老師稱讚 Amy 寫的那篇很有創意的故事。"
+   },
+   "exB": {
+    "en": "The company is famous for its innovative products.",
+    "zh": "這家公司以創新的產品聞名。"
+   }
+  },
+  {
+   "a": "innovative",
+   "b": "original",
+   "kind": "semantic",
+   "score": 0.557,
+   "aZh": "adj. 創新的；有新意的",
+   "bZh": "adj. 原本的；獨創的；n. 原作",
+   "diff": "original 是原本的、最初的，或獨創、非模仿的；innovative 是引進新方法、帶來改進的。",
+   "points": [
+    "重點：original 強調獨特、非模仿；innovative 強調新方法",
+    "字義：original 還可指原本的、原作",
+    "搭配：an original idea 獨創的想法；an innovative method 創新的方法"
+   ],
+   "tip": "original 是源頭；innovative 是新做法。",
+   "exA": {
+    "en": "The students designed an innovative way to save water.",
+    "zh": "學生設計了一種創新的節水方法。"
+   },
+   "exB": {
+    "en": "The painting is an original, not a copy.",
+    "zh": "這幅畫是原作，不是複製品。"
+   }
+  },
+  {
+   "a": "inquiry",
+   "b": "investigation",
+   "kind": "semantic",
+   "score": 0.772,
+   "aZh": "n. 詢問；調查",
+   "bZh": "n. 調查；研究",
+   "diff": "investigation 是有系統地查明事實，通常較深入，常由警方或機構進行；inquiry 可以是正式詢問，也可以是調查的過程，範圍較廣。",
+   "points": [
+    "深度：investigation 較深入；inquiry 可只是詢問",
+    "搭配：a police investigation 警方調查；make an inquiry 詢問",
+    "拼字：inquiry 也可拼成 enquiry"
+   ],
+   "tip": "inquiry 是「問問看」；investigation 是「查到底」。",
+   "exA": {
+    "en": "Jenny made an inquiry about the summer program.",
+    "zh": "Jenny 詢問了暑期課程的相關資訊。"
+   },
+   "exB": {
+    "en": "The police started an investigation into the cause of the fire.",
+    "zh": "警方開始調查這場火災的起因。"
+   }
+  },
+  {
+   "a": "crazy",
+   "b": "insane",
+   "kind": "semantic",
+   "score": 0.899,
+   "aZh": "adj. 瘋狂的；荒唐的",
+   "bZh": "adj. 瘋狂的；荒唐的",
+   "diff": "crazy 是很口語的瘋狂或荒唐，也可表示熱衷；insane 語氣更強，本義是精神失常，常誇張表示極荒唐。",
+   "points": [
+    "語氣：crazy 口語輕鬆；insane 語氣強烈",
+    "字義：crazy 可指熱衷（crazy about）；insane 較少",
+    "搭配：crazy about music 迷戀音樂；an insane price 離譜的價格"
+   ],
+   "tip": "insane 是「不 sane」（不理智）；crazy 是口語的瘋。",
+   "exA": {
+    "en": "Kevin is crazy about basketball and plays every day.",
+    "zh": "Kevin 迷籃球迷得很，每天都打。"
+   },
+   "exB": {
+    "en": "The ticket price for the concert was absolutely insane.",
+    "zh": "那場演唱會的票價高得離譜。"
+   }
+  },
+  {
+   "a": "insight",
+   "b": "intuition",
+   "kind": "semantic",
+   "score": 0.449,
+   "aZh": "n. 洞察力；深入了解",
+   "bZh": "n. 直覺；直觀",
+   "diff": "insight 是看穿事情本質的洞察力，通常靠思考與理解；intuition 是不經推理就直接感覺到的直覺。",
+   "points": [
+    "來源：insight 靠觀察與理解；intuition 是直覺",
+    "搭配：gain insight 獲得深入了解；trust one's intuition 相信直覺",
+    "結果：insight 是理解；intuition 是感覺"
+   ],
+   "tip": "insight 是看進去；intuition 是感覺到。",
+   "exA": {
+    "en": "The book gave Amy new insight into local history.",
+    "zh": "這本書讓 Amy 對地方歷史有了新的深入了解。"
+   },
+   "exB": {
+    "en": "My intuition told me that something was wrong.",
+    "zh": "我的直覺告訴我有什麼地方不對勁。"
+   }
+  },
+  {
+   "a": "installation",
+   "b": "institution",
+   "kind": "visual",
+   "score": 0.68,
+   "aZh": "n. 安裝；設置",
+   "bZh": "n. 機構；制度",
+   "diff": "installation 是安裝設備或軟體；institution 是機構或制度。兩個字開頭都是 inst-，中間不同。",
+   "points": [
+    "拼字：inst-all-ation 與 inst-it-ution",
+    "字義：installation 是動作；institution 是組織",
+    "搭配：software installation 軟體安裝；an educational institution 教育機構"
+   ],
+   "tip": "installation 是 install（安裝）的名詞；institution 是 institute（設立）的名詞。",
+   "exA": {
+    "en": "The installation of solar panels took two days.",
+    "zh": "太陽能板的安裝花了兩天。"
+   },
+   "exB": {
+    "en": "The university is a respected and famous educational institution.",
+    "zh": "這所大學是受人尊敬又有名的教育機構。"
+   }
+  },
+  {
+   "a": "institute",
+   "b": "institution",
+   "kind": "visual",
+   "score": 0.741,
+   "aZh": "n. 研究所；學院；v. 設立；制定",
+   "bZh": "n. 機構；制度",
+   "diff": "institute 常指研究或教育機構，也可作動詞指設立；institution 是有固定組織或規則的機構，也可指社會制度。",
+   "points": [
+    "詞性：institute 可作 n./v.；institution 只作 n.",
+    "範圍：institution 範圍更廣，可指制度",
+    "搭配：a research institute 研究所；a financial institution 金融機構"
+   ],
+   "tip": "institute 像一個所（研究所）；institution 是機構或制度。",
+   "exA": {
+    "en": "The science institute invites students to visit its laboratory.",
+    "zh": "這所科學研究所邀請學生參觀它的實驗室。"
+   },
+   "exB": {
+    "en": "The university is a respected and famous educational institution.",
+    "zh": "這所大學是受人尊敬又有名的教育機構。"
+   }
+  },
+  {
+   "a": "establish",
+   "b": "institute",
+   "kind": "semantic",
+   "score": 0.526,
+   "aZh": "v. 建立；創立；證實",
+   "bZh": "n. 研究所；v. 設立；制定",
+   "diff": "establish 是建立長期存在的機構、制度或關係，用途較廣；institute 作動詞較正式，指開始實施制度或計畫。",
+   "points": [
+    "語氣：establish 較常用；institute 較正式",
+    "對象：institute 常接規定、政策",
+    "字義：establish 還可指證實"
+   ],
+   "tip": "establish 是建立起來；institute 是宣布開始實施。",
+   "exA": {
+    "en": "The school was established over a hundred years ago.",
+    "zh": "這所學校創立於一百多年前。"
+   },
+   "exB": {
+    "en": "The company instituted a new rule to save paper.",
+    "zh": "公司制定了一項節省紙張的新規定。"
+   }
+  },
+  {
+   "a": "constitution",
+   "b": "institution",
+   "kind": "visual",
+   "score": 0.756,
+   "aZh": "n. 憲法；章程；體質",
+   "bZh": "n. 機構；制度",
+   "diff": "constitution 是憲法或組織章程，也可指體質；institution 是機構或制度。兩個字只差前面的 con- 和 in-。",
+   "points": [
+    "拼字：con-stitution 與 in-stitution",
+    "字義：constitution 是憲法；institution 是機構",
+    "搭配：the constitution of a country 國家憲法；an educational institution 教育機構"
+   ],
+   "tip": "constitution 想到憲法；institution 想到學校、銀行等機構。",
+   "exA": {
+    "en": "The constitution protects the rights of every citizen.",
+    "zh": "憲法保障每位公民的權利。"
+   },
+   "exB": {
+    "en": "The bank is an important financial institution in the city.",
+    "zh": "這家銀行是城裡一個重要的金融機構。"
+   }
+  },
+  {
+   "a": "institution",
+   "b": "organization",
+   "kind": "semantic",
+   "score": 0.637,
+   "aZh": "n. 機構；制度",
+   "bZh": "n. 組織；機構；安排",
+   "diff": "organization 泛指有共同目的的組織；institution 指有固定規則、地位穩固的機構，如學校、銀行，也可指社會制度。",
+   "points": [
+    "正式度：institution 較正式穩固；organization 較廣泛",
+    "搭配：a student organization 學生組織；a financial institution 金融機構",
+    "範圍：institution 也可指社會制度"
+   ],
+   "tip": "institution 是長期存在的老機構；organization 是有目的的組織。",
+   "exA": {
+    "en": "The hospital is an old and respected institution in the city.",
+    "zh": "這家醫院是城裡一個歷史悠久、受人尊敬的機構。"
+   },
+   "exB": {
+    "en": "The student organization holds a meeting every Friday.",
+    "zh": "這個學生組織每個星期五開會。"
+   }
+  },
+  {
+   "a": "contact",
+   "b": "intact",
+   "kind": "visual",
+   "score": 0.688,
+   "aZh": "n. 接觸；聯絡；v. 聯絡",
+   "bZh": "adj. 完整的；未受損的",
+   "diff": "contact 是接觸、聯絡；intact 是完整、沒受損。intact 是 in-（不）加 tact（觸碰），意思是沒被碰過。",
+   "points": [
+    "詞性：contact 是 n./v.；intact 是 adj.",
+    "字根：兩個字都有 tact，表示觸碰",
+    "搭配：keep in contact 保持聯絡；remain intact 保持完整"
+   ],
+   "tip": "intact 是 in-（不）加 tact（碰）：沒被碰壞。",
+   "exA": {
+    "en": "Please keep in contact with us during your trip.",
+    "zh": "旅行期間，請和我們保持聯絡。"
+   },
+   "exB": {
+    "en": "The old bridge remained intact after the storm.",
+    "zh": "暴風雨過後，這座老橋仍然完好。"
+   }
+  },
+  {
+   "a": "intact",
+   "b": "interact",
+   "kind": "visual",
+   "score": 0.775,
+   "aZh": "adj. 完整的；未受損的",
+   "bZh": "v. 互動；交流",
+   "diff": "intact 是形容詞，指完整；interact 是動詞，指互動。interact 比 intact 多了 er，字根是 act（行動）。",
+   "points": [
+    "詞性：intact 是 adj.；interact 是 v.",
+    "拼字：interact 比 intact 多 er",
+    "搭配：remain intact 保持完整；interact with others 與他人互動"
+   ],
+   "tip": "interact 是 inter（彼此）加 act（行動）；intact 是沒被碰壞。",
+   "exA": {
+    "en": "The box arrived intact after the long trip.",
+    "zh": "這個箱子經過長途運送後仍完好無損。"
+   },
+   "exB": {
+    "en": "Students learn to interact with people from other cultures.",
+    "zh": "學生學習和來自其他文化的人互動。"
+   }
+  },
+  {
+   "a": "combine",
+   "b": "integrate",
+   "kind": "semantic",
+   "score": 0.47,
+   "aZh": "v. 結合；合併",
+   "bZh": "v. 整合；融入",
+   "diff": "combine 泛指把事物放在一起；integrate 是使不同部分融合成一個整體，或讓人融入群體，結合得更密切。",
+   "points": [
+    "程度：integrate 更緊密、更成一體",
+    "搭配：combine two ideas 結合兩個想法；integrate into a team 融入團隊",
+    "對象：integrate 也可指人融入群體"
+   ],
+   "tip": "combine 是放在一起；integrate 是合成一個完整的整體。",
+   "exA": {
+    "en": "The chef combined rice and vegetables in one dish.",
+    "zh": "廚師把米飯和蔬菜混在同一道菜裡。"
+   },
+   "exB": {
+    "en": "The new student quickly integrated into her class.",
+    "zh": "這位新同學很快融入了班級。"
+   }
+  },
+  {
+   "a": "integrate",
+   "b": "integrity",
+   "kind": "visual",
+   "score": 0.695,
+   "aZh": "v. 整合；融入",
+   "bZh": "n. 誠信；正直",
+   "diff": "integrate 是整合、融入；integrity 是誠信、正直。兩個字都來自 integer（完整），結尾不同。",
+   "points": [
+    "詞性：integrate 是 v.；integrity 是 n.",
+    "拼字：integr-ate 與 integr-ity",
+    "字源：都有「完整」的意思，正直的人言行完整一致"
+   ],
+   "tip": "integrity 是言行完整一致的人品。",
+   "exA": {
+    "en": "The school integrates art and science in one course.",
+    "zh": "學校把藝術和自然科學整合成一門課。"
+   },
+   "exB": {
+    "en": "A leader must have integrity in order to earn people's trust.",
+    "zh": "領導者必須有誠信，才能贏得大家的信任。"
+   }
+  },
+  {
+   "a": "integration",
+   "b": "interaction",
+   "kind": "visual",
+   "score": 0.763,
+   "aZh": "n. 整合；融入",
+   "bZh": "n. 互動；交流",
+   "diff": "integration 是把部分合成整體，或融入群體；interaction 是人或事物之間彼此互動。兩個字看起來像，中間的 teg 和 ter 不同。",
+   "points": [
+    "拼字：integ-ration 與 inter-action",
+    "字義：integration 是融合；interaction 是互動",
+    "搭配：social integration 社會融入；social interaction 社交互動"
+   ],
+   "tip": "interaction 裡有 action（行動）；integration 裡有 integr（完整）。",
+   "exA": {
+    "en": "The integration of new students into the school takes time.",
+    "zh": "新生融入學校需要時間。"
+   },
+   "exB": {
+    "en": "Face-to-face interaction helps children learn how to talk.",
+    "zh": "面對面的互動能幫助孩子學會怎麼說話。"
+   }
+  },
+  {
+   "a": "honesty",
+   "b": "integrity",
+   "kind": "semantic",
+   "score": 0.741,
+   "aZh": "n. 誠實；正直",
+   "bZh": "n. 誠信；正直",
+   "diff": "honesty 是不說謊、不欺瞞；integrity 是堅守道德原則、言行一致，範圍更廣，honesty 是它的一部分。",
+   "points": [
+    "範圍：integrity 包含 honesty，更完整",
+    "搭配：value honesty 重視誠實；academic integrity 學術誠信",
+    "語氣：integrity 較正式"
+   ],
+   "tip": "honesty 是不說謊；integrity 是說到做到、原則不變。",
+   "exA": {
+    "en": "Honesty is the best policy when you make a mistake.",
+    "zh": "犯了錯的時候，誠實是最好的方法。"
+   },
+   "exB": {
+    "en": "The coach praised Kevin for his honesty and integrity.",
+    "zh": "教練稱讚 Kevin 誠實正直。"
+   }
+  },
+  {
+   "a": "intensify",
+   "b": "strengthen",
+   "kind": "semantic",
+   "score": 0.668,
+   "aZh": "v. 加強；加劇",
+   "bZh": "v. 加強；使更堅強",
+   "diff": "strengthen 是使力量、能力或關係變強，常接具體對象；intensify 是讓程度或強度變大，常用於感受、情況或努力。",
+   "points": [
+    "對象：strengthen 接身體、關係、制度；intensify 接感受、疼痛、努力",
+    "重點：strengthen 是變堅強；intensify 是變強烈",
+    "反義：strengthen 對 weaken；intensify 對 reduce"
+   ],
+   "tip": "strengthen 有 strength（力量）；intensify 有 intense（強烈）。",
+   "exA": {
+    "en": "The pain intensified when he tried to stand up.",
+    "zh": "他試著站起來時，疼痛加劇了。"
+   },
+   "exB": {
+    "en": "Exercise can strengthen your muscles and your bones.",
+    "zh": "運動可以讓你的肌肉和骨頭更強壯。"
+   }
+  },
+  {
+   "a": "intend",
+   "b": "intent",
+   "kind": "visual",
+   "score": 0.793,
+   "aZh": "v. 打算；計畫",
+   "bZh": "n. 意圖；目的；adj. 專注的",
+   "diff": "intend 是動詞，表示打算；intent 是名詞，指意圖，也可作形容詞表示專注。兩個字只差最後一個字母 d 和 t。",
+   "points": [
+    "詞性：intend 是 v.；intent 是 n./adj.",
+    "句型：intend to V；be intent on + V-ing",
+    "拼字：intend 是 -end；intent 是 -ent"
+   ],
+   "tip": "intend 是「打算做」；intent 是「打算」這件事本身。",
+   "exA": {
+    "en": "We intend to visit the museum on Saturday.",
+    "zh": "我們打算星期六去參觀博物館。"
+   },
+   "exB": {
+    "en": "Amy had no intent to hurt her friend's feelings.",
+    "zh": "Amy 並沒有要傷害朋友的意思。"
+   }
+  },
+  {
+   "a": "intent",
+   "b": "intention",
+   "kind": "visual",
+   "score": 0.7,
+   "aZh": "n. 意圖；目的；adj. 專注的",
+   "bZh": "n. 意圖；打算",
+   "diff": "intention 是名詞，指打算或想法；intent 較正式，常用於法律，也可作形容詞表示專注。",
+   "points": [
+    "詞性：intention 只作 n.；intent 也可作 adj.",
+    "語氣：intent 較正式",
+    "搭配：good intentions 好意；with intent to 意圖要"
+   ],
+   "tip": "要說「一心想做」用形容詞 intent，不能用 intention。",
+   "exA": {
+    "en": "The letter was written with the intent to thank the teacher.",
+    "zh": "這封信是為了向老師道謝而寫的。"
+   },
+   "exB": {
+    "en": "She had no intention of leaving the club.",
+    "zh": "她沒有要退出社團的打算。"
+   }
+  },
+  {
+   "a": "intense",
+   "b": "intent",
+   "kind": "visual",
+   "score": 0.739,
+   "aZh": "adj. 強烈的；劇烈的；專注的",
+   "bZh": "n. 意圖；目的；adj. 專注的",
+   "diff": "intense 是強度很高，如強烈的光、熱、情緒，也可指專注；intent 是意圖，或形容專注、一心想做。",
+   "points": [
+    "字義：intense 重點是強烈；intent 重點是意圖",
+    "詞性：intense 是 adj.；intent 是 n./adj.",
+    "搭配：intense heat 酷熱；be intent on 一心想做"
+   ],
+   "tip": "intense 是強；intent 是專心朝一個方向。",
+   "exA": {
+    "en": "The players felt intense pressure during the final game.",
+    "zh": "決賽時，球員們感受到強烈的壓力。"
+   },
+   "exB": {
+    "en": "The little boy was intent on building a tall tower.",
+    "zh": "那個小男孩專心一意地想蓋一座高塔。"
+   }
+  },
+  {
+   "a": "interference",
+   "b": "interruption",
+   "kind": "semantic",
+   "score": 0.478,
+   "aZh": "n. 干涉；妨礙",
+   "bZh": "n. 中斷；打斷；打擾",
+   "diff": "interruption 是某件事被打斷，重點在中止；interference 是外力介入而造成阻礙或干擾，重點在妨礙。",
+   "points": [
+    "重點：interruption 是暫時中斷；interference 是妨礙進行",
+    "搭配：interference with 干擾……；an interruption to 對……的打斷",
+    "動詞：interfere 干涉；interrupt 打斷"
+   ],
+   "tip": "interrupt 是把話打斷；interfere 是插手妨礙。",
+   "exA": {
+    "en": "Radio interference made it hard to hear the news clearly.",
+    "zh": "無線電干擾讓人很難清楚聽到新聞。"
+   },
+   "exB": {
+    "en": "The phone call caused an interruption during our class.",
+    "zh": "那通電話打斷了我們上課。"
+   }
+  },
+  {
+   "a": "interference",
+   "b": "intervention",
+   "kind": "semantic",
+   "score": 0.548,
+   "aZh": "n. 干涉；妨礙",
+   "bZh": "n. 介入；干預",
+   "diff": "intervention 是為了影響事件而介入，常是中性或正面的；interference 通常帶有妨礙或不受歡迎的意味。",
+   "points": [
+    "語氣：interference 常是負面；intervention 較中性",
+    "搭配：outside interference 外來干涉；medical intervention 醫療介入",
+    "介系詞：interference with / in；intervention in"
+   ],
+   "tip": "interfere 是搗亂；intervene 是出手處理。",
+   "exA": {
+    "en": "The coach avoided interference in the students' choices.",
+    "zh": "教練避免干涉學生的選擇。"
+   },
+   "exB": {
+    "en": "The teacher's intervention stopped the argument between the students.",
+    "zh": "老師介入後，學生之間的爭論停了下來。"
+   }
+  },
+  {
+   "a": "interior",
+   "b": "internal",
+   "kind": "semantic",
+   "score": 0.657,
+   "aZh": "adj. 內部的；室內的；n. 內部",
+   "bZh": "adj. 內部的；體內的",
+   "diff": "interior 常指建築或空間的內部；internal 指組織、國家或身體的內部，例如內部問題、體內器官。",
+   "points": [
+    "對象：interior 指空間；internal 指組織或身體",
+    "搭配：interior walls 室內牆壁；internal affairs 內政",
+    "反義：interior 對 exterior；internal 對 external"
+   ],
+   "tip": "interior 是房子的內部；internal 是組織或身體的內部。",
+   "exA": {
+    "en": "The interior walls of the school were painted light blue.",
+    "zh": "學校的室內牆壁漆成淺藍色。"
+   },
+   "exB": {
+    "en": "The company is fixing its internal problems first.",
+    "zh": "公司先在處理內部的問題。"
+   }
+  },
+  {
+   "a": "explanation",
+   "b": "interpretation",
+   "kind": "semantic",
+   "score": 0.79,
+   "aZh": "n. 解釋；說明",
+   "bZh": "n. 解釋；詮釋",
+   "diff": "explanation 是把原因或內容說清楚；interpretation 是對文字、事件或作品做出理解與詮釋，可以因人而異。",
+   "points": [
+    "客觀性：explanation 偏向說清楚；interpretation 可因人而異",
+    "搭配：give an explanation 給出解釋；different interpretations 不同的詮釋",
+    "對象：interpretation 常用於詩、畫、法律等"
+   ],
+   "tip": "explanation 是講明白；interpretation 是各人解讀。",
+   "exA": {
+    "en": "The teacher gave a short explanation of the new rule.",
+    "zh": "老師簡短地說明了這項新規定。"
+   },
+   "exB": {
+    "en": "Everyone has a different interpretation of the same painting.",
+    "zh": "每個人對同一幅畫都有不同的詮釋。"
+   }
+  },
+  {
+   "a": "gap",
+   "b": "interval",
+   "kind": "semantic",
+   "score": 0.646,
+   "aZh": "n. 缺口；間隔；差距",
+   "bZh": "n. 間隔；間歇",
+   "diff": "interval 是兩個時間或事件之間的間隔，也可指短暫休息；gap 可指時間、距離、物體或差距之間的空隙。",
+   "points": [
+    "範圍：gap 用途更廣，也可指差距",
+    "搭配：a gap between classes 課與課之間的空檔；at regular intervals 每隔固定時間",
+    "字義：gap 還可指缺口、差距"
+   ],
+   "tip": "interval 是「事件之間」的時間；gap 是「任何東西之間」的空隙。",
+   "exA": {
+    "en": "There is a small gap between the door and the floor.",
+    "zh": "門和地板之間有一道小縫隙。"
+   },
+   "exB": {
+    "en": "Buses arrive at regular intervals of fifteen minutes.",
+    "zh": "公車每隔十五分鐘規律地來一班。"
+   }
+  },
+  {
+   "a": "break",
+   "b": "interval",
+   "kind": "semantic",
+   "score": 0.518,
+   "aZh": "n. 休息；中斷；v. 打破",
+   "bZh": "n. 間隔；間歇",
+   "diff": "break 是日常說法的休息時間；interval 較正式，指事件之間的間隔，也可指劇場或比賽中的中場休息。",
+   "points": [
+    "語氣：break 口語；interval 較正式",
+    "字義：break 也可指打破",
+    "搭配：a lunch break 午休；the interval between two acts 兩幕之間的休息"
+   ],
+   "tip": "break 是休息一下；interval 是兩段之間的空檔。",
+   "exA": {
+    "en": "We have a ten-minute break between the two classes.",
+    "zh": "兩堂課之間我們有十分鐘的休息。"
+   },
+   "exB": {
+    "en": "The students reviewed their notes during the short interval.",
+    "zh": "學生們利用短暫的休息時間複習筆記。"
+   }
+  },
+  {
+   "a": "intention",
+   "b": "intervention",
+   "kind": "visual",
+   "score": 0.836,
+   "aZh": "n. 意圖；打算",
+   "bZh": "n. 介入；干預",
+   "diff": "intention 是打算做某事的意圖；intervention 是介入他人的事。兩個字都以 inte- 開頭、-tion 結尾，中間不同。",
+   "points": [
+    "拼字：inten-tion 與 interven-tion",
+    "字義：intention 是想法；intervention 是行動",
+    "搭配：good intentions 好意；government intervention 政府介入"
+   ],
+   "tip": "intervention 是 inter（在其中）加 ven（來）：跑進去處理。",
+   "exA": {
+    "en": "She had no intention of leaving the club.",
+    "zh": "她沒有要退出社團的打算。"
+   },
+   "exB": {
+    "en": "Early intervention can help children with learning problems.",
+    "zh": "及早介入能幫助有學習困難的孩子。"
+   }
+  },
+  {
+   "a": "intervention",
+   "b": "invention",
+   "kind": "visual",
+   "score": 0.769,
+   "aZh": "n. 介入；干預",
+   "bZh": "n. 發明；創造",
+   "diff": "intervention 是介入；invention 是發明。invention 前面只有 in-，比 intervention 少了 ter。",
+   "points": [
+    "拼字：inter-vention 與 in-vention",
+    "字義：intervention 是介入；invention 是發明",
+    "動詞：intervene 介入；invent 發明"
+   ],
+   "tip": "intervene 是介入；invent 是發明，動詞先記住就不會混。",
+   "exA": {
+    "en": "Quick medical intervention saved the injured hiker's life.",
+    "zh": "迅速的醫療介入救了那位受傷登山客的命。"
+   },
+   "exB": {
+    "en": "The light bulb was an important invention in human history.",
+    "zh": "燈泡是人類歷史上一項重要的發明。"
+   }
+  },
+  {
+   "a": "inventor",
+   "b": "investigator",
+   "kind": "visual",
+   "score": 0.658,
+   "aZh": "n. 發明家；發明者",
+   "bZh": "n. 調查者；調查員",
+   "diff": "inventor 是發明新東西的人；investigator 是調查事實的人。兩個字看起來像，中間 en 和 est 不同。",
+   "points": [
+    "拼字：inv-ent-or 與 inv-estig-ator",
+    "字義：inventor 是創造；investigator 是查明",
+    "搭配：the inventor of the telephone 電話的發明者；a private investigator 私家偵探"
+   ],
+   "tip": "inventor 是 invent（發明）的人；investigator 是 investigate（調查）的人。",
+   "exA": {
+    "en": "The inventor showed the students his new machine at school.",
+    "zh": "那位發明家在學校向學生展示他的新機器。"
+   },
+   "exB": {
+    "en": "A private investigator was hired to find the missing dog.",
+    "zh": "他們僱了一位私家偵探去找走失的狗。"
+   }
+  },
+  {
+   "a": "iron",
+   "b": "irony",
+   "kind": "visual",
+   "score": 0.736,
+   "aZh": "n. 鐵；熨斗；v. 熨燙",
+   "bZh": "n. 諷刺；反諷",
+   "diff": "iron 是鐵或熨斗；irony 是諷刺。irony 比 iron 多了 y，發音也不同。",
+   "points": [
+    "拼字：irony 比 iron 多一個 y",
+    "字義：iron 是東西；irony 是說話或情況的反差",
+    "搭配：iron a shirt 熨襯衫；the irony of the story 故事的反諷"
+   ],
+   "tip": "irony 的 y 像 why（怎麼會這樣），出乎意料。",
+   "exA": {
+    "en": "She used an iron to make her school uniform smooth.",
+    "zh": "她用熨斗把校服燙平。"
+   },
+   "exB": {
+    "en": "The irony of the story made the students laugh.",
+    "zh": "故事中的反諷讓學生們笑了出來。"
+   }
+  },
+  {
+   "a": "journal",
+   "b": "journalism",
+   "kind": "visual",
+   "score": 0.718,
+   "aZh": "n. 日記；日誌；期刊",
+   "bZh": "n. 新聞業；新聞工作",
+   "diff": "journal 是日記、日誌或學術期刊；journalism 是新聞業或新聞工作。journalism 是 journal 加 -ism。",
+   "points": [
+    "字義：journal 是文件；journalism 是行業",
+    "搭配：keep a journal 寫日記；study journalism 讀新聞系",
+    "字尾：-ism 表示領域或主義"
+   ],
+   "tip": "journal 是每天寫的（jour 有「日」的意思）；journalism 是每天報導的工作。",
+   "exA": {
+    "en": "Amy keeps a journal and writes in it every night.",
+    "zh": "Amy 有寫日記的習慣，每天晚上都寫。"
+   },
+   "exB": {
+    "en": "Amy hopes to study journalism after she finishes high school.",
+    "zh": "Amy 希望高中畢業後攻讀新聞學。"
+   }
+  },
+  {
+   "a": "journalism",
+   "b": "journalist",
+   "kind": "visual",
+   "score": 0.843,
+   "aZh": "n. 新聞業；新聞工作",
+   "bZh": "n. 記者；新聞工作者",
+   "diff": "journalism 是行業或工作；journalist 是從事這個工作的人。-ism 是領域，-ist 是人。",
+   "points": [
+    "指稱：journalism 指工作；journalist 指人",
+    "字尾：-ism 是領域；-ist 是人",
+    "搭配：study journalism 讀新聞學；a local journalist 地方記者"
+   ],
+   "tip": "-ist 是人（artist、journalist）；-ism 是主義或領域。",
+   "exA": {
+    "en": "Good journalism helps people understand what is really happening.",
+    "zh": "好的新聞報導能幫助人們了解真正發生的事。"
+   },
+   "exB": {
+    "en": "The journalist spent three days interviewing people after the flood.",
+    "zh": "洪水過後，那位記者花了三天訪問民眾。"
+   }
+  },
+  {
+   "a": "journalist",
+   "b": "reporter",
+   "kind": "semantic",
+   "score": 1.0,
+   "aZh": "n. 記者；新聞工作者",
+   "bZh": "n. 記者；新聞工作者",
+   "diff": "兩個字都指記者。journalist 泛指從事新聞工作的人，也包含撰稿、編輯；reporter 更強調採訪並報導新聞事件。",
+   "points": [
+    "範圍：journalist 較廣；reporter 偏採訪報導",
+    "搭配：a newspaper journalist 報紙記者；a TV reporter 電視記者",
+    "語氣：兩者常可互換"
+   ],
+   "tip": "reporter 有 report（報導），是外出採訪的人。",
+   "exA": {
+    "en": "The journalist asked the teacher about the new school program.",
+    "zh": "記者詢問老師有關新校園計畫的事。"
+   },
+   "exB": {
+    "en": "The TV reporter stood in front of the school and spoke to the camera.",
+    "zh": "電視記者站在學校前面，對著攝影機說話。"
+   }
+  },
+  {
+   "a": "jug",
+   "b": "pitcher",
+   "kind": "semantic",
+   "score": 0.458,
+   "aZh": "n. 壺；罐",
+   "bZh": "n. 水壺；大壺；投手",
+   "diff": "jug 和 pitcher 都指有把手、用來裝液體的壺。jug 是英式較常用的說法；pitcher 是美式說法，另有棒球投手的意思。",
+   "points": [
+    "地區：jug 偏英式；pitcher 偏美式",
+    "字義：pitcher 也指投手",
+    "搭配：a jug of milk 一壺牛奶；a pitcher of juice 一壺果汁"
+   ],
+   "tip": "pitcher 想到棒球投手，也想到美式的水壺。",
+   "exA": {
+    "en": "The waiter brought a jug of water to our table.",
+    "zh": "服務生把一壺水端到我們的桌上。"
+   },
+   "exB": {
+    "en": "Dad put a pitcher of orange juice on the breakfast table.",
+    "zh": "爸爸把一壺柳橙汁放在早餐桌上。"
+   }
+  },
+  {
+   "a": "jury",
+   "b": "panel",
+   "kind": "semantic",
+   "score": 0.579,
+   "aZh": "n. 陪審團；評審團",
+   "bZh": "n. 專家小組；評審團；面板",
+   "diff": "jury 是在法庭裁決案件或比賽中評選的團體；panel 泛指負責評判或討論的一組人，用途較廣，也可指面板。",
+   "points": [
+    "範圍：jury 常在法庭或比賽；panel 用途更廣",
+    "搭配：a jury of twelve people 十二人陪審團；a panel of judges 評審小組",
+    "字義：panel 也可指面板"
+   ],
+   "tip": "jury 想到法庭的十二個人；panel 是一組專家。",
+   "exA": {
+    "en": "The jury of the singing contest chose Jenny as the winner.",
+    "zh": "歌唱比賽的評審團選了 Jenny 為優勝者。"
+   },
+   "exB": {
+    "en": "A panel of experts talked about air pollution on TV.",
+    "zh": "一組專家在電視上談論空氣污染。"
+   }
+  },
+  {
+   "a": "injury",
+   "b": "jury",
+   "kind": "visual",
+   "score": 0.656,
+   "aZh": "n. 受傷；傷害",
+   "bZh": "n. 陪審團；評審團",
+   "diff": "injury 是受傷；jury 是陪審團。injury 比 jury 多了前面的 in-。",
+   "points": [
+    "拼字：injury 比 jury 多 in-",
+    "字義：injury 是傷；jury 是團體",
+    "搭配：a serious injury 重傷；jury members 陪審員"
+   ],
+   "tip": "injury 前面多了 in，想成 in pain（在痛）。",
+   "exA": {
+    "en": "The player left the game because of a knee injury.",
+    "zh": "那位球員因為膝蓋受傷離開了比賽。"
+   },
+   "exB": {
+    "en": "The jury listened carefully to both sides before making a decision.",
+    "zh": "陪審團仔細聆聽雙方說法後才作出決定。"
+   }
+  },
+  {
+   "a": "justice",
+   "b": "justify",
+   "kind": "visual",
+   "score": 0.675,
+   "aZh": "n. 正義；公平；司法",
+   "bZh": "v. 證明正當；為……辯解",
+   "diff": "justice 是名詞，指正義、公平或司法；justify 是動詞，指證明正當。兩個字都來自 just（正當的）。",
+   "points": [
+    "詞性：justice 是 n.；justify 是 v.",
+    "字尾：-ice 是名詞字尾；-ify 是動詞字尾",
+    "搭配：social justice 社會正義；justify a decision 證明決定合理"
+   ],
+   "tip": "-ify 是「使成為」（如 clarify）；justify 是使某事「成為正當」。",
+   "exA": {
+    "en": "The judge promised to bring justice to the victims.",
+    "zh": "法官承諾要為受害者討回公道。"
+   },
+   "exB": {
+    "en": "He had to justify his choice to join the school team.",
+    "zh": "他必須為自己選擇加入校隊的決定提出理由。"
+   }
+  },
+  {
+   "a": "defend",
+   "b": "justify",
+   "kind": "semantic",
+   "score": 0.658,
+   "aZh": "v. 防守；保護；為……辯護",
+   "bZh": "v. 證明正當；為……辯解",
+   "diff": "defend 是保護或為人、立場辯護，常是在受到批評或攻擊時回應；justify 是提出理由證明自己的行為或決定合理。",
+   "points": [
+    "對象：defend 可為人辯護；justify 多為行為或決定",
+    "重點：defend 回應攻擊；justify 說明理由",
+    "搭配：defend a decision 為決定辯護；justify a decision 證明決定合理"
+   ],
+   "tip": "defend 是擋在前面保護；justify 是拿出理由。",
+   "exA": {
+    "en": "The lawyer defended her client in front of the whole court.",
+    "zh": "那位律師在整個法庭面前為她的當事人辯護。"
+   },
+   "exB": {
+    "en": "How can you justify spending so much money on one phone?",
+    "zh": "你怎麼能為花這麼多錢買一支手機辯解呢？"
+   }
+  },
+  {
+   "a": "adolescent",
+   "b": "juvenile",
+   "kind": "semantic",
+   "score": 0.697,
+   "aZh": "adj. 青春期的；n. 青少年",
+   "bZh": "adj. 青少年的；未成年的；n. 青少年",
+   "diff": "adolescent 強調青春期這段成長階段；juvenile 較正式，指未成年，常用於法律，如少年犯罪、少年法庭。",
+   "points": [
+    "重點：adolescent 是青春期；juvenile 是未成年",
+    "語氣：juvenile 較正式、偏法律",
+    "搭配：an adolescent boy 青春期男孩；juvenile court 少年法庭"
+   ],
+   "tip": "adolescent 是身心成長的青春期；juvenile 是法律上的未成年。",
+   "exA": {
+    "en": "The doctor talked about health problems of adolescent students.",
+    "zh": "醫生談到青春期學生的健康問題。"
+   },
+   "exB": {
+    "en": "Juvenile crime has dropped in the city over the past five years.",
+    "zh": "過去五年來，這座城市的青少年犯罪減少了。"
+   }
+  },
+  {
+   "a": "juvenile",
+   "b": "teenage",
+   "kind": "semantic",
+   "score": 0.765,
+   "aZh": "adj. 青少年的；未成年的",
+   "bZh": "adj. 青少年的",
+   "diff": "teenage 是日常的說法，指十三到十九歲；juvenile 較正式，指未成年，常用於法律，有時帶有幼稚的意味。",
+   "points": [
+    "語氣：teenage 日常；juvenile 較正式",
+    "年齡：teenage 是 13 到 19 歲；juvenile 是未成年",
+    "搭配：a teenage girl 十幾歲的女孩；juvenile crime 青少年犯罪"
+   ],
+   "tip": "teenage 是 teen（十幾歲）；juvenile 是法律上的未成年。",
+   "exA": {
+    "en": "The center offers free classes for juvenile students.",
+    "zh": "這個中心為青少年學生開設免費課程。"
+   },
+   "exB": {
+    "en": "Many teenage students use their phones late at night.",
+    "zh": "許多青少年學生很晚還在用手機。"
+   }
+  },
+  {
+   "a": "hijack",
+   "b": "kidnap",
+   "kind": "semantic",
+   "score": 0.659,
+   "aZh": "v. 劫持；強行控制",
+   "bZh": "v. 綁架；劫持",
+   "diff": "kidnap 是綁架人，多為了勒索贖金；hijack 是劫持交通工具，如飛機、公車，也可指強行控制。",
+   "points": [
+    "對象：kidnap 接人；hijack 接交通工具",
+    "目的：kidnap 常為贖金；hijack 為控制交通工具",
+    "搭配：kidnap a child 綁架孩子；hijack a plane 劫機"
+   ],
+   "tip": "hijack 是劫「車機」；kidnap 是綁「人」。",
+   "exA": {
+    "en": "The criminals tried to hijack a bus full of tourists.",
+    "zh": "歹徒企圖劫持一輛載滿遊客的公車。"
+   },
+   "exB": {
+    "en": "The gang tried to kidnap the rich man's daughter.",
+    "zh": "那個幫派企圖綁架富商的女兒。"
+   }
+  },
+  {
+   "a": "landlord",
+   "b": "tenant",
+   "kind": "semantic",
+   "score": 0.524,
+   "aZh": "n. 房東；地主",
+   "bZh": "n. 房客；租戶",
+   "diff": "landlord 是把房子或土地租給別人的人；tenant 是租房子或土地的人。兩個字是一組相反的角色。",
+   "points": [
+    "角色：landlord 是出租的一方；tenant 是承租的一方",
+    "搭配：pay the landlord 付房租給房東；a tenant of the apartment 公寓的房客",
+    "字源：landlord 是 land（土地）加 lord（主人）"
+   ],
+   "tip": "landlord 是土地的主人（lord）；tenant 是借住的人。",
+   "exA": {
+    "en": "Our landlord agreed to fix the broken window.",
+    "zh": "房東答應修理壞掉的窗戶。"
+   },
+   "exB": {
+    "en": "The tenant paid the rent to the landlord on the first of every month.",
+    "zh": "房客每個月一號把房租付給房東。"
+   }
+  },
+  {
+   "a": "laser",
+   "b": "layer",
+   "kind": "visual",
+   "score": 0.713,
+   "aZh": "n. 雷射",
+   "bZh": "n. 層；層次",
+   "diff": "laser 是雷射；layer 是層。兩個字只差第三個字母 s 和 y，讀音也不同。",
+   "points": [
+    "拼字：las-er 與 lay-er",
+    "發音：laser 讀 /ˈleɪzər/；layer 讀 /ˈleɪər/",
+    "搭配：a laser beam 雷射光束；a layer of dust 一層灰塵"
+   ],
+   "tip": "layer 的 lay 是「放」，一層一層放上去；laser 是光。",
+   "exA": {
+    "en": "The doctor used a laser to treat the patient's eyes.",
+    "zh": "醫師用雷射治療病人的眼睛。"
+   },
+   "exB": {
+    "en": "A thin layer of dust covered the old piano.",
+    "zh": "一層薄薄的灰塵覆蓋著那架舊鋼琴。"
+   }
+  },
+  {
+   "a": "lawmaker",
+   "b": "legislator",
+   "kind": "semantic",
+   "score": 0.902,
+   "aZh": "n. 立法者；議員",
+   "bZh": "n. 立法者；議員",
+   "diff": "兩個字都指制定法律的人。lawmaker 是日常說法；legislator 較正式，指立法機關的成員。",
+   "points": [
+    "語氣：lawmaker 較口語；legislator 較正式",
+    "搭配：elected lawmaker 民選議員；a state legislator 州議員",
+    "相關字：legislation 立法；legislative 立法的"
+   ],
+   "tip": "lawmaker 就是 law（法律）加 maker（制定者）；legislator 是正式說法。",
+   "exA": {
+    "en": "Lawmakers discussed a new plan for public transport.",
+    "zh": "議員討論了一項新的大眾運輸計畫。"
+   },
+   "exB": {
+    "en": "The legislator introduced a bill to protect old buildings.",
+    "zh": "那位議員提出一項保護老建築的法案。"
+   }
+  },
+  {
+   "a": "lawmaker",
+   "b": "lawyer",
+   "kind": "visual",
+   "score": 0.627,
+   "aZh": "n. 立法者；議員",
+   "bZh": "n. 律師",
+   "diff": "lawmaker 是制定法律的人；lawyer 是替客戶處理法律事務的律師。一個訂法，一個用法。",
+   "points": [
+    "職責：lawmaker 訂法律；lawyer 提供法律服務",
+    "拼字：lawmaker 是 law + maker；lawyer 是 law + yer",
+    "搭配：elected lawmaker 民選議員；hire a lawyer 請律師"
+   ],
+   "tip": "lawmaker 做法律；lawyer 用法律。",
+   "exA": {
+    "en": "The lawmaker spoke about new rules for bicycles.",
+    "zh": "那位議員談到自行車的新規定。"
+   },
+   "exB": {
+    "en": "My aunt is a lawyer who helps families with their problems.",
+    "zh": "我阿姨是律師，幫助家庭處理他們的問題。"
+   }
   }
  ]
 }
