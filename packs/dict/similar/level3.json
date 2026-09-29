@@ -9415,6 +9415,2191 @@
     "en": "Wear a knee pad when you practice skateboarding.",
     "zh": "練習滑板時要戴護膝。"
    }
+  },
+  {
+   "a": "artist",
+   "b": "painter",
+   "kind": "semantic",
+   "score": 0.871,
+   "aZh": "n. 藝術家；畫家",
+   "bZh": "n. 畫家；油漆工",
+   "diff": "artist 範圍較廣，可指畫家、音樂家、表演者等各類藝術工作者；painter 只指畫畫的人，也可指粉刷房子的油漆工。",
+   "points": [
+    "範圍：artist 廣，painter 窄",
+    "字義：painter 還可指油漆工",
+    "搭配：a street artist；a house painter"
+   ],
+   "tip": "painter 只跟 paint（畫、上漆）有關。",
+   "exA": {
+    "en": "The young artist plays music and draws pictures.",
+    "zh": "那位年輕的藝術家會演奏音樂，也會畫畫。"
+   },
+   "exB": {
+    "en": "We hired a painter to fix the walls before moving in.",
+    "zh": "我們請油漆工在搬進去前整理牆面。"
+   }
+  },
+  {
+   "a": "painter",
+   "b": "printer",
+   "kind": "visual",
+   "score": 0.785,
+   "aZh": "n. 畫家；油漆工",
+   "bZh": "n. 印表機；印刷業者",
+   "diff": "painter 是畫畫或粉刷的人；printer 是印表機或印刷業者。兩字都以 -inter 結尾，只差 pa- 和 pr-。",
+   "points": [
+    "拼字：painter 有 pa，printer 有 pr",
+    "詞根：painter 來自 paint，printer 來自 print",
+    "詞性：兩字都是名詞"
+   ],
+   "tip": "paint 是畫畫；print 是列印。",
+   "exA": {
+    "en": "The painter used bright colors for the sky.",
+    "zh": "那位畫家用明亮的顏色畫天空。"
+   },
+   "exB": {
+    "en": "Please send your file to the printer in the school library.",
+    "zh": "請把你的檔案傳到學校圖書館的印表機。"
+   }
+  },
+  {
+   "a": "castle",
+   "b": "palace",
+   "kind": "semantic",
+   "score": 0.536,
+   "aZh": "n. 城堡",
+   "bZh": "n. 宮殿；皇宮",
+   "diff": "castle 是有城牆和防禦功能的城堡；palace 是君主或皇室居住的宏偉建築，不一定有防禦功能。",
+   "points": [
+    "功能：castle 用來防禦，palace 用來居住、辦公",
+    "住戶：palace 多是國王或總統的住所",
+    "搭配：an old castle；a royal palace"
+   ],
+   "tip": "castle 有牆、有塔；palace 華麗，是國王的家。",
+   "exA": {
+    "en": "An old castle stands on the hill above the town.",
+    "zh": "一座古老的城堡矗立在鎮上方的山丘上。"
+   },
+   "exB": {
+    "en": "Tourists visited the royal palace in the old city.",
+    "zh": "遊客參觀了舊城區的皇宮。"
+   }
+  },
+  {
+   "a": "palace",
+   "b": "place",
+   "kind": "visual",
+   "score": 0.699,
+   "aZh": "n. 宮殿；皇宮",
+   "bZh": "n. 地方；位置",
+   "diff": "palace 是宮殿；place 是一般的地方。palace 比 place 多一個 a，順序是 pal-ace。",
+   "points": [
+    "拼字：palace 是 pal + ace，place 是 pl + ace",
+    "音節：palace 有兩個音節，place 只有一個",
+    "發音：palace 讀 /ˈpæləs/，place 讀 /pleɪs/"
+   ],
+   "tip": "palace 比 place 長，因為宮殿更大。",
+   "exA": {
+    "en": "The king lived in a huge palace with a beautiful garden.",
+    "zh": "國王住在一座有美麗花園的巨大宮殿裡。"
+   },
+   "exB": {
+    "en": "This quiet place is perfect for a picnic.",
+    "zh": "這個安靜的地方很適合野餐。"
+   }
+  },
+  {
+   "a": "calm",
+   "b": "palm",
+   "kind": "visual",
+   "score": 0.646,
+   "aZh": "adj. 平靜的；v. 使平靜",
+   "bZh": "n. 手掌；棕櫚樹",
+   "diff": "calm 是平靜的；palm 是手掌或棕櫚樹。兩字的 l 都不發音，只差第一個字母。",
+   "points": [
+    "發音：兩字的 l 都不發音，calm 讀 /kɑːm/，palm 讀 /pɑːm/",
+    "拼字：calm 是 c 開頭，palm 是 p 開頭",
+    "詞性：calm 是形容詞、動詞，palm 是名詞"
+   ],
+   "tip": "calm 的 c 想成 cool（冷靜）；palm 的 p 想成 pat（用手掌輕拍）。",
+   "exA": {
+    "en": "Please stay calm and follow the teacher outside.",
+    "zh": "請保持冷靜，跟著老師走到外面。"
+   },
+   "exB": {
+    "en": "Amy drew a small heart on the palm of her hand.",
+    "zh": "Amy 在手掌上畫了一顆小小的愛心。"
+   }
+  },
+  {
+   "a": "panic",
+   "b": "picnic",
+   "kind": "visual",
+   "score": 0.584,
+   "aZh": "n./v. 恐慌；驚慌",
+   "bZh": "n./v. 野餐",
+   "diff": "panic 是恐慌；picnic 是野餐。兩字都是雙音節、以 -ic 結尾，中間的字母不同。",
+   "points": [
+    "拼字：panic 是 pan-ic，picnic 是 pic-nic",
+    "變化：加 -ed 時都要加 k：panicked、picnicked",
+    "搭配：panic attack；go on a picnic"
+   ],
+   "tip": "panic 源自希臘神 Pan 帶來的驚嚇；picnic 是開心的野餐。",
+   "exA": {
+    "en": "Do not panic if you make a mistake during the test.",
+    "zh": "考試時如果犯錯，不要慌張。"
+   },
+   "exB": {
+    "en": "We had a picnic by the lake last Sunday.",
+    "zh": "上週日我們在湖邊野餐。"
+   }
+  },
+  {
+   "a": "heaven",
+   "b": "paradise",
+   "kind": "semantic",
+   "score": 0.645,
+   "aZh": "n. 天堂；天國",
+   "bZh": "n. 天堂；樂園",
+   "diff": "heaven 可指宗教中的天堂，也可泛指非常愉快的狀態；paradise 多指美好的樂園或勝地，常形容風景美麗的地方。",
+   "points": [
+    "宗教：heaven 有宗教上的天堂意思，paradise 較常指樂園",
+    "搭配：heaven on earth；a tropical paradise",
+    "用法：heaven 可用在感嘆語，如 Good heavens!"
+   ],
+   "tip": "heaven 是天上的；paradise 是人間也能有的樂園。",
+   "exA": {
+    "en": "For many kids, a big playground is like heaven.",
+    "zh": "對許多孩子來說，大遊樂場就像天堂。"
+   },
+   "exB": {
+    "en": "The quiet island felt like paradise after a busy school year.",
+    "zh": "忙碌一學年後，那座安靜的島嶼像天堂一樣。"
+   }
+  },
+  {
+   "a": "parade",
+   "b": "paradise",
+   "kind": "visual",
+   "score": 0.707,
+   "aZh": "n. 遊行；閱兵",
+   "bZh": "n. 天堂；樂園",
+   "diff": "parade 是遊行；paradise 是天堂。兩字開頭都是 par-，差別在結尾的 -ade 和 -adise。",
+   "points": [
+    "拼字：parade 結尾 -ade，paradise 結尾 -adise",
+    "發音：parade 讀 /pəˈreɪd/，paradise 讀 /ˈpærədaɪs/",
+    "詞性：兩字都是名詞，parade 也是動詞"
+   ],
+   "tip": "關鍵在結尾：-ade 是遊行，-adise 是天堂。",
+   "exA": {
+    "en": "The town held a parade to celebrate the school team.",
+    "zh": "鎮上舉行遊行慶祝校隊。"
+   },
+   "exB": {
+    "en": "The quiet island felt like paradise after a busy school year.",
+    "zh": "忙碌一學年後，那座安靜的島嶼像天堂一樣。"
+   }
+  },
+  {
+   "a": "package",
+   "b": "parcel",
+   "kind": "semantic",
+   "score": 0.808,
+   "aZh": "n. 包裹；包裝",
+   "bZh": "n. 包裹；一包",
+   "diff": "兩字都是包裹。package 是最常用的說法，也可指包裝或一整套方案；parcel 多指郵寄的包裹，英式較常用。",
+   "points": [
+    "範圍：package 較廣，可指包裝或套裝方案；parcel 只指包裹",
+    "地區：parcel 在英式英文較常見",
+    "搭配：a package deal；send a parcel"
+   ],
+   "tip": "package 什麼都能包；parcel 是郵局裡的包裹。",
+   "exA": {
+    "en": "A large package arrived at our door this morning.",
+    "zh": "今天早上有一個大包裹送到我們家門口。"
+   },
+   "exB": {
+    "en": "A parcel from my aunt arrived at the post office today.",
+    "zh": "阿姨寄來的包裹今天送到了郵局。"
+   }
+  },
+  {
+   "a": "parcel",
+   "b": "partial",
+   "kind": "visual",
+   "score": 0.61,
+   "aZh": "n. 包裹；v. 分裝",
+   "bZh": "adj. 部分的；偏袒的",
+   "diff": "parcel 是包裹；partial 是部分的，或偏袒的。兩字都以 par- 開頭，結尾不同。",
+   "points": [
+    "詞性：parcel 是名詞，partial 是形容詞",
+    "拼字：parcel 是 par-cel，partial 是 par-tial",
+    "搭配：send a parcel；partial payment"
+   ],
+   "tip": "partial 裡有 part（部分）；parcel 是要寄出去的一包。",
+   "exA": {
+    "en": "I received a parcel from my cousin yesterday.",
+    "zh": "我昨天收到表哥寄來的包裹。"
+   },
+   "exB": {
+    "en": "The team won only a partial victory this time.",
+    "zh": "這次球隊只取得了部分的勝利。"
+   }
+  },
+  {
+   "a": "carrot",
+   "b": "parrot",
+   "kind": "visual",
+   "score": 0.769,
+   "aZh": "n. 胡蘿蔔",
+   "bZh": "n. 鸚鵡",
+   "diff": "carrot 是胡蘿蔔；parrot 是鸚鵡。兩字只差第一個字母 c 和 p，結尾 -rrot 相同。",
+   "points": [
+    "拼字：carrot 是 c 開頭，parrot 是 p 開頭，中間都有 rr",
+    "發音：carrot 讀 /ˈkærət/，parrot 讀 /ˈpærət/",
+    "詞性：parrot 也可作動詞，carrot 只是名詞"
+   ],
+   "tip": "parrot 的 p 想成 pretty（漂亮的鳥）；carrot 的 c 想成 crunchy（脆脆的）。",
+   "exA": {
+    "en": "Rabbits love to eat fresh carrots from the garden.",
+    "zh": "兔子愛吃花園裡新鮮的胡蘿蔔。"
+   },
+   "exB": {
+    "en": "The green parrot repeated the words that Jenny taught it.",
+    "zh": "那隻綠鸚鵡重複 Jenny 教牠的話。"
+   }
+  },
+  {
+   "a": "passenger",
+   "b": "traveler",
+   "kind": "semantic",
+   "score": 0.742,
+   "aZh": "n. 乘客；旅客",
+   "bZh": "n. 旅行者；旅客",
+   "diff": "passenger 是搭乘交通工具但不駕駛的人；traveler 是旅行的人，不一定正在搭乘交通工具。",
+   "points": [
+    "重點：passenger 看有沒有搭車，traveler 看是不是在旅行",
+    "搭配：a bus passenger；a solo traveler",
+    "拼字：美式 traveler 只有一個 l，英式寫成 traveller"
+   ],
+   "tip": "passenger 是坐著的人；traveler 是走出去看世界的人。",
+   "exA": {
+    "en": "All passengers must fasten their seat belts before takeoff.",
+    "zh": "所有乘客都必須在起飛前繫好安全帶。"
+   },
+   "exB": {
+    "en": "The young traveler visited ten countries in a year.",
+    "zh": "那位年輕的旅行者一年內去了十個國家。"
+   }
+  },
+  {
+   "a": "enthusiasm",
+   "b": "passion",
+   "kind": "semantic",
+   "score": 0.648,
+   "aZh": "n. 熱忱；熱情",
+   "bZh": "n. 熱情；熱愛",
+   "diff": "passion 是強烈而持久的熱愛，投入程度高；enthusiasm 是對某事的高度興趣與興奮，偏向活力與熱情的表現。",
+   "points": [
+    "程度：passion 更深、更持久，enthusiasm 較活潑",
+    "搭配：a passion for music；show enthusiasm for",
+    "情境：passion 也可指強烈情感"
+   ],
+   "tip": "enthusiasm 是興奮的表現；passion 是心裡的熱愛。",
+   "exA": {
+    "en": "The students showed great enthusiasm for the school trip.",
+    "zh": "學生們對校外教學表現出極大的熱忱。"
+   },
+   "exB": {
+    "en": "Kevin found his passion for cooking when he was twelve.",
+    "zh": "Kevin 十二歲時發現自己熱愛烹飪。"
+   }
+  },
+  {
+   "a": "passion",
+   "b": "patience",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 熱情；熱愛",
+   "bZh": "n. 耐心；忍耐",
+   "diff": "passion 是熱情；patience 是耐心。兩字都以 pa- 開頭，拼字很容易搞混。",
+   "points": [
+    "拼字：passion 有 ss，patience 有 t",
+    "字尾：passion 是 -ion，patience 是 -ience",
+    "搭配：a passion for；have patience"
+   ],
+   "tip": "patience 和 patient 同源：病人要有耐心。",
+   "exA": {
+    "en": "Kevin found his passion for cooking when he was twelve.",
+    "zh": "Kevin 十二歲時發現自己熱愛烹飪。"
+   },
+   "exB": {
+    "en": "Learning a new language takes a lot of time and patience.",
+    "zh": "學習新語言需要很多時間和耐心。"
+   }
+  },
+  {
+   "a": "passport",
+   "b": "password",
+   "kind": "visual",
+   "score": 0.622,
+   "aZh": "n. 護照；通行證",
+   "bZh": "n. 密碼；通行密語",
+   "diff": "passport 是出國用的護照；password 是登入用的密碼。兩字前面都是 pass-，後面 -port 和 -word 不同。",
+   "points": [
+    "字尾：port 是港口，word 是字",
+    "用途：passport 通過邊境，password 通過系統",
+    "搭配：a valid passport；a strong password"
+   ],
+   "tip": "port（港口）過海關用 passport；word（字）輸入 password。",
+   "exA": {
+    "en": "Please check that your passport is valid before booking the flight.",
+    "zh": "訂機票前，請確認你的護照仍在有效期限內。"
+   },
+   "exB": {
+    "en": "Please never share your password with anyone at school.",
+    "zh": "請千萬不要把你的密碼告訴學校裡的任何人。"
+   }
+  },
+  {
+   "a": "passport",
+   "b": "visa",
+   "kind": "semantic",
+   "score": 0.381,
+   "aZh": "n. 護照；通行證",
+   "bZh": "n. 簽證",
+   "diff": "passport 是自己國家發的身分與旅行證件；visa 是目的地國家給的入境許可。有護照不一定能入境，還要看是否需要簽證。",
+   "points": [
+    "核發：passport 由本國發，visa 由要去的國家發",
+    "用途：passport 證明身分，visa 允許入境",
+    "搭配：renew a passport；apply for a visa"
+   ],
+   "tip": "護照是你的證件；簽證是別國的許可。",
+   "exA": {
+    "en": "Tom kept his passport and tickets in a small bag.",
+    "zh": "Tom 把護照和機票放在一個小包包裡。"
+   },
+   "exB": {
+    "en": "You may need a visa to visit some countries.",
+    "zh": "去某些國家可能需要簽證。"
+   }
+  },
+  {
+   "a": "pat",
+   "b": "tap",
+   "kind": "semantic",
+   "score": 0.48,
+   "aZh": "v. 輕拍；輕撫",
+   "bZh": "v. 輕敲；輕拍",
+   "diff": "pat 是用手掌輕拍身體或動物，多帶安慰、鼓勵的意思；tap 是輕敲或短暫碰觸，如敲門、敲桌子。",
+   "points": [
+    "動作：pat 用手掌輕拍，tap 用指尖或物品輕敲",
+    "意味：pat 常表示安慰、讚賞，tap 常用來引起注意",
+    "搭配：pat someone on the back；tap on the door"
+   ],
+   "tip": "pat 是拍拍安慰；tap 是輕敲叫人。",
+   "exA": {
+    "en": "The coach patted Kevin on the back after the game.",
+    "zh": "比賽後，教練拍了拍 Kevin 的背。"
+   },
+   "exB": {
+    "en": "Please tap on the door before you come in.",
+    "zh": "進來之前，請先輕敲一下門。"
+   }
+  },
+  {
+   "a": "pat",
+   "b": "pet",
+   "kind": "semantic",
+   "score": 0.561,
+   "aZh": "v. 輕拍；n. 輕拍",
+   "bZh": "n. 寵物；v. 撫摸",
+   "diff": "pat 是用手掌輕拍一下；pet 是寵物，也可當動詞，表示溫柔地撫摸。",
+   "points": [
+    "動作：pat 是短短的拍，pet 是持續的撫摸",
+    "字義：pet 主要指寵物，pat 沒有這個意思",
+    "詞性：兩字都能當名詞和動詞"
+   ],
+   "tip": "pat 是拍一下；pet 是把小動物當寵物一直摸。",
+   "exA": {
+    "en": "Amy patted the horse gently and gave it some carrots.",
+    "zh": "Amy 輕輕拍拍那匹馬，還給了牠一些胡蘿蔔。"
+   },
+   "exB": {
+    "en": "My sister loves to pet the neighbor's cat.",
+    "zh": "我妹妹很愛撫摸鄰居的貓。"
+   }
+  },
+  {
+   "a": "patience",
+   "b": "patient",
+   "kind": "visual",
+   "score": 0.774,
+   "aZh": "n. 耐心；忍耐",
+   "bZh": "adj. 有耐心的；n. 病人",
+   "diff": "patience 是名詞，指耐心；patient 是形容詞，指有耐心的，也可當名詞，指病人。",
+   "points": [
+    "詞性：patience 是名詞，patient 是形容詞或名詞",
+    "字義：patient 還有病人的意思",
+    "搭配：have patience；be patient with"
+   ],
+   "tip": "有耐心的人 patient 才有 patience；病人 patient 也需要耐心。",
+   "exA": {
+    "en": "Learning a new language takes time and patience.",
+    "zh": "學習新語言需要時間和耐心。"
+   },
+   "exB": {
+    "en": "Our teacher is always patient with young children.",
+    "zh": "我們的老師對年幼的孩子總是很有耐心。"
+   }
+  },
+  {
+   "a": "pause",
+   "b": "stop",
+   "kind": "semantic",
+   "score": 0.527,
+   "aZh": "v./n. 暫停；停頓",
+   "bZh": "v./n. 停止；車站",
+   "diff": "pause 是暫時停下來，之後通常會繼續；stop 是停止，語氣較強，不一定會繼續。",
+   "points": [
+    "後續：pause 之後會繼續，stop 不一定",
+    "搭配：pause the video；stop the car",
+    "詞性：兩字都能當動詞和名詞"
+   ],
+   "tip": "pause 是按暫停鍵；stop 是按停止鍵。",
+   "exA": {
+    "en": "The video paused because the Internet connection was weak.",
+    "zh": "影片因為網路連線不穩而暫停。"
+   },
+   "exB": {
+    "en": "The bus will stop at the next station.",
+    "zh": "公車下一站會停靠在下個車站。"
+   }
+  },
+  {
+   "a": "pea",
+   "b": "peanut",
+   "kind": "visual",
+   "score": 0.57,
+   "aZh": "n. 豌豆",
+   "bZh": "n. 花生",
+   "diff": "pea 是豌豆，長在豆莢裡，是蔬菜；peanut 是花生，種子長在地下，屬於豆科，常當作堅果吃。",
+   "points": [
+    "外形：pea 是綠色小圓豆，peanut 有殼、長在地下",
+    "用途：pea 煮熟當蔬菜，peanut 可製成花生醬",
+    "拼字：peanut = pea + nut"
+   ],
+   "tip": "peanut 是 pea + nut：像豆子的堅果。",
+   "exA": {
+    "en": "Rows of pea plants grew along the garden fence.",
+    "zh": "一排排豌豆藤沿著花園的圍籬生長。"
+   },
+   "exB": {
+    "en": "Some children in my class are allergic to peanuts.",
+    "zh": "我們班上有些孩子對花生過敏。"
+   }
+  },
+  {
+   "a": "pear",
+   "b": "pearl",
+   "kind": "visual",
+   "score": 0.736,
+   "aZh": "n. 梨；梨樹",
+   "bZh": "n. 珍珠",
+   "diff": "pear 是水果的梨；pearl 是貝類裡形成的珍珠。pearl 只比 pear 多一個 l，發音也不同。",
+   "points": [
+    "拼字：pearl 比 pear 多一個 l",
+    "發音：pear 讀 /per/，pearl 讀 /pɜːrl/",
+    "詞性：兩字都是名詞"
+   ],
+   "tip": "pearl 多一個 l，想成 lovely（可愛的飾品）。",
+   "exA": {
+    "en": "Jenny cut a sweet pear into thin slices.",
+    "zh": "Jenny 把一顆甜梨切成薄片。"
+   },
+   "exB": {
+    "en": "Her grandmother gave her a beautiful pearl necklace.",
+    "zh": "她的祖母送給她一條漂亮的珍珠項鍊。"
+   }
+  },
+  {
+   "a": "peel",
+   "b": "skin",
+   "kind": "semantic",
+   "score": 0.868,
+   "aZh": "v. 削皮；n. 果皮",
+   "bZh": "n. 皮膚；外皮",
+   "diff": "peel 指水果或蔬菜可剝下的外皮，也是削皮這個動作；skin 可指人或動物的皮膚，也可指水果的外皮。",
+   "points": [
+    "對象：peel 主要指水果蔬菜，skin 也指人與動物",
+    "詞性：peel 也是動詞，skin 也可作動詞（剝皮）",
+    "搭配：orange peel；dry skin"
+   ],
+   "tip": "peel 只用在水果蔬菜；skin 連人都能用。",
+   "exA": {
+    "en": "Do not throw the orange peel on the floor.",
+    "zh": "不要把橘子皮丟在地板上。"
+   },
+   "exB": {
+    "en": "Use sunscreen to protect your skin in summer.",
+    "zh": "夏天要擦防曬乳來保護你的皮膚。"
+   }
+  },
+  {
+   "a": "peel",
+   "b": "pill",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "v. 削皮；n. 果皮",
+   "bZh": "n. 藥丸；藥片",
+   "diff": "peel 是剝皮、果皮；pill 是藥丸。兩字只差中間的 ee 和 i，發音也不同。",
+   "points": [
+    "拼字：peel 是 ee，pill 是 i 加 ll",
+    "發音：peel 讀 /piːl/，pill 讀 /pɪl/",
+    "搭配：peel an apple；take a pill"
+   ],
+   "tip": "peel 有兩個 e，聲音拉長；pill 是短短的 i。",
+   "exA": {
+    "en": "Amy peeled the apples before making the pie.",
+    "zh": "Amy 做派之前先把蘋果削皮。"
+   },
+   "exB": {
+    "en": "The doctor told Kevin to take one pill after dinner.",
+    "zh": "醫生告訴 Kevin 晚餐後要吃一顆藥。"
+   }
+  },
+  {
+   "a": "penguin",
+   "b": "pigeon",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 企鵝",
+   "bZh": "n. 鴿子",
+   "diff": "penguin 是不會飛、擅長游泳的企鵝；pigeon 是常見的鴿子。兩字都是鳥，拼字也有相近的地方。",
+   "points": [
+    "特徵：penguin 不會飛，pigeon 會飛",
+    "拼字：penguin 有 gu，pigeon 有 ge",
+    "棲地：penguin 多在寒冷海域，pigeon 常見於城市"
+   ],
+   "tip": "penguin 在南極游泳；pigeon 在廣場飛。",
+   "exA": {
+    "en": "Penguins cannot fly, but they swim very fast.",
+    "zh": "企鵝不會飛，但牠們游得很快。"
+   },
+   "exB": {
+    "en": "The old man feeds the pigeons in the square every morning.",
+    "zh": "那位老先生每天早上在廣場餵鴿子。"
+   }
+  },
+  {
+   "a": "cent",
+   "b": "penny",
+   "kind": "semantic",
+   "score": 0.875,
+   "aZh": "n. 分；一分錢",
+   "bZh": "n. 便士；一分錢",
+   "diff": "cent 是美國等地的分幣，一美元的百分之一；penny 是英國的便士，美國人也常用它稱一分錢硬幣。",
+   "points": [
+    "地區：cent 用於美元，penny 用於英鎊",
+    "口語：美式口語也常把一分錢叫 penny",
+    "複數：cents 和 pennies"
+   ],
+   "tip": "cent 像 century（百分之一）；penny 是英國的小錢。",
+   "exA": {
+    "en": "The candy costs fifty cents at the store.",
+    "zh": "這顆糖在店裡賣五十分錢。"
+   },
+   "exB": {
+    "en": "Tom saved every penny to buy a new bike.",
+    "zh": "Tom 存下每一分錢，好買一輛新腳踏車。"
+   }
+  },
+  {
+   "a": "paper",
+   "b": "pepper",
+   "kind": "visual",
+   "score": 0.568,
+   "aZh": "n. 紙；報紙；論文",
+   "bZh": "n. 胡椒；甜椒",
+   "diff": "paper 是紙；pepper 是胡椒或甜椒。兩字只差 a 和 e，pepper 中間有雙寫的 pp。",
+   "points": [
+    "拼字：paper 中間只有一個 p，pepper 有 pp",
+    "發音：paper 讀 /ˈpeɪpər/，pepper 讀 /ˈpepər/",
+    "可數性：paper 指紙時不可數，pepper 指胡椒粉時也不可數"
+   ],
+   "tip": "pepper 有雙 p，像撒出去的兩粒胡椒。",
+   "exA": {
+    "en": "Please write your name on a piece of paper.",
+    "zh": "請把你的名字寫在一張紙上。"
+   },
+   "exB": {
+    "en": "Please add some salt and pepper to the salad.",
+    "zh": "請在沙拉裡加些鹽和胡椒。"
+   }
+  },
+  {
+   "a": "mission",
+   "b": "permission",
+   "kind": "visual",
+   "score": 0.71,
+   "aZh": "n. 任務；使命",
+   "bZh": "n. 許可；允許",
+   "diff": "mission 是任務；permission 是許可。permission 是 per- 加 mission，拼字要多記 per-。",
+   "points": [
+    "拼字：permission 前面多了 per-",
+    "詞性：兩字都是名詞，permission 不可數",
+    "搭配：a rescue mission；ask for permission"
+   ],
+   "tip": "permission 裡面藏著 mission，但前面多了 per-。",
+   "exA": {
+    "en": "The team's mission is to clean the river this weekend.",
+    "zh": "這個團隊的任務是在這個週末清理河川。"
+   },
+   "exB": {
+    "en": "Students need permission from a teacher to leave school early.",
+    "zh": "學生需要獲得老師的許可才能提早離開學校。"
+   }
+  },
+  {
+   "a": "allow",
+   "b": "permit",
+   "kind": "semantic",
+   "score": 0.902,
+   "aZh": "v. 允許；准許",
+   "bZh": "v. 允許；n. 許可證",
+   "diff": "兩字都是允許。permit 較正式，常用於規則、法律或官方情境；allow 較普通，使用範圍更廣。",
+   "points": [
+    "語氣：permit 較正式，allow 較日常",
+    "句型：兩字都可接 人 + to V",
+    "詞性：permit 也可作名詞（許可證），allow 沒有"
+   ],
+   "tip": "permit 有 permission（許可）的味道；allow 是日常說的讓你做。",
+   "exA": {
+    "en": "My parents allow me to stay up until ten.",
+    "zh": "我爸媽允許我熬夜到十點。"
+   },
+   "exB": {
+    "en": "The school does not permit students to use phones in class.",
+    "zh": "學校不允許學生在課堂上使用手機。"
+   }
+  },
+  {
+   "a": "license",
+   "b": "permit",
+   "kind": "semantic",
+   "score": 0.776,
+   "aZh": "n. 執照；許可",
+   "bZh": "n. 許可證；v. 允許",
+   "diff": "license 是長期有效的執照，如駕照、營業執照；permit 是特定活動或期間的許可證，如停車許可證。",
+   "points": [
+    "期間：license 多為長期資格，permit 多為特定用途",
+    "搭配：a driver's license；a parking permit",
+    "詞性：permit 也是動詞，license 也可作動詞（授權）"
+   ],
+   "tip": "license 是資格證；permit 是通行許可。",
+   "exA": {
+    "en": "Dad showed his driver's license to the police officer.",
+    "zh": "爸爸把他的駕照拿給警察看。"
+   },
+   "exB": {
+    "en": "You need a parking permit to use this space.",
+    "zh": "使用這個車位需要停車許可證。"
+   }
+  },
+  {
+   "a": "convince",
+   "b": "persuade",
+   "kind": "semantic",
+   "score": 0.721,
+   "aZh": "v. 使相信；說服",
+   "bZh": "v. 說服；勸服",
+   "diff": "persuade 是勸人去做某事，常接 to V；convince 是讓人相信某件事是真的，常接 that 子句或 of。",
+   "points": [
+    "句型：persuade + 人 + to V；convince + 人 + that／of",
+    "重點：persuade 看行動，convince 看想法",
+    "搭配：persuade him to stay；convince her that it is safe"
+   ],
+   "tip": "persuade 是說服你去做；convince 是說服你相信。",
+   "exA": {
+    "en": "She convinced me that the plan was safe.",
+    "zh": "她說服我相信這個計畫是安全的。"
+   },
+   "exB": {
+    "en": "Amy persuaded her brother to join the school club.",
+    "zh": "Amy 說服弟弟加入學校社團。"
+   }
+  },
+  {
+   "a": "photographer",
+   "b": "photography",
+   "kind": "visual",
+   "score": 0.833,
+   "aZh": "n. 攝影師；攝影家",
+   "bZh": "n. 攝影；攝影術",
+   "diff": "photographer 指拍照的人；photography 指攝影這項活動或藝術。photographer 多了 -er（做事的人）。",
+   "points": [
+    "指人或事：photographer 指人，photography 指活動",
+    "字尾：-er 表示人，-y 表示學科或活動",
+    "搭配：a professional photographer；study photography"
+   ],
+   "tip": "-er 是人，-y 是學問。",
+   "exA": {
+    "en": "The photographer took pictures of our school festival.",
+    "zh": "那位攝影師拍了我們校慶活動的照片。"
+   },
+   "exB": {
+    "en": "She studies photography at a small art school.",
+    "zh": "她在一所小型藝術學校學攝影。"
+   }
+  },
+  {
+   "a": "dove",
+   "b": "pigeon",
+   "kind": "semantic",
+   "score": 0.84,
+   "aZh": "n. 鴿子；白鴿",
+   "bZh": "n. 鴿子",
+   "diff": "兩字都是鴿子。pigeon 是一般常見的鴿子，多在城市；dove 常指白鴿，帶有和平的象徵。",
+   "points": [
+    "形象：dove 象徵和平，pigeon 是常見的城市鳥",
+    "顏色：dove 常是白色，pigeon 多為灰色",
+    "用法：兩字有時可互換，dove 較文學"
+   ],
+   "tip": "dove 是和平的白鴿；pigeon 是廣場上的灰鴿。",
+   "exA": {
+    "en": "A white dove is often a symbol of peace.",
+    "zh": "白鴿常常是和平的象徵。"
+   },
+   "exB": {
+    "en": "The old man feeds the pigeons in the square every morning.",
+    "zh": "那位老先生每天早上在廣場餵鴿子。"
+   }
+  },
+  {
+   "a": "pile",
+   "b": "stack",
+   "kind": "semantic",
+   "score": 0.743,
+   "aZh": "n. 一堆；v. 堆積",
+   "bZh": "n. 一疊；v. 堆放",
+   "diff": "pile 是隨意堆在一起的一堆；stack 通常是整整齊齊一層層疊起來的一疊。",
+   "points": [
+    "整齊度：pile 可雜亂，stack 整齊",
+    "搭配：a pile of laundry；a stack of books",
+    "動詞：pile up 是越堆越多，stack up 是疊起來"
+   ],
+   "tip": "stack 疊得整整齊齊；pile 是隨手一堆。",
+   "exA": {
+    "en": "There was a pile of books beside my desk.",
+    "zh": "我的書桌旁有一堆書。"
+   },
+   "exB": {
+    "en": "The teacher put a stack of papers on the table.",
+    "zh": "老師把一疊考卷放在桌上。"
+   }
+  },
+  {
+   "a": "file",
+   "b": "pile",
+   "kind": "visual",
+   "score": 0.667,
+   "aZh": "n. 檔案；資料夾；v. 歸檔",
+   "bZh": "n. 一堆；v. 堆積",
+   "diff": "file 是檔案、文件夾，也指把文件歸檔；pile 是把東西堆成一堆。兩字只差第一個字母，pile 是隨意堆放。",
+   "points": [
+    "拼字：file 是 f，pile 是 p",
+    "動作：file 是按順序歸檔，pile 是堆放",
+    "搭配：save a file；a pile of books"
+   ],
+   "tip": "file 是整理歸檔；pile 是隨手一堆。",
+   "exA": {
+    "en": "Please file these papers in alphabetical order by name.",
+    "zh": "請把這些文件依名字的字母順序歸檔。"
+   },
+   "exB": {
+    "en": "Homework started to pile up after the long holiday.",
+    "zh": "長假後，作業開始堆積起來。"
+   }
+  },
+  {
+   "a": "elastic",
+   "b": "plastic",
+   "kind": "visual",
+   "score": 0.812,
+   "aZh": "adj. 有彈性的；n. 鬆緊帶",
+   "bZh": "n. 塑膠；adj. 塑膠製的",
+   "diff": "elastic 是有彈性、拉開後會彈回來；plastic 是塑膠。兩字都以 -astic 結尾，只差 el- 和 pl-。",
+   "points": [
+    "拼字：elastic 是 e-lastic，plastic 是 p-lastic",
+    "詞性：plastic 是名詞也是形容詞，elastic 是形容詞也是名詞",
+    "搭配：an elastic band；a plastic bag"
+   ],
+   "tip": "elastic 拉一拉會彈回來；plastic 是塑膠袋的塑膠。",
+   "exA": {
+    "en": "The elastic band around my long hair broke this morning.",
+    "zh": "我綁長頭髮的橡皮筋今天早上斷了。"
+   },
+   "exB": {
+    "en": "Our class collected plastic bottles for recycling last week.",
+    "zh": "我們班上週收集塑膠瓶進行回收。"
+   }
+  },
+  {
+   "a": "naughty",
+   "b": "playful",
+   "kind": "semantic",
+   "score": 0.469,
+   "aZh": "adj. 頑皮的；不守規矩的",
+   "bZh": "adj. 愛玩的；頑皮的；活潑的",
+   "diff": "playful 是愛玩、輕鬆好玩，語氣通常正面；naughty 是頑皮到不守規矩、惹人生氣，語氣偏負面。",
+   "points": [
+    "語氣：playful 正面，naughty 偏負面",
+    "對象：naughty 多形容小孩或寵物的不乖行為",
+    "搭配：a playful puppy；a naughty child"
+   ],
+   "tip": "naughty 是會被罵的頑皮；playful 是可愛的愛玩。",
+   "exA": {
+    "en": "The naughty boy hid his sister's shoes again.",
+    "zh": "那個調皮的男孩又把姊姊的鞋子藏起來了。"
+   },
+   "exB": {
+    "en": "The playful puppy kept running around the garden.",
+    "zh": "那隻頑皮的小狗一直在花園裡跑來跑去。"
+   }
+  },
+  {
+   "a": "enough",
+   "b": "plenty",
+   "kind": "semantic",
+   "score": 0.677,
+   "aZh": "adj./adv. 足夠的；足夠地",
+   "bZh": "pron./n. 大量；充足",
+   "diff": "enough 是剛好達到需要的量；plenty 是比需要的還多，表示很充裕。",
+   "points": [
+    "程度：enough 剛好夠，plenty 綽綽有餘",
+    "句型：plenty of + 名詞；enough + 名詞、形容詞 + enough",
+    "詞性：enough 是形容詞、副詞，plenty 是代名詞、名詞、副詞"
+   ],
+   "tip": "enough 是夠了；plenty 是多到有剩。",
+   "exA": {
+    "en": "We have enough chairs for everyone in the class.",
+    "zh": "我們的椅子夠全班每個人坐。"
+   },
+   "exB": {
+    "en": "There is plenty of time to finish the homework.",
+    "zh": "還有充足的時間完成作業。"
+   }
+  },
+  {
+   "a": "pole",
+   "b": "poll",
+   "kind": "visual",
+   "score": 0.747,
+   "aZh": "n. 柱子；桿子；極點",
+   "bZh": "n. 民意調查；投票",
+   "diff": "poll 是民意調查或投票；pole 是柱子或地球的極點。兩字發音相同，拼字不同。",
+   "points": [
+    "發音：兩字都讀 /poʊl/，是同音字",
+    "拼字：poll 有雙 l，pole 結尾是不發音的 e",
+    "搭配：an opinion poll；the North Pole"
+   ],
+   "tip": "pole 和 hole、role 一樣有不發音的 e；poll 有雙 l。",
+   "exA": {
+    "en": "A flag was flying from a tall pole outside the school.",
+    "zh": "學校外一根高高的旗桿上飄著一面旗子。"
+   },
+   "exB": {
+    "en": "A school poll showed that most students prefer longer lunch breaks.",
+    "zh": "一項校內民意調查顯示，多數學生希望午休時間更長。"
+   }
+  },
+  {
+   "a": "politician",
+   "b": "politics",
+   "kind": "visual",
+   "score": 0.712,
+   "aZh": "n. 政治人物；政客",
+   "bZh": "n. 政治；政治學",
+   "diff": "politician 是從事政治的人；politics 是政治這件事或學科。politics 雖然字尾有 s，但通常當單數。",
+   "points": [
+    "指人或事：politician 指人，politics 指政治活動",
+    "字尾：-ian 是人，-ics 是學科",
+    "單複數：politics 常視為單數，不加 a"
+   ],
+   "tip": "-ian 是人，-ics 是學問。",
+   "exA": {
+    "en": "The politician answered questions from students after the talk.",
+    "zh": "演講結束後，這位政治人物回答了學生的問題。"
+   },
+   "exB": {
+    "en": "My brother became interested in politics after watching the news.",
+    "zh": "我弟弟看了新聞後開始對政治感興趣。"
+   }
+  },
+  {
+   "a": "policy",
+   "b": "politics",
+   "kind": "visual",
+   "score": 0.6,
+   "aZh": "n. 政策；規定",
+   "bZh": "n. 政治；政治學",
+   "diff": "policy 是政府或團體訂定的政策、規定；politics 是政治活動或政治學。兩字長得像，都來自希臘文 polis（城邦）。",
+   "points": [
+    "字義：policy 是具體的做法，politics 是政治這件事",
+    "拼字：policy 結尾 -icy，politics 結尾 -itics",
+    "搭配：school policy；local politics"
+   ],
+   "tip": "policy 是一條一條的規定；politics 是整個政治世界。",
+   "exA": {
+    "en": "The school has a new policy about using phones.",
+    "zh": "學校有一項關於使用手機的新規定。"
+   },
+   "exB": {
+    "en": "Politics affects our daily lives, from taxes to public schools.",
+    "zh": "政治影響我們的日常生活，從稅金到公立學校都有關。"
+   }
+  },
+  {
+   "a": "poll",
+   "b": "survey",
+   "kind": "semantic",
+   "score": 0.535,
+   "aZh": "n. 民意調查；投票",
+   "bZh": "n. 調查；問卷",
+   "diff": "poll 多指詢問意見、看多數人支持誰或什麼；survey 範圍較廣，可以調查行為、狀況、資料，也常用問卷。",
+   "points": [
+    "重點：poll 看意見，survey 看整體情況",
+    "搭配：an opinion poll；a customer survey",
+    "動詞：兩字都可作動詞，poll 是調查意見，survey 是調查或檢視"
+   ],
+   "tip": "poll 像投票；survey 像填問卷。",
+   "exA": {
+    "en": "The latest poll shows that most people support the new park.",
+    "zh": "最新的民意調查顯示，多數人支持新公園。"
+   },
+   "exB": {
+    "en": "The school ran a survey about students' reading habits.",
+    "zh": "學校做了一項關於學生閱讀習慣的調查。"
+   }
+  },
+  {
+   "a": "poll",
+   "b": "vote",
+   "kind": "semantic",
+   "score": 0.492,
+   "aZh": "n. 民意調查；投票",
+   "bZh": "n. 投票；選票；v. 投票",
+   "diff": "vote 是實際投出一票，決定結果；poll 是調查意見，或投票的過程，結果不一定有法律效力。",
+   "points": [
+    "效力：vote 會決定結果，poll 多用來了解意見",
+    "動作：vote 是自己投票，poll 常是被調查",
+    "搭配：cast a vote；take a poll"
+   ],
+   "tip": "vote 是自己投的一票；poll 是有人來問你。",
+   "exA": {
+    "en": "The class took a poll on its favorite school subject.",
+    "zh": "全班針對最喜歡的學科進行了一次調查。"
+   },
+   "exB": {
+    "en": "Every student can vote for the class leader.",
+    "zh": "每位學生都可以投票選班長。"
+   }
+  },
+  {
+   "a": "contaminate",
+   "b": "pollute",
+   "kind": "semantic",
+   "score": 1.0,
+   "aZh": "v. 污染；弄髒",
+   "bZh": "v. 污染",
+   "diff": "pollute 指讓空氣、水、土地受到有害物質污染；contaminate 常指有害物質或細菌混入食物、水，使它不安全。",
+   "points": [
+    "對象：pollute 多接環境，contaminate 多接食物、水、樣本",
+    "語氣：contaminate 較正式，強調混入有害物",
+    "名詞：pollution 是污染，contamination 是有害物混入"
+   ],
+   "tip": "pollute 是環境髒了；contaminate 是東西被混入髒東西。",
+   "exA": {
+    "en": "Dirty hands can contaminate the food you prepare.",
+    "zh": "髒手可能會污染你準備的食物。"
+   },
+   "exB": {
+    "en": "Factories can pollute the river if they dump waste into it.",
+    "zh": "工廠若把廢棄物倒進河裡，可能會污染河水。"
+   }
+  },
+  {
+   "a": "pollution",
+   "b": "solution",
+   "kind": "visual",
+   "score": 0.743,
+   "aZh": "n. 污染",
+   "bZh": "n. 解決方法；溶液",
+   "diff": "pollution 是污染；solution 是解決方法，也指溶液。兩字都以 -lution 結尾，開頭 pol- 和 so- 不同。",
+   "points": [
+    "拼字：pollution 是 pollut-ion，solution 是 solut-ion",
+    "詞性：兩字都是名詞，pollution 不可數",
+    "搭配：air pollution；the solution to a problem"
+   ],
+   "tip": "solution 來自 solve（解決）；pollution 來自 pollute（污染）。",
+   "exA": {
+    "en": "Air pollution is a serious problem in many large cities.",
+    "zh": "空氣污染是許多大城市面臨的嚴重問題。"
+   },
+   "exB": {
+    "en": "We need a good solution to this problem.",
+    "zh": "我們需要為這個問題找到好的解決方法。"
+   }
+  },
+  {
+   "a": "china",
+   "b": "porcelain",
+   "kind": "semantic",
+   "score": 0.944,
+   "aZh": "n. 瓷器；瓷餐具",
+   "bZh": "n. 瓷；瓷器",
+   "diff": "兩字都指瓷器。porcelain 是材質名稱，較正式；china 是日常說法，常指瓷做的餐具。",
+   "points": [
+    "語氣：porcelain 較正式，china 較日常",
+    "用法：china 常指整套餐具，porcelain 指瓷這種材質",
+    "拼字：小寫的 china 是瓷器，大寫的 China 是中國"
+   ],
+   "tip": "china 小寫是瓷器，大寫是中國。",
+   "exA": {
+    "en": "Grandma only uses fine china on special occasions.",
+    "zh": "奶奶只在特別的場合才用精緻的瓷餐具。"
+   },
+   "exB": {
+    "en": "My grandmother keeps her porcelain cups in a glass cabinet.",
+    "zh": "我奶奶把她的瓷杯收在玻璃櫃裡。"
+   }
+  },
+  {
+   "a": "porcelain",
+   "b": "pottery",
+   "kind": "semantic",
+   "score": 0.375,
+   "aZh": "n. 瓷；瓷器",
+   "bZh": "n. 陶器；陶藝",
+   "diff": "porcelain 是細緻、堅硬、常帶透光感的瓷器；pottery 泛指用黏土燒成的陶器，質地較粗。",
+   "points": [
+    "質地：porcelain 細緻堅硬，pottery 較粗糙",
+    "範圍：pottery 也指製作陶器的技藝",
+    "可數性：兩字通常不可數"
+   ],
+   "tip": "porcelain 是白瓷；pottery 是陶土做的。",
+   "exA": {
+    "en": "The museum has a room full of blue and white porcelain.",
+    "zh": "那座博物館有一個展間，滿是青花瓷器。"
+   },
+   "exB": {
+    "en": "Jenny made a small pottery bowl during the art lesson.",
+    "zh": "Jenny 在美術課做了一個小陶碗。"
+   }
+  },
+  {
+   "a": "portion",
+   "b": "proportion",
+   "kind": "visual",
+   "score": 0.71,
+   "aZh": "n. 一部分；一份",
+   "bZh": "n. 比例；比率",
+   "diff": "portion 是整體中的一部分或一份；proportion 是一部分佔整體的比例，也指均衡。proportion 是 pro- 加 portion。",
+   "points": [
+    "字義：portion 看份量，proportion 看比例",
+    "拼字：proportion 前面多 pro-",
+    "搭配：a large portion of；a high proportion of"
+   ],
+   "tip": "proportion 裡有 portion，只是前面多了 pro-。",
+   "exA": {
+    "en": "A large portion of our city is covered with trees.",
+    "zh": "我們城市有很大一部分被樹木覆蓋。"
+   },
+   "exB": {
+    "en": "A high proportion of students walk to school.",
+    "zh": "有很高比例的學生走路上學。"
+   }
+  },
+  {
+   "a": "delay",
+   "b": "postpone",
+   "kind": "semantic",
+   "score": 0.575,
+   "aZh": "v. 延遲；耽擱",
+   "bZh": "v. 延後；延期",
+   "diff": "postpone 是刻意把事情改到較晚的時間；delay 可以是刻意延後，也可以是因故耽擱、晚到。",
+   "points": [
+    "原因：postpone 是決定改期，delay 常是無意間耽擱",
+    "搭配：postpone the meeting；the train was delayed",
+    "受詞：postpone 接事件，delay 也可接人或交通"
+   ],
+   "tip": "postpone 有 post（之後）：改到之後；delay 是被拖住。",
+   "exA": {
+    "en": "The flight was delayed because of the thick fog.",
+    "zh": "因為濃霧，班機延誤了。"
+   },
+   "exB": {
+    "en": "The company postponed the meeting until next Monday.",
+    "zh": "公司把會議延到下週一。"
+   }
+  },
+  {
+   "a": "cancel",
+   "b": "postpone",
+   "kind": "semantic",
+   "score": 0.397,
+   "aZh": "v. 取消；撤銷",
+   "bZh": "v. 延後；延期",
+   "diff": "cancel 是取消，不再舉行；postpone 是延後，之後還會舉行。",
+   "points": [
+    "結果：cancel 不舉行，postpone 改期",
+    "搭配：cancel the trip；postpone the trip until Friday",
+    "後接：postpone 常接 until 表示新的時間"
+   ],
+   "tip": "cancel 是叉掉；postpone 是往後放。",
+   "exA": {
+    "en": "The school canceled the game because of the typhoon.",
+    "zh": "學校因為颱風取消了比賽。"
+   },
+   "exB": {
+    "en": "We postponed the class trip because heavy rain was expected.",
+    "zh": "因為預報會下大雨，我們把校外教學延期了。"
+   }
+  },
+  {
+   "a": "lottery",
+   "b": "pottery",
+   "kind": "visual",
+   "score": 0.806,
+   "aZh": "n. 樂透彩；抽獎",
+   "bZh": "n. 陶器；陶藝",
+   "diff": "lottery 是樂透或抽獎；pottery 是陶器或陶藝。兩字只差第一個字母 l 和 p，結尾 -ottery 相同。",
+   "points": [
+    "拼字：lottery 是 l 開頭，pottery 是 p 開頭，中間都是雙 t",
+    "發音：lottery 讀 /ˈlɑːtəri/，pottery 讀 /ˈpɑːtəri/",
+    "可數性：lottery 可數，pottery 通常不可數"
+   ],
+   "tip": "pottery 的 pot 是壺；lottery 的 lot 是抽籤。",
+   "exA": {
+    "en": "My uncle bought a lottery ticket at the convenience store.",
+    "zh": "我叔叔在便利商店買了一張樂透彩券。"
+   },
+   "exB": {
+    "en": "Jenny made a small pottery bowl during the art lesson.",
+    "zh": "Jenny 在美術課做了一個小陶碗。"
+   }
+  },
+  {
+   "a": "poor",
+   "b": "pour",
+   "kind": "visual",
+   "score": 0.6,
+   "aZh": "adj. 貧窮的；差的",
+   "bZh": "v. 倒；傾倒",
+   "diff": "poor 是貧窮的或品質差的；pour 是倒液體。兩字發音幾乎相同，中間的 oo 和 ou 不同。",
+   "points": [
+    "詞性：poor 是形容詞，pour 是動詞",
+    "拼字：poor 是 oo，pour 是 ou",
+    "發音：美式英文中兩字常都讀 /pɔːr/"
+   ],
+   "tip": "poor 有兩個 o，像兩個空口袋；pour 有 ou，像 you 倒給你。",
+   "exA": {
+    "en": "The poor family could not buy new clothes.",
+    "zh": "那個貧窮的家庭買不起新衣服。"
+   },
+   "exB": {
+    "en": "Please pour the milk slowly so it does not spill.",
+    "zh": "請慢慢倒牛奶，才不會灑出來。"
+   }
+  },
+  {
+   "a": "pour",
+   "b": "spill",
+   "kind": "semantic",
+   "score": 0.513,
+   "aZh": "v. 倒；傾倒",
+   "bZh": "v. 灑出；溢出",
+   "diff": "pour 是有意把液體倒出；spill 是液體意外灑出或溢出。",
+   "points": [
+    "有意與否：pour 是故意，spill 是不小心",
+    "搭配：pour milk into a glass；spill milk on the floor",
+    "詞性：spill 也是名詞"
+   ],
+   "tip": "pour 是自己倒；spill 是不小心灑。",
+   "exA": {
+    "en": "Tom poured some water into his bottle before class.",
+    "zh": "Tom 上課前往水瓶裡倒了一些水。"
+   },
+   "exB": {
+    "en": "Be careful not to spill your soup on the table.",
+    "zh": "小心不要把湯灑在桌上。"
+   }
+  },
+  {
+   "a": "poverty",
+   "b": "property",
+   "kind": "visual",
+   "score": 0.658,
+   "aZh": "n. 貧窮；貧困",
+   "bZh": "n. 財產；所有物；特性",
+   "diff": "poverty 是貧窮；property 是財產或房地產，也可指特性。兩字字形相近，意思幾乎相反。",
+   "points": [
+    "拼字：poverty 是 pov-erty，property 是 prop-erty",
+    "詞性：兩字都是名詞，poverty 不可數",
+    "搭配：live in poverty；private property"
+   ],
+   "tip": "poverty 和 poor（貧窮的）同一家。",
+   "exA": {
+    "en": "The charity works to help families living in poverty.",
+    "zh": "這個慈善團體致力於幫助生活在貧困中的家庭。"
+   },
+   "exB": {
+    "en": "The land is private property, so please do not enter.",
+    "zh": "這塊地是私人財產，請勿進入。"
+   }
+  },
+  {
+   "a": "powder",
+   "b": "power",
+   "kind": "visual",
+   "score": 0.791,
+   "aZh": "n. 粉末；v. 撒粉",
+   "bZh": "n. 力量；權力；電力",
+   "diff": "powder 是粉末；power 是力量或電力。兩字前四個字母相同，差在第五個字母 d 和 e。",
+   "points": [
+    "拼字：powder 有 d，power 是 e 直接接 r",
+    "發音：powder 讀 /ˈpaʊdɚ/，power 讀 /ˈpaʊɚ/",
+    "搭配：baby powder；solar power"
+   ],
+   "tip": "powder 中間多一個 d，像粉末落下的一點。",
+   "exA": {
+    "en": "The baker covered the top of the cake with sugar powder.",
+    "zh": "烘焙師在蛋糕上面撒滿了糖粉。"
+   },
+   "exB": {
+    "en": "Strong winds can produce enough power for a small town.",
+    "zh": "強風能為一個小鎮產生足夠的電力。"
+   }
+  },
+  {
+   "a": "flour",
+   "b": "powder",
+   "kind": "semantic",
+   "score": 0.43,
+   "aZh": "n. 麵粉",
+   "bZh": "n. 粉末；粉狀物",
+   "diff": "flour 專指穀物磨成、用來烘焙的麵粉；powder 是任何細小乾燥的粉末，範圍較廣。",
+   "points": [
+    "範圍：flour 是特定的粉，powder 泛指各種粉",
+    "用途：flour 用來做麵包、蛋糕，powder 可用於清潔、化妝、藥品",
+    "搭配：wheat flour；washing powder"
+   ],
+   "tip": "flour 是做麵包的粉；powder 是各種粉的總稱。",
+   "exA": {
+    "en": "Mom mixed flour and eggs to make soft pancakes for breakfast.",
+    "zh": "媽媽把麵粉和雞蛋混在一起，為早餐做了鬆軟的鬆餅。"
+   },
+   "exB": {
+    "en": "Please pour some washing powder into the machine before you start.",
+    "zh": "開始之前，請先倒一些洗衣粉到洗衣機裡。"
+   }
+  },
+  {
+   "a": "practical",
+   "b": "practice",
+   "kind": "visual",
+   "score": 0.75,
+   "aZh": "adj. 實用的；務實的",
+   "bZh": "n. 練習；v. 練習",
+   "diff": "practical 是形容詞，指實用或務實；practice 是練習，可作名詞或動詞。兩字同一字根，字尾不同。",
+   "points": [
+    "詞性：practical 是形容詞，practice 是名詞或動詞",
+    "字尾：practical 結尾是 -al，practice 結尾是 -ice",
+    "搭配：practical advice；piano practice"
+   ],
+   "tip": "practical 是形容詞，字尾 -al；practice 是練習這件事。",
+   "exA": {
+    "en": "The teacher gave us practical advice about how to study.",
+    "zh": "老師給了我們關於如何讀書的實用建議。"
+   },
+   "exB": {
+    "en": "Piano practice every day will make your fingers move faster.",
+    "zh": "每天練習鋼琴會讓你的手指動得更快。"
+   }
+  },
+  {
+   "a": "practical",
+   "b": "useful",
+   "kind": "semantic",
+   "score": 0.604,
+   "aZh": "adj. 實用的；務實的",
+   "bZh": "adj. 有用的；實用的",
+   "diff": "practical 強調容易實行、貼近實際；useful 泛指有幫助，不一定強調好不好做。",
+   "points": [
+    "重點：practical 強調可實行，useful 強調有幫助",
+    "對象：practical 也能形容人，useful 通常形容事物",
+    "搭配：a practical person；useful information"
+   ],
+   "tip": "practical 是做得到；useful 是有幫助。",
+   "exA": {
+    "en": "My sister is a practical person who always thinks before she spends.",
+    "zh": "我姊姊是個務實的人，花錢前總是先想清楚。"
+   },
+   "exB": {
+    "en": "This map is very useful when you visit the city for the first time.",
+    "zh": "第一次來這座城市時，這張地圖非常有用。"
+   }
+  },
+  {
+   "a": "precious",
+   "b": "valuable",
+   "kind": "semantic",
+   "score": 0.856,
+   "aZh": "adj. 珍貴的；寶貴的",
+   "bZh": "adj. 有價值的；寶貴的",
+   "diff": "precious 常表示感情上珍惜或稀有；valuable 強調金錢或實用價值高。",
+   "points": [
+    "重點：precious 偏感情與珍惜，valuable 偏價值與用處",
+    "搭配：precious time、precious memory；valuable information",
+    "對象：valuable 常形容貴重物品或有用資訊"
+   ],
+   "tip": "precious 是心裡捨不得；valuable 是值很多錢或很有用。",
+   "exA": {
+    "en": "The old letter is precious to Grandma because Grandpa wrote it.",
+    "zh": "那封舊信對奶奶來說很珍貴，因為是爺爺寫的。"
+   },
+   "exB": {
+    "en": "The museum keeps valuable paintings in a locked room at night.",
+    "zh": "博物館晚上把貴重的畫作鎖在一間房間裡。"
+   }
+  },
+  {
+   "a": "precious",
+   "b": "previous",
+   "kind": "visual",
+   "score": 0.785,
+   "aZh": "adj. 珍貴的；寶貴的",
+   "bZh": "adj. 先前的；之前的",
+   "diff": "precious 是珍貴的；previous 是先前的。兩字長度相近，都以 pre- 開頭、-ious 結尾。",
+   "points": [
+    "拼字：precious 是 -cious，previous 是 -vious",
+    "發音：precious 讀 /ˈprɛʃəs/，previous 讀 /ˈpriviəs/",
+    "搭配：precious time；previous chapter"
+   ],
+   "tip": "precious 中間是 c，像珍寶；previous 中間是 v，像 view 往前看。",
+   "exA": {
+    "en": "Spending time with my friends is very precious to me.",
+    "zh": "和朋友相處的時光對我來說非常珍貴。"
+   },
+   "exB": {
+    "en": "Please read the previous page again before you answer the question.",
+    "zh": "回答問題之前，請再讀一次上一頁。"
+   }
+  },
+  {
+   "a": "existence",
+   "b": "presence",
+   "kind": "semantic",
+   "score": 0.686,
+   "aZh": "n. 存在；生存",
+   "bZh": "n. 出席；在場；存在",
+   "diff": "existence 指事物存在這件事；presence 指人在場或某物在某處出現。",
+   "points": [
+    "重點：existence 是有沒有，presence 是在不在某處",
+    "對象：presence 常用於人，existence 常用於抽象事物",
+    "搭配：the existence of life；in the presence of"
+   ],
+   "tip": "existence 是世上有沒有；presence 是這裡在不在。",
+   "exA": {
+    "en": "Nobody believed in the existence of the hidden island until now.",
+    "zh": "直到現在，沒有人相信那座隱藏的島嶼真的存在。"
+   },
+   "exB": {
+    "en": "The presence of the coach made the players work much harder.",
+    "zh": "教練在場讓球員們練得更加努力。"
+   }
+  },
+  {
+   "a": "presence",
+   "b": "present",
+   "kind": "visual",
+   "score": 0.71,
+   "aZh": "n. 出席；在場；存在",
+   "bZh": "adj. 出席的；n. 禮物；現在",
+   "diff": "presence 是名詞，指在場或存在；present 可指出席的、禮物或現在。兩字很像，詞性和意思不同。",
+   "points": [
+    "詞性：presence 是名詞，present 可作形容詞、名詞、動詞",
+    "拼字：presence 結尾是 -ence，present 結尾是 -ent",
+    "搭配：in the presence of；present at the meeting"
+   ],
+   "tip": "presence 結尾是 -ence，是名詞；present 結尾是 -ent。",
+   "exA": {
+    "en": "Her presence at the meeting helped everyone feel much calmer.",
+    "zh": "她在會議上的出席讓大家都覺得平靜許多。"
+   },
+   "exB": {
+    "en": "Every student was present at the school assembly this morning.",
+    "zh": "今天早上每位學生都出席了學校的集會。"
+   }
+  },
+  {
+   "a": "fake",
+   "b": "pretend",
+   "kind": "semantic",
+   "score": 0.586,
+   "aZh": "v. 假裝；偽造；adj. 假的",
+   "bZh": "v. 假裝；佯裝",
+   "diff": "pretend 是假裝成某種樣子，多半是玩或騙人；fake 更強調造假、偽造。",
+   "points": [
+    "重點：pretend 是假裝做出某種樣子，fake 是製造假的東西或假裝",
+    "詞性：fake 也是形容詞，pretend 只是動詞",
+    "搭配：pretend to be asleep；a fake ticket"
+   ],
+   "tip": "pretend 是裝出來；fake 是假貨或假造。",
+   "exA": {
+    "en": "The man tried to fake an illness so he could skip work.",
+    "zh": "那個男人想假裝生病，好不用上班。"
+   },
+   "exB": {
+    "en": "The children pretend to be pirates when they play in the yard.",
+    "zh": "孩子們在院子裡玩耍時假裝自己是海盜。"
+   }
+  },
+  {
+   "a": "pretend",
+   "b": "prevent",
+   "kind": "visual",
+   "score": 0.61,
+   "aZh": "v. 假裝；佯裝",
+   "bZh": "v. 防止；預防",
+   "diff": "pretend 是假裝；prevent 是防止。兩字都以 pre- 開頭、-end/-ent 結尾，很容易看錯。",
+   "points": [
+    "拼字：pretend 結尾是 -tend，prevent 結尾是 -vent",
+    "句型：pretend to + V，prevent + 人 + from + V-ing",
+    "意思：pretend 是裝，prevent 是擋住不讓發生"
+   ],
+   "tip": "pretend 有 tend；prevent 有 vent，像把風擋在外面。",
+   "exA": {
+    "en": "Tom pretended to be asleep when his little brother came in.",
+    "zh": "弟弟進來時，Tom 假裝睡著了。"
+   },
+   "exB": {
+    "en": "A strong fence can prevent the dog from running into the road.",
+    "zh": "堅固的圍籬可以防止狗跑到馬路上。"
+   }
+  },
+  {
+   "a": "prevent",
+   "b": "protect",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "v. 防止；預防",
+   "bZh": "v. 保護；防護",
+   "diff": "prevent 是讓壞事不要發生；protect 是保護人或物不受傷害。",
+   "points": [
+    "接法：prevent + 壞事，protect + 人或物",
+    "句型：prevent 人 from V-ing，protect 人 from 事物",
+    "搭配：prevent accidents；protect the environment"
+   ],
+   "tip": "prevent 擋掉壞事；protect 護住人或物。",
+   "exA": {
+    "en": "Wearing a seat belt can prevent serious injuries in a car accident.",
+    "zh": "繫安全帶可以防止車禍中的嚴重傷害。"
+   },
+   "exB": {
+    "en": "Farmers put nets over the fruit trees to protect them from birds.",
+    "zh": "農夫在果樹上蓋網子，保護果樹不被鳥吃掉。"
+   }
+  },
+  {
+   "a": "likely",
+   "b": "probable",
+   "kind": "semantic",
+   "score": 0.771,
+   "aZh": "adj. 可能的；很可能的",
+   "bZh": "adj. 可能的；大概會發生的",
+   "diff": "likely 是最常用的日常說法，可用 be likely to；probable 較正式，常用 It is probable that。",
+   "points": [
+    "句型：likely 可用 be likely to + V，probable 不能",
+    "語氣：likely 較日常，probable 較正式",
+    "搭配：likely to rain；probable cause"
+   ],
+   "tip": "likely 可以接 to；probable 常接 that 子句。",
+   "exA": {
+    "en": "It is likely to rain this afternoon, so take an umbrella.",
+    "zh": "今天下午很可能下雨，所以帶一把傘。"
+   },
+   "exB": {
+    "en": "It is probable that the meeting will end before noon today.",
+    "zh": "今天的會議很可能在中午前結束。"
+   }
+  },
+  {
+   "a": "possible",
+   "b": "probable",
+   "kind": "semantic",
+   "score": 0.714,
+   "aZh": "adj. 可能的；做得到的",
+   "bZh": "adj. 可能的；大概會發生的",
+   "diff": "possible 只表示有可能發生；probable 表示發生的機率比較高。",
+   "points": [
+    "機率：possible 只表示有可能，probable 表示機率較高",
+    "語氣：probable 較正式",
+    "句型：possible 可接 for 人 to V，probable 不行"
+   ],
+   "tip": "possible 是有可能；probable 是很有可能。",
+   "exA": {
+    "en": "It is possible for us to finish the work by five o'clock.",
+    "zh": "我們有可能在五點前完成工作。"
+   },
+   "exB": {
+    "en": "With this many clouds, rain is probable before the end of the day.",
+    "zh": "雲這麼多，一天結束前很可能會下雨。"
+   }
+  },
+  {
+   "a": "process",
+   "b": "progress",
+   "kind": "visual",
+   "score": 0.715,
+   "aZh": "n. 過程；v. 處理；加工",
+   "bZh": "n. 進步；進展",
+   "diff": "process 是過程或處理；progress 是進步或進展。兩字前面很像，發音重音也不同。",
+   "points": [
+    "拼字：process 是 -cess，progress 是 -gress",
+    "意思：process 是一連串步驟，progress 是往前進步",
+    "搭配：learning process；make progress"
+   ],
+   "tip": "process 有 c，是一步一步的流程；progress 有 g，是往前走。",
+   "exA": {
+    "en": "Making cheese is a long process that needs a lot of patience.",
+    "zh": "製作起司是需要很多耐心的漫長過程。"
+   },
+   "exB": {
+    "en": "Lily made great progress in math after she joined the study group.",
+    "zh": "Lily 加入讀書小組後，數學進步很多。"
+   }
+  },
+  {
+   "a": "procedure",
+   "b": "process",
+   "kind": "semantic",
+   "score": 0.489,
+   "aZh": "n. 程序；步驟；手術",
+   "bZh": "n. 過程；流程；v. 處理",
+   "diff": "procedure 是規定好的做事步驟；process 是事情發展或進行的整個過程。",
+   "points": [
+    "重點：procedure 是固定的程序，process 是發展的過程",
+    "用途：procedure 常用於規定和流程，process 也可指自然變化",
+    "搭配：safety procedure；learning process"
+   ],
+   "tip": "procedure 是照著做的步驟；process 是一路發生的過程。",
+   "exA": {
+    "en": "Students must follow the safety procedure during every science experiment.",
+    "zh": "學生在每次科學實驗時都必須遵守安全程序。"
+   },
+   "exB": {
+    "en": "Growing a plant from a seed is a slow process to watch.",
+    "zh": "看著植物從種子長大是一個緩慢的過程。"
+   }
+  },
+  {
+   "a": "manufacturer",
+   "b": "producer",
+   "kind": "semantic",
+   "score": 0.716,
+   "aZh": "n. 製造商；製造廠",
+   "bZh": "n. 生產者；製片人",
+   "diff": "manufacturer 專指製造工業產品的公司；producer 範圍較廣，可指農產品、能源或影視作品的製作者。",
+   "points": [
+    "範圍：manufacturer 指製造商品，producer 範圍更廣",
+    "對象：producer 也指電影或節目的製作人",
+    "搭配：car manufacturer；film producer"
+   ],
+   "tip": "manufacturer 是做機器產品的工廠；producer 什麼都可以生產。",
+   "exA": {
+    "en": "The bike manufacturer moved its factory to a smaller town last year.",
+    "zh": "那家腳踏車製造商去年把工廠搬到一個較小的城鎮。"
+   },
+   "exB": {
+    "en": "The film producer visited the school to look for young actors.",
+    "zh": "那位電影製片人來到學校尋找年輕的演員。"
+   }
+  },
+  {
+   "a": "producer",
+   "b": "product",
+   "kind": "visual",
+   "score": 0.71,
+   "aZh": "n. 生產者；製片人",
+   "bZh": "n. 產品；成果",
+   "diff": "producer 是生產東西的人或公司；product 是被生產出來的東西。兩字只差字尾 -er。",
+   "points": [
+    "意思：producer 是人或公司，product 是物品",
+    "重音：producer 重音在第二音節，product 在第一音節",
+    "搭配：a food producer；a new product"
+   ],
+   "tip": "producer 有 -er，是生產的人；product 是做出來的東西。",
+   "exA": {
+    "en": "The local producer delivers fresh eggs to the school every morning.",
+    "zh": "當地的生產者每天早上把新鮮雞蛋送到學校。"
+   },
+   "exB": {
+    "en": "This new product is made from paper that can be recycled.",
+    "zh": "這個新產品是用可以回收的紙做成的。"
+   }
+  },
+  {
+   "a": "profession",
+   "b": "professor",
+   "kind": "visual",
+   "score": 0.723,
+   "aZh": "n. 職業；專業",
+   "bZh": "n. 教授",
+   "diff": "profession 是需要專業訓練的職業；professor 是大學教授。兩字前面相同，字尾不同。",
+   "points": [
+    "拼字：profession 結尾是 -ion，professor 結尾是 -or",
+    "意思：profession 是職業類別，professor 是一種人",
+    "搭配：the medical profession；a history professor"
+   ],
+   "tip": "profession 是職業這件事；professor 是站在講台的人。",
+   "exA": {
+    "en": "Teaching is a hard profession, but many people love it.",
+    "zh": "教書是一份辛苦的職業，但很多人熱愛它。"
+   },
+   "exB": {
+    "en": "The history professor gave a talk about old cities last night.",
+    "zh": "那位歷史教授昨晚做了一場關於古老城市的演講。"
+   }
+  },
+  {
+   "a": "profit",
+   "b": "prophet",
+   "kind": "visual",
+   "score": 0.652,
+   "aZh": "n. 利潤；v. 獲利",
+   "bZh": "n. 先知；預言者",
+   "diff": "profit 是利潤；prophet 是先知。兩字發音相同，拼字只差 f 和 ph。",
+   "points": [
+    "發音：兩字都讀 /ˈprɑfɪt/，是同音字",
+    "拼字：profit 是 f，prophet 是 ph",
+    "意思：profit 和錢有關，prophet 和預言有關"
+   ],
+   "tip": "prophet 有 ph，像 phone 一樣要多想一步。",
+   "exA": {
+    "en": "The small shop made a good profit during the holiday season.",
+    "zh": "這家小店在假期期間賺到不錯的利潤。"
+   },
+   "exB": {
+    "en": "In the old story, a prophet warned the king about a big flood.",
+    "zh": "在古老的故事裡，一位先知警告國王會有大洪水。"
+   }
+  },
+  {
+   "a": "promise",
+   "b": "promote",
+   "kind": "visual",
+   "score": 0.637,
+   "aZh": "n. 承諾；v. 承諾；答應",
+   "bZh": "v. 促進；推銷；升遷",
+   "diff": "promise 是承諾；promote 是促進、宣傳或升遷。兩字前四個字母相同，只差字尾 -ise 和 -ote。",
+   "points": [
+    "拼字：promise 結尾是 -ise，promote 結尾是 -ote",
+    "發音：promise 讀 /ˈprɑmɪs/，promote 讀 /prəˈmoʊt/",
+    "搭配：keep a promise；promote sales"
+   ],
+   "tip": "promise 的 is 像 I said it；promote 的 mote 像 move up，往上升。",
+   "exA": {
+    "en": "Lucy made a promise to call her grandmother every Sunday.",
+    "zh": "Lucy 答應每個星期天打電話給奶奶。"
+   },
+   "exB": {
+    "en": "The manager plans to promote Ben to team leader next month.",
+    "zh": "經理計畫下個月把 Ben 升為組長。"
+   }
+  },
+  {
+   "a": "advertise",
+   "b": "promote",
+   "kind": "semantic",
+   "score": 0.62,
+   "aZh": "v. 做廣告；宣傳",
+   "bZh": "v. 促進；推銷；升遷",
+   "diff": "advertise 專指用廣告宣傳；promote 範圍更廣，可以是促進、推廣或升遷。",
+   "points": [
+    "範圍：advertise 只用廣告，promote 方式更多",
+    "意思：promote 還有升遷，advertise 沒有",
+    "搭配：advertise a job；promote health"
+   ],
+   "tip": "advertise 是登廣告；promote 除了宣傳，還能升官。",
+   "exA": {
+    "en": "The shop will advertise its summer sale on the radio.",
+    "zh": "這家店會在廣播上為夏季特賣做廣告。"
+   },
+   "exB": {
+    "en": "The health center promotes exercise by holding free classes each week.",
+    "zh": "健康中心每週開辦免費課程來推廣運動。"
+   }
+  },
+  {
+   "a": "declare",
+   "b": "pronounce",
+   "kind": "semantic",
+   "score": 0.713,
+   "aZh": "v. 宣布；申報；聲明",
+   "bZh": "v. 發音；宣告",
+   "diff": "declare 是公開宣布或聲明立場；pronounce 多指念出字音，或正式宣告某種判斷。",
+   "points": [
+    "重點：declare 是公開聲明，pronounce 常是發音",
+    "搭配：declare a winner；pronounce a name",
+    "正式度：兩字作「宣布」時都偏正式"
+   ],
+   "tip": "declare 是大聲宣布；pronounce 多半是念字音。",
+   "exA": {
+    "en": "The referee will declare the game over when the clock stops.",
+    "zh": "時鐘停止時，裁判會宣布比賽結束。"
+   },
+   "exB": {
+    "en": "The teacher asked me to pronounce each new word after her.",
+    "zh": "老師要我跟著她念每一個新單字。"
+   }
+  },
+  {
+   "a": "proof",
+   "b": "roof",
+   "kind": "visual",
+   "score": 0.764,
+   "aZh": "n. 證據；證明",
+   "bZh": "n. 屋頂",
+   "diff": "proof 是證據；roof 是屋頂。兩字只差開頭的 p，發音也很像。",
+   "points": [
+    "拼字：proof 開頭多一個 p",
+    "發音：proof 讀 /pruːf/，roof 讀 /ruːf/ 或 /rʊf/",
+    "搭配：proof of age；a red roof"
+   ],
+   "tip": "proof 比 roof 多一個 p，像是把證據 push 出來。",
+   "exA": {
+    "en": "The police need proof before they can arrest anyone for the crime.",
+    "zh": "警方需要證據，才能逮捕任何涉案的人。"
+   },
+   "exB": {
+    "en": "A red roof covered the little house at the end of the street.",
+    "zh": "街尾那間小房子有一個紅色的屋頂。"
+   }
+  },
+  {
+   "a": "evidence",
+   "b": "proof",
+   "kind": "semantic",
+   "score": 0.964,
+   "aZh": "n. 證據；證明",
+   "bZh": "n. 證據；證明；校樣",
+   "diff": "evidence 是支持判斷的各種資料；proof 是能確定某事為真的證據，語氣更強。",
+   "points": [
+    "強度：evidence 是線索與資料，proof 是足以證明",
+    "數量：兩字都不可數，不加 a",
+    "搭配：strong evidence；proof of age"
+   ],
+   "tip": "evidence 是一點一點的線索；proof 是能一錘定音的證據。",
+   "exA": {
+    "en": "The police found new evidence near the door of the shop.",
+    "zh": "警方在商店門口附近找到了新證據。"
+   },
+   "exB": {
+    "en": "A birth certificate is proof of your age in many countries.",
+    "zh": "在許多國家，出生證明是你年齡的證明。"
+   }
+  },
+  {
+   "a": "possession",
+   "b": "property",
+   "kind": "semantic",
+   "score": 0.544,
+   "aZh": "n. 持有；所有物",
+   "bZh": "n. 財產；特性",
+   "diff": "possession 是個人擁有的物品或持有這件事；property 是財產，也可指事物的特性。",
+   "points": [
+    "重點：possession 強調擁有，property 強調財產或特性",
+    "數量：possession 常用複數指個人物品",
+    "搭配：personal possessions；private property"
+   ],
+   "tip": "possession 是隨身的東西；property 是土地房屋等財產。",
+   "exA": {
+    "en": "She packed all her possessions into two small bags and left.",
+    "zh": "她把所有的東西打包進兩個小袋子後就離開了。"
+   },
+   "exB": {
+    "en": "The school property includes a large playground and a small garden.",
+    "zh": "學校的財產包括一個大操場和一座小花園。"
+   }
+  },
+  {
+   "a": "bar",
+   "b": "pub",
+   "kind": "semantic",
+   "score": 0.699,
+   "aZh": "n. 酒吧；條；棒",
+   "bZh": "n. 酒吧；小酒館",
+   "diff": "pub 是英國常見、也賣簡單餐點的小酒館；bar 泛指賣酒的店，範圍較廣，還有條、棒等意思。",
+   "points": [
+    "範圍：bar 是通用說法，pub 是英式小酒館",
+    "字義：bar 還有長條、棒子等意思，pub 只有酒吧",
+    "搭配：a hotel bar；a village pub"
+   ],
+   "tip": "pub 是英國街角的小酒館；bar 是各種賣酒的店。",
+   "exA": {
+    "en": "The hotel has a quiet bar on the top floor with a city view.",
+    "zh": "那家飯店頂樓有一間安靜的酒吧，可以看到城市景色。"
+   },
+   "exB": {
+    "en": "Our family ate fish and chips at a pub in London.",
+    "zh": "我們一家人在倫敦的一間小酒館吃了炸魚薯條。"
+   }
+  },
+  {
+   "a": "pure",
+   "b": "sheer",
+   "kind": "semantic",
+   "score": 0.715,
+   "aZh": "adj. 純粹的；完全的",
+   "bZh": "adj. 完全的；純粹的",
+   "diff": "兩字都能強調「完全、純粹」，常修飾抽象名詞。pure 也能指沒有摻雜的物質，sheer 沒有這個用法，另有「陡峭」的意思。",
+   "points": [
+    "搭配：pure luck 和 sheer luck 都通；sheer 常配 luck、nonsense 這類抽象名詞",
+    "使用情境：pure water、pure gold 指沒有摻雜，不能換成 sheer",
+    "另一義：sheer 也能指「陡峭的」，如 a sheer cliff"
+   ],
+   "tip": "說東西有沒有混雜用 pure；只想加強「純屬」的語氣，pure 和 sheer 都行。",
+   "exA": {
+    "en": "The wedding ring is made of pure gold.",
+    "zh": "這枚結婚戒指是純金做的。"
+   },
+   "exB": {
+    "en": "It was sheer luck that we found the shop.",
+    "zh": "我們找到那家店純屬運氣。"
+   }
+  },
+  {
+   "a": "purse",
+   "b": "wallet",
+   "kind": "semantic",
+   "score": 0.716,
+   "aZh": "n. 錢包；小手提包",
+   "bZh": "n. 皮夾；錢包",
+   "diff": "wallet 是能放進口袋的摺疊式皮夾，裝鈔票和卡片；purse 在美式英文常指女性手提包，在英式英文則指裝零錢的小錢包。",
+   "points": [
+    "使用情境：wallet 放在口袋或包包裡，裝鈔票、證件和卡片",
+    "美英差異：美式 purse 常是女用手提包，英式 purse 是小錢包",
+    "搭配：a coin purse 是零錢包，a leather wallet 是皮夾"
+   ],
+   "tip": "wallet 薄薄一本，能放進口袋；purse 是小包，要拿在手上或掛在肩上。",
+   "exA": {
+    "en": "Mom took her keys and phone out of her purse.",
+    "zh": "媽媽從她的包包裡拿出鑰匙和手機。"
+   },
+   "exB": {
+    "en": "Tom put his student card back into his wallet.",
+    "zh": "Tom 把學生證放回他的皮夾裡。"
+   }
+  },
+  {
+   "a": "quit",
+   "b": "quite",
+   "kind": "visual",
+   "score": 0.786,
+   "aZh": "v. 停止；戒掉；辭去",
+   "bZh": "adv. 相當；完全",
+   "diff": "quit 是動詞，指停止、戒掉或離開；quite 是副詞，用來加強程度，意思是「相當」或「完全」。兩字只差字尾的 e。",
+   "points": [
+    "詞性：quit 是 v.，quite 是 adv.",
+    "發音：quit /kwɪt/ 是短音，quite /kwaɪt/ 的 i 讀長音",
+    "搭配：quit smoking 戒菸；quite good 相當好"
+   ],
+   "tip": "quite 多一個 e，就像把程度加上去；quit 很短，動作就此打住。",
+   "exA": {
+    "en": "Jenny decided to quit the school swimming club.",
+    "zh": "Jenny 決定退出學校的游泳社。"
+   },
+   "exB": {
+    "en": "The swimming club is quite popular at our school.",
+    "zh": "游泳社在我們學校相當受歡迎。"
+   }
+  },
+  {
+   "a": "cite",
+   "b": "quote",
+   "kind": "semantic",
+   "score": 0.63,
+   "aZh": "v. 引用；舉出",
+   "bZh": "v. 引用；引述；n. 引文",
+   "diff": "quote 是把別人的話照原文說出或寫出；cite 是舉出資料來源、案例或法規來支持說法，不一定照抄原文，語氣較正式。",
+   "points": [
+    "詞性：quote 也能當名詞，指引文；cite 只當動詞",
+    "使用情境：quote 引用名言、對話；cite 常用在報告、論文，指出出處",
+    "正式程度：cite 較正式，多見於學術寫作"
+   ],
+   "tip": "quote 是把話原封不動搬進來，cite 是把出處指給人看。",
+   "exA": {
+    "en": "The student cited two books in her science report.",
+    "zh": "那位學生在自然科報告裡引用了兩本書。"
+   },
+   "exB": {
+    "en": "The student quoted a sentence from the book in her report.",
+    "zh": "那位學生在報告裡引用了書中的一句話。"
+   }
+  },
+  {
+   "a": "quota",
+   "b": "quote",
+   "kind": "visual",
+   "score": 0.759,
+   "aZh": "n. 配額；定額",
+   "bZh": "v. 引用；n. 引文",
+   "diff": "quota 是名詞，指分配好的固定數量；quote 可當動詞或名詞，指引用別人的話。兩字只差一個字母，發音也不同。",
+   "points": [
+    "詞性：quota 是 n.，quote 可以是 v. 或 n.",
+    "發音：quota 有兩個音節，重音在前；quote 只有一個音節",
+    "搭配：a quota of five students 五個名額；quote a line 引用一句話"
+   ],
+   "tip": "quota 尾巴的 a 可以想成 amount（數量），代表分配好的數量。",
+   "exA": {
+    "en": "Each class has a quota of five students for the trip.",
+    "zh": "每個班級參加旅行的名額是五人。"
+   },
+   "exB": {
+    "en": "Please quote one line from the poem in your answer.",
+    "zh": "請在答案裡引用詩中的一句話。"
+   }
+  },
+  {
+   "a": "racial",
+   "b": "racism",
+   "kind": "visual",
+   "score": 0.62,
+   "aZh": "adj. 種族的",
+   "bZh": "n. 種族歧視；種族主義",
+   "diff": "racial 是形容詞，放在名詞前說明「與種族有關」；racism 是名詞，指因為種族不同而歧視他人的想法或行為。",
+   "points": [
+    "詞性：racial 是 adj.，racism 是 n.",
+    "搭配：racial equality 種族平等；fight racism 對抗種族歧視",
+    "拼字：racial 是 race + -ial；racism 去掉 race 的 e 再加 -ism"
+   ],
+   "tip": "-al 結尾說明性質，-ism 結尾是一種主義或行為。",
+   "exA": {
+    "en": "The school teaches students to respect racial differences.",
+    "zh": "學校教導學生尊重種族間的差異。"
+   },
+   "exB": {
+    "en": "Our class made a poster to fight racism.",
+    "zh": "我們班做了一張海報來對抗種族歧視。"
+   }
+  },
+  {
+   "a": "rank",
+   "b": "rate",
+   "kind": "semantic",
+   "score": 0.384,
+   "aZh": "v. 排列；n. 等級；排名",
+   "bZh": "v. 評價；評定；n. 比率",
+   "diff": "rank 是把人或事物依高低排出順序；rate 是依標準評定品質或程度，給出分數或星等。rate 當名詞時另有「比率」的意思。",
+   "points": [
+    "搭配：rank first 排名第一；rate A as good 把 A 評為好",
+    "詞性：rate 也常當名詞，如 birth rate 出生率；rank 當名詞指等級、名次",
+    "使用情境：rank 看相對順序；rate 看單獨的水準"
+   ],
+   "tip": "rank 像排隊站好順序，rate 像打分數。",
+   "exA": {
+    "en": "The magazine ranked our school first in the city.",
+    "zh": "那份雜誌把我們學校排在全市第一。"
+   },
+   "exB": {
+    "en": "The magazine rated our school as one of the best.",
+    "zh": "那份雜誌把我們學校評為最好的學校之一。"
+   }
+  },
+  {
+   "a": "rate",
+   "b": "ratio",
+   "kind": "semantic",
+   "score": 0.56,
+   "aZh": "n. 比率；速度；費率",
+   "bZh": "n. 比率；比例",
+   "diff": "ratio 指兩個數量相比的比例，例如二比一；rate 指某件事發生的頻率或單位量，例如出生率、利率、速度。",
+   "points": [
+    "使用情境：ratio 是兩個數量互相比較；rate 是每單位時間或數量中的多寡",
+    "搭配：the ratio of boys to girls 男女比例；the birth rate 出生率",
+    "句型：ratio 常用 the ratio of A to B"
+   ],
+   "tip": "ratio 是 A 對 B 的比；rate 是每一個單位的多少。",
+   "exA": {
+    "en": "The birth rate in Taiwan has dropped in recent years.",
+    "zh": "臺灣的出生率近年來下降了。"
+   },
+   "exB": {
+    "en": "The ratio of boys to girls in our class is one to one.",
+    "zh": "我們班男生和女生的比例是一比一。"
+   }
+  },
+  {
+   "a": "rational",
+   "b": "reasonable",
+   "kind": "semantic",
+   "score": 0.725,
+   "aZh": "adj. 理性的；合理的",
+   "bZh": "adj. 合理的；通情達理的",
+   "diff": "rational 指憑理智與邏輯思考、不受情緒影響；reasonable 指合乎常理、公平適當，常形容價格、要求或決定。",
+   "points": [
+    "使用情境：rational 形容人或想法，強調理智；reasonable 形容價格、要求、理由",
+    "搭配：a rational decision 理性的決定；a reasonable price 合理的價格",
+    "反義：irrational 不理性的；unreasonable 不合理的"
+   ],
+   "tip": "rational 裡有 ratio（理性、比例）；reasonable 裡有 reason（理由）。",
+   "exA": {
+    "en": "Try to stay calm and make a rational choice.",
+    "zh": "試著保持冷靜，做出理性的選擇。"
+   },
+   "exB": {
+    "en": "Ten dollars for the ticket is a reasonable price.",
+    "zh": "門票十美元是合理的價格。"
+   }
+  },
+  {
+   "a": "reasonable",
+   "b": "sensible",
+   "kind": "semantic",
+   "score": 0.673,
+   "aZh": "adj. 合理的；通情達理的",
+   "bZh": "adj. 明智的；合理的",
+   "diff": "reasonable 指有道理、公平適當；sensible 指判斷明智、切合實際，常用來形容人的選擇或建議。",
+   "points": [
+    "搭配：a reasonable price 合理的價格；a sensible choice 明智的選擇",
+    "使用情境：reasonable 也可形容人講道理；sensible 強調有常識、不魯莽",
+    "拼字：sensible 和 sensitive（敏感的）很容易搞混"
+   ],
+   "tip": "sensible 裡有 sense（常識），有常識就明智；reasonable 裡有 reason（理由），有理由就合理。",
+   "exA": {
+    "en": "The store sells books at a reasonable price.",
+    "zh": "那家店以合理的價格賣書。"
+   },
+   "exB": {
+    "en": "Wearing a coat on a cold day is a sensible choice.",
+    "zh": "冷天穿外套是明智的選擇。"
+   }
+  },
+  {
+   "a": "receipt",
+   "b": "recipe",
+   "kind": "visual",
+   "score": 0.608,
+   "aZh": "n. 收據；收條",
+   "bZh": "n. 食譜；烹調法",
+   "diff": "receipt 是買東西付款後拿到的收據；recipe 是說明怎麼做菜的食譜。兩字都以 rec 開頭，後半的拼法不同。",
+   "points": [
+    "拼字：receipt 的 p 在 t 前面，recipe 的 p 在 e 前面",
+    "發音：receipt 的 p 不發音；recipe 的 p 要發音",
+    "搭配：keep the receipt 保留收據；follow a recipe 照食譜做"
+   ],
+   "tip": "收據 receipt 和收到 receive 一樣有 ei；食譜 recipe 則是 -ipe。",
+   "exA": {
+    "en": "Amy kept the receipt in case she needed to return the shirt.",
+    "zh": "Amy 留著收據，以防要退這件襯衫。"
+   },
+   "exB": {
+    "en": "Amy found a simple recipe for fried rice online.",
+    "zh": "Amy 在網路上找到一份簡單的炒飯食譜。"
+   }
+  },
+  {
+   "a": "bill",
+   "b": "receipt",
+   "kind": "semantic",
+   "score": 0.369,
+   "aZh": "n. 帳單；鈔票",
+   "bZh": "n. 收據；收條",
+   "diff": "bill 是要求你付款的帳單，付款之前拿到；receipt 是付款之後拿到、證明你已經付過錢的收據。",
+   "points": [
+    "使用情境：在餐廳 ask for the bill 是要求結帳；付完錢才拿 receipt",
+    "搭配：pay the bill 付帳單；keep the receipt 保留收據",
+    "另一義：bill 也可指鈔票，如 a ten-dollar bill"
+   ],
+   "tip": "bill 是「請付款」，receipt 是「已收到」。",
+   "exA": {
+    "en": "The waiter brought the bill after we finished dinner.",
+    "zh": "我們吃完晚餐後，服務生送來了帳單。"
+   },
+   "exB": {
+    "en": "The cashier gave us a receipt after we paid.",
+    "zh": "我們付錢後，收銀員給了我們一張收據。"
+   }
+  },
+  {
+   "a": "react",
+   "b": "respond",
+   "kind": "semantic",
+   "score": 0.686,
+   "aZh": "v. 反應；回應",
+   "bZh": "v. 回答；回應",
+   "diff": "react 多指受到刺激後自然產生的反應，可能是情緒或身體上的；respond 多指有意識地用言語或行動回應，如回答問題、回覆信件。",
+   "points": [
+    "搭配：react to 和 respond to 後面都接 to",
+    "使用情境：react 也可用於化學反應；respond 可用於回覆訊息或問題",
+    "詞性：react 的名詞是 reaction，respond 的名詞是 response"
+   ],
+   "tip": "react 像反射，快而不用想；respond 像回話，通常經過思考。",
+   "exA": {
+    "en": "How did Amy react when she heard the news?",
+    "zh": "Amy 聽到這個消息時有什麼反應？"
+   },
+   "exB": {
+    "en": "How did Amy respond when the teacher asked her?",
+    "zh": "老師問 Amy 時，她怎麼回答？"
+   }
+  },
+  {
+   "a": "reaction",
+   "b": "response",
+   "kind": "semantic",
+   "score": 0.762,
+   "aZh": "n. 反應；回應",
+   "bZh": "n. 回答；回應",
+   "diff": "reaction 是對事情產生的情緒或身體反應，不一定是刻意的；response 是針對問題、要求或信件給出的回答或回應。",
+   "points": [
+    "搭配：a reaction to the news 對消息的反應；a response to a question 對問題的回答",
+    "使用情境：reaction 可指過敏或化學反應；response 可指信件、問卷的回覆",
+    "拼字：兩字的字尾不同，來源字是 react 和 respond"
+   ],
+   "tip": "reaction 像反射，response 像回覆。",
+   "exA": {
+    "en": "Her reaction to the surprise made everyone laugh.",
+    "zh": "她對驚喜的反應讓大家都笑了。"
+   },
+   "exB": {
+    "en": "We are still waiting for their response to our email.",
+    "zh": "我們還在等他們回覆我們的電子郵件。"
+   }
+  },
+  {
+   "a": "receiver",
+   "b": "recipient",
+   "kind": "semantic",
+   "score": 0.891,
+   "aZh": "n. 接收器；接收者；話筒",
+   "bZh": "n. 接收者；收件人",
+   "diff": "recipient 專指人，語氣較正式；receiver 多指接收訊號的裝置，如收音機或電話話筒，也能指人。",
+   "points": [
+    "詞性：兩字都是 n.；recipient 只指人",
+    "搭配：the recipient of an award 得獎者；pick up the receiver 拿起話筒",
+    "正式程度：recipient 較正式，receiver 較日常"
+   ],
+   "tip": "receiver 多是「接收的東西」，recipient 是「接收的人」。",
+   "exA": {
+    "en": "Kevin put the receiver back after the call.",
+    "zh": "通話結束後，Kevin 把話筒放回去。"
+   },
+   "exB": {
+    "en": "The recipient of the award thanked her teachers.",
+    "zh": "得獎者感謝她的老師們。"
+   }
   }
  ]
 }
