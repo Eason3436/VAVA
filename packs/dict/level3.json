@@ -30317,6 +30317,10 @@
       {
        "en": "Tea is one of the country's main exports.",
        "zh": "茶是這個國家的主要出口商品之一。"
+      },
+      {
+       "en": "Bananas are an important export of this small country.",
+       "zh": "香蕉是這個小國家的重要出口商品。"
       }
      ],
      "patterns": [],
@@ -30337,8 +30341,12 @@
      "ext": "",
      "examples": [
       {
-       "en": "The company exports fruit to several countries.",
-       "zh": "這家公司把水果出口到好幾個國家。"
+       "en": "The company exports fruit to several countries in Asia.",
+       "zh": "這家公司把水果出口到亞洲的好幾個國家。"
+      },
+      {
+       "en": "Farmers here export pineapples to Japan and other countries.",
+       "zh": "這裡的農民把鳳梨出口到日本和其他國家。"
       }
      ],
      "patterns": [
@@ -30417,6 +30425,10 @@
       {
        "en": "Her expressive face showed how excited she was.",
        "zh": "她富有表情的臉看得出她有多興奮。"
+      },
+      {
+       "en": "The dancer's expressive movements told the whole story.",
+       "zh": "那位舞者富有表現力的動作說出了整個故事。"
       }
      ],
      "patterns": [
@@ -30507,6 +30519,10 @@
       {
        "en": "The team had to practice in extreme heat.",
        "zh": "這支隊伍必須在酷熱中練習。"
+      },
+      {
+       "en": "Extreme sports are popular among some young people.",
+       "zh": "極限運動很受一些年輕人歡迎。"
       }
      ],
      "patterns": [
@@ -30530,11 +30546,15 @@
     {
      "pos": "n.",
      "zh": "極端；極端情況",
-     "ext": "",
+     "ext": "最遠、最外面的一端 → 兩個相反方向中最極端的一邊",
      "examples": [
       {
-       "en": "We should avoid going to either extreme.",
-       "zh": "我們應該避免走向任何一個極端。"
+       "en": "We should avoid going to either extreme in life.",
+       "zh": "我們應該避免在生活中走向任何一個極端。"
+      },
+      {
+       "en": "Her opinion is at the other extreme from mine.",
+       "zh": "她的看法和我的完全走向另一個極端。"
       }
      ],
      "patterns": [
@@ -30710,11 +30730,15 @@
     {
      "pos": "adj.",
      "zh": "微弱的；模糊的",
-     "ext": "",
+     "ext": "微微地、不明顯 → 聲音、光線、氣味等很微弱",
      "examples": [
       {
        "en": "We heard a faint sound from the next room.",
        "zh": "我們聽見隔壁房間傳來微弱的聲音。"
+      },
+      {
+       "en": "There was a faint smell of flowers in the room.",
+       "zh": "房間裡有一股淡淡的花香。"
       }
      ],
      "patterns": [],
@@ -30732,11 +30756,15 @@
     {
      "pos": "v.",
      "zh": "昏倒；暈厥",
-     "ext": "",
+     "ext": "力氣消失、眼前一黑 → 短暫失去意識",
      "examples": [
       {
        "en": "Amy felt sick and fainted during the school event.",
        "zh": "Amy 覺得不舒服，在校園活動中昏倒了。"
+      },
+      {
+       "en": "Tom felt hot and dizzy, and he almost fainted.",
+       "zh": "Tom 覺得又熱又暈，差點昏倒。"
       }
      ],
      "patterns": [],
@@ -30779,7 +30807,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古法語 feint，來自 feindre「假裝」，原指假裝的、軟弱的，後來指微弱的。",
    "related": [],
    "phrases": []
   },
@@ -30797,6 +30825,10 @@
       {
        "en": "The test was fairly easy, so most students finished early.",
        "zh": "這次考試還算簡單，所以大多數學生很早就寫完了。"
+      },
+      {
+       "en": "The room was fairly clean, but it was not perfect.",
+       "zh": "房間還算乾淨，但不算完美。"
       }
      ],
      "patterns": [
@@ -30825,6 +30857,10 @@
       {
        "en": "The teacher listened to both students and judged fairly.",
        "zh": "老師聽了兩位學生的說法，並公平地做出判斷。"
+      },
+      {
+       "en": "The judges treated all the singers in the contest fairly.",
+       "zh": "評審公平地對待比賽中的所有歌手。"
       }
      ],
      "patterns": [],
@@ -30896,6 +30932,10 @@
       {
        "en": "The story is about a fairy who helps a lost child.",
        "zh": "這個故事描述一位幫助迷路孩子的仙子。"
+      },
+      {
+       "en": "In the picture book, a small fairy flies over the forest.",
+       "zh": "繪本裡，一位小仙子飛過森林上空。"
       }
      ],
      "patterns": [],
@@ -30918,6 +30958,10 @@
       {
        "en": "The little girl wore a fairy costume to the party.",
        "zh": "小女孩穿著仙子服裝去參加派對。"
+      },
+      {
+       "en": "The fairy wings were made of thin silk.",
+       "zh": "那對仙子的翅膀是用薄薄的絲做成的。"
       }
      ],
      "patterns": [],
@@ -30993,6 +31037,10 @@
       {
        "en": "I have faith in my team, even when the work is hard.",
        "zh": "即使工作很辛苦，我仍然相信我的團隊。"
+      },
+      {
+       "en": "We have faith that the new doctor will help us.",
+       "zh": "我們相信新來的醫生會幫助我們。"
       }
      ],
      "patterns": [
@@ -31021,6 +31069,10 @@
       {
        "en": "His faith is an important part of his family life.",
        "zh": "他的宗教信仰是家庭生活中重要的一部分。"
+      },
+      {
+       "en": "People of different faiths live together in this town.",
+       "zh": "不同信仰的人在這座小鎮和睦相處。"
       }
      ],
      "patterns": [],
@@ -31116,6 +31168,10 @@
       {
        "en": "The online store warned customers about fake tickets.",
        "zh": "這家網路商店提醒顧客留意假票。"
+      },
+      {
+       "en": "She was wearing a fake diamond ring at the party.",
+       "zh": "她在派對上戴著一枚假鑽戒。"
       }
      ],
      "patterns": [],
@@ -31138,6 +31194,10 @@
       {
        "en": "He faked an illness to avoid the school trip.",
        "zh": "他假裝生病，好避開校外教學。"
+      },
+      {
+       "en": "The actor faked a fall to make the audience laugh.",
+       "zh": "那位演員假裝跌倒，逗得觀眾大笑。"
       }
      ],
      "patterns": [
@@ -31166,6 +31226,10 @@
       {
        "en": "The police found a fake among the paintings at the shop.",
        "zh": "警方在商店的畫作中發現一幅仿冒品。"
+      },
+      {
+       "en": "That designer bag on the website is a fake, not the real thing.",
+       "zh": "網站上那個名牌包是仿冒品，不是真貨。"
       }
      ],
      "patterns": [],
@@ -31233,6 +31297,10 @@
       {
        "en": "The song sounded familiar, but I could not name it.",
        "zh": "這首歌聽起來很熟悉，但我說不出歌名。"
+      },
+      {
+       "en": "This street looks familiar, but I cannot remember why.",
+       "zh": "這條街看起來很眼熟，但我想不起來為什麼。"
       }
      ],
      "patterns": [
@@ -31266,6 +31334,10 @@
       {
        "en": "Our new teacher has a familiar and friendly manner.",
        "zh": "我們的新老師態度親切又友善。"
+      },
+      {
+       "en": "It is not polite to be too familiar with your teacher.",
+       "zh": "對老師太過隨便並不禮貌。"
       }
      ],
      "patterns": [],
@@ -31345,6 +31417,10 @@
       {
        "en": "They chose a fancy restaurant for their anniversary dinner.",
        "zh": "他們選了一家高級餐廳慶祝結婚紀念日。"
+      },
+      {
+       "en": "Amy wore a fancy dress to the school dance.",
+       "zh": "Amy 穿了一件華麗的洋裝去參加學校舞會。"
       }
      ],
      "patterns": [],
@@ -31367,6 +31443,10 @@
       {
        "en": "She has a fancy for learning new languages.",
        "zh": "她喜歡學習新的語言。"
+      },
+      {
+       "en": "Kevin took a fancy to painting after his trip to Italy.",
+       "zh": "Kevin 去義大利旅行後，突然愛上了畫畫。"
       }
      ],
      "patterns": [
@@ -31389,8 +31469,12 @@
      "ext": "",
      "examples": [
       {
-       "en": "Do you fancy a walk after dinner?",
-       "zh": "你晚餐後想不想去散步？"
+       "en": "Do you fancy a short walk after dinner tonight?",
+       "zh": "你今晚晚餐後想不想去散個步？"
+      },
+      {
+       "en": "What would you fancy for dinner on Friday night?",
+       "zh": "星期五晚上你想吃什麼？"
       }
      ],
      "patterns": [
@@ -31482,6 +31566,10 @@
       {
        "en": "The bus fare is cheaper if you use a student card.",
        "zh": "使用學生卡搭公車，車資會比較便宜。"
+      },
+      {
+       "en": "The taxi fare from the station to the hotel was very high.",
+       "zh": "從車站到旅館的計程車費很貴。"
       }
      ],
      "patterns": [],
@@ -31544,6 +31632,10 @@
       {
        "en": "We walked farther along the river before turning back.",
        "zh": "我們沿著河再往前走了一段才折返。"
+      },
+      {
+       "en": "Kevin can throw the ball farther than any other student.",
+       "zh": "Kevin 能把球丟得比任何其他學生都遠。"
       }
      ],
      "patterns": [],
@@ -31562,6 +31654,10 @@
       {
        "en": "Their house is farther from school than ours.",
        "zh": "他們家離學校比我們家遠。"
+      },
+      {
+       "en": "The farther road is longer, but it has less traffic.",
+       "zh": "比較遠的那條路比較長，但車流比較少。"
       }
      ],
      "patterns": [
@@ -31626,6 +31722,10 @@
       {
        "en": "Jenny bought a fashionable jacket for the school dance.",
        "zh": "Jenny 為學校舞會買了一件時髦的外套。"
+      },
+      {
+       "en": "Long coats are very fashionable among teenagers this winter.",
+       "zh": "今年冬天長版外套在青少年之間非常流行。"
       }
      ],
      "patterns": [],
@@ -31710,6 +31810,10 @@
       {
        "en": "Please turn off the faucet after washing your hands.",
        "zh": "洗完手後請把水龍頭關好。"
+      },
+      {
+       "en": "The faucet in the kitchen is leaking again.",
+       "zh": "廚房的水龍頭又在漏水了。"
       }
      ],
      "patterns": [],
@@ -31843,6 +31947,10 @@
       {
        "en": "The bird lost a feather while flying over the lake.",
        "zh": "那隻鳥飛過湖面時掉了一根羽毛。"
+      },
+      {
+       "en": "Some hats are decorated with beautiful colorful feathers.",
+       "zh": "有些帽子用漂亮的彩色羽毛裝飾。"
       }
      ],
      "patterns": [],
@@ -31922,6 +32030,10 @@
       {
        "en": "The school built a fence around the new garden.",
        "zh": "學校在新花園四周蓋了柵欄。"
+      },
+      {
+       "en": "Our dog jumped over the low fence into the garden.",
+       "zh": "我們的狗跳過低矮的柵欄，進到花園裡。"
       }
      ],
      "patterns": [],
@@ -31948,6 +32060,10 @@
       {
        "en": "They fenced the playground to keep children safe.",
        "zh": "他們用柵欄圍住遊樂場，保障孩子安全。"
+      },
+      {
+       "en": "The farmer fenced his land to keep the cows in.",
+       "zh": "農夫用柵欄圍住他的土地，把牛關在裡面。"
       }
      ],
      "patterns": [
@@ -32145,6 +32261,10 @@
       {
        "en": "We watched fireworks above the river on New Year's Eve.",
        "zh": "除夕夜我們觀賞河面上方的煙火。"
+      },
+      {
+       "en": "The children were excited to see the fireworks at the festival.",
+       "zh": "孩子們在慶典上看到煙火，興奮極了。"
       }
      ],
      "patterns": [],
@@ -32214,6 +32334,10 @@
       {
        "en": "She raised her fist to show support for the team.",
        "zh": "她舉起拳頭表示支持那支隊伍。"
+      },
+      {
+       "en": "He hit the table with his fist and shouted angrily.",
+       "zh": "他用拳頭捶桌子，生氣地大喊。"
       }
      ],
      "patterns": [],
@@ -32240,6 +32364,10 @@
       {
        "en": "He fisted the ball toward the goal during practice.",
        "zh": "練習時他用拳頭把球擊向球門。"
+      },
+      {
+       "en": "The goalkeeper fisted the ball over the bar just in time.",
+       "zh": "守門員及時用拳頭把球擊出橫桿上方。"
       }
      ],
      "patterns": [
@@ -32281,7 +32409,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古英語 fyst，意思是「拳頭」，與德語 Faust 同源。",
    "related": [],
    "phrases": [
     {
@@ -32323,8 +32451,8 @@
        "zh": "蠟燭的火焰在強風中熄滅了。"
       },
       {
-       "en": "Her flame for music grew after the concert.",
-       "zh": "演唱會後，她對音樂的熱情更加強烈。"
+       "en": "A small flame of hope stayed alive in her heart.",
+       "zh": "她心中仍留著一絲微弱的希望之火。"
       }
      ],
      "patterns": [],
@@ -32351,6 +32479,10 @@
       {
        "en": "The dry leaves flamed brightly in the fireplace.",
        "zh": "乾樹葉在壁爐裡熊熊燃燒。"
+      },
+      {
+       "en": "The paper flamed up as soon as it touched the fire.",
+       "zh": "那張紙一碰到火就燒了起來。"
       }
      ],
      "patterns": [],
@@ -32374,12 +32506,7 @@
      "example": "a passion for music"
     }
    ],
-   "antonyms": [
-    {
-     "word": "coldness",
-     "zh": "冷淡"
-    }
-   ],
+   "antonyms": [],
    "confusables": [
     {
      "words": "flame vs fame",
@@ -32569,6 +32696,10 @@
       {
        "en": "Tom used a flashlight to find his keys under the bed.",
        "zh": "Tom 用手電筒找床底下的鑰匙。"
+      },
+      {
+       "en": "We need a flashlight because the power went out last night.",
+       "zh": "我們需要手電筒，因為昨晚停電了。"
       }
      ],
      "patterns": [],
@@ -32660,6 +32791,10 @@
       {
        "en": "The chef flavored the rice with fresh herbs.",
        "zh": "主廚用新鮮香草為米飯調味。"
+      },
+      {
+       "en": "Dad flavors the noodles with garlic and a little pepper.",
+       "zh": "爸爸用蒜頭和一點胡椒替麵條調味。"
       }
      ],
      "patterns": [
@@ -32798,15 +32933,11 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古英語 flǣsc，意思是「肉」。",
    "related": [
     {
      "word": "fleshy",
      "note": "肉多的；肉質的"
-    },
-    {
-     "word": "fleshless",
-     "note": "沒有肉的"
     }
    ],
    "phrases": [
@@ -32883,6 +33014,10 @@
       {
        "en": "The children rested on a float at the swimming pool.",
        "zh": "孩子們在游泳池的浮板上休息。"
+      },
+      {
+       "en": "A colorful float led the parade down the main street.",
+       "zh": "一輛色彩繽紛的花車帶領遊行隊伍走過大街。"
       }
      ],
      "patterns": [],
@@ -33025,6 +33160,10 @@
       {
        "en": "Fans flocked to the store for the new game.",
        "zh": "粉絲們湧向商店購買新遊戲。"
+      },
+      {
+       "en": "Shoppers flocked to the market on the first day of sales.",
+       "zh": "特賣的第一天，購物者湧向市場。"
       }
      ],
      "patterns": [
@@ -33228,7 +33367,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古英語 flōd，意思是「水流、洪水」，與 flow 同源。",
    "related": [
     {
      "word": "overflow",
@@ -33281,6 +33420,10 @@
       {
        "en": "Mom added flour and eggs to make a simple cake.",
        "zh": "媽媽加入麵粉和雞蛋做簡單的蛋糕。"
+      },
+      {
+       "en": "You need flour, sugar and butter to make these cookies.",
+       "zh": "做這些餅乾需要麵粉、糖和奶油。"
       }
      ],
      "patterns": [],
@@ -33354,11 +33497,15 @@
     {
      "pos": "n.",
      "zh": "長笛",
-     "ext": "",
+     "ext": "長管形樂器 → 從側面吹氣，發出柔和悠揚的音色",
      "examples": [
       {
        "en": "Amy practices the flute after school twice a week.",
        "zh": "Amy 每週有兩天放學後練習長笛。"
+      },
+      {
+       "en": "The sound of the flute came softly from the music room.",
+       "zh": "長笛的聲音輕柔地從音樂教室傳出來。"
       }
      ],
      "patterns": [],
@@ -33366,6 +33513,28 @@
       {
        "en": "play the flute",
        "zh": "吹長笛"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "香檳杯",
+     "ext": "細長的杯身 → 形狀像長笛一樣細長的高腳杯",
+     "examples": [
+      {
+       "en": "The waiter filled each tall flute with sparkling juice.",
+       "zh": "服務生把每個細長的杯子倒滿氣泡果汁。"
+      },
+      {
+       "en": "She raised her flute to toast the happy couple.",
+       "zh": "她舉起香檳杯，向那對幸福的新人敬酒。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
+       "en": "a champagne flute",
+       "zh": "香檳杯"
       }
      ]
     }
@@ -33485,6 +33654,10 @@
       {
        "en": "Please fold the paper carefully before putting it away.",
        "zh": "請先把紙仔細摺好，再收起來。"
+      },
+      {
+       "en": "Mom taught me how to fold a paper crane.",
+       "zh": "媽媽教我怎麼摺紙鶴。"
       }
      ],
      "patterns": [
@@ -33508,11 +33681,15 @@
     {
      "pos": "n.",
      "zh": "摺痕；摺層",
-     "ext": "",
+     "ext": "布或紙被摺起的部分 → 留下的線條或層次",
      "examples": [
       {
        "en": "There was a deep fold in the clean white shirt.",
        "zh": "那件乾淨的白襯衫上有一道深摺痕。"
+      },
+      {
+       "en": "She smoothed the folds in her skirt before the party.",
+       "zh": "派對前，她把裙子上的摺痕撫平。"
       }
      ],
      "patterns": [],
@@ -33551,7 +33728,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古英語 fealdan，意思是「摺疊、捲起」。",
    "related": [],
    "phrases": [
     {
@@ -33591,6 +33768,10 @@
       {
        "en": "The young singer thanked her followers for their kind messages.",
        "zh": "這位年輕歌手感謝支持者傳來的親切訊息。"
+      },
+      {
+       "en": "Thousands of followers waited outside the hotel to see the star.",
+       "zh": "數千名支持者在旅館外等著看那位明星。"
       }
      ],
      "patterns": [],
@@ -33671,6 +33852,10 @@
       {
        "en": "My grandmother is fond of growing flowers in her garden.",
        "zh": "我奶奶喜歡在花園裡種花。"
+      },
+      {
+       "en": "Tom has fond memories of the summers at his uncle's farm.",
+       "zh": "Tom 對在叔叔農場度過的夏天有著美好的回憶。"
       }
      ],
      "patterns": [
@@ -33722,7 +33907,7 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自中古英語 fonned，原意是「愚蠢的」，後來演變為「溺愛的」，再變成「喜愛的」。",
    "related": [],
    "phrases": [
     {
@@ -33762,6 +33947,10 @@
       {
        "en": "Good friends do not have to live near each other forever.",
        "zh": "好朋友不一定要永遠住得很近。"
+      },
+      {
+       "en": "Nothing in this world can last forever, so enjoy each day.",
+       "zh": "世上沒有任何事物能永遠持續，所以要享受每一天。"
       }
      ],
      "patterns": [],
@@ -33773,6 +33962,32 @@
       {
        "en": "remember forever",
        "zh": "永遠記得"
+      }
+     ]
+    },
+    {
+     "pos": "adv.",
+     "zh": "好久；很長時間",
+     "ext": "誇張地說時間很長 → 口語中形容等待或花費很久",
+     "examples": [
+      {
+       "en": "The bus was late, so we waited forever at the stop.",
+       "zh": "公車誤點，所以我們在站牌等了好久。"
+      },
+      {
+       "en": "It takes forever to get to school when it rains hard.",
+       "zh": "下大雨時，去學校要花很久的時間。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
+       "en": "take forever",
+       "zh": "花很長時間"
+      },
+      {
+       "en": "wait forever",
+       "zh": "等很久"
       }
      ]
     }
@@ -33799,7 +34014,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "由 for 和 ever 組成，字面意思是「永遠地」。",
    "related": [],
    "phrases": []
   },
@@ -33817,6 +34032,10 @@
       {
        "en": "By good fortune, we found a taxi before the rain started.",
        "zh": "我們運氣很好，在下雨前就找到計程車了。"
+      },
+      {
+       "en": "Some people believe that a small charm can bring good fortune.",
+       "zh": "有些人相信小護身符能帶來好運。"
       }
      ],
      "patterns": [],
@@ -33834,11 +34053,15 @@
     {
      "pos": "n.",
      "zh": "大筆財產；巨款",
-     "ext": "",
+     "ext": "累積起來的大量錢財 → 指非常富有的財產",
      "examples": [
       {
        "en": "Her family made a fortune by building a successful business.",
        "zh": "她的家人靠經營成功的生意賺了一大筆錢。"
+      },
+      {
+       "en": "The old man left his whole fortune to a children's hospital.",
+       "zh": "那位老先生把全部財產留給了一家兒童醫院。"
       }
      ],
      "patterns": [],
@@ -33925,6 +34148,10 @@
       {
        "en": "The students ate lunch near the fountain in the park.",
        "zh": "學生在公園的噴水池旁吃午餐。"
+      },
+      {
+       "en": "Children were playing and laughing around the fountain in the square.",
+       "zh": "孩子們在廣場的噴泉周圍玩耍嬉笑。"
       }
      ],
      "patterns": [],
@@ -33953,7 +34180,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古法語 fontaine，來自拉丁文 fons，意思是「泉水」。",
    "related": [],
    "phrases": []
   },
@@ -33971,6 +34198,10 @@
       {
        "en": "Our teacher gave us frank advice about preparing for the exam.",
        "zh": "老師坦白地給了我們準備考試的建議。"
+      },
+      {
+       "en": "To be frank, I did not enjoy the movie very much.",
+       "zh": "老實說，我不太喜歡那部電影。"
       }
      ],
      "patterns": [
@@ -34046,6 +34277,10 @@
       {
        "en": "Water can freeze overnight when the winter air is very cold.",
        "zh": "冬天氣溫很低時，水可能一夜之間結冰。"
+      },
+      {
+       "en": "The lake freezes every winter, so people skate on it.",
+       "zh": "那座湖每年冬天都會結冰，所以人們在上面溜冰。"
       }
      ],
      "patterns": [
@@ -34074,6 +34309,10 @@
       {
        "en": "I froze when the teacher suddenly asked me to answer.",
        "zh": "老師突然叫我回答時，我整個人愣住了。"
+      },
+      {
+       "en": "The little rabbit froze when it saw the dog coming.",
+       "zh": "小兔子看到狗走過來時僵住了。"
       }
      ],
      "patterns": [],
@@ -34122,7 +34361,7 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古英語 frēosan，意思是「結冰」。",
    "related": [
     {
      "word": "frozen",
@@ -34170,7 +34409,11 @@
      "examples": [
       {
        "en": "We keep frozen vegetables in the freezer for busy evenings.",
-       "zh": "忙碌的晚上，我們會從冷凍庫拿出冷凍蔬菜。"
+       "zh": "我們把冷凍蔬菜存放在冷凍庫，忙碌的晚上就用得到。"
+      },
+      {
+       "en": "Please put the ice cream back in the freezer.",
+       "zh": "請把冰淇淋放回冷凍庫。"
       }
      ],
      "patterns": [],
@@ -34245,6 +34488,10 @@
       {
        "en": "Frequent breaks can help students stay focused during long study sessions.",
        "zh": "經常休息能幫助學生在長時間讀書時保持專心。"
+      },
+      {
+       "en": "Frequent earthquakes worry people who live near the coast.",
+       "zh": "頻繁的地震讓住在海邊的人感到擔心。"
       }
      ],
      "patterns": [],
@@ -34271,6 +34518,10 @@
       {
        "en": "Many students frequent the library after school to finish their homework.",
        "zh": "許多學生放學後常到圖書館完成作業。"
+      },
+      {
+       "en": "Tourists often frequent the night market near the station.",
+       "zh": "遊客常常光顧車站附近的夜市。"
       }
      ],
      "patterns": [
@@ -34321,21 +34572,15 @@
    ],
    "commonErrors": [
     {
-     "wrong": "He frequently visits there.",
-     "right": "He frequently visits the library.",
-     "note": "visit 作動詞時直接接受詞，不接 there。",
-     "exWrong": "Kevin frequently visits there after school.",
-     "exRight": "Kevin frequently visits the library after school."
+     "wrong": "frequent to the library",
+     "right": "frequent the library",
+     "note": "frequent 作動詞時直接接地點，不加 to 或 at。",
+     "exWrong": "Amy frequents to the small bookstore.",
+     "exRight": "Amy frequents the small bookstore."
     }
    ],
-   "breakdownApplicable": true,
-   "breakdown": [
-    {
-     "part": "frequent",
-     "type": "完整詞",
-     "gloss": "頻繁的"
-    }
-   ],
+   "breakdownApplicable": false,
+   "breakdown": [],
    "origin": "frequent 源自拉丁文 frequens，意思是「常見的、擁擠的」。後來也成為動詞，表示常去某處。",
    "related": [
     {
@@ -34363,6 +34608,10 @@
       {
        "en": "The sudden loud noise gave the children a fright.",
        "zh": "突然的巨大聲響把孩子們嚇了一跳。"
+      },
+      {
+       "en": "Amy cried out in fright when the lights went out.",
+       "zh": "燈突然熄滅時，Amy 嚇得大叫。"
       }
      ],
      "patterns": [
@@ -34380,6 +34629,10 @@
       {
        "en": "give someone a fright",
        "zh": "嚇某人一跳"
+      },
+      {
+       "en": "cry out in fright",
+       "zh": "嚇得大叫"
       }
      ]
     }
@@ -34406,7 +34659,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "fright 源自古英語 fyrhto，意思是「恐懼、害怕」。",
    "related": [
     {
      "word": "frighten",
@@ -34459,6 +34712,10 @@
       {
        "en": "The loud thunder frightened the young children during the storm.",
        "zh": "暴風雨中的巨大雷聲嚇到了那些小孩。"
+      },
+      {
+       "en": "Don't let the big dog frighten you; it is very friendly.",
+       "zh": "別讓那隻大狗嚇到你，牠很友善。"
       }
      ],
      "patterns": [
@@ -34569,6 +34826,10 @@
       {
        "en": "The bus uses less fuel when the driver avoids sudden stops.",
        "zh": "司機避免突然停車時，公車會比較省油。"
+      },
+      {
+       "en": "Many countries are looking for cleaner fuel to protect the air.",
+       "zh": "許多國家正在尋找更乾淨的燃料來保護空氣。"
       }
      ],
      "patterns": [],
@@ -34595,6 +34856,10 @@
       {
        "en": "The family fueled their car before beginning the long trip.",
        "zh": "這家人在開始長途旅行前先替車子加油。"
+      },
+      {
+       "en": "The airport fuels every plane before it takes off.",
+       "zh": "機場會在每架飛機起飛前替它加油。"
       }
      ],
      "patterns": [
@@ -34637,16 +34902,16 @@
    "confusables": [],
    "commonErrors": [
     {
-     "wrong": "The car needs many fuel.",
-     "right": "The car needs much fuel.",
-     "note": "fuel 作燃料時通常是不可數名詞。",
+     "wrong": "many fuel",
+     "right": "a lot of fuel",
+     "note": "fuel 表示燃料時通常是不可數名詞，不能用 many 修飾。",
      "exWrong": "Our car needs many fuel for the trip.",
-     "exRight": "Our car needs much fuel for the trip."
+     "exRight": "Our car needs a lot of fuel for the trip."
     }
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "fuel 源自古法語 feuaile，字源與拉丁文 focus「爐灶」有關。",
    "related": [],
    "phrases": [
     {
@@ -34684,8 +34949,12 @@
      "ext": "錢被集中保管 → 用來支持計畫、活動或組織",
      "examples": [
       {
-       "en": "The school raised funds for new computers.",
-       "zh": "學校募得資金購買新電腦。"
+       "en": "The school raised funds to buy new computers for every classroom.",
+       "zh": "學校募款，要為每間教室買新電腦。"
+      },
+      {
+       "en": "The city set up a fund to help families after the flood.",
+       "zh": "市政府成立了一筆基金，幫助洪水後的家庭。"
       }
      ],
      "patterns": [
@@ -34712,8 +34981,12 @@
      "ext": "提供所需的錢 → 使計畫或活動得以進行",
      "examples": [
       {
-       "en": "The charity funded a clean water project.",
-       "zh": "這個慈善團體資助了淨水計畫。"
+       "en": "The charity funded a clean water project in a small village.",
+       "zh": "這個慈善團體資助了一個小村莊的淨水計畫。"
+      },
+      {
+       "en": "Local businesses funded the school's new science lab.",
+       "zh": "當地商家出資興建學校的新科學教室。"
       }
      ],
      "patterns": [
@@ -34752,16 +35025,7 @@
      "example": "support a program"
     }
    ],
-   "antonyms": [
-    {
-     "word": "withdraw",
-     "zh": "撤回資金"
-    },
-    {
-     "word": "defund",
-     "zh": "停止資助"
-    }
-   ],
+   "antonyms": [],
    "confusables": [
     {
      "words": "fund vs find",
@@ -34786,10 +35050,6 @@
     {
      "word": "funding",
      "note": "資金；資助"
-    },
-    {
-     "word": "refund",
-     "note": "退款"
     },
     {
      "word": "fundamental",
@@ -34832,8 +35092,12 @@
      "ext": "動物皮膚上的毛 → 用來保暖或製作衣物",
      "examples": [
       {
-       "en": "The fox has thick fur in winter.",
-       "zh": "狐狸冬天有厚厚的皮毛。"
+       "en": "The fox grows thick fur to stay warm in winter.",
+       "zh": "狐狸長出厚厚的毛，在冬天保持溫暖。"
+      },
+      {
+       "en": "Many people no longer buy coats made of real fur.",
+       "zh": "很多人不再購買真毛皮製的外套。"
       }
      ],
      "patterns": [],
@@ -34875,15 +35139,7 @@
      "right": "The rabbit has soft fur."
     }
    ],
-   "commonErrors": [
-    {
-     "wrong": "many furs",
-     "right": "much fur",
-     "note": "fur 表示動物毛皮的總稱時通常不可數。",
-     "exWrong": "The animal has many furs.",
-     "exRight": "The animal has much fur."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
    "origin": "fur 源自古法語 forre，意思是「毛皮、外套內襯」，後來成為英語中的 fur。",
@@ -34902,8 +35158,12 @@
      "ext": "一種容量單位 → 常用來表示汽油、牛奶等液體的量",
      "examples": [
       {
-       "en": "The car uses one gallon of gasoline.",
-       "zh": "這輛車使用一加侖汽油。"
+       "en": "The old car uses about one gallon of gasoline every twenty miles.",
+       "zh": "這輛舊車大約每開二十英里用掉一加侖汽油。"
+      },
+      {
+       "en": "The supermarket near my house sells milk by the gallon.",
+       "zh": "我家附近的超市以加侖為單位賣牛奶。"
       }
      ],
      "patterns": [
@@ -34966,8 +35226,12 @@
      "ext": "把錢或結果交給運氣 → 承擔可能失敗的風險",
      "examples": [
       {
-       "en": "Gambling can cause serious money problems.",
-       "zh": "賭博可能造成嚴重的金錢問題。"
+       "en": "Moving to a new city was a big gamble for the family.",
+       "zh": "搬到新城市對這家人來說是一大冒險。"
+      },
+      {
+       "en": "For him, every card game was a gamble with his savings.",
+       "zh": "對他來說，每場牌局都是拿積蓄下的賭注。"
       }
      ],
      "patterns": [],
@@ -34990,6 +35254,10 @@
       {
        "en": "He gambled all his money on one game.",
        "zh": "他把所有的錢都押在一場比賽上。"
+      },
+      {
+       "en": "Tom refused to gamble on the weather, so he took an umbrella.",
+       "zh": "Tom 不想賭天氣，所以帶了一把傘。"
       }
      ],
      "patterns": [
@@ -35028,16 +35296,7 @@
      "example": "bet on a game"
     }
    ],
-   "antonyms": [
-    {
-     "word": "avoid",
-     "zh": "避免"
-    },
-    {
-     "word": "protect",
-     "zh": "保護"
-    }
-   ],
+   "antonyms": [],
    "confusables": [
     {
      "words": "gamble vs game",
@@ -35046,18 +35305,10 @@
      "right": "They played a game after school."
     }
    ],
-   "commonErrors": [
-    {
-     "wrong": "gamble with someone",
-     "right": "gamble with something",
-     "note": "表示拿某物冒險時，with 後面接金錢、健康等事物。",
-     "exWrong": "She gambled with her friend.",
-     "exRight": "She gambled with her savings."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "gamble 源自中古英語 gamenen，意思是「玩、娛樂」；後來和以金錢冒險的遊戲產生關聯。",
+   "origin": "gamble 可能來自中古英語 gamen「遊戲、玩耍」，後來指拿錢下注的賭博。",
    "related": [
     {
      "word": "gambler",
@@ -35104,8 +35355,12 @@
      "ext": "一群人聚在一起 → 共同活動或從事某種行動",
      "examples": [
       {
-       "en": "A gang of students cleaned the park.",
-       "zh": "一群學生清理了公園。"
+       "en": "The police caught a gang that stole bicycles around the city.",
+       "zh": "警方逮捕了在市區到處偷腳踏車的一個幫派。"
+      },
+      {
+       "en": "Amy and her gang always eat lunch under the big tree.",
+       "zh": "Amy 和她那一夥人總是在大樹下吃午餐。"
       }
      ],
      "patterns": [
@@ -35128,25 +35383,33 @@
     },
     {
      "pos": "v.",
-     "zh": "聯合；結夥",
-     "ext": "幾個人聚在一起 → 共同完成工作或對付某人",
+     "zh": "聯手對付；結夥欺負",
+     "ext": "幾個人聚成一夥 → 一起對付某個人",
      "examples": [
       {
-       "en": "The students ganged up to finish the project.",
-       "zh": "學生們聯手完成了計畫。"
+       "en": "Three older boys ganged up on my brother at the park.",
+       "zh": "三個大男孩在公園聯手欺負我弟弟。"
+      },
+      {
+       "en": "Some classmates ganged up on Tom and stopped talking to him.",
+       "zh": "有些同學聯手排擠 Tom，不再和他說話。"
       }
      ],
      "patterns": [
       {
        "pattern": "gang up on + 人",
-       "en": "The players ganged up to solve the problem.",
-       "zh": "隊員們聯手解決問題。"
+       "en": "The other players ganged up on the new student.",
+       "zh": "其他球員聯手對付那名新生。"
       }
      ],
      "collocations": [
       {
-       "en": "gang up against",
-       "zh": "聯手對付"
+       "en": "gang up on someone",
+       "zh": "聯手對付某人"
+      },
+      {
+       "en": "gang up with friends",
+       "zh": "和朋友聯手"
       }
      ]
     }
@@ -35208,8 +35471,8 @@
        "zh": "兩棟建築物之間有一段空隙。"
       },
       {
-       "en": "The program helps close the education gap.",
-       "zh": "這項計畫有助於縮小教育差距。"
+       "en": "The new program helps close the education gap between cities and villages.",
+       "zh": "這項新計畫有助於縮小城市與鄉村之間的教育差距。"
       }
      ],
      "patterns": [
@@ -35272,7 +35535,7 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "gap 源自古北歐語 gap，意思是「張開的嘴、裂口」；後來泛指空隙與差距。",
+   "origin": "gap 源自古北歐語 gap，意思是「深淵、裂口」；後來泛指空隙與差距。",
    "related": [],
    "phrases": [
     {
@@ -35310,12 +35573,12 @@
      "ext": "停放或修理汽車的地方 → 可指住宅附設空間或營業場所",
      "examples": [
       {
-       "en": "My father parks his car in the garage.",
-       "zh": "我爸爸把車停在車庫裡。"
+       "en": "My father parks his car in the garage every night.",
+       "zh": "我爸爸每天晚上把車停在車庫裡。"
       },
       {
-       "en": "The car is waiting at the garage.",
-       "zh": "那輛車正在汽車修理廠等候。"
+       "en": "Dad took the car to the garage because the engine made a strange noise.",
+       "zh": "引擎發出怪聲，所以爸爸把車送到修車廠。"
       }
      ],
      "patterns": [
@@ -35331,8 +35594,8 @@
        "zh": "停在車庫裡"
       },
       {
-       "en": "car garage",
-       "zh": "汽車修理廠"
+       "en": "take the car to the garage",
+       "zh": "把車送去修理廠"
       }
      ]
     }
@@ -35412,8 +35675,12 @@
      "ext": "由石油提煉的燃料 → 用來使汽車引擎運轉",
      "examples": [
       {
-       "en": "Gasoline prices rose again this month.",
-       "zh": "汽油價格這個月又上漲了。"
+       "en": "Gasoline prices rose again this month, so many drivers complained.",
+       "zh": "汽油價格這個月又上漲，所以許多駕駛人抱怨連連。"
+      },
+      {
+       "en": "In the United States, gasoline is sold by the gallon.",
+       "zh": "在美國，汽油是以加侖為單位販售。"
       }
      ],
      "patterns": [
@@ -35488,8 +35755,12 @@
      "ext": "研究地球表面與人類活動 → 了解地形、地區和環境的關係",
      "examples": [
       {
-       "en": "Geography helps us understand different cultures.",
-       "zh": "地理有助於我們了解不同文化。"
+       "en": "Geography helps us understand different cultures and the places where people live.",
+       "zh": "地理幫助我們了解不同的文化，以及人們居住的地方。"
+      },
+      {
+       "en": "In geography class, we learned why deserts are so dry.",
+       "zh": "在地理課上，我們學到沙漠為什麼這麼乾燥。"
       }
      ],
      "patterns": [
@@ -35522,13 +35793,8 @@
      "example": "study geography"
     },
     {
-     "word": "cartography",
-     "note": "專指製作和研究地圖，不等同於整體地理學。",
-     "example": "learn cartography"
-    },
-    {
      "word": "terrain",
-     "note": "指某地的地表形狀，是 geography 的一部分。",
+     "note": "指某地的地表形狀，只是 geography 的一部分。",
      "example": "the local terrain"
     }
    ],
@@ -35541,15 +35807,7 @@
      "right": "She studies geology to learn about ancient rocks."
     }
    ],
-   "commonErrors": [
-    {
-     "wrong": "geography informations",
-     "right": "geographical information",
-     "note": "information 不可數，且形容地理資訊要用 geographical。",
-     "exWrong": "The website gives geography informations.",
-     "exRight": "The website gives geographical information."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": true,
    "breakdown": [
     {
@@ -35589,7 +35847,7 @@
    "meanings": [
     {
      "pos": "n.",
-     "zh": "手勢；姿態；表示",
+     "zh": "手勢；表示",
      "ext": "用動作表達想法 → 不必說話也能傳達訊息或態度",
      "examples": [
       {
@@ -35597,8 +35855,8 @@
        "zh": "Tom 做了個手勢告訴我們該往哪裡走。"
       },
       {
-       "en": "Her gift was a kind gesture.",
-       "zh": "她送禮物是一種善意的表示。"
+       "en": "Her small gift to the new student was a kind gesture.",
+       "zh": "她送給新同學的小禮物是一種善意的表示。"
       }
      ],
      "patterns": [
@@ -35631,6 +35889,10 @@
       {
        "en": "The guide gestured for us to follow him.",
        "zh": "導遊用手勢示意我們跟著他。"
+      },
+      {
+       "en": "The waiter gestured to the empty table near the window.",
+       "zh": "服務生用手勢指向窗邊的空桌。"
       }
      ],
      "patterns": [
@@ -35680,11 +35942,11 @@
    ],
    "commonErrors": [
     {
-     "wrong": "gesture someone to do",
-     "right": "gesture for someone to do",
-     "note": "gesture 表示示意某人做事時，通常在受詞後加 for。",
-     "exWrong": "She gestured me to wait.",
-     "exRight": "She gestured for me to wait."
+     "wrong": "do a gesture",
+     "right": "make a gesture",
+     "note": "gesture 的搭配動詞用 make，不用 do。",
+     "exWrong": "He did a gesture to ask us to stop.",
+     "exRight": "He made a gesture to ask us to stop."
     }
    ],
    "breakdownApplicable": false,
@@ -35734,6 +35996,10 @@
       {
        "en": "She took a quick glance at the clock.",
        "zh": "她快速瞥了一眼時鐘。"
+      },
+      {
+       "en": "With one glance, the teacher knew who had not finished.",
+       "zh": "老師只瞥一眼，就知道誰還沒寫完。"
       }
      ],
      "patterns": [
@@ -35762,6 +36028,10 @@
       {
        "en": "He glanced at his notes before the test.",
        "zh": "考試前他瞥了一下筆記。"
+      },
+      {
+       "en": "Tom glanced out of the window and saw that it was raining.",
+       "zh": "Tom 往窗外瞥了一眼，發現在下雨。"
       }
      ],
      "patterns": [
@@ -35858,8 +36128,12 @@
      "ext": "涵蓋整個地球 → 不只限於一個國家或地區",
      "examples": [
       {
-       "en": "Climate change is a global problem.",
-       "zh": "氣候變遷是全球性的問題。"
+       "en": "Climate change is a global problem that needs everyone's help.",
+       "zh": "氣候變遷是需要每個人幫忙的全球性問題。"
+      },
+      {
+       "en": "Our school joined a global project to protect the ocean.",
+       "zh": "我們學校參加了一項保護海洋的全球計畫。"
       }
      ],
      "patterns": [
@@ -35906,10 +36180,6 @@
     {
      "word": "local",
      "zh": "地方的"
-    },
-    {
-     "word": "regional",
-     "zh": "區域的"
     }
    ],
    "confusables": [
@@ -35920,15 +36190,7 @@
      "right": "This rule is universal to all students."
     }
    ],
-   "commonErrors": [
-    {
-     "wrong": "Globally countries joined the plan.",
-     "right": "Countries around the world joined the plan.",
-     "note": "global 是形容詞，不能用副詞 globally 修飾 countries。",
-     "exWrong": "Globally countries joined the plan.",
-     "exRight": "Countries around the world joined the plan."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
    "origin": "global 源自拉丁文 globus，意思是「球、圓球」；因地球呈球形而引申為全球的。",
@@ -35982,8 +36244,12 @@
      "ext": "受到眾人讚美 → 因成就或勝利獲得光榮地位",
      "examples": [
       {
-       "en": "The team returned home in glory.",
-       "zh": "這支隊伍光榮地回到家鄉。"
+       "en": "The team returned home in glory after winning the national game.",
+       "zh": "球隊贏得全國比賽後，光榮地回到家鄉。"
+      },
+      {
+       "en": "The young player dreamed of winning glory for his school.",
+       "zh": "這位年輕球員夢想為學校贏得榮耀。"
       }
      ],
      "patterns": [
@@ -36044,15 +36310,7 @@
      "right": "She glories in her team's success."
     }
    ],
-   "commonErrors": [
-    {
-     "wrong": "glory of winning",
-     "right": "glory in winning",
-     "note": "表示以某事為榮或從中得到樂趣時，使用 glory in。",
-     "exWrong": "He glories winning the game.",
-     "exRight": "He glories in winning the game."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
    "origin": "glory 源自古法語 glorie，來自拉丁文 gloria，意思是「名聲、榮譽、光榮」。",
@@ -36104,6 +36362,10 @@
       {
        "en": "The lamp gave the room a warm glow.",
        "zh": "那盞燈讓房間散發溫暖的光。"
+      },
+      {
+       "en": "We could see the glow of the city from the top of the hill.",
+       "zh": "從山頂上，我們看得見城市的光亮。"
       }
      ],
      "patterns": [
@@ -36130,12 +36392,12 @@
      "ext": "持續散發光線或活力 → 看起來明亮、健康而有精神",
      "examples": [
       {
-       "en": "The candles glowed on the dinner table.",
-       "zh": "蠟燭在餐桌上發出微光。"
+       "en": "The candles glowed softly on the dinner table all evening.",
+       "zh": "整個晚上，蠟燭在餐桌上發出柔和的光。"
       },
       {
-       "en": "Her face glowed with happiness.",
-       "zh": "她的臉上洋溢著幸福。"
+       "en": "Her face glowed with happiness when she heard the good news.",
+       "zh": "聽到好消息時，她的臉上洋溢著幸福。"
       }
      ],
      "patterns": [
@@ -36178,10 +36440,6 @@
     {
      "word": "darken",
      "zh": "變暗"
-    },
-    {
-     "word": "fade",
-     "zh": "逐漸消失"
     }
    ],
    "confusables": [
@@ -36192,15 +36450,7 @@
      "right": "The plants grow quickly in spring."
     }
    ],
-   "commonErrors": [
-    {
-     "wrong": "glow brightly light",
-     "right": "glow brightly",
-     "note": "glow 本身已表示發光，後面不再接 light 作受詞。",
-     "exWrong": "The sign glowed brightly light.",
-     "exRight": "The sign glowed brightly."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
    "origin": "glow 源自中古英語 glowen，與古英語 glōwan 有關，意思是「發熱並發光」。",
@@ -36250,8 +36500,12 @@
      "ext": "在草地上用球桿擊球 → 讓球依規則進入一連串球洞",
      "examples": [
       {
-       "en": "My uncle plays golf every Sunday morning.",
-       "zh": "我叔叔每週日早上打高爾夫球。"
+       "en": "My uncle plays golf with his old friends every Sunday morning.",
+       "zh": "我叔叔每個週日早上和老朋友打高爾夫球。"
+      },
+      {
+       "en": "Golf takes a lot of time, so my brother prefers tennis.",
+       "zh": "打高爾夫球很花時間，所以我哥哥比較喜歡網球。"
       }
      ],
      "patterns": [
@@ -36278,8 +36532,12 @@
      "ext": "使用球桿擊球 → 依規則在球場上完成比賽",
      "examples": [
       {
-       "en": "They golf together after work on Fridays.",
-       "zh": "他們每週五下班後一起打高爾夫球。"
+       "en": "My parents like to golf together after work on Fridays.",
+       "zh": "我爸媽週五下班後喜歡一起去打高爾夫球。"
+      },
+      {
+       "en": "Grandpa still golfs twice a week, even at the age of seventy.",
+       "zh": "爺爺七十歲了，每週還是打兩次高爾夫球。"
       }
      ],
      "patterns": [
@@ -36387,6 +36645,10 @@
       {
        "en": "The students spread gossip about their new teacher.",
        "zh": "學生們散播關於新老師的八卦。"
+      },
+      {
+       "en": "Don't believe the gossip you hear about our class trip.",
+       "zh": "別相信你聽到的關於我們班遊的八卦。"
       }
      ],
      "patterns": [],
@@ -36409,6 +36671,10 @@
       {
        "en": "Amy and Jenny often gossip during their lunch break.",
        "zh": "Amy 和 Jenny 常在午休時聊八卦。"
+      },
+      {
+       "en": "Some neighbors gossip about the family who moved in last month.",
+       "zh": "有些鄰居在議論上個月搬來的那一家人。"
       }
      ],
      "patterns": [
@@ -36418,7 +36684,16 @@
        "zh": "下課後，他們談論那位新同學的八卦。"
       }
      ],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "gossip about someone",
+       "zh": "閒話某人"
+      },
+      {
+       "en": "gossip with a friend",
+       "zh": "和朋友聊八卦"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -36443,7 +36718,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "gossip 源自古英語 godsibb，原指「教父、教母」，後來指親近的朋友，再引申為愛閒聊的人。",
    "related": [],
    "phrases": []
   },
@@ -36461,6 +36736,10 @@
       {
        "en": "The governor announced a new plan for public schools.",
        "zh": "州長宣布了一項公立學校的新計畫。"
+      },
+      {
+       "en": "The governor visited the flooded town to meet local families.",
+       "zh": "州長前往淹水的城鎮探視當地的家庭。"
       }
      ],
      "patterns": [],
@@ -36505,7 +36784,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "governor 源自拉丁文 gubernator，意思是「舵手、掌舵者」，後來指管理地區的人。",
    "related": [
     {
      "word": "govern",
@@ -36532,6 +36811,10 @@
       {
        "en": "Kevin grabbed his bag and ran to catch the bus.",
        "zh": "Kevin 抓起書包，跑去搭公車。"
+      },
+      {
+       "en": "Amy grabbed her little brother's hand before he crossed the road.",
+       "zh": "Amy 在弟弟過馬路前一把抓住他的手。"
       }
      ],
      "patterns": [
@@ -36554,16 +36837,31 @@
     },
     {
      "pos": "n.",
-     "zh": "突然抓取；匆忙拿取",
-     "ext": "快速伸手拿東西 → 一個突然而迅速的動作",
+     "zh": "猛然一抓；伸手搶",
+     "ext": "快速伸手去搶 → 一個突然而迅速的動作",
      "examples": [
       {
-       "en": "He took a quick grab at the last piece of cake.",
-       "zh": "他迅速伸手拿了最後一塊蛋糕。"
+       "en": "The thief made a grab for the woman's bag, but she held on.",
+       "zh": "小偷伸手去搶那位女士的包包，但她緊緊抓住。"
+      },
+      {
+       "en": "The little boy made a grab for the last cookie on the plate.",
+       "zh": "小男孩伸手去搶盤子裡的最後一塊餅乾。"
       }
      ],
-     "patterns": [],
-     "collocations": []
+     "patterns": [
+      {
+       "pattern": "make a grab for + N",
+       "en": "The cat made a grab for the toy mouse.",
+       "zh": "那隻貓撲過去抓玩具老鼠。"
+      }
+     ],
+     "collocations": [
+      {
+       "en": "make a grab for",
+       "zh": "伸手去搶"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -36633,6 +36931,10 @@
       {
        "en": "The graduates took pictures with their teachers after the ceremony.",
        "zh": "畢業生在典禮後和老師拍照。"
+      },
+      {
+       "en": "Many graduates of this school become teachers or doctors.",
+       "zh": "這所學校的許多畢業生後來成為老師或醫生。"
       }
      ],
      "patterns": [],
@@ -36655,6 +36957,10 @@
       {
        "en": "My sister will graduate from college next summer.",
        "zh": "我姊姊明年夏天會從大學畢業。"
+      },
+      {
+       "en": "Amy studied hard so that she could graduate with good grades.",
+       "zh": "Amy 努力讀書，好讓自己能以好成績畢業。"
       }
      ],
      "patterns": [
@@ -36709,11 +37015,19 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "graduate 源自中世紀拉丁文 graduari「取得學位」，來自拉丁文 gradus「階段、步」。",
    "related": [
     {
      "word": "graduation",
      "note": "畢業；畢業典禮"
+    },
+    {
+     "word": "grade",
+     "note": "年級；成績"
+    },
+    {
+     "word": "gradual",
+     "note": "逐漸的"
     }
    ],
    "phrases": []
@@ -36729,6 +37043,10 @@
      "zh": "抓住；理解",
      "ext": "用手牢牢抓住 → 進一步掌握抽象的概念或重點",
      "examples": [
+      {
+       "en": "The baby grasped my finger with her tiny hand.",
+       "zh": "小嬰兒用她的小手抓住我的手指。"
+      },
       {
        "en": "It took me time to grasp the main idea of the article.",
        "zh": "我花了一些時間才理解文章的主旨。"
@@ -36760,6 +37078,10 @@
       {
        "en": "The lesson helped me gain a better grasp of science.",
        "zh": "這堂課幫助我更了解科學。"
+      },
+      {
+       "en": "Her grasp of English grammar is much better than mine.",
+       "zh": "她對英文文法的掌握比我好得多。"
       }
      ],
      "patterns": [
@@ -36773,6 +37095,10 @@
       {
        "en": "a firm grasp of",
        "zh": "充分掌握"
+      },
+      {
+       "en": "a good grasp of",
+       "zh": "很了解"
       }
      ]
     }
@@ -36825,11 +37151,15 @@
     {
      "pos": "n.",
      "zh": "蚱蜢",
-     "ext": "會在草地上跳躍的昆蟲 → 俗稱蚱蜢",
+     "ext": "在草叢間跳躍的昆蟲 → 靠強壯的後腿跳得很遠",
      "examples": [
       {
        "en": "A grasshopper jumped across the path during our hike.",
        "zh": "我們健行時，一隻蚱蜢跳過小路。"
+      },
+      {
+       "en": "The grasshopper hid in the tall grass when the children came near.",
+       "zh": "孩子們靠近時，蚱蜢躲進了高高的草叢。"
       }
      ],
      "patterns": [],
@@ -36856,9 +37186,20 @@
    "antonyms": [],
    "confusables": [],
    "commonErrors": [],
-   "breakdownApplicable": false,
-   "breakdown": [],
-   "origin": "",
+   "breakdownApplicable": true,
+   "breakdown": [
+    {
+     "part": "grass",
+     "type": "完整詞",
+     "gloss": "草"
+    },
+    {
+     "part": "hopper",
+     "type": "完整詞",
+     "gloss": "跳躍者"
+    }
+   ],
+   "origin": "由 grass「草」和 hopper「跳躍者」組成，指在草叢中跳動的昆蟲。",
    "related": [],
    "phrases": []
   },
@@ -36871,11 +37212,15 @@
     {
      "pos": "adj.",
      "zh": "長滿草的；草地的",
-     "ext": "覆蓋著 grass → 具有草地特徵或長滿草的",
+     "ext": "地面被草覆蓋 → 形容長滿草的地方",
      "examples": [
       {
        "en": "The children played on a grassy field near the school.",
        "zh": "孩子們在學校附近的草地上玩耍。"
+      },
+      {
+       "en": "We had a picnic on a grassy hill behind the museum.",
+       "zh": "我們在博物館後面長滿草的小山丘上野餐。"
       }
      ],
      "patterns": [],
@@ -36901,11 +37246,6 @@
      "word": "green",
      "note": "泛指綠色，也可形容植物茂盛。",
      "example": "a green hill"
-    },
-    {
-     "word": "lawned",
-     "note": "指鋪有草坪的，使用範圍較窄。",
-     "example": "a lawned garden"
     }
    ],
    "antonyms": [
@@ -36916,9 +37256,20 @@
    ],
    "confusables": [],
    "commonErrors": [],
-   "breakdownApplicable": false,
-   "breakdown": [],
-   "origin": "",
+   "breakdownApplicable": true,
+   "breakdown": [
+    {
+     "part": "grass",
+     "type": "完整詞",
+     "gloss": "草"
+    },
+    {
+     "part": "-y",
+     "type": "字尾",
+     "gloss": "充滿的"
+    }
+   ],
+   "origin": "由 grass 加上形容詞字尾 -y 組成，表示長滿草的。",
    "related": [
     {
      "word": "grass",
@@ -36941,6 +37292,10 @@
       {
        "en": "The greedy child took all the cookies from the plate.",
        "zh": "那個貪吃的孩子拿走了盤子裡所有餅乾。"
+      },
+      {
+       "en": "The greedy owner raised the price again to make more money.",
+       "zh": "那位貪心的老闆為了賺更多錢又漲價了。"
       }
      ],
      "patterns": [
@@ -36993,7 +37348,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "greedy 源自古英語 grǣdig，意思是「貪心的、貪吃的」。",
    "related": [
     {
      "word": "greed",
@@ -37016,6 +37371,10 @@
       {
        "en": "The school grows tomatoes in a small greenhouse.",
        "zh": "學校在小型溫室裡種番茄。"
+      },
+      {
+       "en": "Plants stay warm in the greenhouse even when it snows outside.",
+       "zh": "即使外面下雪，植物在溫室裡也能保持溫暖。"
       }
      ],
      "patterns": [],
@@ -37027,6 +37386,10 @@
       {
        "en": "greenhouse gases",
        "zh": "溫室氣體"
+      },
+      {
+       "en": "the greenhouse effect",
+       "zh": "溫室效應"
       }
      ]
     }
@@ -37046,9 +37409,20 @@
    "antonyms": [],
    "confusables": [],
    "commonErrors": [],
-   "breakdownApplicable": false,
-   "breakdown": [],
-   "origin": "",
+   "breakdownApplicable": true,
+   "breakdown": [
+    {
+     "part": "green",
+     "type": "完整詞",
+     "gloss": "綠色植物"
+    },
+    {
+     "part": "house",
+     "type": "完整詞",
+     "gloss": "房子"
+    }
+   ],
+   "origin": "由 green「綠色植物」和 house「房子」組成，原指種植植物的房子。",
    "related": [],
    "phrases": []
   },
@@ -37066,6 +37440,10 @@
       {
        "en": "A wide grin appeared on Tom's face after he won.",
        "zh": "Tom 獲勝後，臉上露出燦爛的笑容。"
+      },
+      {
+       "en": "With a big grin, Amy showed us her perfect test score.",
+       "zh": "Amy 咧著嘴笑，給我們看她的滿分成績。"
       }
      ],
      "patterns": [],
@@ -37082,11 +37460,21 @@
      "ext": "把嘴角大幅向兩側拉開 → 露出明顯的笑容",
      "examples": [
       {
-       "en": "Tom grinned when his friends surprised him.",
-       "zh": "朋友給 Tom 驚喜時，他咧嘴笑了。"
+       "en": "Tom grinned from ear to ear when his friends surprised him.",
+       "zh": "朋友給 Tom 驚喜時，他笑得合不攏嘴。"
+      },
+      {
+       "en": "The little boy grinned at the camera and waved both hands.",
+       "zh": "小男孩對著相機咧嘴笑，還揮著雙手。"
       }
      ],
-     "patterns": [],
+     "patterns": [
+      {
+       "pattern": "grin at + N",
+       "en": "Jenny grinned at her brother across the table.",
+       "zh": "Jenny 隔著桌子對哥哥咧嘴笑。"
+      }
+     ],
      "collocations": [
       {
        "en": "grin widely",
@@ -37140,6 +37528,10 @@
       {
        "en": "Dad bought groceries for dinner on his way home.",
        "zh": "爸爸回家路上買了晚餐要用的食品。"
+      },
+      {
+       "en": "We carried the heavy groceries up to the third floor.",
+       "zh": "我們把沉重的食品雜貨搬上三樓。"
       }
      ],
      "patterns": [],
@@ -37151,6 +37543,10 @@
       {
        "en": "grocery store",
        "zh": "雜貨店；食品店"
+      },
+      {
+       "en": "grocery shopping",
+       "zh": "採買食品雜貨"
       }
      ]
     }
@@ -37165,11 +37561,6 @@
      "word": "food",
      "note": "泛指食物，不一定包含其他家庭用品。",
      "example": "buy food"
-    },
-    {
-     "word": "provision",
-     "note": "正式指旅行或生活所需的供給品。",
-     "example": "food provisions"
     }
    ],
    "antonyms": [],
@@ -37184,7 +37575,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "grocery 來自 grocer「食品雜貨商」，源自古法語 grossier，原指整批買賣貨物的人。",
    "related": [],
    "phrases": []
   },
@@ -37202,6 +37593,10 @@
       {
        "en": "The counselor gave me guidance about choosing a college.",
        "zh": "輔導老師指導我如何選擇大學。"
+      },
+      {
+       "en": "With the teacher's guidance, we finished the science project on time.",
+       "zh": "在老師的指導下，我們準時完成了科學專題。"
       }
      ],
      "patterns": [
@@ -37251,8 +37646,19 @@
      "exRight": "The teacher gave us much guidance."
     }
    ],
-   "breakdownApplicable": false,
-   "breakdown": [],
+   "breakdownApplicable": true,
+   "breakdown": [
+    {
+     "part": "guide",
+     "type": "完整詞",
+     "gloss": "引導"
+    },
+    {
+     "part": "-ance",
+     "type": "字尾",
+     "gloss": "動作或狀態"
+    }
+   ],
    "origin": "",
    "related": [
     {
@@ -37276,6 +37682,10 @@
       {
        "en": "Jenny bought a piece of gum after lunch.",
        "zh": "Jenny 午餐後買了一片口香糖。"
+      },
+      {
+       "en": "Please don't chew gum in the library or the classroom.",
+       "zh": "請不要在圖書館或教室嚼口香糖。"
       }
      ],
      "patterns": [],
@@ -37298,6 +37708,10 @@
       {
        "en": "Brushing twice a day helps keep your gums healthy.",
        "zh": "每天刷兩次牙有助於保持牙齦健康。"
+      },
+      {
+       "en": "The dentist said my gums were red because I did not brush well.",
+       "zh": "牙醫說我的牙齦發紅，是因為我沒有好好刷牙。"
       }
      ],
      "patterns": [],
@@ -37305,6 +37719,14 @@
       {
        "en": "healthy gums",
        "zh": "健康的牙齦"
+      },
+      {
+       "en": "bleeding gums",
+       "zh": "流血的牙齦"
+      },
+      {
+       "en": "swollen gums",
+       "zh": "腫脹的牙齦"
       }
      ]
     }
@@ -37344,6 +37766,10 @@
       {
        "en": "The hairdresser cut my hair shorter than I expected.",
        "zh": "美髮師把我的頭髮剪得比預期更短。"
+      },
+      {
+       "en": "My mother made an appointment with her hairdresser for Saturday.",
+       "zh": "我媽媽跟她的美髮師約了週六。"
       }
      ],
      "patterns": [],
@@ -37379,9 +37805,25 @@
    "antonyms": [],
    "confusables": [],
    "commonErrors": [],
-   "breakdownApplicable": false,
-   "breakdown": [],
-   "origin": "",
+   "breakdownApplicable": true,
+   "breakdown": [
+    {
+     "part": "hair",
+     "type": "完整詞",
+     "gloss": "頭髮"
+    },
+    {
+     "part": "dress",
+     "type": "完整詞",
+     "gloss": "整理"
+    },
+    {
+     "part": "-er",
+     "type": "字尾",
+     "gloss": "做…的人"
+    }
+   ],
+   "origin": "由 hair「頭髮」、dress「整理、打扮」和字尾 -er 組成，指整理頭髮的人。",
    "related": [],
    "phrases": []
   },
@@ -37399,6 +37841,10 @@
       {
        "en": "Students lined up quietly in the hallway before class.",
        "zh": "上課前，學生們安靜地在走廊排隊。"
+      },
+      {
+       "en": "There is a coat rack in the hallway near the front door.",
+       "zh": "靠近前門的玄關有一個衣帽架。"
       }
      ],
      "patterns": [],
@@ -37436,7 +37882,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "由 hall「大廳」和 way「通道」組成，指建築物內的通道。",
    "related": [],
    "phrases": []
   },
@@ -37454,6 +37900,10 @@
       {
        "en": "Dad used a hammer to fix the loose chair.",
        "zh": "爸爸用槌子修理鬆脫的椅子。"
+      },
+      {
+       "en": "Tom keeps a hammer and some nails in the toolbox.",
+       "zh": "Tom 把槌子和一些釘子放在工具箱裡。"
       }
      ],
      "patterns": [],
@@ -37476,6 +37926,10 @@
       {
        "en": "He hammered the nail into the wall carefully.",
        "zh": "他小心地把釘子敲進牆裡。"
+      },
+      {
+       "en": "Workers hammered wooden boards onto the frame of the new house.",
+       "zh": "工人們把木板釘到新房子的框架上。"
       }
      ],
      "patterns": [
@@ -37542,6 +37996,10 @@
       {
        "en": "Only a handful of students joined the early meeting.",
        "zh": "只有少數學生參加早上的會議。"
+      },
+      {
+       "en": "Tom took a handful of peanuts from the bowl.",
+       "zh": "Tom 從碗裡抓了一把花生。"
       }
      ],
      "patterns": [
@@ -37632,6 +38090,10 @@
       {
        "en": "Amy carried a clean handkerchief in her school bag.",
        "zh": "Amy 在書包裡放了一條乾淨的手帕。"
+      },
+      {
+       "en": "Grandpa wiped his forehead with a handkerchief on the hot day.",
+       "zh": "天氣很熱，爺爺用手帕擦額頭。"
       }
      ],
      "patterns": [],
@@ -37662,9 +38124,20 @@
    "antonyms": [],
    "confusables": [],
    "commonErrors": [],
-   "breakdownApplicable": false,
-   "breakdown": [],
-   "origin": "源自英法語 handkerchief，由 hand「手」和 kerchief「頭巾」組成，後來專指手帕。",
+   "breakdownApplicable": true,
+   "breakdown": [
+    {
+     "part": "hand",
+     "type": "完整詞",
+     "gloss": "手"
+    },
+    {
+     "part": "kerchief",
+     "type": "完整詞",
+     "gloss": "頭巾"
+    }
+   ],
+   "origin": "由 hand「手」和 kerchief「頭巾」組成；kerchief 源自古法語 couvrechief，意思是「蓋頭的布」。",
    "related": [],
    "phrases": []
   },
@@ -37682,6 +38155,10 @@
       {
        "en": "This small dictionary is handy for quick checks.",
        "zh": "這本小字典方便查詢簡單的內容。"
+      },
+      {
+       "en": "It is handy to have a map on your phone when you travel.",
+       "zh": "旅行時，手機裡有地圖很方便。"
       }
      ],
      "patterns": [
@@ -37708,8 +38185,12 @@
      "ext": "手部使用靈活 → 能熟練地修理或製作東西",
      "examples": [
       {
-       "en": "My brother is handy with simple machines.",
-       "zh": "我哥哥很會處理簡單的機械。"
+       "en": "My brother is handy around the house and can fix almost anything.",
+       "zh": "我哥哥很會做家中的修繕，幾乎什麼都能修。"
+      },
+      {
+       "en": "Grandpa is so handy that he built our bookshelf by himself.",
+       "zh": "爺爺手很巧，自己做了我們的書架。"
       }
      ],
      "patterns": [
@@ -37827,6 +38308,10 @@
       {
        "en": "Please put your jacket on a hanger after school.",
        "zh": "放學後請把外套掛在衣架上。"
+      },
+      {
+       "en": "There is a hanger on the back of the door for your coat.",
+       "zh": "門後有個掛鉤，可以掛你的外套。"
       }
      ],
      "patterns": [
@@ -37903,6 +38388,10 @@
       {
        "en": "Several fishing boats returned to the harbor before sunset.",
        "zh": "幾艘漁船在日落前回到港口。"
+      },
+      {
+       "en": "The old harbor is a safe place for boats during storms.",
+       "zh": "遇到暴風雨時，這個老港口是船隻安全的停靠處。"
       }
      ],
      "patterns": [],
@@ -37919,12 +38408,16 @@
     },
     {
      "pos": "v.",
-     "zh": "窩藏；心懷",
-     "ext": "把某人或某種想法藏在安全處 → 不讓它被發現或消失",
+     "zh": "心懷；抱持",
+     "ext": "把想法藏在心裡 → 長時間保有某種情感或念頭",
      "examples": [
       {
        "en": "She still harbors hope of studying abroad someday.",
        "zh": "她心中仍抱著有一天出國留學的希望。"
+      },
+      {
+       "en": "Many students harbor fears about speaking English in public.",
+       "zh": "許多學生對於公開說英文心懷恐懼。"
       }
      ],
      "patterns": [
@@ -37963,27 +38456,13 @@
      "example": "seek shelter"
     }
    ],
-   "antonyms": [
-    {
-     "word": "release",
-     "zh": "釋放"
-    },
-    {
-     "word": "reveal",
-     "zh": "揭露"
-    }
-   ],
+   "antonyms": [],
    "confusables": [],
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
    "origin": "源自古英語 herebeorg，意思是「軍隊的避難處」；後來專指船隻停靠的港口。",
-   "related": [
-    {
-     "word": "harboring",
-     "note": "窩藏；心懷"
-    }
-   ],
+   "related": [],
    "phrases": []
   },
   {
@@ -38000,6 +38479,10 @@
       {
        "en": "Too much sunlight can cause harm to your skin.",
        "zh": "太多陽光可能會傷害皮膚。"
+      },
+      {
+       "en": "Don't worry; a little rain will do no harm to the plants.",
+       "zh": "別擔心，一點雨不會傷害到植物。"
       }
      ],
      "patterns": [
@@ -38028,6 +38511,10 @@
       {
        "en": "Polluted water can harm fish and other animals.",
        "zh": "受污染的水會傷害魚和其他動物。"
+      },
+      {
+       "en": "Playing games all night may harm your health and grades.",
+       "zh": "整夜打電動可能損害你的健康和成績。"
       }
      ],
      "patterns": [
@@ -38145,6 +38632,10 @@
       {
        "en": "Too much screen time may be harmful to your eyes.",
        "zh": "螢幕時間太長可能對眼睛有害。"
+      },
+      {
+       "en": "Smoking near children is harmful to their lungs.",
+       "zh": "在孩子附近抽菸對他們的肺有害。"
       }
      ],
      "patterns": [
@@ -38243,6 +38734,10 @@
       {
        "en": "The farmers celebrated after a successful rice harvest.",
        "zh": "農夫在稻米豐收後慶祝。"
+      },
+      {
+       "en": "Bad weather this year caused a poor harvest for many farmers.",
+       "zh": "今年天氣不好，讓許多農夫收成不佳。"
       }
      ],
      "patterns": [],
@@ -38263,8 +38758,12 @@
      "ext": "作物成熟 → 把農作物從田裡採下來保存或使用",
      "examples": [
       {
-       "en": "Farmers harvest the rice in late autumn.",
-       "zh": "農夫在深秋收割稻米。"
+       "en": "Farmers in this area harvest the rice in late autumn.",
+       "zh": "這一帶的農夫在深秋收割稻米。"
+      },
+      {
+       "en": "Every October, our class helps a farmer harvest sweet potatoes.",
+       "zh": "每年十月，我們班都會幫農夫採收地瓜。"
       }
      ],
      "patterns": [
@@ -38340,6 +38839,10 @@
       {
        "en": "His hasty decision caused problems for the whole team.",
        "zh": "他草率的決定給整個團隊帶來問題。"
+      },
+      {
+       "en": "Amy regretted her hasty words as soon as she said them.",
+       "zh": "Amy 一說出口就後悔自己草率的話。"
       }
      ],
      "patterns": [
@@ -38357,6 +38860,10 @@
       {
        "en": "a hasty reply",
        "zh": "匆忙的回覆"
+      },
+      {
+       "en": "a hasty conclusion",
+       "zh": "草率的結論"
       }
      ]
     }
@@ -38424,12 +38931,16 @@
    "meanings": [
     {
      "pos": "n.",
-     "zh": "艙口；孵化處",
+     "zh": "艙口；活板門",
      "ext": "可開關的入口或出口 → 讓人、空氣或物品進出封閉空間",
      "examples": [
       {
        "en": "The sailor opened the hatch to check the engine.",
        "zh": "水手打開艙口檢查引擎。"
+      },
+      {
+       "en": "Passengers climbed down through the hatch into the small cabin.",
+       "zh": "乘客從艙口爬進小客艙。"
       }
      ],
      "patterns": [],
@@ -38452,6 +38963,10 @@
       {
        "en": "The bird eggs will hatch in a few days.",
        "zh": "鳥蛋幾天後就會孵化。"
+      },
+      {
+       "en": "Amy and her brother hatched a plan to surprise their mother.",
+       "zh": "Amy 和弟弟策畫了一個要給媽媽驚喜的計畫。"
       }
      ],
      "patterns": [
@@ -38518,6 +39033,10 @@
       {
        "en": "The hateful message made the student feel unsafe.",
        "zh": "那則充滿惡意的訊息讓學生感到不安全。"
+      },
+      {
+       "en": "It was hateful of him to laugh at her mistake.",
+       "zh": "他嘲笑她的錯誤真是太可恨了。"
       }
      ],
      "patterns": [
@@ -38603,6 +39122,10 @@
       {
        "en": "The farmer stored dry hay for the animals in winter.",
        "zh": "農夫為動物儲存乾草過冬。"
+      },
+      {
+       "en": "The horses ate fresh hay from the wooden box every morning.",
+       "zh": "馬每天早上吃木箱裡的新鮮乾草。"
       }
      ],
      "patterns": [],
@@ -38668,6 +39191,10 @@
       {
        "en": "The headline about the storm appeared on every website.",
        "zh": "關於暴風雨的新聞標題出現在每個網站上。"
+      },
+      {
+       "en": "Amy read the headlines on her phone while she waited for the bus.",
+       "zh": "Amy 等公車時在手機上看新聞標題。"
       }
      ],
      "patterns": [],
@@ -38690,6 +39217,10 @@
       {
        "en": "A popular singer will headline the school festival.",
        "zh": "一位受歡迎的歌手將擔任校慶主秀。"
+      },
+      {
+       "en": "A famous magician headlined the charity show at our school.",
+       "zh": "一位知名魔術師在我們學校的慈善表演擔任主秀。"
       }
      ],
      "patterns": [
@@ -38790,6 +39321,10 @@
       {
        "en": "The company moved its headquarters to Taipei last year.",
        "zh": "那家公司去年把總部搬到臺北。"
+      },
+      {
+       "en": "The company's headquarters are in a tall glass building downtown.",
+       "zh": "這家公司的總部在市中心一棟高大的玻璃大樓裡。"
       }
      ],
      "patterns": [
@@ -38851,7 +39386,7 @@
      "gloss": "住所；場所"
     }
    ],
-   "origin": "",
+   "origin": "由 head「主要」和 quarters「住所、營區」組成，原指軍隊指揮官所在的營地。",
    "related": [
     {
      "word": "quarter",
@@ -38878,6 +39413,10 @@
       {
        "en": "The cut on Amy's hand will heal in a few days.",
        "zh": "Amy 手上的傷口幾天後就會癒合。"
+      },
+      {
+       "en": "It took the broken bone three months to heal completely.",
+       "zh": "那根斷掉的骨頭花了三個月才完全癒合。"
       }
      ],
      "patterns": [
@@ -38901,15 +39440,28 @@
     {
      "pos": "v.",
      "zh": "撫平；治癒",
-     "ext": "",
+     "ext": "身體的傷口慢慢恢復 → 心裡的傷痛也逐漸平復",
      "examples": [
       {
        "en": "Talking with her friends helped heal her emotional wounds.",
        "zh": "和朋友聊天有助於撫平她的情感傷痛。"
+      },
+      {
+       "en": "Time may heal the sadness of losing a pet.",
+       "zh": "時間也許能撫平失去寵物的悲傷。"
       }
      ],
      "patterns": [],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "heal a broken heart",
+       "zh": "撫平心碎"
+      },
+      {
+       "en": "time heals all wounds",
+       "zh": "時間能撫平一切傷痛"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -38934,8 +39486,17 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
-   "related": [],
+   "origin": "heal 源自古英語 hǣlan，意思是「使完整、使健康」，與 whole、health 同源。",
+   "related": [
+    {
+     "word": "health",
+     "note": "健康"
+    },
+    {
+     "word": "whole",
+     "note": "整個的"
+    }
+   ],
    "phrases": []
   },
   {
@@ -38947,11 +39508,15 @@
     {
      "pos": "n.",
      "zh": "一堆；大量",
-     "ext": "",
+     "ext": "東西一件件疊在一起 → 形成一堆，也引申為大量",
      "examples": [
       {
        "en": "A heap of books covered the desk after the class.",
        "zh": "下課後，桌上堆了一大堆書。"
+      },
+      {
+       "en": "We still have a heap of homework to finish tonight.",
+       "zh": "我們今晚還有一大堆功課要寫。"
       }
      ],
      "patterns": [
@@ -38975,11 +39540,15 @@
     {
      "pos": "v.",
      "zh": "堆積；堆放",
-     "ext": "",
+     "ext": "把東西一層層疊放 → 使它們形成一堆",
      "examples": [
       {
        "en": "The students heaped leaves in the school garden.",
        "zh": "學生把葉子堆在校園花園裡。"
+      },
+      {
+       "en": "Mom heaped rice onto my plate until I said stop.",
+       "zh": "媽媽把飯堆在我的盤子上，直到我說夠了。"
       }
      ],
      "patterns": [
@@ -38989,7 +39558,16 @@
        "zh": "他們把落葉堆在樹旁。"
       }
      ],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "heap food onto a plate",
+       "zh": "把食物堆滿盤子"
+      },
+      {
+       "en": "heap praise on",
+       "zh": "大加讚美"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -39032,6 +39610,10 @@
       {
        "en": "We turned on the heater because the room was cold.",
        "zh": "房間很冷，所以我們打開了暖氣機。"
+      },
+      {
+       "en": "Please don't leave the heater on when you go out.",
+       "zh": "出門時請不要開著暖氣機。"
       }
      ],
      "patterns": [],
@@ -39061,7 +39643,7 @@
    "breakdown": [
     {
      "part": "heat",
-     "type": "字根",
+     "type": "完整詞",
      "gloss": "熱"
     },
     {
@@ -39092,11 +39674,15 @@
     {
      "pos": "n.",
      "zh": "腳跟；鞋跟",
-     "ext": "",
+     "ext": "腳的後方 → 鞋子後方墊高的部分也叫 heel",
      "examples": [
       {
        "en": "Jenny hurt her heel while walking in new shoes.",
        "zh": "Jenny 穿新鞋走路時弄傷了腳跟。"
+      },
+      {
+       "en": "The heel of my left shoe came off on the way to school.",
+       "zh": "我左腳的鞋跟在上學途中掉了。"
       }
      ],
      "patterns": [],
@@ -39114,11 +39700,15 @@
     {
      "pos": "v.",
      "zh": "給鞋裝鞋跟",
-     "ext": "",
+     "ext": "替鞋子加上鞋跟 → 修理鞋子時使用",
      "examples": [
       {
        "en": "The repair shop heeled my old shoes last week.",
        "zh": "上週修鞋店替我的舊鞋裝了鞋跟。"
+      },
+      {
+       "en": "The repair shop will heel your shoes while you wait.",
+       "zh": "修鞋店可以在你等候時替你的鞋子換鞋跟。"
       }
      ],
      "patterns": [
@@ -39166,18 +39756,22 @@
     {
      "pos": "n.",
      "zh": "地獄",
-     "ext": "",
+     "ext": "宗教中死後受苦的地方 → 比喻極端痛苦的處境",
      "examples": [
       {
        "en": "The story describes a journey through hell and back.",
        "zh": "這個故事描述了一趟穿越地獄又返回的旅程。"
+      },
+      {
+       "en": "Many old paintings show heaven above and hell below.",
+       "zh": "許多古老的畫作把天堂畫在上方、地獄畫在下方。"
       }
      ],
      "patterns": [],
      "collocations": [
       {
-       "en": "go to hell",
-       "zh": "下地獄"
+       "en": "hell on earth",
+       "zh": "人間煉獄"
       }
      ]
     }
@@ -39219,11 +39813,15 @@
     {
      "pos": "n.",
      "zh": "安全帽；頭盔",
-     "ext": "",
+     "ext": "保護頭部的堅硬帽子 → 遇到撞擊時減少受傷",
      "examples": [
       {
        "en": "Kevin always wears a helmet when he rides his bike.",
        "zh": "Kevin 騎腳踏車時一定會戴安全帽。"
+      },
+      {
+       "en": "Workers must wear a helmet on the building site.",
+       "zh": "工人在工地一定要戴安全帽。"
       }
      ],
      "patterns": [],
@@ -39235,6 +39833,10 @@
       {
        "en": "bike helmet",
        "zh": "自行車安全帽"
+      },
+      {
+       "en": "a safety helmet",
+       "zh": "安全帽"
       }
      ]
     }
@@ -39269,11 +39871,15 @@
     {
      "pos": "v.",
      "zh": "猶豫；遲疑",
-     "ext": "",
+     "ext": "腳步停住、話到嘴邊 → 因不確定而暫時不行動",
      "examples": [
       {
-       "en": "Amy hesitated before answering the teacher's question.",
+       "en": "Amy hesitated for a moment before answering the teacher's question.",
        "zh": "Amy 在回答老師的問題前猶豫了一下。"
+      },
+      {
+       "en": "Jenny hesitated at the door because she did not know anyone inside.",
+       "zh": "Jenny 在門口遲疑了，因為裡面的人她一個也不認識。"
       }
      ],
      "patterns": [
@@ -39330,8 +39936,17 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
-   "related": [],
+   "origin": "hesitate 源自拉丁文 haesitare，意思是「黏住、卡住」，引申為遲疑不前。",
+   "related": [
+    {
+     "word": "hesitation",
+     "note": "猶豫"
+    },
+    {
+     "word": "hesitant",
+     "note": "猶豫的"
+    }
+   ],
    "phrases": [
     {
      "phrase": "hesitate to do",
@@ -39365,11 +39980,15 @@
     {
      "pos": "n.",
      "zh": "暗示；提示",
-     "ext": "",
+     "ext": "話只說一半 → 讓人自己從線索去猜出答案",
      "examples": [
       {
        "en": "The teacher gave us a hint about the answer.",
        "zh": "老師給了我們一點答案提示。"
+      },
+      {
+       "en": "Without a single hint, it was hard to solve the puzzle.",
+       "zh": "沒有任何提示，很難解開這個謎題。"
       }
      ],
      "patterns": [
@@ -39387,17 +40006,25 @@
       {
        "en": "a useful hint",
        "zh": "有用的提示"
+      },
+      {
+       "en": "take the hint",
+       "zh": "領會暗示"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "暗示；示意",
-     "ext": "",
+     "ext": "不直接說出來 → 用間接的話讓對方明白",
      "examples": [
       {
        "en": "Tom hinted that he wanted to join the school team.",
        "zh": "Tom 暗示他想加入校隊。"
+      },
+      {
+       "en": "Jenny hinted that she wanted a new bike for her birthday.",
+       "zh": "Jenny 暗示她生日想要一輛新腳踏車。"
       }
      ],
      "patterns": [
@@ -39407,7 +40034,12 @@
        "zh": "她暗示會議可能會提早結束。"
       }
      ],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "hint at the answer",
+       "zh": "暗示答案"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -39445,11 +40077,15 @@
     {
      "pos": "v.",
      "zh": "雇用；租用",
-     "ext": "",
+     "ext": "付錢請人來做事 → 也可指付費短期租東西",
      "examples": [
       {
        "en": "The shop will hire two students during the summer.",
        "zh": "這家店暑假期間會雇用兩名學生。"
+      },
+      {
+       "en": "We decided to hire a car for our trip around the island.",
+       "zh": "我們決定租一輛車環島旅行。"
       }
      ],
      "patterns": [
@@ -39473,11 +40109,15 @@
     {
      "pos": "n.",
      "zh": "租用",
-     "ext": "",
+     "ext": "付費租用的行為 → 東西可供他人租用",
      "examples": [
       {
        "en": "The bike hire includes a helmet and a lock.",
        "zh": "租腳踏車的費用包含安全帽和車鎖。"
+      },
+      {
+       "en": "There are boats for hire near the beach.",
+       "zh": "海灘附近有船可供租用。"
       }
      ],
      "patterns": [],
@@ -39516,7 +40156,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "hire 源自古英語 hȳrian，意思是「雇用、付錢請人」。",
    "related": [],
    "phrases": []
   },
@@ -39534,6 +40174,10 @@
       {
        "en": "The historian wrote a book about the town's past.",
        "zh": "這位歷史學家寫了一本介紹這座城鎮過去的書。"
+      },
+      {
+       "en": "A famous historian gave a talk about ancient Rome at our school.",
+       "zh": "一位知名歷史學家來我們學校演講，談古羅馬。"
       }
      ],
      "patterns": [],
@@ -39568,7 +40212,7 @@
    "breakdown": [
     {
      "part": "history",
-     "type": "字根",
+     "type": "完整詞",
      "gloss": "歷史"
     },
     {
