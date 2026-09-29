@@ -1,0 +1,1847 @@
+{
+ "version": 1,
+ "pairs": [
+  {
+   "a": "abstract",
+   "b": "extract",
+   "kind": "both",
+   "score": 0.588,
+   "aZh": "n. 摘要；概要",
+   "bZh": "n. 摘錄；v. 取出；提取",
+   "diff": "abstract 是整篇文章的摘要；extract 是從原文直接截取的一段摘錄。兩字都有 -tract，只差字首。",
+   "points": [
+    "詞性：abstract 可作 adj.「抽象的」和 n.「摘要」；extract 是 v.「取出」，也可作 n.「摘錄」",
+    "內容：abstract 是用自己的話概括全文；extract 是原文的一小段",
+    "拼字：兩字都有 -tract-，差在字首 abs- 和 ex-"
+   ],
+   "tip": "abstract 濃縮成重點，extract 原封不動摘出來（ex- 是向外取出）。",
+   "exA": {
+    "en": "The abstract at the top of the report is short and clear.",
+    "zh": "報告最上方的摘要簡短又清楚。"
+   },
+   "exB": {
+    "en": "Our teacher read an extract from the novel to the class.",
+    "zh": "老師對全班朗讀了小說的一段摘錄。"
+   }
+  },
+  {
+   "a": "accompany",
+   "b": "company",
+   "kind": "visual",
+   "score": 0.817,
+   "aZh": "v. 陪伴；陪同",
+   "bZh": "n. 公司；陪伴；同伴",
+   "diff": "accompany 是動詞，指陪某人同行；company 是名詞，指公司或陪伴。accompany 就是 company 加 ac-。",
+   "points": [
+    "詞性：accompany 是 v.，company 是 n.",
+    "用法：accompany 後面直接接人；company 可說 keep someone company（陪伴某人）",
+    "拼字：accompany 有 cc，company 只有一個 c",
+    "發音：accompany 重音在第二音節，company 重音在第一音節"
+   ],
+   "tip": "accompany 是 company 加上 ac-：把「同伴」變成動作，就是陪同。",
+   "exA": {
+    "en": "Amy's mother will accompany her to the school concert.",
+    "zh": "Amy 的媽媽會陪她去學校音樂會。"
+   },
+   "exB": {
+    "en": "Jenny works for a big company near the train station.",
+    "zh": "Jenny 在火車站附近的一家大公司工作。"
+   }
+  },
+  {
+   "a": "accompany",
+   "b": "accomplish",
+   "kind": "visual",
+   "score": 0.606,
+   "aZh": "v. 陪伴；陪同",
+   "bZh": "v. 完成；達成",
+   "diff": "兩字前半段都是 accom-，差在字尾：accomplish 是完成一件事，accompany 是陪著一個人。",
+   "points": [
+    "受詞：accomplish 接任務、目標；accompany 接人",
+    "拼字：accomplish 字尾是 -plish；accompany 字尾是 -pany，像 company",
+    "發音：accomplish 是 /əˈkɑːmplɪʃ/；accompany 是 /əˈkʌmpəni/，重音後的母音不同"
+   ],
+   "tip": "看字尾：-pany（同伴）就是陪人，-plish（做到底）就是完成事。",
+   "exA": {
+    "en": "Tom's uncle accompanied him to the library every Saturday.",
+    "zh": "Tom 的叔叔每個星期六都陪他去圖書館。"
+   },
+   "exB": {
+    "en": "Tom accomplished his goal of reading ten books this summer.",
+    "zh": "Tom 這個暑假達成了讀十本書的目標。"
+   }
+  },
+  {
+   "a": "accuracy",
+   "b": "precision",
+   "kind": "semantic",
+   "score": 0.64,
+   "aZh": "n. 正確性；準確度",
+   "bZh": "n. 精確；準確",
+   "diff": "accuracy 是結果和真實答案有多接近；precision 是測量或表達有多精細、每次結果有多一致。",
+   "points": [
+    "重點：accuracy 看對不對；precision 看細不細、穩不穩",
+    "用法：accuracy 常用於答案、資料、預測；precision 常用於儀器、測量、說明",
+    "形容詞：accurate 是「準確的」，precise 是「精確的」"
+   ],
+   "tip": "accuracy 是「對不對」，precision 是「細不細」。",
+   "exA": {
+    "en": "The teacher checked the accuracy of every answer on the test.",
+    "zh": "老師檢查了考卷上每一題答案的正確性。"
+   },
+   "exB": {
+    "en": "The machine cuts thin pieces of wood with great precision.",
+    "zh": "這台機器能非常精確地切出薄木片。"
+   }
+  },
+  {
+   "a": "accuse",
+   "b": "blame",
+   "kind": "semantic",
+   "score": 0.589,
+   "aZh": "v. 指控；指責",
+   "bZh": "v. 責怪；歸咎",
+   "diff": "accuse 是指出某人做了壞事，常接 of；blame 是認為某人該為壞結果負責，常接 for。",
+   "points": [
+    "搭配：accuse someone of + N / V-ing；blame someone for + N / V-ing",
+    "搭配：blame A on B 是把責任推給 B",
+    "語氣：accuse 較正式，可指正式控告；blame 較口語，多半只是責怪"
+   ],
+   "tip": "accuse 配 of，blame 配 for：accuse someone OF，blame someone FOR。",
+   "exA": {
+    "en": "They accused the man of stealing a bike.",
+    "zh": "他們指控那個男人偷了一輛腳踏車。"
+   },
+   "exB": {
+    "en": "Don't blame your sister for the broken window.",
+    "zh": "不要為了破掉的窗戶責怪你妹妹。"
+   }
+  },
+  {
+   "a": "acid",
+   "b": "sour",
+   "kind": "semantic",
+   "score": 0.629,
+   "aZh": "n./adj. 酸；酸的",
+   "bZh": "adj. 酸的；酸味的",
+   "diff": "sour 形容食物的酸味；acid 多指化學上的酸，也可形容帶酸性的物質。",
+   "points": [
+    "詞性：acid 可作 n. 和 adj.；sour 只作 adj.",
+    "用法：sour 用在檸檬、牛奶、味道；acid 用在酸雨、胃酸、酸性土壤",
+    "搭配：acid rain（酸雨）、sour milk（酸掉的牛奶）"
+   ],
+   "tip": "吃起來酸用 sour，化學課裡的酸用 acid。",
+   "exA": {
+    "en": "Acid rain can hurt the trees near big cities.",
+    "zh": "酸雨會傷害大城市附近的樹木。"
+   },
+   "exB": {
+    "en": "This lemon is too sour to eat by itself.",
+    "zh": "這顆檸檬太酸了，沒辦法直接吃。"
+   }
+  },
+  {
+   "a": "acquire",
+   "b": "gain",
+   "kind": "semantic",
+   "score": 0.65,
+   "aZh": "v. 取得；獲得",
+   "bZh": "v. 獲得；增加",
+   "diff": "acquire 多指經過一段時間學到或取得技能、知識、物品；gain 可指得到好處、經驗，也可指數量增加。",
+   "points": [
+    "搭配：acquire a skill、a habit、a language；gain weight、experience、confidence",
+    "意思：gain 可表示增加（gain weight 變重）；acquire 沒有這個意思",
+    "語氣：acquire 較正式，多指逐步取得"
+   ],
+   "tip": "acquire 是慢慢學到；gain 是有所得，也可以是變多。",
+   "exA": {
+    "en": "Amy acquired good study habits in her first year of high school.",
+    "zh": "Amy 在高中第一年養成了良好的讀書習慣。"
+   },
+   "exB": {
+    "en": "Amy gained more confidence after she joined the drama club.",
+    "zh": "Amy 加入戲劇社後，變得更有自信。"
+   }
+  },
+  {
+   "a": "acquire",
+   "b": "obtain",
+   "kind": "semantic",
+   "score": 0.53,
+   "aZh": "v. 取得；獲得",
+   "bZh": "v. 取得；獲得",
+   "diff": "acquire 多指逐漸學到或累積；obtain 指經過申請、努力等方式拿到，語氣較正式。",
+   "points": [
+    "搭配：obtain permission、a visa、information；acquire a skill、a habit",
+    "過程：acquire 常有時間累積的感覺；obtain 強調拿到手的結果",
+    "語氣：兩字都比 get 正式"
+   ],
+   "tip": "acquire 是慢慢養成，obtain 是想辦法拿到。",
+   "exA": {
+    "en": "Tom acquired a love of reading from his grandmother.",
+    "zh": "Tom 從奶奶身上培養出對閱讀的喜愛。"
+   },
+   "exB": {
+    "en": "Students must obtain permission before they leave the campus.",
+    "zh": "學生離開校園前必須先取得許可。"
+   }
+  },
+  {
+   "a": "acquire",
+   "b": "require",
+   "kind": "visual",
+   "score": 0.632,
+   "aZh": "v. 取得；獲得",
+   "bZh": "v. 需要；要求",
+   "diff": "兩字都以 -quire 結尾，acquire 是取得，require 是需要或要求，意思和用法完全不同。",
+   "points": [
+    "拼字：兩字都以 -quire 結尾，差在字首 ac- 和 re-",
+    "語意：acquire 是得到；require 是規定必須有或必須做",
+    "搭配：acquire a skill（學會技能）；require + N（需要）、require someone to V（要求某人做）"
+   ],
+   "tip": "看字首：ac- 開頭是得到，re- 開頭是需要。",
+   "exA": {
+    "en": "Amy acquired a new skill in her cooking class.",
+    "zh": "Amy 在烹飪課學會了一項新技能。"
+   },
+   "exB": {
+    "en": "This job requires good English and a lot of patience.",
+    "zh": "這份工作需要好的英文和很大的耐心。"
+   }
+  },
+  {
+   "a": "adapt",
+   "b": "adopt",
+   "kind": "visual",
+   "score": 0.704,
+   "aZh": "v. 適應；改編",
+   "bZh": "v. 採用；收養",
+   "diff": "adapt 是改變自己或事物來適應新情況；adopt 是把別人的想法、方法或孩子接過來採用。兩字只差一個字母。",
+   "points": [
+    "拼字：adapt 是 a，adopt 是 o，差一個母音",
+    "搭配：adapt to 新環境；adopt a plan、a method、a pet",
+    "用法：adapt 常接 to；adopt 直接接受詞"
+   ],
+   "tip": "adopt 裡有 opt（選擇）：選一個來採用；adapt 裡有 apt（合適）：改到合適。",
+   "exA": {
+    "en": "New students need time to adapt to school life.",
+    "zh": "新生需要時間適應學校生活。"
+   },
+   "exB": {
+    "en": "Our school decided to adopt a new schedule this year.",
+    "zh": "我們學校決定今年採用新的課表。"
+   }
+  },
+  {
+   "a": "adapt",
+   "b": "adjust",
+   "kind": "semantic",
+   "score": 0.864,
+   "aZh": "v. 適應；調整；改編",
+   "bZh": "v. 調整；校正；適應",
+   "diff": "adapt 是改變自己去適應新環境，也可指改編；adjust 是把細節或設定調到剛好，也可指調整自己去適應。",
+   "points": [
+    "搭配：adapt to、adjust to 都能表示適應",
+    "對象：adjust 常接具體的東西，如 adjust the volume、the seat；adapt 常接環境、改變",
+    "另一義：adapt 還有改編（小說改成電影）"
+   ],
+   "tip": "adapt 是整個人變得適合；adjust 是把東西調一調。",
+   "exA": {
+    "en": "It took Amy a week to adapt to her new school.",
+    "zh": "Amy 花了一個星期才適應新學校。"
+   },
+   "exB": {
+    "en": "Please adjust the volume because it is too loud.",
+    "zh": "音量太大了，請調整一下。"
+   }
+  },
+  {
+   "a": "admission",
+   "b": "permission",
+   "kind": "both",
+   "score": 0.69,
+   "aZh": "n. 入場許可；承認",
+   "bZh": "n. 許可；允許",
+   "diff": "admission 是獲准進入某處的資格（也可指承認）；permission 是做某件事的許可。",
+   "points": [
+    "用法：admission to + 場所或活動；permission to + V",
+    "搭配：free admission、admission fee；ask for permission、give permission",
+    "數量：permission 是不可數名詞，不能說 a permission"
+   ],
+   "tip": "admission 是進去的門票，permission 是做事的許可證。",
+   "exA": {
+    "en": "Admission to the school concert is free for students.",
+    "zh": "學生可以免費進入校園音樂會。"
+   },
+   "exB": {
+    "en": "You need your parents' permission to join the trip.",
+    "zh": "你需要父母的許可才能參加這次旅行。"
+   }
+  },
+  {
+   "a": "admission",
+   "b": "entrance",
+   "kind": "semantic",
+   "score": 0.585,
+   "aZh": "n. 入場；進入許可",
+   "bZh": "n. 入口；入場",
+   "diff": "admission 是獲准進入的資格或費用；entrance 是進出的入口，也可指進入的動作。",
+   "points": [
+    "詞義：entrance 可指大門、入口；admission 沒有這個意思",
+    "搭配：admission fee、free admission；main entrance、the entrance to the hall",
+    "介系詞：兩字後面都接 to"
+   ],
+   "tip": "門口是 entrance，能不能進去看 admission。",
+   "exA": {
+    "en": "Admission to the museum is free on Sundays.",
+    "zh": "星期日可以免費參觀博物館。"
+   },
+   "exB": {
+    "en": "Meet me at the main entrance of the school.",
+    "zh": "在學校正門口跟我碰面。"
+   }
+  },
+  {
+   "a": "admiration",
+   "b": "appreciation",
+   "kind": "semantic",
+   "score": 0.666,
+   "aZh": "n. 欽佩；讚賞",
+   "bZh": "n. 感謝；欣賞",
+   "diff": "admiration 是對人的能力或品格感到佩服；appreciation 是感激別人的付出，或懂得欣賞事物的價值。",
+   "points": [
+    "對象：admiration 多指對人的敬佩；appreciation 可指對人的感謝，也可指對藝術等的欣賞",
+    "搭配：admiration for；appreciation for / of",
+    "動詞：admire 是欽佩；appreciate 是感激、欣賞"
+   ],
+   "tip": "admire 是仰望一個人，appreciate 是心裡感激或懂得珍惜。",
+   "exA": {
+    "en": "The crowd looked at the young pianist with great admiration.",
+    "zh": "群眾以非常欽佩的眼光看著那位年輕鋼琴家。"
+   },
+   "exB": {
+    "en": "The teacher showed her appreciation for our hard work.",
+    "zh": "老師對我們的努力表達感謝。"
+   }
+  },
+  {
+   "a": "agency",
+   "b": "agent",
+   "kind": "both",
+   "score": 0.679,
+   "aZh": "n. 機構；代理處",
+   "bZh": "n. 代理人；代理商",
+   "diff": "agent 是代表別人辦事的人；agency 是由這些人組成、提供服務的機構。",
+   "points": [
+    "詞性：agency 指機構；agent 指人",
+    "搭配：travel agency（旅行社）、travel agent（旅行社業務員）",
+    "字尾：agency 字尾是 -cy，agent 字尾是 -t"
+   ],
+   "tip": "agent 是人，agency 是他工作的地方。",
+   "exA": {
+    "en": "The travel agency helped our class plan a study trip.",
+    "zh": "旅行社協助我們班規劃校外教學。"
+   },
+   "exB": {
+    "en": "A travel agent found cheap tickets for our class trip.",
+    "zh": "旅行社業務員替我們班找到便宜的票。"
+   }
+  },
+  {
+   "a": "agreeable",
+   "b": "pleasant",
+   "kind": "semantic",
+   "score": 0.638,
+   "aZh": "adj. 令人愉快的；可接受的",
+   "bZh": "adj. 令人愉快的；舒適的",
+   "diff": "pleasant 形容經驗、天氣或人令人愉快；agreeable 較正式，也可指某件事可以被接受。",
+   "points": [
+    "語氣：pleasant 較口語常用；agreeable 較正式",
+    "另一義：agreeable to + 人 表示對某人來說可以接受；pleasant 沒有這個用法",
+    "搭配：a pleasant surprise、pleasant weather；an agreeable manner"
+   ],
+   "tip": "pleasant 是舒服開心，agreeable 是舒服又「可以答應」。",
+   "exA": {
+    "en": "The weather was agreeable, so we had lunch outside.",
+    "zh": "天氣宜人，所以我們在外面吃午餐。"
+   },
+   "exB": {
+    "en": "We spent a pleasant afternoon at the beach.",
+    "zh": "我們在海邊度過了愉快的下午。"
+   }
+  },
+  {
+   "a": "acceptable",
+   "b": "agreeable",
+   "kind": "semantic",
+   "score": 0.83,
+   "aZh": "adj. 可接受的；合意的",
+   "bZh": "adj. 令人愉快的；合意的",
+   "diff": "acceptable 指符合要求、可以接受；agreeable 指對某人來說合意，也可指令人愉快。",
+   "points": [
+    "搭配：兩字都可接 to + 人，如 acceptable to us、agreeable to us",
+    "重點：acceptable 只表示夠格、可以；agreeable 還帶有喜歡、愉快的意思",
+    "語氣：兩字都比 OK 正式"
+   ],
+   "tip": "acceptable 是「過得去」，agreeable 是「合心意」。",
+   "exA": {
+    "en": "A score of sixty is acceptable for this test.",
+    "zh": "這次考試六十分是可以接受的。"
+   },
+   "exB": {
+    "en": "Is Friday agreeable to you, or do you prefer Thursday?",
+    "zh": "星期五你可以嗎？還是你比較想選星期四？"
+   }
+  },
+  {
+   "a": "alert",
+   "b": "aware",
+   "kind": "semantic",
+   "score": 0.506,
+   "aZh": "adj. 警覺的；留意的",
+   "bZh": "adj. 知道的；察覺的",
+   "diff": "alert 是隨時保持警覺，準備反應；aware 只是知道或察覺到某件事。",
+   "points": [
+    "介系詞：be alert to；be aware of",
+    "程度：alert 強調專注留意；aware 強調有這個認知",
+    "搭配：stay alert（保持警覺）；be aware of the danger（知道有危險）"
+   ],
+   "tip": "alert 配 to，aware 配 of。",
+   "exA": {
+    "en": "Drivers should stay alert when they drive on wet roads.",
+    "zh": "駕駛人在濕滑的路上開車時應保持警覺。"
+   },
+   "exB": {
+    "en": "Are you aware of the danger on this road?",
+    "zh": "你知道這條路有危險嗎？"
+   }
+  },
+  {
+   "a": "alarm",
+   "b": "alert",
+   "kind": "semantic",
+   "score": 0.517,
+   "aZh": "n. 警報；鬧鐘",
+   "bZh": "n. 警報；警戒",
+   "diff": "alert 是提醒大家注意的通知或警戒狀態；alarm 是發出聲音的警報器，也指鬧鐘。",
+   "points": [
+    "詞義：alarm 還可指鬧鐘、警報器；alert 沒有",
+    "搭配：weather alert、on alert；fire alarm、alarm clock",
+    "詞性：alert 也是形容詞「警覺的」；alarm 也是動詞「使驚慌」"
+   ],
+   "tip": "alarm 會「響」，alert 是「通知」。",
+   "exA": {
+    "en": "The fire alarm rang, so we left the classroom.",
+    "zh": "火災警報響了，所以我們離開了教室。"
+   },
+   "exB": {
+    "en": "The city sent a flood alert to everyone's phones.",
+    "zh": "市政府把淹水警報傳到每個人的手機。"
+   }
+  },
+  {
+   "a": "alliance",
+   "b": "allowance",
+   "kind": "visual",
+   "score": 0.805,
+   "aZh": "n. 聯盟；結盟",
+   "bZh": "n. 零用錢；津貼",
+   "diff": "兩字前半段都是 all-，字尾都是 -ance。allowance 是零用錢或限額，alliance 是國家或團體的聯盟。",
+   "points": [
+    "拼字：allowance 有 low，alliance 有 li",
+    "詞源：allowance 來自 allow（允許）；alliance 來自 ally（盟友）",
+    "搭配：weekly allowance；form an alliance"
+   ],
+   "tip": "allowance 裡有 allow（允許給你的錢）；alliance 裡有 ally（盟友）。",
+   "exA": {
+    "en": "The two countries formed an alliance to protect trade.",
+    "zh": "兩個國家結成聯盟來保護貿易。"
+   },
+   "exB": {
+    "en": "Amy saves part of her weekly allowance for books.",
+    "zh": "Amy 把每週零用錢的一部分存起來買書。"
+   }
+  },
+  {
+   "a": "alternate",
+   "b": "alternative",
+   "kind": "visual",
+   "score": 0.77,
+   "aZh": "adj. 交替的；輪流的",
+   "bZh": "adj./n. 替代的；替代選擇",
+   "diff": "alternative 是可以取代原本的另一種選擇；alternate 是兩件事輪流交替出現。",
+   "points": [
+    "詞性：alternative 是 adj./n.；alternate 可作 adj./v.",
+    "搭配：an alternative plan（替代方案）；alternate days（隔天）",
+    "意思：alternate 強調一個接一個；alternative 強調換成另一個"
+   ],
+   "tip": "alternative 是「另一個選擇」，alternate 是「一個接一個」。",
+   "exA": {
+    "en": "Amy goes swimming on alternate days, not every day.",
+    "zh": "Amy 隔天去游泳，不是每天去。"
+   },
+   "exB": {
+    "en": "The road is closed, so we must take an alternative route.",
+    "zh": "這條路封閉了，所以我們必須走另一條路線。"
+   }
+  },
+  {
+   "a": "alternative",
+   "b": "option",
+   "kind": "semantic",
+   "score": 0.506,
+   "aZh": "n. 替代選擇；adj. 替代的",
+   "bZh": "n. 選擇；選項",
+   "diff": "option 是眾多可選的項目之一；alternative 是取代原本方案的另一個選擇，多半只有一兩個。",
+   "points": [
+    "數量：option 常有好幾個；alternative 常指取代原案的另一個",
+    "詞性：alternative 也可作形容詞；option 只作名詞",
+    "搭配：no alternative but to V；have no option but to V"
+   ],
+   "tip": "有很多選項是 option，換掉原案的那一個是 alternative。",
+   "exA": {
+    "en": "Cycling is a healthy alternative to taking the bus.",
+    "zh": "騎腳踏車是搭公車以外的健康選擇。"
+   },
+   "exB": {
+    "en": "The menu has three options for the main dish.",
+    "zh": "菜單上的主餐有三種選擇。"
+   }
+  },
+  {
+   "a": "ambiguous",
+   "b": "ambitious",
+   "kind": "visual",
+   "score": 0.735,
+   "aZh": "adj. 模稜兩可的；含糊的",
+   "bZh": "adj. 有抱負的；有野心的",
+   "diff": "兩字都以 am- 開頭、-ous 結尾，但 ambiguous 是意思不清楚，ambitious 是很有抱負。",
+   "points": [
+    "拼字：ambiguous 中間是 -bigu-，ambitious 中間是 -biti-",
+    "名詞：ambiguity 是模稜兩可；ambition 是抱負",
+    "搭配：ambiguous answer；ambitious plan"
+   ],
+   "tip": "ambitious 拿掉 -ious 就是 ambition（抱負）。",
+   "exA": {
+    "en": "His answer was ambiguous, so we still did not know what he wanted.",
+    "zh": "他的回答很含糊，所以我們還是不知道他想要什麼。"
+   },
+   "exB": {
+    "en": "Jenny is ambitious and hopes to study medicine.",
+    "zh": "Jenny 很有抱負，希望將來學醫。"
+   }
+  },
+  {
+   "a": "ambiguous",
+   "b": "vague",
+   "kind": "semantic",
+   "score": 0.564,
+   "aZh": "adj. 模稜兩可的；含糊的",
+   "bZh": "adj. 模糊的；不明確的",
+   "diff": "ambiguous 是一句話可以有兩種以上解釋；vague 是內容不具體、細節不夠。",
+   "points": [
+    "原因：ambiguous 是解讀分歧；vague 是資訊太少",
+    "搭配：an ambiguous answer；a vague idea、a vague memory",
+    "範圍：vague 也能形容模糊的記憶或印象；ambiguous 不行"
+   ],
+   "tip": "ambiguous 是「兩邊都說得通」，vague 是「說得不夠清楚」。",
+   "exA": {
+    "en": "The sign is ambiguous, so people walk in different directions.",
+    "zh": "這個標誌意思不明，所以大家往不同的方向走。"
+   },
+   "exB": {
+    "en": "Tom has only a vague memory of that trip.",
+    "zh": "Tom 對那次旅行只有模糊的記憶。"
+   }
+  },
+  {
+   "a": "amuse",
+   "b": "entertain",
+   "kind": "semantic",
+   "score": 0.536,
+   "aZh": "v. 逗樂；使覺得好笑",
+   "bZh": "v. 娛樂；款待",
+   "diff": "amuse 是逗人開心，多半短暫；entertain 是用表演或活動娛樂人，也可指招待客人。",
+   "points": [
+    "範圍：entertain 範圍較廣，包含表演、招待客人",
+    "搭配：amuse someone with a story；entertain guests",
+    "詞性：兩字都是及物動詞"
+   ],
+   "tip": "amuse 是讓人笑一下，entertain 是安排節目招待。",
+   "exA": {
+    "en": "Our teacher amused the class with a story about her cat.",
+    "zh": "老師說了一個關於她的貓的故事，把全班逗笑了。"
+   },
+   "exB": {
+    "en": "The band entertained the crowd for two hours.",
+    "zh": "樂團娛樂了群眾兩個小時。"
+   }
+  },
+  {
+   "a": "annual",
+   "b": "manual",
+   "kind": "visual",
+   "score": 0.692,
+   "aZh": "adj. 每年的；一年一次的",
+   "bZh": "adj. 手動的；n. 使用手冊",
+   "diff": "兩字只差第一個字母：annual 是每年的，manual 是用手操作的，也指使用手冊。",
+   "points": [
+    "拼字：annual 是 ann-（年），manual 是 man-（手）",
+    "詞性：annual 是 adj.；manual 可作 adj./n.",
+    "搭配：annual report；manual work、user manual"
+   ],
+   "tip": "manual 的 man- 是「手」，annual 的 ann- 是「年」。",
+   "exA": {
+    "en": "Our city has an annual flower show in spring.",
+    "zh": "我們的城市每年春天都會舉辦花展。"
+   },
+   "exB": {
+    "en": "Read the manual before you use the new camera.",
+    "zh": "使用新相機前，先讀一下使用手冊。"
+   }
+  },
+  {
+   "a": "anniversary",
+   "b": "annual",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 週年紀念日",
+   "bZh": "adj. 每年的；一年一次的",
+   "diff": "annual 是形容詞，指每年一次的；anniversary 是名詞，指某件事每年到來的紀念日。",
+   "points": [
+    "詞性：annual 是 adj.；anniversary 是 n.",
+    "搭配：annual event（年度活動）；wedding anniversary（結婚週年）",
+    "拼字：兩字都有 ann-，來自拉丁文 annus（年）"
+   ],
+   "tip": "annual 修飾名詞，anniversary 就是那個日子。",
+   "exA": {
+    "en": "My parents celebrate their wedding anniversary every spring.",
+    "zh": "我父母每年春天慶祝結婚週年紀念日。"
+   },
+   "exB": {
+    "en": "The town holds an annual concert in the park.",
+    "zh": "這個小鎮每年都在公園舉辦一場音樂會。"
+   }
+  },
+  {
+   "a": "annoy",
+   "b": "bother",
+   "kind": "semantic",
+   "score": 0.7,
+   "aZh": "v. 惹惱；使心煩",
+   "bZh": "v. 打擾；使煩惱",
+   "diff": "annoy 重在讓人生氣、不耐煩；bother 重在打擾別人或造成麻煩，語氣較輕。",
+   "points": [
+    "重點：annoy 是情緒上的惱火；bother 是干擾、造成不便",
+    "句型：bother 可說 Don't bother me（別煩我）、Don't bother to V（不必費心去做）；annoy 沒有",
+    "形容詞：annoyed 是覺得被惹惱；annoying 是令人惱火的"
+   ],
+   "tip": "annoy 是「惹到你生氣」，bother 是「打擾到你」。",
+   "exA": {
+    "en": "It annoys me when people talk during a movie.",
+    "zh": "有人在電影放映時講話，我就覺得很煩。"
+   },
+   "exB": {
+    "en": "Please don't bother your sister while she studies.",
+    "zh": "你妹妹在讀書時，請不要打擾她。"
+   }
+  },
+  {
+   "a": "apparent",
+   "b": "obvious",
+   "kind": "semantic",
+   "score": 0.864,
+   "aZh": "adj. 明顯的；表面上的",
+   "bZh": "adj. 明顯的；顯而易見的",
+   "diff": "obvious 是一看就懂、不用想；apparent 是清楚看得出來，也可指表面上看來如此。",
+   "points": [
+    "另一義：apparent 可指表面上的（未必真實）；obvious 沒有",
+    "句型：It is obvious / apparent that + 子句 兩者都可用",
+    "搭配：apparent reason；an obvious mistake"
+   ],
+   "tip": "apparent 裡有 appear（顯現），有時只是「看起來」；obvious 是擺明了。",
+   "exA": {
+    "en": "It became apparent that the team needed more time.",
+    "zh": "很明顯，這個團隊還需要更多時間。"
+   },
+   "exB": {
+    "en": "It is obvious that Tom did not study for the test.",
+    "zh": "很明顯，Tom 沒有為考試讀書。"
+   }
+  },
+  {
+   "a": "applicant",
+   "b": "application",
+   "kind": "visual",
+   "score": 0.667,
+   "aZh": "n. 申請人；應徵者",
+   "bZh": "n. 申請；申請書；應用",
+   "diff": "applicant 是提出申請的人；application 是申請這件事或申請書。兩字都來自 apply。",
+   "points": [
+    "詞性：applicant 指人；application 指事物",
+    "字尾：-ant 常表示做某事的人；-ation 表示行為或結果",
+    "搭配：job applicant（求職者）；job application（求職申請）"
+   ],
+   "tip": "applicant 是人，application 是他交出去的那份東西。",
+   "exA": {
+    "en": "Each applicant must submit the form by Friday.",
+    "zh": "每位申請人都必須在星期五前繳交表格。"
+   },
+   "exB": {
+    "en": "Her application for the summer course was accepted.",
+    "zh": "她的暑期課程申請通過了。"
+   }
+  },
+  {
+   "a": "applicant",
+   "b": "candidate",
+   "kind": "semantic",
+   "score": 0.445,
+   "aZh": "n. 申請人；應徵者",
+   "bZh": "n. 候選人；應試者",
+   "diff": "applicant 是主動提出申請的人；candidate 是被考慮或參加選拔的人，不一定自己申請。",
+   "points": [
+    "情境：applicant 用於申請工作、入學；candidate 用於選舉、考試、選拔",
+    "搭配：applicant for a job；candidate for mayor",
+    "身分：candidate 還可指參加考試的考生"
+   ],
+   "tip": "applicant 遞出申請，candidate 站上候選名單。",
+   "exA": {
+    "en": "Each applicant must send a short letter to the school.",
+    "zh": "每位申請人都必須寄一封短信給學校。"
+   },
+   "exB": {
+    "en": "Three candidates are running for president of the student council.",
+    "zh": "有三位候選人在競選學生會會長。"
+   }
+  },
+  {
+   "a": "appoint",
+   "b": "disappoint",
+   "kind": "visual",
+   "score": 0.687,
+   "aZh": "v. 任命；指派",
+   "bZh": "v. 使失望",
+   "diff": "disappoint 是 dis- 加 appoint，但意思不是「取消任命」，而是「使失望」，兩字要分開記。",
+   "points": [
+    "拼字：disappoint 只有一個 s、兩個 p",
+    "詞義：appoint 是任命；disappoint 是使人失望",
+    "形容詞：appointed 是被任命的；disappointed 是感到失望的",
+    "搭配：appoint someone as；be disappointed at / with"
+   ],
+   "tip": "dis- 是否定，disappoint 讓期望落空；appoint 是把人指定到位子上。",
+   "exA": {
+    "en": "The club appointed Amy as its new leader.",
+    "zh": "社團任命 Amy 為新任社長。"
+   },
+   "exB": {
+    "en": "The bad news disappointed everyone in the class.",
+    "zh": "這個壞消息讓班上每個人都很失望。"
+   }
+  },
+  {
+   "a": "appoint",
+   "b": "assign",
+   "kind": "semantic",
+   "score": 0.634,
+   "aZh": "v. 任命；指派",
+   "bZh": "v. 指派；分配",
+   "diff": "appoint 是正式任命某人擔任職位；assign 是分配工作、任務或座位給某人。",
+   "points": [
+    "對象：appoint 的受詞是人；assign 的受詞常是任務、工作",
+    "搭配：appoint someone as captain；assign homework to students",
+    "正式度：appoint 較正式，涉及職位"
+   ],
+   "tip": "appoint 指定「人選」，assign 分派「事情」。",
+   "exA": {
+    "en": "The school appointed Mr. Lee as the new coach.",
+    "zh": "學校任命李老師為新教練。"
+   },
+   "exB": {
+    "en": "The teacher assigned a short report to each group.",
+    "zh": "老師指派每一組寫一份短報告。"
+   }
+  },
+  {
+   "a": "appreciation",
+   "b": "gratitude",
+   "kind": "semantic",
+   "score": 0.91,
+   "aZh": "n. 感謝；感激；欣賞",
+   "bZh": "n. 感激；感謝",
+   "diff": "gratitude 專指心裡的感激；appreciation 可指感謝，也可指欣賞事物的價值。",
+   "points": [
+    "範圍：appreciation 還有欣賞、鑑賞的意思；gratitude 沒有",
+    "語氣：gratitude 較深、較正式；appreciation 較日常",
+    "搭配：express gratitude to；show appreciation for"
+   ],
+   "tip": "gratitude 只有感謝，appreciation 還多了欣賞。",
+   "exA": {
+    "en": "The trip gave students an appreciation of local culture.",
+    "zh": "這趟旅行讓學生更懂得欣賞當地文化。"
+   },
+   "exB": {
+    "en": "Amy expressed her gratitude to everyone who helped her.",
+    "zh": "Amy 向所有幫助過她的人表達感激。"
+   }
+  },
+  {
+   "a": "appreciate",
+   "b": "appropriate",
+   "kind": "visual",
+   "score": 0.719,
+   "aZh": "v. 感激；欣賞",
+   "bZh": "adj. 適當的；合宜的",
+   "diff": "兩字開頭都是 appr-，appreciate 是動詞「感激、欣賞」，appropriate 是形容詞「適當的」。",
+   "points": [
+    "詞性：appreciate 是 v.；appropriate 是 adj.",
+    "拼字：appreciate 是 -preciate；appropriate 是 -propriate",
+    "搭配：I appreciate your help；appropriate for the occasion"
+   ],
+   "tip": "appreciate 裡有 precious（珍貴），珍惜所以感激；appropriate 裡有 proper（合宜）。",
+   "exA": {
+    "en": "I really appreciate your help with my homework.",
+    "zh": "我真的很感謝你幫我寫作業。"
+   },
+   "exB": {
+    "en": "Jeans are not appropriate for the formal school event.",
+    "zh": "牛仔褲不適合正式的校內活動。"
+   }
+  },
+  {
+   "a": "appropriate",
+   "b": "proper",
+   "kind": "semantic",
+   "score": 0.93,
+   "aZh": "adj. 適當的；合宜的",
+   "bZh": "adj. 適當的；合宜的",
+   "diff": "兩字都是「適當」；appropriate 強調符合場合，proper 強調符合規矩或標準，也指「真正的」。",
+   "points": [
+    "重點：appropriate 看場合是否適合；proper 看是否合乎規矩、標準",
+    "另一義：proper 可指真正的、像樣的，如 a proper meal",
+    "搭配：appropriate for the occasion；proper manners"
+   ],
+   "tip": "appropriate 配場合，proper 配規矩。",
+   "exA": {
+    "en": "Jeans are not appropriate for the formal school event.",
+    "zh": "牛仔褲不適合正式的校內活動。"
+   },
+   "exB": {
+    "en": "Please use the proper tool to open the box.",
+    "zh": "請用正確的工具來打開這個箱子。"
+   }
+  },
+  {
+   "a": "acceptance",
+   "b": "approval",
+   "kind": "semantic",
+   "score": 0.685,
+   "aZh": "n. 接受；認可；認同",
+   "bZh": "n. 批准；認可",
+   "diff": "approval 是有權的人點頭同意；acceptance 是收下、接受，或被團體接納。",
+   "points": [
+    "來源：approval 常來自上級或有權者；acceptance 可以是自己接受某事",
+    "搭配：need approval for；acceptance of an offer",
+    "動詞：approve 是批准；accept 是接受"
+   ],
+   "tip": "approve 是「批准」，accept 是「收下」。",
+   "exA": {
+    "en": "Her acceptance of the invitation made the whole family happy.",
+    "zh": "她接受邀請，讓全家人都很開心。"
+   },
+   "exB": {
+    "en": "Students need a teacher's approval before they hold a club event.",
+    "zh": "學生舉辦社團活動前，需要老師的批准。"
+   }
+  },
+  {
+   "a": "approval",
+   "b": "permission",
+   "kind": "semantic",
+   "score": 0.574,
+   "aZh": "n. 批准；認可",
+   "bZh": "n. 許可；允許",
+   "diff": "permission 是允許你去做某件事；approval 是對計畫或做法表示同意、認可。",
+   "points": [
+    "對象：permission 常是許可某人做某事；approval 常是認可某個計畫、作品",
+    "搭配：ask for permission；get approval",
+    "動詞：permit 是允許；approve 是批准"
+   ],
+   "tip": "permission 是「准你去做」，approval 是「覺得可以」。",
+   "exA": {
+    "en": "The club received approval for its new project.",
+    "zh": "社團的新計畫獲得批准。"
+   },
+   "exB": {
+    "en": "Amy asked for permission to leave class early.",
+    "zh": "Amy 請求許可提早離開教室。"
+   }
+  },
+  {
+   "a": "arise",
+   "b": "rise",
+   "kind": "both",
+   "score": 0.777,
+   "aZh": "v. 發生；出現",
+   "bZh": "v. 上升；升起；起身",
+   "diff": "arise 多指問題、機會等抽象的事出現；rise 指太陽、價格、溫度等升高。兩字都是不及物動詞。",
+   "points": [
+    "用法：arise 用於問題、疑問、機會；rise 用於實際的上升",
+    "三態：arise-arose-arisen；rise-rose-risen",
+    "搭配：problems arise；prices rise"
+   ],
+   "tip": "arise 是事情冒出來，rise 是東西升上去。",
+   "exA": {
+    "en": "Some problems may arise when students skip breakfast every day.",
+    "zh": "學生每天不吃早餐時，可能會出現一些問題。"
+   },
+   "exB": {
+    "en": "The sun rises earlier in summer than in winter.",
+    "zh": "夏天太陽升起的時間比冬天早。"
+   }
+  },
+  {
+   "a": "arise",
+   "b": "raise",
+   "kind": "visual",
+   "score": 0.652,
+   "aZh": "v. 發生；出現",
+   "bZh": "v. 舉起；提高；養育",
+   "diff": "arise 是不及物動詞，事情自己出現；raise 是及物動詞，要接受詞，意思是舉起或提高。",
+   "points": [
+    "及物：arise 不接受詞；raise 一定要接受詞",
+    "三態：arise-arose-arisen；raise-raised-raised",
+    "搭配：a problem arises；raise your hand"
+   ],
+   "tip": "raise 後面要有東西被舉起，arise 不用。",
+   "exA": {
+    "en": "Some problems may arise during the school trip.",
+    "zh": "校外教學時可能會出現一些問題。"
+   },
+   "exB": {
+    "en": "Please raise your hand if you know the answer.",
+    "zh": "如果你知道答案，請舉手。"
+   }
+  },
+  {
+   "a": "arise",
+   "b": "occur",
+   "kind": "semantic",
+   "score": 0.743,
+   "aZh": "v. 發生；出現",
+   "bZh": "v. 發生；出現",
+   "diff": "occur 指事件或情況發生；arise 較正式，常指問題、機會、疑問自然浮現。",
+   "points": [
+    "搭配：arise 常配 problem、question、opportunity；occur 常配 accident、event、error",
+    "語氣：arise 較正式",
+    "句型：occur to someone 是「想到」；arise 沒有這個用法"
+   ],
+   "tip": "arise 像冒泡浮起，occur 像事件真的發生。",
+   "exA": {
+    "en": "If any questions arise, please ask your teacher right away.",
+    "zh": "如果有任何問題出現，請立刻問老師。"
+   },
+   "exB": {
+    "en": "The accident occurred near the school gate last night.",
+    "zh": "那場意外昨晚發生在學校大門附近。"
+   }
+  },
+  {
+   "a": "artificial",
+   "b": "synthetic",
+   "kind": "semantic",
+   "score": 0.585,
+   "aZh": "adj. 人造的；不自然的",
+   "bZh": "adj. 合成的；人造的",
+   "diff": "artificial 泛指人造而非自然的，也可指做作；synthetic 多指用化學方法合成的材料。",
+   "points": [
+    "範圍：artificial 範圍較廣；synthetic 多用於材料、纖維、藥物",
+    "另一義：artificial 可形容不自然、做作的態度",
+    "搭配：artificial light、artificial intelligence；synthetic fiber"
+   ],
+   "tip": "artificial 是「人做的」，synthetic 是「實驗室合成的」。",
+   "exA": {
+    "en": "The gym uses artificial light during the evening class.",
+    "zh": "晚間課程時，健身房使用人工照明。"
+   },
+   "exB": {
+    "en": "This jacket is made of synthetic fiber, not cotton.",
+    "zh": "這件夾克是合成纖維做的，不是棉的。"
+   }
+  },
+  {
+   "a": "artistic",
+   "b": "creative",
+   "kind": "semantic",
+   "score": 0.513,
+   "aZh": "adj. 藝術的；有藝術天分的",
+   "bZh": "adj. 有創意的；創造性的",
+   "diff": "artistic 是有藝術感、美感或技巧；creative 是能想出新點子，不限於藝術。",
+   "points": [
+    "範圍：creative 可用在科學、寫作、解決問題；artistic 偏重藝術與美感",
+    "搭配：artistic talent；creative idea",
+    "名詞：artist 是藝術家；creativity 是創造力"
+   ],
+   "tip": "artistic 重「美」，creative 重「新」。",
+   "exA": {
+    "en": "Jenny is very artistic, and she paints after school.",
+    "zh": "Jenny 很有藝術天分，放學後會畫畫。"
+   },
+   "exB": {
+    "en": "Tom came up with a creative way to save water.",
+    "zh": "Tom 想出了一個節約用水的創意方法。"
+   }
+  },
+  {
+   "a": "ashamed",
+   "b": "shameful",
+   "kind": "both",
+   "score": 0.5,
+   "aZh": "adj. 羞愧的；慚愧的",
+   "bZh": "adj. 可恥的；丟臉的",
+   "diff": "ashamed 是人感到羞愧；shameful 是事情或行為令人覺得可恥。",
+   "points": [
+    "主詞：ashamed 描述人的感受；shameful 描述行為、事情",
+    "搭配：be ashamed of；a shameful act",
+    "字尾：-ed 表示感到；-ful 表示充滿"
+   ],
+   "tip": "人是 ashamed，事是 shameful。",
+   "exA": {
+    "en": "She felt ashamed of forgetting her friend's birthday.",
+    "zh": "她忘了朋友的生日，感到很慚愧。"
+   },
+   "exB": {
+    "en": "Cheating on a test is a shameful act.",
+    "zh": "考試作弊是可恥的行為。"
+   }
+  },
+  {
+   "a": "aspect",
+   "b": "respect",
+   "kind": "both",
+   "score": 0.636,
+   "aZh": "n. 面向；方面",
+   "bZh": "n. 尊重；方面",
+   "diff": "兩字結尾都是 -spect。aspect 是事物的一個面向；respect 主要是「尊重」，也可指「方面」。",
+   "points": [
+    "常用義：aspect 是面向；respect 常指尊重",
+    "搭配：in this respect、in every aspect 都是「在這方面」",
+    "拼字：aspect 是 as-，respect 是 re-"
+   ],
+   "tip": "-spect 是「看」：aspect 是看到的那一面，respect 是回頭多看一眼、尊重。",
+   "exA": {
+    "en": "Health is an important aspect of a happy life.",
+    "zh": "健康是快樂生活的重要面向。"
+   },
+   "exB": {
+    "en": "Students should show respect to their teachers and classmates.",
+    "zh": "學生應該尊重老師和同學。"
+   }
+  },
+  {
+   "a": "assemble",
+   "b": "resemble",
+   "kind": "visual",
+   "score": 0.646,
+   "aZh": "v. 集合；組裝",
+   "bZh": "v. 像；與…相似",
+   "diff": "兩字只差開頭：assemble 是把人或零件聚在一起，resemble 是外表或性格像另一個人。",
+   "points": [
+    "拼字：assemble 是 as-，resemble 是 re-",
+    "及物：resemble 直接接受詞，不加 to，也不能用被動",
+    "搭配：assemble furniture；resemble one's mother"
+   ],
+   "tip": "resemble 裡的 semble 像 similar（相似），是「長得像」；assemble 是聚在一起。",
+   "exA": {
+    "en": "The students assembled in the hall before the school trip.",
+    "zh": "學生在校外教學前集合在禮堂裡。"
+   },
+   "exB": {
+    "en": "Amy resembles her mother in both looks and voice.",
+    "zh": "Amy 的長相和聲音都像她媽媽。"
+   }
+  },
+  {
+   "a": "assemble",
+   "b": "gather",
+   "kind": "semantic",
+   "score": 0.737,
+   "aZh": "v. 集合；組裝",
+   "bZh": "v. 聚集；集合；採集",
+   "diff": "gather 泛指人或物聚集，也可指採集；assemble 較正式，常指有組織地集合，或把零件裝起來。",
+   "points": [
+    "語氣：assemble 較正式；gather 較日常",
+    "另一義：assemble 可指組裝；gather 可指採集、收集",
+    "搭配：assemble furniture；gather information"
+   ],
+   "tip": "assemble 有「組」的感覺，gather 是自然聚到一起。",
+   "exA": {
+    "en": "Kevin assembled the desk by following the instructions.",
+    "zh": "Kevin 按照說明把書桌組裝起來。"
+   },
+   "exB": {
+    "en": "The children gathered around the teacher to hear the story.",
+    "zh": "孩子們圍在老師身邊聽故事。"
+   }
+  },
+  {
+   "a": "assembly",
+   "b": "meeting",
+   "kind": "semantic",
+   "score": 0.679,
+   "aZh": "n. 集會；朝會",
+   "bZh": "n. 會議；集會",
+   "diff": "assembly 是全校或大團體的正式集會；meeting 是為討論事情而開的會，人數不一定多。",
+   "points": [
+    "規模：assembly 通常人多；meeting 大小皆可",
+    "目的：meeting 重討論；assembly 重宣布或集體活動",
+    "搭配：school assembly；class meeting"
+   ],
+   "tip": "assembly 是大家一起聽，meeting 是坐下來討論。",
+   "exA": {
+    "en": "Our class attended the morning assembly in the school hall.",
+    "zh": "我們班參加了在學校禮堂舉行的朝會。"
+   },
+   "exB": {
+    "en": "The student council has a meeting every Friday afternoon.",
+    "zh": "學生會每個星期五下午開會。"
+   }
+  },
+  {
+   "a": "assign",
+   "b": "assist",
+   "kind": "visual",
+   "score": 0.62,
+   "aZh": "v. 指派；分配",
+   "bZh": "v. 協助；幫忙",
+   "diff": "assign 是把工作交給人；assist 是幫別人做事。兩字只差 g 和 s。",
+   "points": [
+    "拼字：assign 有 sign，assist 有 sist",
+    "搭配：assign homework to students；assist someone with work",
+    "名詞：assignment 是作業；assistant 是助理"
+   ],
+   "tip": "assign 裡有 sign（記號），像在名單上做記號派工；assist 是站在旁邊幫忙。",
+   "exA": {
+    "en": "The teacher assigned each group a different science topic.",
+    "zh": "老師指派每組不同的自然科學主題。"
+   },
+   "exB": {
+    "en": "Jenny assists her mother at the shop on weekends.",
+    "zh": "Jenny 週末會在店裡幫媽媽的忙。"
+   }
+  },
+  {
+   "a": "assistance",
+   "b": "assurance",
+   "kind": "visual",
+   "score": 0.689,
+   "aZh": "n. 協助；幫忙",
+   "bZh": "n. 保證；把握",
+   "diff": "兩字都以 ass- 開頭、-ance 結尾；assistance 是幫助，assurance 是保證或自信。",
+   "points": [
+    "拼字：assistance 有 -sist-，assurance 有 -sur-",
+    "詞源：assistance 來自 assist（協助）；assurance 來自 assure（保證）",
+    "搭配：need assistance；give assurance"
+   ],
+   "tip": "assistance 有 sist（站在旁邊幫忙），assurance 有 sur（像 sure，確定）。",
+   "exA": {
+    "en": "Jenny asked for assistance with her science project.",
+    "zh": "Jenny 請人協助她的自然科學專題。"
+   },
+   "exB": {
+    "en": "The teacher gave us assurance that the room was ready for the exam.",
+    "zh": "老師向我們保證考試教室已經準備好了。"
+   }
+  },
+  {
+   "a": "assistance",
+   "b": "help",
+   "kind": "semantic",
+   "score": 0.875,
+   "aZh": "n. 協助；幫忙",
+   "bZh": "n. 幫助；協助",
+   "diff": "help 最口語、最常用；assistance 較正式，多用於提供或請求協助。",
+   "points": [
+    "語氣：assistance 較正式；help 較口語",
+    "詞性：help 也是動詞；assistance 只作名詞",
+    "搭配：financial assistance、medical assistance；ask for help"
+   ],
+   "tip": "日常說 help，正式場合寫 assistance。",
+   "exA": {
+    "en": "The library offers assistance to students who need help with research.",
+    "zh": "圖書館會協助需要查資料的學生。"
+   },
+   "exB": {
+    "en": "Can you give me some help with this math problem?",
+    "zh": "你可以幫我解這一題數學嗎？"
+   }
+  },
+  {
+   "a": "associate",
+   "b": "colleague",
+   "kind": "semantic",
+   "score": 0.469,
+   "aZh": "n. 同事；夥伴",
+   "bZh": "n. 同事；同僚",
+   "diff": "colleague 是同一個單位或行業的同事；associate 是工作上往來的夥伴，關係較鬆散。",
+   "points": [
+    "關係：colleague 多為同單位；associate 可能是不同公司的合作對象",
+    "搭配：business associate；work colleague",
+    "詞性：associate 還可作動詞、形容詞"
+   ],
+   "tip": "colleague 在同一間辦公室，associate 在合作名單上。",
+   "exA": {
+    "en": "The store manager discussed the new plan with an associate.",
+    "zh": "店長和一位夥伴討論新計畫。"
+   },
+   "exB": {
+    "en": "My mother had lunch with a colleague from her office.",
+    "zh": "我媽媽和辦公室的一位同事一起吃午餐。"
+   }
+  },
+  {
+   "a": "associate",
+   "b": "association",
+   "kind": "visual",
+   "score": 0.748,
+   "aZh": "v. 聯想；聯繫；n. 同事",
+   "bZh": "n. 協會；關聯",
+   "diff": "association 是名詞，指協會或關聯；associate 主要是動詞，指把兩件事聯想在一起。",
+   "points": [
+    "詞性：association 是 n.；associate 可作 v./adj./n.",
+    "發音：associate 當動詞，字尾 -ate 唸 /eɪt/",
+    "搭配：student association；associate A with B"
+   ],
+   "tip": "association 是「會」，associate 是「聯想」的動作。",
+   "exA": {
+    "en": "Many people associate the smell of bread with home.",
+    "zh": "許多人會把麵包的香味和家聯想在一起。"
+   },
+   "exB": {
+    "en": "The student association planned a clean-up day for the beach.",
+    "zh": "學生會規劃了一天到海邊淨灘。"
+   }
+  },
+  {
+   "a": "association",
+   "b": "society",
+   "kind": "semantic",
+   "score": 0.601,
+   "aZh": "n. 協會；關聯",
+   "bZh": "n. 社會；協會；社團",
+   "diff": "society 泛指社會，也可指社團；association 指有共同目的而成立的協會。",
+   "points": [
+    "範圍：society 也指整個社會；association 只指團體",
+    "搭配：student association、trade association；modern society、a music society",
+    "另一義：association 還可指事物間的關聯"
+   ],
+   "tip": "society 是大範圍，association 是具體的會。",
+   "exA": {
+    "en": "The teachers' association meets once a month in the school hall.",
+    "zh": "教師協會每個月在學校禮堂開一次會。"
+   },
+   "exB": {
+    "en": "Modern society depends more and more on the internet.",
+    "zh": "現代社會越來越依賴網路。"
+   }
+  },
+  {
+   "a": "assurance",
+   "b": "insurance",
+   "kind": "visual",
+   "score": 0.73,
+   "aZh": "n. 保證；把握",
+   "bZh": "n. 保險；保障",
+   "diff": "assurance 是口頭或態度上的保證；insurance 是付錢購買的保險。",
+   "points": [
+    "用法：assurance 是保證、自信；insurance 是保險",
+    "拼字：assurance 是 as-，insurance 是 in-",
+    "搭配：give assurance；health insurance"
+   ],
+   "tip": "insure 是買保險，assure 是向人保證。",
+   "exA": {
+    "en": "The coach gave the team assurance of his support.",
+    "zh": "教練向隊員保證會支持他們。"
+   },
+   "exB": {
+    "en": "Our family bought travel insurance before the trip.",
+    "zh": "出發前，我們家買了旅遊保險。"
+   }
+  },
+  {
+   "a": "assure",
+   "b": "ensure",
+   "kind": "semantic",
+   "score": 0.753,
+   "aZh": "v. 向…保證；使安心",
+   "bZh": "v. 確保；保證",
+   "diff": "assure 是對人保證，受詞是人；ensure 是確保某件事發生，受詞是事。",
+   "points": [
+    "受詞：assure + 人 + that；ensure + that 子句",
+    "重點：assure 讓人安心；ensure 讓事情確實發生",
+    "相似字：insure 是投保，要另外記"
+   ],
+   "tip": "assure someone，ensure something。",
+   "exA": {
+    "en": "The teacher assured us that the exam would start on time.",
+    "zh": "老師向我們保證考試會準時開始。"
+   },
+   "exB": {
+    "en": "Please ensure that all the lights are off.",
+    "zh": "請確保所有的燈都關了。"
+   }
+  },
+  {
+   "a": "assure",
+   "b": "reassure",
+   "kind": "semantic",
+   "score": 0.908,
+   "aZh": "v. 向…保證；使安心",
+   "bZh": "v. 使安心；再次保證",
+   "diff": "reassure 是對已經擔心的人再次安撫；assure 是一般的向人保證。",
+   "points": [
+    "時機：reassure 的對象通常已經在擔心；assure 不一定",
+    "字首：re- 有「再」的意思",
+    "句型：assure someone that / of；reassure someone that / about"
+   ],
+   "tip": "re- 是再一次：reassure 是再給你一顆定心丸。",
+   "exA": {
+    "en": "Amy assured her parents that she had arrived safely.",
+    "zh": "Amy 向父母報平安，告訴他們她已平安抵達。"
+   },
+   "exB": {
+    "en": "The nurse reassured the child that the shot would not hurt.",
+    "zh": "護理師安撫那個孩子，說打針不會痛。"
+   }
+  },
+  {
+   "a": "atmosphere",
+   "b": "climate",
+   "kind": "semantic",
+   "score": 0.6,
+   "aZh": "n. 大氣；氣氛",
+   "bZh": "n. 氣候；氛圍",
+   "diff": "climate 是一個地區長期的天氣狀況；atmosphere 是包圍地球的大氣，也可指一個場合的氣氛。",
+   "points": [
+    "範圍：climate 指長時間的氣候；atmosphere 指空氣層或當下氣氛",
+    "搭配：warm climate；friendly atmosphere",
+    "另一義：climate 也可指社會風氣"
+   ],
+   "tip": "climate 看天氣的長期平均，atmosphere 看空氣或氣氛。",
+   "exA": {
+    "en": "Earth's atmosphere protects all life from the harmful light of the sun.",
+    "zh": "地球的大氣層保護所有生物免受有害陽光的傷害。"
+   },
+   "exB": {
+    "en": "Taiwan has a warm and wet climate in summer.",
+    "zh": "台灣的夏天氣候溫暖又潮濕。"
+   }
+  },
+  {
+   "a": "atomic",
+   "b": "nuclear",
+   "kind": "semantic",
+   "score": 0.665,
+   "aZh": "adj. 原子的；原子能的",
+   "bZh": "adj. 核能的；核子的",
+   "diff": "atomic 指與原子有關；nuclear 指與原子核有關，談能源時常可互換，現在多用 nuclear。",
+   "points": [
+    "範圍：atomic 是原子；nuclear 是原子核",
+    "搭配：atomic clock、atomic bomb；nuclear power plant、nuclear energy",
+    "常用度：談電力時較常用 nuclear"
+   ],
+   "tip": "atom 是原子，nucleus 是核心，所以 atomic 看原子，nuclear 看核。",
+   "exA": {
+    "en": "An atomic clock can measure time very accurately.",
+    "zh": "原子鐘能非常精確地測量時間。"
+   },
+   "exB": {
+    "en": "The country plans to close its nuclear power plants.",
+    "zh": "那個國家計畫關閉核能發電廠。"
+   }
+  },
+  {
+   "a": "attach",
+   "b": "attack",
+   "kind": "visual",
+   "score": 0.735,
+   "aZh": "v. 附上；連接",
+   "bZh": "n./v. 攻擊；襲擊",
+   "diff": "attach 是把東西連在一起；attack 是攻擊。兩字只差 -tach 和 -tack。",
+   "points": [
+    "拼字：attach 是 -tach，attack 是 -tack",
+    "搭配：attach A to B；attack someone",
+    "發音：attach 是 /əˈtætʃ/，attack 是 /əˈtæk/"
+   ],
+   "tip": "attach 有 ch，像 click 一下連上；attack 有 ck，像 kick 打過去。",
+   "exA": {
+    "en": "Please attach the photo to your application before sending it.",
+    "zh": "寄出申請前，請把照片附在申請資料上。"
+   },
+   "exB": {
+    "en": "The dog attacked the boy near the park.",
+    "zh": "那隻狗在公園附近攻擊了那個男孩。"
+   }
+  },
+  {
+   "a": "attention",
+   "b": "attraction",
+   "kind": "visual",
+   "score": 0.696,
+   "aZh": "n. 注意；專心",
+   "bZh": "n. 吸引力；景點",
+   "diff": "attraction 是吸引人的力量或景點；attention 是注意力。兩字都有 att-，字尾不同。",
+   "points": [
+    "拼字：attraction 有 -tract-，attention 有 -tent-",
+    "搭配：tourist attraction；pay attention to",
+    "動詞：attract 是吸引；attend 是注意、出席"
+   ],
+   "tip": "attraction 裡有 tract（拉），把人拉過來；attention 是把心思伸向某處。",
+   "exA": {
+    "en": "Please pay attention to what the teacher is saying.",
+    "zh": "請注意聽老師說的話。"
+   },
+   "exB": {
+    "en": "The old bridge is a popular attraction for visitors to the town.",
+    "zh": "這座古橋是遊客到鎮上常去的景點。"
+   }
+  },
+  {
+   "a": "attraction",
+   "b": "charm",
+   "kind": "semantic",
+   "score": 0.724,
+   "aZh": "n. 吸引力；景點",
+   "bZh": "n. 魅力；吸引力",
+   "diff": "attraction 是吸引人的力量或吸引人的景點；charm 是讓人喜愛的個人或事物魅力。",
+   "points": [
+    "對象：attraction 可指地點、事物；charm 多指人的魅力或小鎮的迷人之處",
+    "另一義：attraction 可指景點；charm 可指護身符、小飾品",
+    "搭配：tourist attraction；the charm of the old town"
+   ],
+   "tip": "attraction 是「拉」你過去，charm 是讓你「喜歡」。",
+   "exA": {
+    "en": "The main attraction of the festival is its music show.",
+    "zh": "這場節慶最吸引人的地方是音樂表演。"
+   },
+   "exB": {
+    "en": "Many visitors love the charm of the old town.",
+    "zh": "許多遊客喜愛這座老城的魅力。"
+   }
+  },
+  {
+   "a": "authentic",
+   "b": "genuine",
+   "kind": "semantic",
+   "score": 0.504,
+   "aZh": "adj. 真實的；正宗的",
+   "bZh": "adj. 真正的；真誠的",
+   "diff": "authentic 強調確實出自原產地或符合原本特色；genuine 強調不是假貨，也可形容真心的感情。",
+   "points": [
+    "搭配：authentic food、authentic culture；genuine leather、genuine smile",
+    "重點：authentic 看來源與特色；genuine 看是否為真",
+    "情感：genuine 可形容真誠的感情"
+   ],
+   "tip": "authentic 是「道地」，genuine 是「不是假的」。",
+   "exA": {
+    "en": "The restaurant serves authentic dishes from southern Taiwan.",
+    "zh": "這家餐廳供應道地的台灣南部料理。"
+   },
+   "exB": {
+    "en": "This bag is made of genuine leather, not plastic.",
+    "zh": "這個包包是真皮做的，不是塑膠。"
+   }
+  },
+  {
+   "a": "authentic",
+   "b": "real",
+   "kind": "semantic",
+   "score": 0.678,
+   "aZh": "adj. 真實的；正宗的",
+   "bZh": "adj. 真的；真實的",
+   "diff": "real 是最常用的「真的」；authentic 較正式，強調可靠、道地，或確實出自所稱的來源。",
+   "points": [
+    "語氣：real 較口語常見；authentic 較正式",
+    "搭配：a real name、real life；an authentic document",
+    "反義：兩字的反義都可以是 fake"
+   ],
+   "tip": "real 是「真的」，authentic 是「經過確認的真」。",
+   "exA": {
+    "en": "The students checked whether the online photo was authentic.",
+    "zh": "學生查證網路上的照片是否真實。"
+   },
+   "exB": {
+    "en": "Amy wants to know the real reason for the delay.",
+    "zh": "Amy 想知道延誤的真正原因。"
+   }
+  },
+  {
+   "a": "author",
+   "b": "authority",
+   "kind": "visual",
+   "score": 0.693,
+   "aZh": "n. 作者；作家",
+   "bZh": "n. 權力；權威；當局",
+   "diff": "兩字同源，但意思不同：author 是寫作的人，authority 是權力，也指專家或官方機構。",
+   "points": [
+    "詞性：兩字都是名詞",
+    "拼字：authority 多了 -ity，重音也不同",
+    "搭配：the author of the book；an authority on history"
+   ],
+   "tip": "author 是寫書的人；authority 是說話有分量的人。",
+   "exA": {
+    "en": "The author signed her new book at the school fair.",
+    "zh": "作者在學校園遊會上替她的新書簽名。"
+   },
+   "exB": {
+    "en": "Dr. Lee is an authority on healthy eating for teenagers.",
+    "zh": "李博士是青少年健康飲食方面的專家。"
+   }
+  },
+  {
+   "a": "authority",
+   "b": "expert",
+   "kind": "semantic",
+   "score": 0.586,
+   "aZh": "n. 權威人士；專家",
+   "bZh": "n. 專家；行家",
+   "diff": "expert 是有專業技能的人；authority 是在某領域被公認、說話有分量的人，也可指權力。",
+   "points": [
+    "搭配：an authority on + N；an expert in / on + N",
+    "另一義：authority 還可指權力、官方機構；expert 沒有",
+    "語氣：authority 強調公認的地位"
+   ],
+   "tip": "expert 是「會」，authority 是「被公認」。",
+   "exA": {
+    "en": "Our teacher is an authority on local history.",
+    "zh": "我們的老師是地方史專家。"
+   },
+   "exB": {
+    "en": "My uncle is a computer expert who fixes laptops.",
+    "zh": "我叔叔是修筆記型電腦的電腦專家。"
+   }
+  },
+  {
+   "a": "authority",
+   "b": "power",
+   "kind": "semantic",
+   "score": 0.646,
+   "aZh": "n. 權力；權威",
+   "bZh": "n. 力量；能力；權力",
+   "diff": "power 泛指力量或影響力；authority 是職位或規定所給的正式權力。",
+   "points": [
+    "來源：authority 來自職位或法律；power 可來自力量、金錢、能力",
+    "範圍：power 還有電力、力氣的意思",
+    "搭配：have the authority to V；have the power to V"
+   ],
+   "tip": "authority 是「被授權」，power 是「有力量」。",
+   "exA": {
+    "en": "The coach has the authority to change the practice plan.",
+    "zh": "教練有權更改練習計畫。"
+   },
+   "exB": {
+    "en": "Water has the power to shape rocks over many years.",
+    "zh": "水有能力在很多年之間改變岩石的形狀。"
+   }
+  },
+  {
+   "a": "autobiography",
+   "b": "biography",
+   "kind": "semantic",
+   "score": 0.693,
+   "aZh": "n. 自傳",
+   "bZh": "n. 傳記",
+   "diff": "autobiography 是作者寫自己的一生；biography 是別人寫某個人的一生。",
+   "points": [
+    "作者：autobiography 是本人；biography 是他人",
+    "字首：auto- 是「自己」",
+    "搭配：write an autobiography；read a biography of a scientist"
+   ],
+   "tip": "auto- 是自己：auto-biography 就是「自己寫自己」。",
+   "exA": {
+    "en": "Jenny read an autobiography to learn about the singer's childhood.",
+    "zh": "Jenny 讀了一本自傳，了解那位歌手的童年。"
+   },
+   "exB": {
+    "en": "Tom borrowed a biography of a famous scientist from the library.",
+    "zh": "Tom 從圖書館借了一本著名科學家的傳記。"
+   }
+  },
+  {
+   "a": "autobiography",
+   "b": "autograph",
+   "kind": "visual",
+   "score": 0.692,
+   "aZh": "n. 自傳",
+   "bZh": "n. 親筆簽名",
+   "diff": "兩字都以 auto- 開頭：autobiography 是自傳，autograph 是名人的親筆簽名。",
+   "points": [
+    "字首：兩字的 auto- 都是「自己」",
+    "字根：bio 是生命；graph 是寫",
+    "搭配：write an autobiography；ask for an autograph"
+   ],
+   "tip": "graph 是寫：auto-graph 是自己寫下的名字；bio 是生命：自己寫自己的一生。",
+   "exA": {
+    "en": "She wrote an autobiography about her life on the farm.",
+    "zh": "她寫了一本自傳，講述自己在農場的生活。"
+   },
+   "exB": {
+    "en": "Kevin asked the tennis player for an autograph.",
+    "zh": "Kevin 向那位網球選手索取親筆簽名。"
+   }
+  },
+  {
+   "a": "await",
+   "b": "wait",
+   "kind": "semantic",
+   "score": 0.878,
+   "aZh": "v. 等待；等候",
+   "bZh": "v. 等待；等候",
+   "diff": "await 語氣較正式，直接接受詞；wait 較日常，後面接人或事時要加 for。",
+   "points": [
+    "介系詞：await + N；wait for + N",
+    "語氣：await 較正式，多用於書信或新聞",
+    "主詞：await 的主詞也可以是事物，如 A surprise awaits you"
+   ],
+   "tip": "await 自己就帶了「等」的方向，不再加 for。",
+   "exA": {
+    "en": "We are still awaiting a reply from the summer camp.",
+    "zh": "我們還在等夏令營的回覆。"
+   },
+   "exB": {
+    "en": "Please wait for me at the school gate.",
+    "zh": "請在校門口等我。"
+   }
+  },
+  {
+   "a": "bargain",
+   "b": "deal",
+   "kind": "semantic",
+   "score": 0.53,
+   "aZh": "n. 便宜貨；v. 討價還價",
+   "bZh": "n. 交易；協議；v. 處理",
+   "diff": "bargain 強調價格划算，或雙方討價還價；deal 泛指交易或協議，不一定便宜。",
+   "points": [
+    "價格：a bargain 一定是划算；a deal 可好可壞",
+    "動詞：bargain 是討價還價；deal with 是處理",
+    "搭配：a real bargain；make a deal"
+   ],
+   "tip": "bargain 是賺到，deal 是談成。",
+   "exA": {
+    "en": "Amy found a warm coat at half price, so it was a real bargain.",
+    "zh": "Amy 找到一件半價的暖外套，真的很划算。"
+   },
+   "exB": {
+    "en": "The two schools made a deal to share the sports field.",
+    "zh": "兩所學校談好共用運動場。"
+   }
+  },
+  {
+   "a": "barrier",
+   "b": "obstacle",
+   "kind": "semantic",
+   "score": 0.818,
+   "aZh": "n. 障礙；阻隔物",
+   "bZh": "n. 障礙；阻礙",
+   "diff": "barrier 是擋在前面、讓人過不去的東西；obstacle 是需要克服的困難，兩者常可互換。",
+   "points": [
+    "形象：barrier 像一道牆或關卡；obstacle 像路上的石頭",
+    "搭配：language barrier；overcome an obstacle",
+    "介系詞：a barrier to + N；an obstacle to + N"
+   ],
+   "tip": "barrier 裡有 bar（欄杆）擋住去路；obstacle 要想辦法跨過去。",
+   "exA": {
+    "en": "Language can become a barrier when students travel abroad.",
+    "zh": "學生出國旅行時，語言可能成為障礙。"
+   },
+   "exB": {
+    "en": "Lack of money was the biggest obstacle to Amy's plan.",
+    "zh": "缺錢是 Amy 的計畫最大的阻礙。"
+   }
+  },
+  {
+   "a": "barrier",
+   "b": "carrier",
+   "kind": "visual",
+   "score": 0.806,
+   "aZh": "n. 障礙；阻隔物",
+   "bZh": "n. 運送者；運輸公司；帶原者",
+   "diff": "兩字只差第一個字母：barrier 是障礙，carrier 是運送東西的人或公司，也指帶原者。",
+   "points": [
+    "拼字：barrier 是 b-，carrier 是 c-（來自 carry）",
+    "詞義：barrier 是阻擋；carrier 是運送",
+    "搭配：language barrier；mail carrier"
+   ],
+   "tip": "carrier 裡有 carry（運送）；barrier 裡有 bar（欄杆，擋住）。",
+   "exA": {
+    "en": "The river is a natural barrier between the two towns.",
+    "zh": "這條河是兩個小鎮之間的天然屏障。"
+   },
+   "exB": {
+    "en": "The mail carrier delivers letters to our street every morning.",
+    "zh": "郵差每天早上把信送到我們這條街。"
+   }
+  },
+  {
+   "a": "behavior",
+   "b": "conduct",
+   "kind": "semantic",
+   "score": 0.838,
+   "aZh": "n. 行為；舉止",
+   "bZh": "n. 行為；舉止；v. 進行；指揮",
+   "diff": "兩字作名詞都指行為；behavior 日常通用，conduct 較正式，常指受規範評價的行為。",
+   "points": [
+    "語氣：conduct 較正式；behavior 較日常",
+    "詞性：conduct 也是動詞，如 conduct an experiment；behavior 只作名詞",
+    "重音：conduct 名詞唸 /ˈkɑːndʌkt/，動詞唸 /kənˈdʌkt/"
+   ],
+   "tip": "conduct 名詞重音在前，動詞重音在後。",
+   "exA": {
+    "en": "The teacher praised Amy for her kind behavior toward the new student.",
+    "zh": "老師稱讚 Amy 對新同學很友善。"
+   },
+   "exB": {
+    "en": "The school gives a prize for good conduct every year.",
+    "zh": "學校每年都頒獎給品行良好的學生。"
+   }
+  },
+  {
+   "a": "biography",
+   "b": "geography",
+   "kind": "visual",
+   "score": 0.693,
+   "aZh": "n. 傳記",
+   "bZh": "n. 地理；地理學",
+   "diff": "兩字都以 -graphy 結尾（寫）：biography 是寫人的一生，geography 是研究地球表面。",
+   "points": [
+    "字首：bio- 是生命；geo- 是地球",
+    "字尾：-graphy 是書寫、記錄",
+    "搭配：write a biography；study geography"
+   ],
+   "tip": "bio 是生命，geo 是大地。",
+   "exA": {
+    "en": "Tom is reading a biography of a famous writer.",
+    "zh": "Tom 正在讀一本知名作家的傳記。"
+   },
+   "exB": {
+    "en": "We used a map in geography class to find the rivers.",
+    "zh": "我們在地理課用地圖找出那些河流。"
+   }
+  },
+  {
+   "a": "biography",
+   "b": "biology",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 傳記",
+   "bZh": "n. 生物學",
+   "diff": "兩字開頭都是 bio-（生命）：biography 是寫一個人的一生，biology 是研究生物的學科。",
+   "points": [
+    "字尾：-graphy 是書寫；-logy 是學問",
+    "詞義：biography 是一本書；biology 是一門學科",
+    "搭配：a biography of a scientist；biology class"
+   ],
+   "tip": "graph 是寫，logy 是學：寫生命是傳記，學生命是生物學。",
+   "exA": {
+    "en": "Jenny borrowed a biography of the scientist from the school library.",
+    "zh": "Jenny 從學校圖書館借了一本那位科學家的傳記。"
+   },
+   "exB": {
+    "en": "We studied plant cells in biology class this morning.",
+    "zh": "今天早上的生物課，我們學了植物細胞。"
+   }
+  },
+  {
+   "a": "blend",
+   "b": "mix",
+   "kind": "semantic",
+   "score": 0.881,
+   "aZh": "v. 混合；融合",
+   "bZh": "v. 混合；攪拌",
+   "diff": "mix 是最通用的混合；blend 強調混得均勻、融成一體，常用於食物、顏色、風格。",
+   "points": [
+    "程度：blend 混到分不出來；mix 只是放在一起",
+    "搭配：blend colors、a blend of tea；mix flour and water",
+    "詞性：兩字都可作動詞和名詞"
+   ],
+   "tip": "blend 是融在一起，mix 是放在一起。",
+   "exA": {
+    "en": "Blend the fruit with milk to make a quick breakfast drink.",
+    "zh": "把水果和牛奶打勻，做成簡單的早餐飲品。"
+   },
+   "exB": {
+    "en": "Mix the flour and sugar in a large bowl.",
+    "zh": "把麵粉和糖放進大碗裡混合。"
+   }
+  },
+  {
+   "a": "blink",
+   "b": "wink",
+   "kind": "both",
+   "score": 0.703,
+   "aZh": "v. 眨眼；n. 一瞬間",
+   "bZh": "v./n. 眨眼；使眼色",
+   "diff": "blink 是兩眼自然快速眨一下；wink 是故意閉上一隻眼，用來傳達暗示。",
+   "points": [
+    "動作：blink 是兩眼；wink 是單眼",
+    "目的：blink 多是反射動作；wink 是傳達訊號",
+    "搭配：blink one's eyes；wink at someone"
+   ],
+   "tip": "blink 是本能眨眼，wink 是故意使眼色。",
+   "exA": {
+    "en": "The bright sunlight made Kevin blink as he walked to school.",
+    "zh": "耀眼的陽光讓 Kevin 上學途中一直眨眼。"
+   },
+   "exB": {
+    "en": "My brother winked at me to show that he was joking.",
+    "zh": "我哥哥對我眨眼，表示他在開玩笑。"
+   }
+  },
+  {
+   "a": "bloom",
+   "b": "blossom",
+   "kind": "both",
+   "score": 0.689,
+   "aZh": "n. 花；v. 開花；茁壯成長",
+   "bZh": "n. 花朵；花簇；v. 開花；發展",
+   "diff": "兩字都是開花；bloom 側重盛開的狀態，blossom 常指樹上成簇的花，也常比喻能力或友誼發展。",
+   "points": [
+    "詞性：bloom 可指一朵花；blossom 常指整片花",
+    "比喻：blossom 常比喻關係、才能發展；bloom 也可比喻但較少",
+    "搭配：in full bloom；cherry blossoms"
+   ],
+   "tip": "bloom 是花開得正盛，blossom 是滿樹的花。",
+   "exA": {
+    "en": "The flowers bloom in spring when the weather becomes warmer.",
+    "zh": "天氣轉暖時，這些花會在春天開花。"
+   },
+   "exB": {
+    "en": "Pink blossoms covered the trees along the school path.",
+    "zh": "學校小路旁的樹上開滿了粉紅色的花。"
+   }
+  },
+  {
+   "a": "bloom",
+   "b": "flower",
+   "kind": "semantic",
+   "score": 0.828,
+   "aZh": "n. 花；v. 開花",
+   "bZh": "n. 花；v. 開花",
+   "diff": "flower 是最日常的「花」，bloom 較文學，強調花盛開的狀態。",
+   "points": [
+    "語氣：flower 日常；bloom 較文學",
+    "詞性：flower 主要是名詞；bloom 名詞和動詞都常用",
+    "搭配：a bunch of flowers；in full bloom"
+   ],
+   "tip": "flower 是花，bloom 是花正在開。",
+   "exA": {
+    "en": "The first bloom appeared in our garden after several warm days.",
+    "zh": "連續幾天暖和後，我們的花園裡開出了第一朵花。"
+   },
+   "exB": {
+    "en": "Jenny gave her teacher a bunch of flowers on Teacher's Day.",
+    "zh": "Jenny 在教師節送了老師一束花。"
+   }
+  }
+ ]
+}
