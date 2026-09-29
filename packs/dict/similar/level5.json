@@ -9453,6 +9453,1685 @@
     "en": "My aunt is a lawyer who helps families with their problems.",
     "zh": "我阿姨是律師，幫助家庭處理他們的問題。"
    }
+  },
+  {
+   "a": "layer",
+   "b": "level",
+   "kind": "semantic",
+   "score": 0.454,
+   "aZh": "n. 層；層次；v. 分層放置",
+   "bZh": "n. 程度；水準；樓層；adj. 平坦的",
+   "diff": "layer 是實際或抽象的一層，一層疊在另一層上；level 是高度、程度或樓層的層級，用來表示高低，不一定是疊起來的一層。",
+   "points": [
+    "形態：layer 是疊起來的層；level 是高低的等級",
+    "搭配：a layer of dust 一層灰塵；a high level of stress 很高的壓力程度",
+    "字義：level 也可指樓層、水準"
+   ],
+   "tip": "layer 可以一層一層剝開；level 是站在哪一個高度。",
+   "exA": {
+    "en": "A thick layer of snow covered the whole mountain village.",
+    "zh": "一層厚厚的雪覆蓋了整個山村。"
+   },
+   "exB": {
+    "en": "The water level of the river rose after the heavy rain.",
+    "zh": "大雨過後，河水的水位上升了。"
+   }
+  },
+  {
+   "a": "colleague",
+   "b": "league",
+   "kind": "visual",
+   "score": 0.678,
+   "aZh": "n. 同事；同僚",
+   "bZh": "n. 聯盟；聯賽；級別",
+   "diff": "colleague 是一起工作的同事；league 是聯盟或聯賽。colleague 的後半就是 league，但意思不同。",
+   "points": [
+    "拼字：colleague 是 col + league",
+    "字義：colleague 是人；league 是組織",
+    "搭配：a colleague at work 工作同事；a baseball league 棒球聯盟"
+   ],
+   "tip": "colleague 裡有 league，是同一個聯盟裡的人。",
+   "exA": {
+    "en": "My mother often has lunch with her colleagues at work.",
+    "zh": "我媽媽常和她的同事在公司一起吃午餐。"
+   },
+   "exB": {
+    "en": "Our school team finished first in the league this season.",
+    "zh": "我們學校的球隊本季在聯賽中拿下第一名。"
+   }
+  },
+  {
+   "a": "famous",
+   "b": "legendary",
+   "kind": "semantic",
+   "score": 0.471,
+   "aZh": "adj. 著名的；有名的",
+   "bZh": "adj. 傳奇的；極有名的",
+   "diff": "famous 是很多人知道；legendary 是因為成就或故事而有傳奇色彩，比 famous 程度更高。",
+   "points": [
+    "程度：legendary 比 famous 更強",
+    "搭配：a famous singer 有名的歌手；a legendary coach 傳奇教練",
+    "字源：legendary 來自 legend（傳說）"
+   ],
+   "tip": "legendary 有 legend（傳說），像故事一樣有名。",
+   "exA": {
+    "en": "The famous singer will give a concert in our city.",
+    "zh": "那位有名的歌手將在我們城市開演唱會。"
+   },
+   "exB": {
+    "en": "The coach became legendary after leading the team to victory.",
+    "zh": "教練帶領球隊獲勝後，成了傳奇人物。"
+   }
+  },
+  {
+   "a": "law",
+   "b": "legislation",
+   "kind": "semantic",
+   "score": 0.788,
+   "aZh": "n. 法律；法規",
+   "bZh": "n. 法律；立法",
+   "diff": "law 是單一的法律，可數；legislation 是立法機關制定的法律整體或立法這件事，不可數。",
+   "points": [
+    "可數性：law 可數；legislation 不可數",
+    "範圍：legislation 指整套法規或立法過程",
+    "搭配：break the law 違法；pass legislation 通過法案"
+   ],
+   "tip": "a law 是一條；legislation 是全部的法規。",
+   "exA": {
+    "en": "It is against the law to drive without a license.",
+    "zh": "沒有駕照開車是違法的。"
+   },
+   "exB": {
+    "en": "New legislation will better protect students' personal information.",
+    "zh": "新法規將保護學生的個人資料。"
+   }
+  },
+  {
+   "a": "legislation",
+   "b": "legislative",
+   "kind": "visual",
+   "score": 0.788,
+   "aZh": "n. 法律；立法",
+   "bZh": "adj. 立法的；立法機關的",
+   "diff": "legislation 是名詞，指立法或法規；legislative 是形容詞，指與立法有關的。",
+   "points": [
+    "詞性：legislation 是 n.；legislative 是 adj.",
+    "搭配：pass legislation 通過法案；the legislative body 立法機關",
+    "字尾：-ion 是名詞；-ive 是形容詞"
+   ],
+   "tip": "-ive 結尾的 legislative 用來形容，像 active 一樣。",
+   "exA": {
+    "en": "The city passed new legislation to protect old trees.",
+    "zh": "這座城市通過新法規來保護老樹。"
+   },
+   "exB": {
+    "en": "The legislative body meets every week to discuss new laws.",
+    "zh": "立法機關每星期開會討論新法律。"
+   }
+  },
+  {
+   "a": "lawful",
+   "b": "legitimate",
+   "kind": "semantic",
+   "score": 0.803,
+   "aZh": "adj. 合法的；依法的",
+   "bZh": "adj. 合法的；正當的",
+   "diff": "lawful 是符合法律規定的；legitimate 除了合法，還強調正當、合理，可用於理由、疑慮或事業。",
+   "points": [
+    "範圍：legitimate 也指合理；lawful 只指合法",
+    "搭配：lawful arrest 合法逮捕；a legitimate reason 正當理由",
+    "語氣：兩者較正式"
+   ],
+   "tip": "lawful 有 law（法律）；legitimate 是合法又合理。",
+   "exA": {
+    "en": "The police made a lawful arrest at the scene.",
+    "zh": "警方在現場依法逮捕了那個人。"
+   },
+   "exB": {
+    "en": "The school has a legitimate reason to change the schedule.",
+    "zh": "學校有正當理由更改時間表。"
+   }
+  },
+  {
+   "a": "legal",
+   "b": "legitimate",
+   "kind": "semantic",
+   "score": 0.705,
+   "aZh": "adj. 合法的；法律上的",
+   "bZh": "adj. 合法的；正當的",
+   "diff": "legal 主要指法律允許或與法律有關；legitimate 強調合法且正當，不只是法律允許，也合理。",
+   "points": [
+    "範圍：legal 常指法律；legitimate 也指合理",
+    "搭配：legal action 法律行動；a legitimate concern 正當的疑慮",
+    "反義：legal 對 illegal；legitimate 對 illegitimate"
+   ],
+   "tip": "legal 是「法律允許」；legitimate 是「站得住腳」。",
+   "exA": {
+    "en": "It is legal for adults to vote in this country.",
+    "zh": "在這個國家，成年人投票是合法的。"
+   },
+   "exB": {
+    "en": "The store is a legitimate business with a proper license.",
+    "zh": "這家店是有合法執照的正當事業。"
+   }
+  },
+  {
+   "a": "liability",
+   "b": "responsibility",
+   "kind": "semantic",
+   "score": 0.639,
+   "aZh": "n. 責任；法律責任；負擔",
+   "bZh": "n. 責任；職責",
+   "diff": "responsibility 是泛指應負的責任或職責；liability 多指法律或財務上必須承擔的責任，也可指造成不利的負擔。",
+   "points": [
+    "範圍：responsibility 泛指；liability 偏法律、財務",
+    "搭配：take responsibility 負責；accept liability 承擔法律責任",
+    "字義：liability 還可指負擔"
+   ],
+   "tip": "responsibility 是分內的事；liability 是出事時要賠的責任。",
+   "exA": {
+    "en": "The company accepted liability for the damage to the building.",
+    "zh": "公司承認對這棟建築的損害負有責任。"
+   },
+   "exB": {
+    "en": "It is our responsibility to keep the classroom clean.",
+    "zh": "保持教室乾淨是我們的責任。"
+   }
+  },
+  {
+   "a": "chance",
+   "b": "likelihood",
+   "kind": "semantic",
+   "score": 0.798,
+   "aZh": "n. 機會；可能性",
+   "bZh": "n. 可能性",
+   "diff": "chance 是口語，可指機會，也可指可能性；likelihood 較正式，只表示某事發生的可能性。",
+   "points": [
+    "字義：chance 也指機會；likelihood 只指可能性",
+    "語氣：chance 口語；likelihood 較正式",
+    "搭配：a good chance 很有機會；a strong likelihood 很大的可能性"
+   ],
+   "tip": "likelihood 就是 likely（可能的）的名詞。",
+   "exA": {
+    "en": "There is a good chance that it will rain tonight.",
+    "zh": "今晚很有可能會下雨。"
+   },
+   "exB": {
+    "en": "There is a strong likelihood of rain this afternoon.",
+    "zh": "今天下午很可能會下雨。"
+   }
+  },
+  {
+   "a": "likelihood",
+   "b": "possibility",
+   "kind": "semantic",
+   "score": 0.834,
+   "aZh": "n. 可能性",
+   "bZh": "n. 可能性；機會",
+   "diff": "possibility 是有可能發生的事，只問有沒有可能；likelihood 是可能發生的程度，強調有多可能。",
+   "points": [
+    "重點：possibility 是有沒有；likelihood 是多大",
+    "搭配：a strong likelihood 很大的可能；a possibility of rain 下雨的可能",
+    "詞性：possibility 可數；likelihood 多不可數"
+   ],
+   "tip": "possibility 是「可能有」；likelihood 是「有多可能」。",
+   "exA": {
+    "en": "The likelihood of snow in this area is very low.",
+    "zh": "這一帶下雪的可能性非常低。"
+   },
+   "exB": {
+    "en": "There is a slight possibility that the trip will be canceled.",
+    "zh": "旅行有一點點可能會被取消。"
+   }
+  },
+  {
+   "a": "lobby",
+   "b": "lounge",
+   "kind": "semantic",
+   "score": 0.412,
+   "aZh": "n. 大廳；門廳；v. 遊說",
+   "bZh": "n. 休息室；候機室；v. 懶洋洋地休息",
+   "diff": "lobby 是建築入口處的大廳或門廳，供人經過、等候；lounge 是讓人坐下來放鬆休息的地方，例如休息室、候機室。",
+   "points": [
+    "用途：lobby 是入口通道；lounge 是休息空間",
+    "搭配：a hotel lobby 飯店大廳；an airport lounge 機場候機室",
+    "詞性：lobby 也可作 v. 遊說"
+   ],
+   "tip": "lobby 是走進去的大廳；lounge 是坐下來放鬆的地方。",
+   "exA": {
+    "en": "We waited in the hotel lobby for our tour guide.",
+    "zh": "我們在飯店大廳等導遊。"
+   },
+   "exB": {
+    "en": "We waited for our flight in the airport lounge.",
+    "zh": "我們在機場候機室等班機。"
+   }
+  },
+  {
+   "a": "lump",
+   "b": "slump",
+   "kind": "visual",
+   "score": 0.777,
+   "aZh": "n. 團塊；腫塊；v. 合在一起",
+   "bZh": "v. 暴跌；大幅下滑；n. 暴跌；低潮",
+   "diff": "lump 是一團或一塊，也可指腫塊；slump 是價格、成績等突然大幅下滑。slump 只比 lump 多一個 s。",
+   "points": [
+    "拼字：slump 比 lump 多一個 s",
+    "字義：lump 是團塊；slump 是下滑",
+    "搭配：a lump of sugar 一塊方糖；a slump in sales 銷售暴跌"
+   ],
+   "tip": "slump 多的 s 像往下滑（slide）。",
+   "exA": {
+    "en": "She dropped a lump of sugar into her tea.",
+    "zh": "她把一塊方糖丟進茶裡。"
+   },
+   "exB": {
+    "en": "The team's scores began to slump after their best player left.",
+    "zh": "最好的球員離開後，球隊的得分開始大幅下滑。"
+   }
+  },
+  {
+   "a": "bump",
+   "b": "lump",
+   "kind": "semantic",
+   "score": 0.517,
+   "aZh": "n. 碰撞；腫塊；v. 碰撞",
+   "bZh": "n. 團塊；腫塊；v. 合在一起",
+   "diff": "bump 常指撞到後腫起的小包，也指碰撞；lump 是一團或一塊，也可指身體上摸得到的腫塊，形成的原因不一定是撞到。",
+   "points": [
+    "原因：bump 常因撞擊；lump 不一定",
+    "字義：bump 也指碰撞、凹凸；lump 也指團塊",
+    "搭配：a bump on the head 頭上的腫包；a lump of sugar 一塊方糖"
+   ],
+   "tip": "撞出來的小包是 bump；摸起來的一塊是 lump。",
+   "exA": {
+    "en": "Tom got a bump on his head after hitting the door.",
+    "zh": "Tom 撞到門後，頭上腫了一個包。"
+   },
+   "exB": {
+    "en": "The nurse checked a small lump on Amy's arm.",
+    "zh": "護理師檢查了 Amy 手臂上的小腫塊。"
+   }
+  },
+  {
+   "a": "mainstream",
+   "b": "popular",
+   "kind": "semantic",
+   "score": 0.499,
+   "aZh": "n. 主流；adj. 主流的",
+   "bZh": "adj. 受歡迎的；流行的",
+   "diff": "popular 是受很多人喜愛；mainstream 是社會上普遍接受、占主導地位的方向，不一定受歡迎。",
+   "points": [
+    "重點：popular 看喜愛程度；mainstream 看主導地位",
+    "搭配：popular music 流行音樂；mainstream culture 主流文化",
+    "詞性：mainstream 也可作 n."
+   ],
+   "tip": "popular 是很多人喜歡；mainstream 是大家默認的方向。",
+   "exA": {
+    "en": "Mainstream newspapers reported the news on the front page.",
+    "zh": "主流報紙把這則消息刊登在頭版。"
+   },
+   "exB": {
+    "en": "The new game is popular among students in our school.",
+    "zh": "這款新遊戲在我們學校的學生之間很受歡迎。"
+   }
+  },
+  {
+   "a": "maintenance",
+   "b": "preservation",
+   "kind": "semantic",
+   "score": 0.598,
+   "aZh": "n. 維護；保養",
+   "bZh": "n. 保存；維護",
+   "diff": "maintenance 是定期照料設備或建築，使它維持良好運作；preservation 是保護事物不受破壞，使它保持原樣，常用於古蹟、自然環境和食物。",
+   "points": [
+    "對象：maintenance 是設備；preservation 是古蹟、環境",
+    "重點：maintenance 是維持運作；preservation 是保持原狀",
+    "搭配：car maintenance 汽車保養；food preservation 食物保存"
+   ],
+   "tip": "maintenance 是保養機器；preservation 是保存古物。",
+   "exA": {
+    "en": "Regular maintenance keeps the school computers working well.",
+    "zh": "定期維護能讓學校電腦保持正常運作。"
+   },
+   "exB": {
+    "en": "The preservation of old temples needs money and care.",
+    "zh": "保存古老的廟宇需要經費和用心。"
+   }
+  },
+  {
+   "a": "maintenance",
+   "b": "repair",
+   "kind": "semantic",
+   "score": 0.395,
+   "aZh": "n. 維護；保養",
+   "bZh": "v. 修理；n. 修理",
+   "diff": "repair 是東西壞了之後修理；maintenance 是在壞掉之前定期保養，避免出問題。",
+   "points": [
+    "時間：repair 在壞了之後；maintenance 在壞了之前",
+    "搭配：regular maintenance 定期保養；repair a bike 修腳踏車",
+    "詞性：repair 也可作 v."
+   ],
+   "tip": "maintenance 是預防；repair 是補救。",
+   "exA": {
+    "en": "The bridge was closed for maintenance during the weekend.",
+    "zh": "那座橋在週末因維修而封閉。"
+   },
+   "exB": {
+    "en": "The shop will repair my broken bike by Friday.",
+    "zh": "那家店星期五前會修好我壞掉的腳踏車。"
+   }
+  },
+  {
+   "a": "authorize",
+   "b": "mandate",
+   "kind": "semantic",
+   "score": 0.625,
+   "aZh": "v. 授權；批准",
+   "bZh": "n. 命令；授權；v. 命令；要求",
+   "diff": "authorize 是給某人做某事的正式權力；mandate 作名詞指正式授權或命令，作動詞指下令要求，語氣更強、更有強制性。",
+   "points": [
+    "強制性：mandate 較強；authorize 是允許",
+    "詞性：authorize 是 v.；mandate 可作 n./v.",
+    "搭配：authorize a payment 批准付款；mandate safety checks 要求安全檢查"
+   ],
+   "tip": "authorize 是給你權力；mandate 是命令你去做。",
+   "exA": {
+    "en": "The principal authorized the club to use the school hall.",
+    "zh": "校長授權社團使用學校禮堂。"
+   },
+   "exB": {
+    "en": "The school mandated safety checks before the science trip.",
+    "zh": "學校要求科學校外教學前進行安全檢查。"
+   }
+  },
+  {
+   "a": "command",
+   "b": "mandate",
+   "kind": "semantic",
+   "score": 0.51,
+   "aZh": "n. 命令；指令；v. 命令；指揮",
+   "bZh": "n. 命令；授權；v. 命令；要求",
+   "diff": "command 是直接下的命令，來自上位者；mandate 是正式的授權或規定，常來自制度、法律或選民。",
+   "points": [
+    "來源：command 來自長官；mandate 來自法律或選民",
+    "搭配：give a command 下命令；a clear mandate 明確授權",
+    "語氣：mandate 較正式"
+   ],
+   "tip": "command 是口頭下令；mandate 是正式授權或規定。",
+   "exA": {
+    "en": "The captain gave a command, and everyone stopped.",
+    "zh": "隊長一下令，大家就停了下來。"
+   },
+   "exB": {
+    "en": "The mayor has a mandate from voters to improve public transport.",
+    "zh": "市長獲得選民授權，要改善大眾運輸。"
+   }
+  },
+  {
+   "a": "manifest",
+   "b": "obvious",
+   "kind": "semantic",
+   "score": 0.712,
+   "aZh": "v. 顯示；表明；adj. 明顯的",
+   "bZh": "adj. 明顯的；顯而易見的",
+   "diff": "obvious 是日常常用的明顯；manifest 較正式，作形容詞指清楚可見，也可作動詞指顯現出來。",
+   "points": [
+    "常用度：obvious 較常用；manifest 較正式",
+    "詞性：manifest 也可作 v.",
+    "搭配：an obvious mistake 明顯的錯誤；manifest itself 顯現出來"
+   ],
+   "tip": "obvious 是一眼看出；manifest 是自己顯現出來。",
+   "exA": {
+    "en": "It was manifest that the team had practiced hard.",
+    "zh": "很明顯，這支隊伍練習得很努力。"
+   },
+   "exB": {
+    "en": "It was obvious that the team had practiced hard.",
+    "zh": "很明顯，這支隊伍練習得很努力。"
+   }
+  },
+  {
+   "a": "control",
+   "b": "manipulate",
+   "kind": "semantic",
+   "score": 0.501,
+   "aZh": "v. 控制；管理",
+   "bZh": "v. 操控；操作；操縱",
+   "diff": "control 是泛指控制人或事物，沒有負面意味；manipulate 可指熟練地操作，也常指用手段不公平地影響他人。",
+   "points": [
+    "語氣：control 中性；manipulate 常帶負面",
+    "對象：manipulate 可指操作工具或影響人",
+    "搭配：control the machine 控制機器；manipulate public opinion 操縱輿論"
+   ],
+   "tip": "manipulate 有 manu（手），像用手操弄。",
+   "exA": {
+    "en": "The teacher controlled the noise in the classroom.",
+    "zh": "老師控制了教室裡的噪音。"
+   },
+   "exB": {
+    "en": "Some advertisements manipulate people into buying things they do not need.",
+    "zh": "有些廣告操縱人們買下不需要的東西。"
+   }
+  },
+  {
+   "a": "massage",
+   "b": "message",
+   "kind": "visual",
+   "score": 0.72,
+   "aZh": "n. 按摩",
+   "bZh": "n. 訊息；口信",
+   "diff": "massage 是用手按揉身體，message 是傳給別人的話或文字。兩個字只差中間一個字母，發音也不同。",
+   "points": [
+    "拼字：massage 是 mass + age，message 是 mess + age",
+    "發音：massage 重音在第二音節，message 重音在第一音節",
+    "搭配：get a massage，leave a message"
+   ],
+   "tip": "message 中間是 e，像 e-mail 傳的訊息；massage 中間是 a，按摩時舒服得 ahh。",
+   "exA": {
+    "en": "She gets a massage every weekend to relax her back.",
+    "zh": "她每個週末都做按摩來放鬆背部。"
+   },
+   "exB": {
+    "en": "Please leave a message if I do not answer the phone.",
+    "zh": "如果我沒接電話，請留言。"
+   }
+  },
+  {
+   "a": "massive",
+   "b": "passive",
+   "kind": "visual",
+   "score": 0.8,
+   "aZh": "adj. 巨大的；大量的",
+   "bZh": "adj. 被動的；消極的",
+   "diff": "massive 是「巨大的」，passive 是「被動的」。兩個字只有第一個字母不同，一個看數量和體積，一個看態度或語態。",
+   "points": [
+    "拼字：只差第一個字母 m 和 p",
+    "用法：massive 形容大小、數量；passive 形容態度或文法語態",
+    "搭配：a massive crowd，a passive voice"
+   ],
+   "tip": "massive 開頭是 m，可想成 many、much 很多很大；passive 開頭是 p，可想成 pause，停著不動。",
+   "exA": {
+    "en": "A massive crowd waited outside the school gate for the singer.",
+    "zh": "一大群人在校門外等著那位歌手。"
+   },
+   "exB": {
+    "en": "Being passive in class will not help you learn English.",
+    "zh": "上課時消極被動，對學英文沒有幫助。"
+   }
+  },
+  {
+   "a": "huge",
+   "b": "massive",
+   "kind": "semantic",
+   "score": 0.88,
+   "aZh": "adj. 巨大的；龐大的",
+   "bZh": "adj. 巨大的；大量的",
+   "diff": "兩個字都表示很大。huge 泛指體積或數量大，很口語；massive 強調又大又重、份量十足，也常形容影響或規模。",
+   "points": [
+    "語氣：huge 口語自然，massive 稍正式",
+    "搭配：huge 常接 building、problem；massive 常接 amount、success、damage",
+    "意象：massive 帶有厚重、結實的感覺"
+   ],
+   "tip": "huge 是一般的很大；massive 像一整塊大石頭，又大又重。",
+   "exA": {
+    "en": "They live in a huge house near the river.",
+    "zh": "他們住在河邊的一棟大房子裡。"
+   },
+   "exB": {
+    "en": "The storm caused massive damage to the town.",
+    "zh": "暴風雨對小鎮造成了巨大的損害。"
+   }
+  },
+  {
+   "a": "medication",
+   "b": "meditation",
+   "kind": "visual",
+   "score": 0.87,
+   "aZh": "n. 藥物；藥品",
+   "bZh": "n. 冥想；沉思",
+   "diff": "meditation 是靜下心來冥想，medication 是治療用的藥物。兩個字拼法很接近，中間只差 dit 和 dic。",
+   "points": [
+    "拼字：medi-tation 和 medi-cation 只差 t 與 c",
+    "搭配：practice meditation，take medication",
+    "詞根：meditation 來自 meditate 冥想，medication 來自 medicate 用藥"
+   ],
+   "tip": "medication 的 c 想成 cure（治療）；meditation 的 t 想成 time out，暫停下來靜心。",
+   "exA": {
+    "en": "The nurse reminded him to take his medication after lunch.",
+    "zh": "護理師提醒他午餐後要服藥。"
+   },
+   "exB": {
+    "en": "Ten minutes of meditation helps me relax before the exam.",
+    "zh": "十分鐘的冥想幫助我在考前放鬆。"
+   }
+  },
+  {
+   "a": "medication",
+   "b": "medicine",
+   "kind": "semantic",
+   "score": 0.81,
+   "aZh": "n. 藥物；藥品",
+   "bZh": "n. 藥；醫學",
+   "diff": "兩個字都能指藥。medication 專指治療用的藥物；medicine 除了藥，還可以指醫學這門學問。",
+   "points": [
+    "字義：medicine 多一個「醫學」的意思，medication 沒有",
+    "搭配：take medicine 和 take medication 都可以",
+    "語氣：medication 較正式，常見於醫療說明"
+   ],
+   "tip": "要說「學醫」時只能用 medicine；medication 只指藥物本身。",
+   "exA": {
+    "en": "The doctor changed her medication after the check-up last week.",
+    "zh": "上星期健康檢查後，醫生換了她的藥。"
+   },
+   "exB": {
+    "en": "My cousin wants to study medicine at a university.",
+    "zh": "我表姊想在大學念醫學。"
+   }
+  },
+  {
+   "a": "combine",
+   "b": "merge",
+   "kind": "semantic",
+   "score": 0.77,
+   "aZh": "v. 結合；合併",
+   "bZh": "v. 合併；融合",
+   "diff": "兩個字都是把東西合起來。combine 強調把不同的東西放在一起，各自特色可以保留；merge 強調合成一個整體，原本的界線消失。",
+   "points": [
+    "結果：combine 可保留各自特色，merge 通常變成同一個",
+    "對象：merge 常用於公司、組織、資料、車流",
+    "搭配：combine A with B，merge with B"
+   ],
+   "tip": "combine 像拌沙拉，還看得出每樣菜；merge 像兩條河匯成一條。",
+   "exA": {
+    "en": "She combined her love of music with her love of travel.",
+    "zh": "她把對音樂的熱愛和對旅行的熱愛結合在一起。"
+   },
+   "exB": {
+    "en": "The two schools merged and became one large school.",
+    "zh": "那兩所學校合併成為一所大學校。"
+   }
+  },
+  {
+   "a": "middle",
+   "b": "midst",
+   "kind": "semantic",
+   "score": 0.89,
+   "aZh": "n. 中間；中央",
+   "bZh": "n. 中央；進行之中",
+   "diff": "middle 是最常用的「中間」；midst 較正式，幾乎只出現在 in the midst of，強調身處某事之中。",
+   "points": [
+    "語氣：middle 日常自然，midst 較正式",
+    "搭配：in the middle of 和 in the midst of 都可以",
+    "用法：midst 前面幾乎都要加 the，middle 可以單獨使用"
+   ],
+   "tip": "midst 前面固定要 the；只想說位置中間，用 middle 最保險。",
+   "exA": {
+    "en": "There is a big tree in the middle of the yard.",
+    "zh": "院子中間有一棵大樹。"
+   },
+   "exB": {
+    "en": "The team stayed calm in the midst of the storm.",
+    "zh": "隊員們在暴風雨中保持冷靜。"
+   }
+  },
+  {
+   "a": "midst",
+   "b": "mist",
+   "kind": "visual",
+   "score": 0.73,
+   "aZh": "n. 中央；進行之中",
+   "bZh": "n. 薄霧；水氣",
+   "diff": "midst 與 mist 只差一個字母 d，但意思完全不同：midst 是「在…之中」，mist 是水氣形成的薄霧。",
+   "points": [
+    "拼字：midst 比 mist 多一個 d",
+    "詞性：兩個都是名詞，mist 也能當動詞",
+    "搭配：in the midst of，a morning mist"
+   ],
+   "tip": "midst 比 mist 多一個 d，d 想成 middle（中間）的 d。",
+   "exA": {
+    "en": "The children played in the midst of the busy market.",
+    "zh": "孩子們在熱鬧的市場中間玩耍。"
+   },
+   "exB": {
+    "en": "A thin mist covered the lake early in the morning.",
+    "zh": "清晨一層薄霧籠罩著湖面。"
+   }
+  },
+  {
+   "a": "immigration",
+   "b": "migration",
+   "kind": "both",
+   "score": 0.79,
+   "aZh": "n. 移民；移入",
+   "bZh": "n. 遷徙；移居",
+   "diff": "migration 泛指人或動物從一地移到另一地，包括鳥類遷徙；immigration 特指移入另一個國家定居。",
+   "points": [
+    "範圍：migration 可指鳥、魚、人，immigration 只指人",
+    "方向：immigration 強調進入某國，字首 im- 表示向內",
+    "相關字：immigrate 移入，emigrate 移出"
+   ],
+   "tip": "im- 是向內（in），immigration 就是進入一個國家；migration 只是移動。",
+   "exA": {
+    "en": "Strict immigration laws made it hard for them to stay.",
+    "zh": "嚴格的移民法規讓他們很難留下來。"
+   },
+   "exB": {
+    "en": "The migration of birds begins in the fall.",
+    "zh": "鳥類的遷徙在秋天開始。"
+   }
+  },
+  {
+   "a": "emigration",
+   "b": "migration",
+   "kind": "both",
+   "score": 0.88,
+   "aZh": "n. 移居海外；移出",
+   "bZh": "n. 遷徙；移居",
+   "diff": "migration 泛指移動；emigration 特指離開自己的國家到國外，重點在「移出」。",
+   "points": [
+    "範圍：migration 可指動物，emigration 只指人離開國家",
+    "方向：e- 是向外，emigration 是離開",
+    "對照：emigration 移出，immigration 移入"
+   ],
+   "tip": "e- 是 exit（出口），emigration 是走出去；im- 是 in，immigration 是走進來。",
+   "exA": {
+    "en": "Emigration increased when the country's economy became weaker.",
+    "zh": "這個國家經濟轉弱時，移居海外的人變多了。"
+   },
+   "exB": {
+    "en": "Whale migration can cover thousands of kilometers each year.",
+    "zh": "鯨魚每年的遷徙可以跨越數千公里。"
+   }
+  },
+  {
+   "a": "minimize",
+   "b": "reduce",
+   "kind": "semantic",
+   "score": 0.63,
+   "aZh": "v. 使減至最少；降低",
+   "bZh": "v. 減少；降低",
+   "diff": "reduce 是一般的減少，不一定減到最少；minimize 是把風險、損失盡量降到最低限度，語氣較正式。",
+   "points": [
+    "程度：reduce 只是變少，minimize 是降到最低",
+    "搭配：minimize the risk / damage，reduce costs / pollution",
+    "語氣：minimize 較正式，常用於風險與損失"
+   ],
+   "tip": "minimize 裡有 mini（最小），把東西縮到最小；reduce 只是少一點。",
+   "exA": {
+    "en": "Wearing a helmet can minimize the risk of injury.",
+    "zh": "戴安全帽可以把受傷的風險降到最低。"
+   },
+   "exB": {
+    "en": "We should reduce the amount of plastic we use.",
+    "zh": "我們應該減少使用塑膠的量。"
+   }
+  },
+  {
+   "a": "male",
+   "b": "masculine",
+   "kind": "semantic",
+   "score": 0.75,
+   "aZh": "adj. 男性的；雄性的",
+   "bZh": "adj. 男性的；陽剛的",
+   "diff": "male 指生理性別是男性，也可用於動物；masculine 指男性特徵，或社會上被認為陽剛的特質，只用在人和事物風格。",
+   "points": [
+    "範圍：male 可指雄性動物，masculine 不用於動物",
+    "重點：male 看性別，masculine 看特質與風格",
+    "搭配：a male student，a masculine voice"
+   ],
+   "tip": "male 是性別的欄位（M）；masculine 是給人的男子氣概感覺。",
+   "exA": {
+    "en": "There are more male students than female students in this club.",
+    "zh": "這個社團的男學生比女學生多。"
+   },
+   "exB": {
+    "en": "His deep, masculine voice made him a good radio host.",
+    "zh": "他低沉又陽剛的嗓音讓他成為很好的廣播主持人。"
+   }
+  },
+  {
+   "a": "groan",
+   "b": "moan",
+   "kind": "semantic",
+   "score": 0.85,
+   "aZh": "v. 呻吟；嘆息",
+   "bZh": "v. 呻吟；抱怨",
+   "diff": "兩個字都是發出低沉的聲音。groan 多因疼痛、疲倦、失望而發出；moan 也可以是痛苦的呻吟，還能指不停抱怨。",
+   "points": [
+    "聲音：groan 短而粗，moan 較長而低",
+    "字義：moan 還有抱怨的意思，groan 沒有",
+    "搭配：groan with pain，moan about the homework"
+   ],
+   "tip": "groan 像被重物壓到的一聲悶哼；moan 拖得比較長，也可能是在發牢騷。",
+   "exA": {
+    "en": "The students groaned when the teacher gave them more homework.",
+    "zh": "老師多出作業時，學生們發出哀嘆聲。"
+   },
+   "exB": {
+    "en": "Tom moaned about the loud noise outside all evening.",
+    "zh": "Tom 整個晚上都在抱怨噪音。"
+   }
+  },
+  {
+   "a": "complain",
+   "b": "moan",
+   "kind": "semantic",
+   "score": 0.67,
+   "aZh": "v. 抱怨；投訴",
+   "bZh": "v. 呻吟；抱怨",
+   "diff": "complain 是最一般的說法，表示說出不滿，也可以向人正式投訴；moan 是口語，帶著不停發牢騷的語氣，也可以是痛苦的呻吟。",
+   "points": [
+    "語氣：complain 中性，moan 口語且較嫌煩",
+    "用法：complain 可以正式投訴，moan 不行",
+    "搭配：complain about，moan about"
+   ],
+   "tip": "complain 可以寫成申訴信；moan 只是在旁邊一直碎碎念。",
+   "exA": {
+    "en": "Many customers complained about the slow service at the restaurant.",
+    "zh": "許多顧客抱怨服務太慢。"
+   },
+   "exB": {
+    "en": "My brother always moans about doing the dishes.",
+    "zh": "我弟弟老是抱怨要洗碗。"
+   }
+  },
+  {
+   "a": "mode",
+   "b": "model",
+   "kind": "visual",
+   "score": 0.74,
+   "aZh": "n. 方式；模式",
+   "bZh": "n. 模型；典範",
+   "diff": "mode 是做事或運作的模式；model 是模型、模範或模特兒。兩個字只差最後的 l，意思完全不同。",
+   "points": [
+    "拼字：model 比 mode 多一個 l",
+    "字義：mode 是方式，model 是實物模型或值得學習的人",
+    "搭配：airplane mode，a role model"
+   ],
+   "tip": "airplane mode 只有 mode，沒有 l；role model 才要 l，是人家仿效的對象。",
+   "exA": {
+    "en": "Please turn on airplane mode before the plane takes off.",
+    "zh": "飛機起飛前，請開啟飛航模式。"
+   },
+   "exB": {
+    "en": "Our teacher is a good model for young students.",
+    "zh": "我們的老師是年輕學生的好榜樣。"
+   }
+  },
+  {
+   "a": "method",
+   "b": "mode",
+   "kind": "semantic",
+   "score": 0.7,
+   "aZh": "n. 方法；方式",
+   "bZh": "n. 方式；模式",
+   "diff": "method 是有步驟、有規則的做法；mode 是活動或系統採用的方式，像設備的運作模式。",
+   "points": [
+    "重點：method 強調步驟，mode 強調運作的形式",
+    "搭配：a study method，a mode of transport",
+    "常見用法：手機、機器的「模式」用 mode"
+   ],
+   "tip": "問怎麼做用 method；問現在是哪一種狀態用 mode。",
+   "exA": {
+    "en": "This method helps students remember new words quickly.",
+    "zh": "這個方法幫助學生很快記住新單字。"
+   },
+   "exB": {
+    "en": "The car has a special mode for driving in the rain.",
+    "zh": "這輛車有下雨天行駛的特別模式。"
+   }
+  },
+  {
+   "a": "adjust",
+   "b": "modify",
+   "kind": "semantic",
+   "score": 0.61,
+   "aZh": "v. 調整；校正",
+   "bZh": "v. 修改；調整",
+   "diff": "兩個字都能翻成「調整」。adjust 是為了適應狀況而微調，例如座椅、時間；modify 是對原有事物做部分修改。",
+   "points": [
+    "對象：adjust 常接位置、時間、設定，modify 常接計畫、設計",
+    "用法：adjust 還可以表示適應新環境（adjust to）",
+    "搭配：adjust the schedule，modify a plan"
+   ],
+   "tip": "adjust 是調到剛剛好；modify 是動手改一部分。",
+   "exA": {
+    "en": "Please adjust your seat before you start the car.",
+    "zh": "開車前請先調整座椅。"
+   },
+   "exB": {
+    "en": "The engineer modified the design to save more energy.",
+    "zh": "工程師修改了設計，以節省更多能源。"
+   }
+  },
+  {
+   "a": "atom",
+   "b": "molecule",
+   "kind": "semantic",
+   "score": 0.39,
+   "aZh": "n. 原子",
+   "bZh": "n. 分子",
+   "diff": "atom 是構成物質的基本粒子；molecule 是由兩個以上原子結合而成的粒子。水分子由兩個氫原子和一個氧原子組成。",
+   "points": [
+    "大小：molecule 由 atom 組成，比 atom 大",
+    "例子：water molecule 水分子，oxygen atom 氧原子",
+    "範圍：單一原子也可以自成分子，但一般用 atom 稱呼"
+   ],
+   "tip": "atom 是積木的一塊，molecule 是把幾塊拼在一起。",
+   "exA": {
+    "en": "An oxygen atom is much smaller than a grain of sand.",
+    "zh": "一個氧原子比一粒沙小得多。"
+   },
+   "exB": {
+    "en": "A water molecule has two hydrogen atoms and one oxygen atom.",
+    "zh": "一個水分子有兩個氫原子和一個氧原子。"
+   }
+  },
+  {
+   "a": "morality",
+   "b": "mortality",
+   "kind": "visual",
+   "score": 0.85,
+   "aZh": "n. 道德；品德",
+   "bZh": "n. 死亡率；必死性",
+   "diff": "morality 是道德，mortality 是死亡率或人終有一死。兩個字拼法只差 r 和 l 的位置，字義卻毫無關係。",
+   "points": [
+    "拼字：mo-r-ality 與 mo-rt-ality，差在 r 和 t 的位置",
+    "字根：mort- 是死亡，mor- 是習俗與品行",
+    "搭配：questions of morality，child mortality"
+   ],
+   "tip": "mortality 有 t，像墓碑的十字；morality 沒有 t，是品行。",
+   "exA": {
+    "en": "The class talked about the morality of telling white lies.",
+    "zh": "全班討論說善意的謊話是否合乎道德。"
+   },
+   "exB": {
+    "en": "The hospital worked hard to lower the mortality rate of babies.",
+    "zh": "醫院努力降低嬰兒的死亡率。"
+   }
+  },
+  {
+   "a": "ethic",
+   "b": "morality",
+   "kind": "semantic",
+   "score": 0.51,
+   "aZh": "n. 道德準則；倫理",
+   "bZh": "n. 道德；品德",
+   "diff": "morality 是個人或社會判斷對錯的整體觀念；ethic（常用複數 ethics）指某個領域或團體要遵守的道德規範。",
+   "points": [
+    "範圍：morality 是廣泛的道德觀念，ethics 常指特定領域的規範",
+    "搭配：medical ethics，personal morality",
+    "用法：ethic 單數常見於 work ethic"
+   ],
+   "tip": "ethics 像規則手冊；morality 是心裡那把尺。",
+   "exA": {
+    "en": "Doctors must always follow strict medical ethics at work.",
+    "zh": "醫生必須遵守嚴格的醫療倫理。"
+   },
+   "exB": {
+    "en": "Many people first learn morality from their parents at home.",
+    "zh": "許多人從父母身上學到道德觀念。"
+   }
+  },
+  {
+   "a": "amount",
+   "b": "mount",
+   "kind": "visual",
+   "score": 0.82,
+   "aZh": "n. 數量；總額",
+   "bZh": "v. 增加；登上",
+   "diff": "amount 是名詞「數量」，mount 是動詞「增加；登上」。amount 多一個字母 a，兩個字都有 mount 的拼字。",
+   "points": [
+    "詞性：amount 主要是 n.，mount 主要是 v.",
+    "搭配：a large amount of，costs mount",
+    "拼字：amount 比 mount 多一個 a 在最前面"
+   ],
+   "tip": "amount 前面多了 a：a lot 的 a，指一大堆的量。",
+   "exA": {
+    "en": "A large amount of water was wasted in the garden.",
+    "zh": "花園裡浪費了大量的水。"
+   },
+   "exB": {
+    "en": "Stress began to mount as the exam came closer.",
+    "zh": "考試越來越近，壓力開始增加。"
+   }
+  },
+  {
+   "a": "mount",
+   "b": "mountain",
+   "kind": "visual",
+   "score": 0.69,
+   "aZh": "n. 山；v. 登上",
+   "bZh": "n. 山；山岳",
+   "diff": "兩個字都能指山。mount 只用在山名前面，例如 Mount Jade；mountain 是一般名詞，可以單獨使用。",
+   "points": [
+    "用法：Mount 放在專有名詞前，mountain 是普通名詞",
+    "搭配：Mount Jade，climb a mountain",
+    "詞性：mount 還可以當動詞，mountain 不行"
+   ],
+   "tip": "有山名就寫 Mount（Mount Jade）；泛指山就寫 mountain。",
+   "exA": {
+    "en": "Mount Jade attracts many climbers from around the world every year.",
+    "zh": "玉山每年吸引許多登山客。"
+   },
+   "exB": {
+    "en": "We climbed a very high mountain with our teacher last weekend.",
+    "zh": "我們上週末爬了一座高山。"
+   }
+  },
+  {
+   "a": "humble",
+   "b": "mumble",
+   "kind": "visual",
+   "score": 0.75,
+   "aZh": "adj. 謙虛的；卑微的",
+   "bZh": "v. 喃喃自語；含糊地說",
+   "diff": "humble 和 mumble 只差第一個字母，都以 -umble 結尾。humble 是謙虛，mumble 是說話含糊不清。",
+   "points": [
+    "詞性：humble 是形容詞，mumble 是動詞",
+    "拼字：h 與 m 是唯一的差別",
+    "搭配：a humble person，mumble an answer"
+   ],
+   "tip": "mumble 有 mouth（嘴巴）的 m；humble 有 h，低頭謙虛的 h 像彎下的腰。",
+   "exA": {
+    "en": "The famous singer is still humble and kind to fans.",
+    "zh": "那位有名的歌手對粉絲依然謙虛又親切。"
+   },
+   "exB": {
+    "en": "He mumbled an answer, so nobody heard him.",
+    "zh": "他含糊地回答，所以沒有人聽見。"
+   }
+  },
+  {
+   "a": "civic",
+   "b": "municipal",
+   "kind": "semantic",
+   "score": 0.49,
+   "aZh": "adj. 公民的；城市的",
+   "bZh": "adj. 市政的；地方自治的",
+   "diff": "civic 與市民的權利、責任和城市生活有關；municipal 與市政府及其管理的事務有關。",
+   "points": [
+    "重點：civic 看公民，municipal 看政府",
+    "搭配：civic duty，municipal government",
+    "語氣：兩個字都偏正式"
+   ],
+   "tip": "civic 是市民的事（citizen）；municipal 是市政府的事。",
+   "exA": {
+    "en": "Voting is an important civic duty for every adult citizen.",
+    "zh": "投票是重要的公民責任。"
+   },
+   "exB": {
+    "en": "The municipal government repaired the road last month.",
+    "zh": "市政府上個月修好了這條路。"
+   }
+  },
+  {
+   "a": "muscle",
+   "b": "muscular",
+   "kind": "visual",
+   "score": 0.6,
+   "aZh": "n. 肌肉",
+   "bZh": "adj. 肌肉發達的；肌肉的",
+   "diff": "muscle 是名詞，指肌肉本身；muscular 是形容詞，形容肌肉發達，或與肌肉有關。",
+   "points": [
+    "詞性：muscle 是 n.，muscular 是 adj.",
+    "拼字：muscle 字尾是 -cle，muscular 字尾是 -cular",
+    "搭配：build muscle，a muscular body"
+   ],
+   "tip": "有肌肉是 muscle；肌肉很多的樣子是 muscular，字尾 -ar 像 -ful 的作用。",
+   "exA": {
+    "en": "Regular exercise and good food help you build muscle.",
+    "zh": "規律運動有助於增加肌肉。"
+   },
+   "exB": {
+    "en": "The muscular man carried two heavy bags easily.",
+    "zh": "那個肌肉發達的男人輕鬆地提著兩個重袋子。"
+   }
+  },
+  {
+   "a": "innocent",
+   "b": "naive",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "adj. 天真的；無辜的",
+   "bZh": "adj. 天真的；不切實際的",
+   "diff": "兩個字都能說「天真」。innocent 強調單純、沒有壞心，是中性或好意；naive 強調缺乏經驗和判斷力，常帶批評。",
+   "points": [
+    "語氣：innocent 是純真，naive 帶著不夠成熟的批評",
+    "字義：innocent 還有「無罪的」意思",
+    "搭配：an innocent child，a naive idea"
+   ],
+   "tip": "小孩的眼神是 innocent；輕易相信別人是 naive。",
+   "exA": {
+    "en": "The innocent child smiled at everyone on the train.",
+    "zh": "那個天真的孩子對火車上的每個人微笑。"
+   },
+   "exB": {
+    "en": "It was naive to trust a stranger online so quickly.",
+    "zh": "這麼快就相信網路上的陌生人，實在太天真了。"
+   }
+  },
+  {
+   "a": "elect",
+   "b": "nominate",
+   "kind": "semantic",
+   "score": 0.36,
+   "aZh": "v. 選出；選舉",
+   "bZh": "v. 提名",
+   "diff": "nominate 是先把某人列為候選人，elect 是投票選出當選者。提名在前，選出在後。",
+   "points": [
+    "階段：nominate 是候選階段，elect 是投票決定",
+    "搭配：nominate someone for a prize，elect someone as president",
+    "結果：被 nominate 不一定會被 elect"
+   ],
+   "tip": "nominate 有 nom（名字），先把名字提出來；elect 是選出結果。",
+   "exA": {
+    "en": "The class will elect a new leader on Friday.",
+    "zh": "班上星期五要選出新班長。"
+   },
+   "exB": {
+    "en": "Three students were nominated for the class leader.",
+    "zh": "有三位同學被提名為班長候選人。"
+   }
+  },
+  {
+   "a": "norm",
+   "b": "standard",
+   "kind": "semantic",
+   "score": 0.72,
+   "aZh": "n. 常態；規範",
+   "bZh": "n. 標準；水準",
+   "diff": "norm 指群體中大家都認為正常、普遍遵守的做法；standard 是衡量好壞高低的基準。",
+   "points": [
+    "重點：norm 看多數人怎麼做，standard 看達到什麼水準",
+    "搭配：social norm，high standard",
+    "用法：the norm 表示「常態」"
+   ],
+   "tip": "norm 是大家都這樣做；standard 是及格線或要求。",
+   "exA": {
+    "en": "Wearing masks became the norm in crowded places.",
+    "zh": "在人多的地方戴口罩成了常態。"
+   },
+   "exB": {
+    "en": "The school has high standards for student behavior.",
+    "zh": "學校對學生的行為有很高的標準。"
+   }
+  },
+  {
+   "a": "notable",
+   "b": "noticeable",
+   "kind": "visual",
+   "score": 0.75,
+   "aZh": "adj. 值得注意的；顯著的",
+   "bZh": "adj. 明顯的；容易察覺的",
+   "diff": "noticeable 是容易被看出來、察覺到；notable 是重要、值得一提的，常形容人物、成就。",
+   "points": [
+    "重點：noticeable 看是否被察覺，notable 看是否重要",
+    "搭配：a noticeable change，a notable writer",
+    "語氣：notable 較正式，常用於稱讚"
+   ],
+   "tip": "noticeable = notice + able，看得出來；notable = note + able，值得記下來。",
+   "exA": {
+    "en": "She is a notable scientist in the field of health.",
+    "zh": "她是健康領域中值得一提的科學家。"
+   },
+   "exB": {
+    "en": "There was a noticeable smell of smoke in the hall.",
+    "zh": "大廳裡有明顯的煙味。"
+   }
+  },
+  {
+   "a": "noticeable",
+   "b": "obvious",
+   "kind": "semantic",
+   "score": 0.73,
+   "aZh": "adj. 明顯的；容易察覺的",
+   "bZh": "adj. 明顯的；顯而易見的",
+   "diff": "noticeable 表示容易被人發現；obvious 表示一看就懂、不需要解釋，常指道理、答案或錯誤。",
+   "points": [
+    "重點：noticeable 是看得出，obvious 是一目瞭然",
+    "搭配：a noticeable difference，an obvious answer",
+    "用法：obvious 也用在 it is obvious that 句型"
+   ],
+   "tip": "noticeable 是眼睛會注意到；obvious 是腦袋馬上明白。",
+   "exA": {
+    "en": "There is a noticeable difference between the two pictures.",
+    "zh": "這兩張照片之間有明顯的差別。"
+   },
+   "exB": {
+    "en": "It was obvious that he had not studied for the test.",
+    "zh": "他顯然沒有為考試念書。"
+   }
+  },
+  {
+   "a": "notice",
+   "b": "notify",
+   "kind": "both",
+   "score": 0.63,
+   "aZh": "v. 注意到；n. 通知",
+   "bZh": "v. 通知；告知",
+   "diff": "notice 是自己注意到某件事，也可當名詞指公告；notify 是主動通知某人。notify 後面一定要接被通知的人。",
+   "points": [
+    "詞性：notice 可以是 v. 或 n.，notify 只是 v.",
+    "用法：notify + 人 + of / that 子句，notice + 事物",
+    "方向：notice 是自己發現，notify 是告訴別人"
+   ],
+   "tip": "notice 是自己看到；notify 是把消息告訴別人，多了 -ify（使…）。",
+   "exA": {
+    "en": "Did you notice the new sign at the school gate?",
+    "zh": "你有注意到校門口的新告示嗎？"
+   },
+   "exB": {
+    "en": "The office will notify students if the class is canceled.",
+    "zh": "如果課程取消，辦公室會通知學生。"
+   }
+  },
+  {
+   "a": "idea",
+   "b": "notion",
+   "kind": "semantic",
+   "score": 0.85,
+   "aZh": "n. 想法；主意；概念",
+   "bZh": "n. 概念；想法",
+   "diff": "idea 是最常用的「想法」，可以是具體的計畫；notion 較抽象，多指模糊、大致的看法，語氣較正式。",
+   "points": [
+    "具體度：idea 可指具體點子，notion 多為抽象看法",
+    "搭配：a good idea，the notion of freedom",
+    "語氣：notion 較正式，常用 the notion that"
+   ],
+   "tip": "idea 是靈光一閃的點子；notion 是腦中大致的概念。",
+   "exA": {
+    "en": "Amy had a great idea for the school festival.",
+    "zh": "Amy 對校慶有一個很棒的點子。"
+   },
+   "exB": {
+    "en": "The notion that money solves every problem is not always true.",
+    "zh": "金錢能買到快樂這個想法並不總是對的。"
+   }
+  },
+  {
+   "a": "concept",
+   "b": "notion",
+   "kind": "semantic",
+   "score": 0.73,
+   "aZh": "n. 概念；觀念",
+   "bZh": "n. 概念；想法",
+   "diff": "concept 是經過思考、有明確內容的概念，常要解釋或學習；notion 是較模糊、憑印象的想法。",
+   "points": [
+    "明確度：concept 較清楚，notion 較模糊",
+    "搭配：a basic concept，a vague notion",
+    "語境：concept 常見於學科與設計"
+   ],
+   "tip": "concept 是課本裡會定義的概念；notion 是心裡大概的想法。",
+   "exA": {
+    "en": "The teacher explained the concept of gravity with a simple test.",
+    "zh": "老師用一個簡單的實驗說明重力的概念。"
+   },
+   "exB": {
+    "en": "She has only a vague notion of how the machine works.",
+    "zh": "她對這台機器如何運作只有模糊的概念。"
+   }
+  },
+  {
+   "a": "anywhere",
+   "b": "nowhere",
+   "kind": "both",
+   "score": 0.65,
+   "aZh": "adv. 任何地方",
+   "bZh": "adv. 哪裡都不；無處",
+   "diff": "nowhere 本身已是否定，表示沒有任何地方；anywhere 用在否定句、疑問句，通常要搭配 not。",
+   "points": [
+    "否定：nowhere 不能再加 not，anywhere 要搭配 not",
+    "對照：not anywhere = nowhere",
+    "位置：nowhere 放句首時句子要倒裝"
+   ],
+   "tip": "nowhere = no + where，已經有 no；anywhere 前面要自己加 not。",
+   "exA": {
+    "en": "I can't find my umbrella anywhere in the house.",
+    "zh": "我在屋裡到處都找不到我的雨傘。"
+   },
+   "exB": {
+    "en": "My umbrella is nowhere to be found in the house.",
+    "zh": "我的雨傘在屋裡哪裡都找不到。"
+   }
+  },
+  {
+   "a": "nutrient",
+   "b": "nutrition",
+   "kind": "visual",
+   "score": 0.6,
+   "aZh": "n. 營養素",
+   "bZh": "n. 營養；營養學",
+   "diff": "nutrient 是食物裡的營養成分，可數；nutrition 是攝取與利用養分的過程或學科，不可數。",
+   "points": [
+    "詞性：兩個都是名詞，nutrient 可數，nutrition 不可數",
+    "字尾：-ent 表示物，-tion 表示過程",
+    "搭配：essential nutrients，good nutrition"
+   ],
+   "tip": "nutrient 是一項一項的營養素；nutrition 是整體的營養。",
+   "exA": {
+    "en": "Vitamin C is an important nutrient for our health.",
+    "zh": "維生素 C 是對健康很重要的營養素。"
+   },
+   "exB": {
+    "en": "Good nutrition helps children grow strong and healthy.",
+    "zh": "良好的營養幫助孩子長得強壯。"
+   }
+  },
+  {
+   "a": "duty",
+   "b": "obligation",
+   "kind": "semantic",
+   "score": 0.9,
+   "aZh": "n. 責任；義務",
+   "bZh": "n. 義務；責任",
+   "diff": "兩個字都表示該做的事。duty 常指職責或道德責任，較直接；obligation 強調因法律、承諾或情況而必須履行。",
+   "points": [
+    "來源：duty 來自職位或道德，obligation 來自法律、契約或承諾",
+    "語氣：obligation 較正式",
+    "搭配：do one's duty，meet an obligation"
+   ],
+   "tip": "duty 是身分帶來的責任；obligation 像被綁住必須完成的事。",
+   "exA": {
+    "en": "A student's first duty is to study hard.",
+    "zh": "學生的首要職責是用功讀書。"
+   },
+   "exB": {
+    "en": "We have a legal obligation to pay our taxes.",
+    "zh": "我們有依法納稅的義務。"
+   }
+  },
+  {
+   "a": "obscure",
+   "b": "vague",
+   "kind": "semantic",
+   "score": 0.59,
+   "aZh": "adj. 模糊的；鮮為人知的",
+   "bZh": "adj. 模糊的；不明確的",
+   "diff": "兩個字都可翻成「模糊」。vague 指說法或內容籠統、不具體；obscure 指意思難以理解，也可指不出名。",
+   "points": [
+    "重點：vague 是不夠具體，obscure 是難以理解",
+    "字義：obscure 還有「不出名的」意思",
+    "搭配：a vague answer，an obscure writer"
+   ],
+   "tip": "vague 是講得含糊；obscure 是被遮住，看不清。",
+   "exA": {
+    "en": "The meaning of the old poem is obscure to most students.",
+    "zh": "這首古詩的意思對大多數學生來說很難懂。"
+   },
+   "exB": {
+    "en": "His vague answer did not help us solve the problem.",
+    "zh": "他含糊的回答沒有幫助我們解決問題。"
+   }
+  },
+  {
+   "a": "chance",
+   "b": "odds",
+   "kind": "semantic",
+   "score": 0.64,
+   "aZh": "n. 機會；可能性",
+   "bZh": "n. 可能性；機率",
+   "diff": "chance 是最常見的機會或可能性；odds 常指某事發生的機率，也可指不利的處境，多用複數。",
+   "points": [
+    "數量：odds 通常用複數，chance 可數也可用單數",
+    "搭配：a good chance，the odds are",
+    "字義：against the odds 表示不利的處境"
+   ],
+   "tip": "chance 是有機會；odds 像用數字算出的勝算。",
+   "exA": {
+    "en": "There is a good chance that it will rain tomorrow.",
+    "zh": "明天很可能會下雨。"
+   },
+   "exB": {
+    "en": "The odds of winning the game are not high.",
+    "zh": "贏得比賽的機率並不高。"
+   }
+  },
+  {
+   "a": "operational",
+   "b": "optional",
+   "kind": "visual",
+   "score": 0.71,
+   "aZh": "adj. 運作中的；營運上的",
+   "bZh": "adj. 非必須的；可自行選擇",
+   "diff": "operational 是設備或系統能運作，也可指營運方面；optional 是可以自由選擇、不一定要做。兩個字開頭都是 op-，字尾都是 -tional 或 -ational。",
+   "points": [
+    "拼字：operational 有 era（operate），optional 有 option",
+    "詞根：operational 來自 operate（運作），optional 來自 option（選擇）",
+    "搭配：fully operational，an optional course"
+   ],
+   "tip": "operational 裡有 operate，能運作；optional 裡有 option，可選擇。",
+   "exA": {
+    "en": "The new subway line will be fully operational next month.",
+    "zh": "這條新的捷運線下個月會全面通車。"
+   },
+   "exB": {
+    "en": "Wearing a helmet is optional in this small park.",
+    "zh": "在這座小公園裡，戴安全帽是自由選擇。"
+   }
+  },
+  {
+   "a": "opponent",
+   "b": "rival",
+   "kind": "semantic",
+   "score": 0.92,
+   "aZh": "n. 對手；競爭者",
+   "bZh": "n. 競爭者；對手",
+   "diff": "opponent 指在比賽、辯論或選舉中站在對面的人，通常是一場比賽的對手；rival 指長期競爭、彼此較勁的對手，常帶有互不相讓的感覺。",
+   "points": [
+    "時間：opponent 常指某一場比賽，rival 常指長期競爭",
+    "關係：rival 往往實力相近、彼此較勁",
+    "搭配：a strong opponent，a school rival"
+   ],
+   "tip": "opponent 是這場比賽站在對面的人；rival 是長期互相較勁的宿敵。",
+   "exA": {
+    "en": "Our team beat its opponent by two goals.",
+    "zh": "我們隊以兩分之差擊敗了對手。"
+   },
+   "exB": {
+    "en": "The two schools have been rivals for many years.",
+    "zh": "這兩所學校已經是多年的勁敵。"
+   }
+  },
+  {
+   "a": "opposition",
+   "b": "position",
+   "kind": "visual",
+   "score": 0.79,
+   "aZh": "n. 反對；抵制",
+   "bZh": "n. 位置；職位；立場",
+   "diff": "opposition 是反對，position 是位置、職位或立場。opposition 比 position 多了 op-，意思也完全不同。",
+   "points": [
+    "拼字：opposition 是 op + position",
+    "字義：opposition 是反對，position 是位置或立場",
+    "搭配：strong opposition，a good position"
+   ],
+   "tip": "opposition = op + position，站在別人的立場對面，就是反對。",
+   "exA": {
+    "en": "There was strong opposition to the new school rule.",
+    "zh": "許多人強烈反對這項新校規。"
+   },
+   "exB": {
+    "en": "Amy is applying for a position at the city library.",
+    "zh": "Amy 正在申請市立圖書館的一個職位。"
+   }
+  },
+  {
+   "a": "objection",
+   "b": "opposition",
+   "kind": "semantic",
+   "score": 0.77,
+   "aZh": "n. 反對；異議",
+   "bZh": "n. 反對；抵制",
+   "diff": "objection 是針對某件事提出的異議，可以只是一句話；opposition 是持續、比較強烈的反對，也可以指反對的一方。",
+   "points": [
+    "程度：objection 可輕可重，opposition 通常較強烈",
+    "搭配：raise an objection，face strong opposition",
+    "用法：objection 常用 to；opposition 也可指反對黨"
+   ],
+   "tip": "objection 是舉手說「我有意見」；opposition 是整個站到對面去。",
+   "exA": {
+    "en": "Tom raised an objection to the plan at the meeting.",
+    "zh": "Tom 在會議上對這項計畫提出異議。"
+   },
+   "exB": {
+    "en": "The mayor faced strong opposition from local shop owners.",
+    "zh": "市長遭到當地店家強烈反對。"
+   }
+  },
+  {
+   "a": "choose",
+   "b": "opt",
+   "kind": "semantic",
+   "score": 0.78,
+   "aZh": "v. 選擇；挑選",
+   "bZh": "v. 選擇",
+   "diff": "兩個字都是「選擇」。choose 是最常用的說法，可接名詞或不定詞；opt 較正式，固定搭配 opt for 或 opt to，強調考慮後做出決定。",
+   "points": [
+    "用法：choose + N，opt for + N",
+    "語氣：choose 日常，opt 較正式",
+    "不定詞：兩者都可接 to V"
+   ],
+   "tip": "opt 不能直接接名詞，要加 for；choose 可以直接接。",
+   "exA": {
+    "en": "Please choose a book from the school library.",
+    "zh": "請從學校圖書館挑一本書。"
+   },
+   "exB": {
+    "en": "Many students opt for the early bus to avoid traffic.",
+    "zh": "許多學生選擇搭早班公車避開車潮。"
+   }
+  },
+  {
+   "a": "creature",
+   "b": "organism",
+   "kind": "semantic",
+   "score": 0.72,
+   "aZh": "n. 生物；動物",
+   "bZh": "n. 生物；有機體",
+   "diff": "creature 是日常用語，指動物或想像中的生物；organism 是生物學用語，泛指所有有生命的個體，包含微生物與植物。",
+   "points": [
+    "語氣：creature 較口語，organism 較學術",
+    "範圍：organism 包含細菌、植物，creature 多指動物",
+    "搭配：a sea creature，a living organism"
+   ],
+   "tip": "看到顯微鏡下的小東西用 organism；看到海裡游的動物用 creature。",
+   "exA": {
+    "en": "A strange creature was sleeping under the tree.",
+    "zh": "有一隻奇怪的生物正在樹下睡覺。"
+   },
+   "exB": {
+    "en": "A tiny organism can live in a drop of water.",
+    "zh": "微小的生物可以生活在一滴水裡。"
+   }
+  },
+  {
+   "a": "creativity",
+   "b": "originality",
+   "kind": "semantic",
+   "score": 0.78,
+   "aZh": "n. 創造力；創意",
+   "bZh": "n. 獨創性；創意",
+   "diff": "creativity 是想出新點子、做出新東西的能力；originality 是想法或作品有新意、不是模仿別人。",
+   "points": [
+    "重點：creativity 是能力，originality 是作品的特質",
+    "搭配：use creativity，show originality",
+    "評價：評分標準常寫 originality（獨創性）"
+   ],
+   "tip": "creativity 是會創造；originality 是作品夠原創。",
+   "exA": {
+    "en": "Art class helps young students build their creativity.",
+    "zh": "美術課幫助學生培養創造力。"
+   },
+   "exB": {
+    "en": "The judges praised the originality of his story.",
+    "zh": "評審稱讚他故事的獨創性。"
+   }
+  },
+  {
+   "a": "equip",
+   "b": "outfit",
+   "kind": "semantic",
+   "score": 0.75,
+   "aZh": "v. 配備；裝備",
+   "bZh": "v. 裝備；供應",
+   "diff": "兩個字都表示提供所需的東西。equip 用得較廣，可以是器材、技能；outfit 較常指提供整套衣物或裝備，尤其為了某個活動。",
+   "points": [
+    "範圍：equip 範圍廣，outfit 多指衣物、裝備",
+    "句型：equip A with B，outfit A with B",
+    "詞性：outfit 還有名詞「全套服裝」的意思"
+   ],
+   "tip": "equip 是配好器材；outfit 像替人從頭到腳穿戴齊全。",
+   "exA": {
+    "en": "The school equipped the lab with new computers.",
+    "zh": "學校為實驗室配備了新電腦。"
+   },
+   "exB": {
+    "en": "The club outfitted its members with warm jackets.",
+    "zh": "社團提供社員保暖外套。"
+   }
+  },
+  {
+   "a": "clothing",
+   "b": "outfit",
+   "kind": "semantic",
+   "score": 0.68,
+   "aZh": "n. 衣物；服裝",
+   "bZh": "n. 全套服裝",
+   "diff": "clothing 是衣物的總稱，不可數；outfit 是為某個場合搭配好的一整套衣服，可數。",
+   "points": [
+    "數量：clothing 不可數，outfit 可數",
+    "範圍：clothing 泛指所有衣物，outfit 是搭配好的一套",
+    "搭配：winter clothing，a new outfit"
+   ],
+   "tip": "clothing 不能加 s；一套衣服說 an outfit。",
+   "exA": {
+    "en": "The store sells warm clothing for cold weather.",
+    "zh": "這家店賣適合寒冷天氣的保暖衣物。"
+   },
+   "exB": {
+    "en": "She bought a new outfit for the school party.",
+    "zh": "她買了一套新衣服去參加學校派對。"
+   }
+  },
+  {
+   "a": "outlet",
+   "b": "plug",
+   "kind": "semantic",
+   "score": 0.36,
+   "aZh": "n. 電源插座",
+   "bZh": "n. 插頭；插座塞",
+   "diff": "outlet 是牆上的插座；plug 是接在電器線上、插進插座的插頭。中文都說「插」，但一個是牆上，一個是線上。",
+   "points": [
+    "位置：outlet 在牆上，plug 在電線一端",
+    "動作：plug in 是把插頭插進插座",
+    "美式與英式：美式 outlet，英式常用 socket"
+   ],
+   "tip": "plug 是插進去的那一頭；outlet 是牆上讓電流出來的那個洞。",
+   "exA": {
+    "en": "There is only one outlet near my desk.",
+    "zh": "我的書桌附近只有一個插座。"
+   },
+   "exB": {
+    "en": "Please pull the plug before you clean the machine.",
+    "zh": "清理機器前，請先拔掉插頭。"
+   }
+  },
+  {
+   "a": "output",
+   "b": "production",
+   "kind": "semantic",
+   "score": 0.81,
+   "aZh": "n. 產量；輸出",
+   "bZh": "n. 生產；產量",
+   "diff": "production 是製造東西的過程，也可以指總量；output 側重最後生產出來的數量或結果，也用於電腦與能源。",
+   "points": [
+    "重點：production 是生產過程，output 是產出的量",
+    "搭配：food production，energy output",
+    "用法：output 也可指電腦輸出的資料"
+   ],
+   "tip": "production 是動作（生產）；output 是最後被放出來的成果。",
+   "exA": {
+    "en": "The factory doubled its output within a year.",
+    "zh": "這間工廠在一年內把產量增加了一倍。"
+   },
+   "exB": {
+    "en": "Food production is important for a growing population.",
+    "zh": "食物的生產對成長中的人口很重要。"
+   }
+  },
+  {
+   "a": "overhead",
+   "b": "overhear",
+   "kind": "visual",
+   "score": 0.82,
+   "aZh": "adv. 在頭頂上；n. 營運間接費用",
+   "bZh": "v. 無意中聽到",
+   "diff": "overhead 是在頭頂上方，overhear 是無意中聽到別人說話。兩個字前面都是 over-，只有字尾 head 和 hear 不同。",
+   "points": [
+    "拼字：overhead 尾巴是 head（頭），overhear 尾巴是 hear（聽）",
+    "詞性：overhead 是 adv.、adj.、n.，overhear 是 v.",
+    "搭配：fly overhead，overhear a conversation"
+   ],
+   "tip": "overhead 有 head，在頭的上方；overhear 有 hear，不小心聽到。",
+   "exA": {
+    "en": "A bird flew overhead as we walked to school.",
+    "zh": "我們走路上學時，一隻鳥從頭頂飛過。"
+   },
+   "exB": {
+    "en": "I overheard two students talking about the test.",
+    "zh": "我無意中聽到兩個學生在談論考試。"
+   }
+  },
+  {
+   "a": "overseas",
+   "b": "oversee",
+   "kind": "visual",
+   "score": 0.78,
+   "aZh": "adv. 在海外；adj. 海外的",
+   "bZh": "v. 監督；管理",
+   "diff": "oversee 是動詞，表示監督；overseas 是副詞或形容詞，表示在海外。兩個字只差最後的 s，詞性與意思都不同。",
+   "points": [
+    "拼字：oversee 少最後一個 s，overseas 多了 s",
+    "詞性：oversee 是 v.，overseas 是 adv. 或 adj.",
+    "搭配：oversee a project，study overseas"
+   ],
+   "tip": "overseas 的 seas 是海（sea）的複數，在海的另一邊；oversee 是 see，看著。",
+   "exA": {
+    "en": "My cousin studies overseas and comes home once a year.",
+    "zh": "我表哥在海外念書，一年回家一次。"
+   },
+   "exB": {
+    "en": "The manager will oversee the whole project this year.",
+    "zh": "經理會監督整個專案。"
+   }
+  },
+  {
+   "a": "oversee",
+   "b": "supervise",
+   "kind": "semantic",
+   "score": 0.99,
+   "aZh": "v. 監督；管理",
+   "bZh": "v. 監督；管理",
+   "diff": "兩個字都是監督。supervise 是直接督導人員或活動，常在現場看著；oversee 是負責整體，不一定天天在旁邊。",
+   "points": [
+    "方式：supervise 是近距離督導，oversee 是整體負責",
+    "對象：supervise 常接人（員工、學生），oversee 常接專案或工作",
+    "語氣：oversee 較正式，層級較高"
+   ],
+   "tip": "supervise 是站在旁邊看；oversee 是從上方掌握整體。",
+   "exA": {
+    "en": "The director oversees all of the company's projects.",
+    "zh": "主任負責監督公司所有的專案。"
+   },
+   "exB": {
+    "en": "Two teachers supervise the students during lunch break.",
+    "zh": "午餐時間有兩位老師看管學生。"
+   }
+  },
+  {
+   "a": "overtake",
+   "b": "surpass",
+   "kind": "semantic",
+   "score": 0.74,
+   "aZh": "v. 超越；趕上",
+   "bZh": "v. 超越；勝過",
+   "diff": "overtake 是追上並超過，常指移動或數量的超越；surpass 是在能力、成績或程度上勝過，可以是抽象的。",
+   "points": [
+    "重點：overtake 有追趕的過程，surpass 強調結果",
+    "對象：overtake 常用於車輛、對手，surpass 常用於期望、紀錄",
+    "語氣：surpass 較正式"
+   ],
+   "tip": "overtake 是把車開到前面；surpass 是成績、紀錄超過。",
+   "exA": {
+    "en": "A fast car tried to overtake us on the highway.",
+    "zh": "一輛快車在高速公路上超過了我們。"
+   },
+   "exB": {
+    "en": "Her test score surpassed everyone's expectations this year.",
+    "zh": "她的考試成績超過所有人的預期。"
+   }
   }
  ]
 }
