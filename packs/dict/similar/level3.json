@@ -2962,6 +2962,1326 @@
     "en": "The deep sea is home to many strange creatures.",
     "zh": "深海是許多奇特生物的家。"
    }
+  },
+  {
+   "a": "crew",
+   "b": "screw",
+   "kind": "visual",
+   "score": 0.764,
+   "aZh": "n. 全體工作人員；船員",
+   "bZh": "n. 螺絲；v. 旋緊",
+   "diff": "screw 比 crew 多一個 s。crew 是共同工作的團隊；screw 是螺絲。",
+   "points": [
+    "拼字：s + crew = screw",
+    "發音：crew /kru/；screw /skru/",
+    "搭配：a film crew；a screw and a screwdriver",
+    "詞性：screw 也可當動詞，表示旋緊"
+   ],
+   "tip": "screw 多一個 s，像螺絲上彎彎的 S 形螺紋。",
+   "exA": {
+    "en": "The film crew arrived early to set up the lights.",
+    "zh": "電影工作人員提早到達，架好燈光。"
+   },
+   "exB": {
+    "en": "Dad used a screw to fix the loose door.",
+    "zh": "爸爸用一根螺絲把鬆掉的門固定好。"
+   }
+  },
+  {
+   "a": "crime",
+   "b": "criminal",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 罪行；犯罪",
+   "bZh": "n. 罪犯；adj. 犯罪的；刑事的",
+   "diff": "crime 是犯罪的行為；criminal 是犯罪的人，也可形容與犯罪有關的。",
+   "points": [
+    "詞性：crime 是 n.（行為）；criminal 是 n.（人）或 adj.",
+    "搭配：commit a crime；catch a criminal",
+    "拼字：criminal 由 crime 變化而來，e 變成 i",
+    "形容詞：criminal law 刑法"
+   ],
+   "tip": "crime 是事；criminal 是人。",
+   "exA": {
+    "en": "The police are still investigating the crime at the bank.",
+    "zh": "警方仍在調查銀行裡發生的那起犯罪案件。"
+   },
+   "exB": {
+    "en": "The police finally caught the criminal near the station.",
+    "zh": "警方終於在車站附近抓到了那名罪犯。"
+   }
+  },
+  {
+   "a": "crispy",
+   "b": "crunchy",
+   "kind": "semantic",
+   "score": 0.503,
+   "aZh": "adj. 酥脆的；脆嫩的",
+   "bZh": "adj. 爽脆的；嘎吱作響的",
+   "diff": "crispy 指薄而乾、咬起來酥脆的食物，如炸雞皮、洋芋片；crunchy 指咬下去聲音大而清脆，如生菜、堅果。",
+   "points": [
+    "口感：crispy 薄脆酥；crunchy 硬脆有聲",
+    "例子：crispy chicken skin；crunchy carrots",
+    "聲音：crunchy 的咬聲通常更大",
+    "另義：crisp 也可形容空氣清爽"
+   ],
+   "tip": "炸物的外皮是 crispy；紅蘿蔔、堅果咬起來是 crunchy。",
+   "exA": {
+    "en": "The crispy fries were still hot when they arrived.",
+    "zh": "酥脆的薯條送來時還熱熱的。"
+   },
+   "exB": {
+    "en": "Amy likes to eat crunchy carrots as a snack.",
+    "zh": "Amy 喜歡把脆脆的紅蘿蔔當點心吃。"
+   }
+  },
+  {
+   "a": "crop",
+   "b": "harvest",
+   "kind": "semantic",
+   "score": 0.648,
+   "aZh": "n. 農作物；收成",
+   "bZh": "n. 收成；v. 收割",
+   "diff": "crop 指田裡種植的作物，也可指一季的收成量；harvest 指收割的行動或收成的時節，也可當動詞。",
+   "points": [
+    "對象：crop 是作物本身；harvest 是收割與收成",
+    "詞性：harvest 可當動詞；crop 當動詞是裁切",
+    "搭配：a rice crop；the autumn harvest",
+    "複數：crops 指各種作物"
+   ],
+   "tip": "田裡長的是 crop；把它割回來是 harvest。",
+   "exA": {
+    "en": "Rice is the main crop in this part of the country.",
+    "zh": "稻米是這個地區的主要作物。"
+   },
+   "exB": {
+    "en": "Farmers work very hard during the autumn harvest.",
+    "zh": "秋收時，農民們工作得非常辛苦。"
+   }
+  },
+  {
+   "a": "crowd",
+   "b": "crown",
+   "kind": "visual",
+   "score": 0.751,
+   "aZh": "n. 人群；群眾",
+   "bZh": "n. 王冠；牙冠",
+   "diff": "crowd 和 crown 只差最後一個字母，d 和 n。crowd 是人群；crown 是王冠。",
+   "points": [
+    "拼字：crow-d 對 crow-n",
+    "發音：crowd /kraʊd/；crown /kraʊn/",
+    "搭配：a large crowd；a golden crown",
+    "詞性：crowd 當動詞是擠滿；crown 當動詞是加冕"
+   ],
+   "tip": "crowd 結尾 d，像 dozens（一大群）；crown 結尾 n，像 noble（貴族）的王冠。",
+   "exA": {
+    "en": "A large crowd gathered outside the stadium after the game.",
+    "zh": "比賽結束後，一大群人聚集在體育場外。"
+   },
+   "exB": {
+    "en": "The king put the heavy crown on his head.",
+    "zh": "國王把那頂沉重的王冠戴到頭上。"
+   }
+  },
+  {
+   "a": "cabinet",
+   "b": "cupboard",
+   "kind": "semantic",
+   "score": 0.73,
+   "aZh": "n. 櫥櫃；文件櫃；內閣",
+   "bZh": "n. 碗櫥；櫥櫃",
+   "diff": "cupboard 是有門的櫥櫃，多用來放餐具、食物或日用品；cabinet 泛指各種櫃子，也可指文件櫃或政府內閣。",
+   "points": [
+    "用途：cupboard 多在廚房；cabinet 可用在辦公室、浴室",
+    "另義：cabinet 也可指內閣",
+    "發音：cupboard 的 p 不發音，念 /ˈkʌbərd/",
+    "搭配：a kitchen cupboard；a filing cabinet"
+   ],
+   "tip": "cupboard 是放 cup（杯子）的 board（板櫃）。",
+   "exA": {
+    "en": "Mom keeps the files in a metal cabinet.",
+    "zh": "媽媽把檔案收在一個金屬櫃裡。"
+   },
+   "exB": {
+    "en": "Mom keeps the cups in the kitchen cupboard.",
+    "zh": "媽媽把杯子收在廚房的櫥櫃裡。"
+   }
+  },
+  {
+   "a": "dairy",
+   "b": "diary",
+   "kind": "visual",
+   "score": 0.612,
+   "aZh": "n. 乳品店；adj. 乳製品的",
+   "bZh": "n. 日記；行事曆",
+   "diff": "dairy 和 diary 只差 i 和 a 的位置。dairy 和牛奶有關；diary 是每天寫的日記。",
+   "points": [
+    "拼字：d-ai-ry 對 d-ia-ry",
+    "發音：dairy /ˈdɛri/；diary /ˈdaɪəri/",
+    "搭配：dairy products；keep a diary",
+    "詞性：dairy 可當 n. 或 adj.；diary 是 n."
+   ],
+   "tip": "看意思：吃喝的、和牛奶有關的是 dairy；寫在本子裡的是 diary。",
+   "exA": {
+    "en": "Cheese and butter are both kinds of dairy foods.",
+    "zh": "起司和奶油都是乳製品。"
+   },
+   "exB": {
+    "en": "Jenny keeps a diary about her school life.",
+    "zh": "Jenny 寫日記記錄她的學校生活。"
+   }
+  },
+  {
+   "a": "darling",
+   "b": "dear",
+   "kind": "semantic",
+   "score": 0.608,
+   "aZh": "n. 親愛的人；adj. 親愛的",
+   "bZh": "adj. 親愛的；珍貴的",
+   "diff": "dear 是最常見的親暱說法，也用在信件開頭；darling 語氣更親密，多用於家人、情侶或哄小孩。",
+   "points": [
+    "用途：dear 可用在信件；darling 較少",
+    "關係：darling 常用於家人、情侶",
+    "詞性：darling 可當 n.；dear 常當 adj.",
+    "另義：dear 也可指珍貴的"
+   ],
+   "tip": "寫信用 dear；對很親近的人說 darling。",
+   "exA": {
+    "en": "Come here, darling, and let me tie your shoes.",
+    "zh": "過來，親愛的，讓我幫你綁鞋帶。"
+   },
+   "exB": {
+    "en": "Dear Amy, thank you for the lovely birthday card.",
+    "zh": "親愛的 Amy，謝謝你那張可愛的生日卡。"
+   }
+  },
+  {
+   "a": "dash",
+   "b": "rush",
+   "kind": "semantic",
+   "score": 0.47,
+   "aZh": "n./v. 猛衝；短跑",
+   "bZh": "v. 趕忙；急速移動；n. 匆忙",
+   "diff": "dash 是短距離、突然而快速地衝過去；rush 是因為時間緊迫而匆忙行動，時間和距離都不一定短。",
+   "points": [
+    "距離：dash 常指短距離；rush 不限",
+    "感覺：dash 強調速度；rush 強調趕時間",
+    "搭配：make a dash for；rush hour",
+    "詞性：兩者都可當 n. 或 v."
+   ],
+   "tip": "dash 是衝一下；rush 是一直趕。",
+   "exA": {
+    "en": "Jenny dashed to the bus stop as the bus was leaving.",
+    "zh": "公車正要開走，Jenny 衝向公車站。"
+   },
+   "exB": {
+    "en": "Tom rushed through breakfast because he was late.",
+    "zh": "Tom 因為遲到了，匆匆吃完早餐。"
+   }
+  },
+  {
+   "a": "deck",
+   "b": "desk",
+   "kind": "visual",
+   "score": 0.584,
+   "aZh": "n. 甲板；露臺",
+   "bZh": "n. 書桌；辦公桌",
+   "diff": "deck 和 desk 只差 c 和 s。deck 是船上的甲板或房屋外的露臺；desk 是書桌。",
+   "points": [
+    "拼字：de-ck 對 de-sk",
+    "發音：deck /dɛk/；desk /dɛsk/",
+    "搭配：on deck；at my desk",
+    "詞性：兩者都是可數名詞"
+   ],
+   "tip": "desk 的 sk 像 school（學校），是學校用的書桌。",
+   "exA": {
+    "en": "The sailors cleaned the deck of the ship.",
+    "zh": "水手們清洗船的甲板。"
+   },
+   "exB": {
+    "en": "Amy puts her books on the desk every evening.",
+    "zh": "Amy 每天晚上都把書放在書桌上。"
+   }
+  },
+  {
+   "a": "decrease",
+   "b": "reduce",
+   "kind": "semantic",
+   "score": 0.953,
+   "aZh": "v. 減少；降低；n. 減少",
+   "bZh": "v. 減少；降低",
+   "diff": "decrease 可以自己變少，也可以使變少；reduce 多半是有人主動把數量或程度降低，後面要接受詞。",
+   "points": [
+    "及物與否：The number decreased. 對 We reduced the number.",
+    "主詞：decrease 的主詞常是數量本身；reduce 的主詞常是人或方法",
+    "詞性：decrease 也可當名詞；reduce 的名詞是 reduction",
+    "搭配：a decrease in sales；reduce waste"
+   ],
+   "tip": "自己變少用 decrease；把它弄少用 reduce。",
+   "exA": {
+    "en": "The number of cars in the city decreased last year.",
+    "zh": "去年城裡的汽車數量減少了。"
+   },
+   "exB": {
+    "en": "The city reduced the number of cars in the center.",
+    "zh": "市政府減少了市中心的汽車數量。"
+   }
+  },
+  {
+   "a": "definite",
+   "b": "definition",
+   "kind": "visual",
+   "score": 0.695,
+   "aZh": "adj. 明確的；確定的",
+   "bZh": "n. 定義；解釋",
+   "diff": "definite 是形容詞，指明確、確定的；definition 是名詞，指字詞或概念的定義。",
+   "points": [
+    "詞性：definite 是 adj.；definition 是 n.",
+    "發音：definite /ˈdɛfɪnɪt/；definition /ˌdɛfəˈnɪʃən/",
+    "搭配：a definite answer；the definition of a word",
+    "關聯：兩字都和動詞 define 有關"
+   ],
+   "tip": "definition 是 define 的名詞，結尾 -ion；definite 結尾 -ite，是形容詞。",
+   "exA": {
+    "en": "The teacher wants a definite answer by Friday.",
+    "zh": "老師要在星期五前得到明確的答覆。"
+   },
+   "exB": {
+    "en": "The teacher wrote the definition of each new word on the board.",
+    "zh": "老師把每個生字的定義寫在黑板上。"
+   }
+  },
+  {
+   "a": "democracy",
+   "b": "democratic",
+   "kind": "visual",
+   "score": 0.692,
+   "aZh": "n. 民主；民主制度",
+   "bZh": "adj. 民主的；民主制度的",
+   "diff": "democracy 是名詞，指民主制度；democratic 是形容詞，用來形容民主的人事物。",
+   "points": [
+    "詞性：democracy 是 n.；democratic 是 adj.",
+    "搭配：protect democracy；a democratic country",
+    "誤用：不說 a democracy country",
+    "字尾：-cy 常是名詞；-ic 常是形容詞"
+   ],
+   "tip": "修飾名詞要用 democratic，例如 a democratic country。",
+   "exA": {
+    "en": "People have fought for democracy for many years.",
+    "zh": "人們為了民主奮鬥了許多年。"
+   },
+   "exB": {
+    "en": "Students held a democratic election to choose their leader.",
+    "zh": "學生們舉行民主選舉，選出他們的領袖。"
+   }
+  },
+  {
+   "a": "deposit",
+   "b": "withdraw",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "v. 存入；n. 訂金；存款",
+   "bZh": "v. 提領；撤回",
+   "diff": "deposit 是把錢存進帳戶；withdraw 是從帳戶把錢領出來，兩個動作方向相反。",
+   "points": [
+    "方向：deposit 存入；withdraw 提領",
+    "名詞：deposit 是存款或訂金；withdrawal 是提款",
+    "搭配：deposit money into；withdraw money from",
+    "介系詞：存入用 into，領出用 from"
+   ],
+   "tip": "withdraw 的 draw 是拉出來；deposit 是放進去。",
+   "exA": {
+    "en": "Amy deposited her allowance into the bank last Friday.",
+    "zh": "Amy 上星期五把她的零用錢存進了銀行。"
+   },
+   "exB": {
+    "en": "Amy withdrew some money from the bank to buy a gift.",
+    "zh": "Amy 從銀行領了一些錢去買禮物。"
+   }
+  },
+  {
+   "a": "deserve",
+   "b": "desire",
+   "kind": "visual",
+   "score": 0.597,
+   "aZh": "v. 應得；值得",
+   "bZh": "n./v. 渴望；願望",
+   "diff": "deserve 是應該得到；desire 是強烈想要。deserve 看的是資格，desire 看的是心願。",
+   "points": [
+    "語意：deserve 是應得；desire 是想要",
+    "拼字：de-serve 對 de-sire",
+    "發音：deserve /dɪˈzɝv/；desire /dɪˈzaɪr/",
+    "搭配：deserve a prize；a strong desire"
+   ],
+   "tip": "deserve 裡有 serve（付出），付出了才應得；desire 結尾的 ire 像 fire（心裡的火）。",
+   "exA": {
+    "en": "You deserve a rest after working so hard.",
+    "zh": "你這麼努力工作，應該好好休息一下。"
+   },
+   "exB": {
+    "en": "She has a strong desire to become a doctor.",
+    "zh": "她非常渴望成為醫生。"
+   }
+  },
+  {
+   "a": "desert",
+   "b": "dessert",
+   "kind": "visual",
+   "score": 0.89,
+   "aZh": "n. 沙漠；v. 拋棄",
+   "bZh": "n. 甜點",
+   "diff": "desert 只有一個 s，dessert 有兩個 s。desert 是沙漠；dessert 是餐後甜點。",
+   "points": [
+    "拼字：de-s-ert 對 de-ss-ert",
+    "發音：名詞 desert /ˈdɛzɚt/；dessert /dɪˈzɝt/",
+    "重音：desert 重音在第一音節；dessert 在第二音節",
+    "記法：甜點想多吃一份，所以有兩個 s"
+   ],
+   "tip": "dessert 有兩個 s，像 sweet stuff（甜東西）；desert 一個 s，沙漠裡只有沙。",
+   "exA": {
+    "en": "The tourists rode camels across the hot desert.",
+    "zh": "遊客騎著駱駝穿越炎熱的沙漠。"
+   },
+   "exB": {
+    "en": "We shared a piece of cake for dessert.",
+    "zh": "我們分著吃了一塊蛋糕當甜點。"
+   }
+  },
+  {
+   "a": "damage",
+   "b": "destroy",
+   "kind": "semantic",
+   "score": 0.474,
+   "aZh": "n. 損害；v. 損壞",
+   "bZh": "v. 摧毀；破壞",
+   "diff": "damage 是造成損壞，東西還有機會修好；destroy 是徹底毀掉，無法再使用。",
+   "points": [
+    "程度：damage 是部分損壞；destroy 是完全毀壞",
+    "詞性：damage 也是不可數名詞；destroy 的名詞是 destruction",
+    "搭配：damage a car；destroy a building",
+    "例子：屋頂受損用 damage，整棟燒光用 destroy"
+   ],
+   "tip": "damage 還修得好；destroy 就什麼都不剩了。",
+   "exA": {
+    "en": "The storm damaged the roof, but we could still repair it.",
+    "zh": "暴風雨損壞了屋頂，但我們還修得好。"
+   },
+   "exB": {
+    "en": "The fire destroyed the whole house in just one hour.",
+    "zh": "那場火在一個小時內就燒毀了整棟房子。"
+   }
+  },
+  {
+   "a": "detect",
+   "b": "discover",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "v. 察覺；偵測",
+   "bZh": "v. 發現；發覺",
+   "diff": "detect 是察覺原本不明顯的跡象，或用儀器偵測出來；discover 是找到原本不知道的人事物。",
+   "points": [
+    "對象：detect 是跡象、訊號；discover 是新事物",
+    "方式：detect 常靠儀器或觀察；discover 常靠探索",
+    "搭配：detect smoke；discover a new island",
+    "名詞：detection 偵測；discovery 發現"
+   ],
+   "tip": "detect 用感測；discover 用探索。",
+   "exA": {
+    "en": "The smoke alarm can detect a small fire quickly.",
+    "zh": "煙霧警報器能很快偵測到小火苗。"
+   },
+   "exB": {
+    "en": "Scientists discovered a new kind of fish in the deep sea.",
+    "zh": "科學家在深海發現了一種新的魚。"
+   }
+  },
+  {
+   "a": "decide",
+   "b": "determine",
+   "kind": "semantic",
+   "score": 0.89,
+   "aZh": "v. 決定；下定決心",
+   "bZh": "v. 決定；確定；下定決心",
+   "diff": "decide 是做出選擇，最常用；determine 除了下決心，還可指經過調查後確定答案或原因。",
+   "points": [
+    "語意：decide 是選擇；determine 是查明或確定",
+    "句型：decide to V；determine to V 語氣更堅定",
+    "搭配：decide what to do；determine the cause",
+    "語氣：determine 較正式"
+   ],
+   "tip": "決定要做什麼用 decide；查出原因用 determine。",
+   "exA": {
+    "en": "Amy decided to join the school choir this year.",
+    "zh": "Amy 決定今年加入學校合唱團。"
+   },
+   "exB": {
+    "en": "The doctor tried to determine the cause of the pain.",
+    "zh": "醫生試著查明疼痛的原因。"
+   }
+  },
+  {
+   "a": "devil",
+   "b": "evil",
+   "kind": "visual",
+   "score": 0.727,
+   "aZh": "n. 惡魔；魔鬼",
+   "bZh": "adj. 邪惡的；n. 邪惡",
+   "diff": "devil 就是 d + evil。devil 是名詞，指惡魔；evil 是邪惡，可當形容詞或名詞。",
+   "points": [
+    "拼字：d + evil = devil",
+    "詞性：devil 是 n.；evil 是 adj. 或 n.",
+    "搭配：the devil；an evil plan",
+    "發音：devil /ˈdɛvəl/；evil /ˈiːvəl/"
+   ],
+   "tip": "devil 就是在 evil 前面加一個 d。",
+   "exA": {
+    "en": "In the story, the devil tried to trick the poor farmer.",
+    "zh": "故事裡，魔鬼想欺騙那位窮農夫。"
+   },
+   "exB": {
+    "en": "The evil king took everything from the village.",
+    "zh": "那位邪惡的國王奪走了村子的一切。"
+   }
+  },
+  {
+   "a": "dim",
+   "b": "dime",
+   "kind": "visual",
+   "score": 0.725,
+   "aZh": "adj. 昏暗的；v. 使變暗",
+   "bZh": "n. 十分硬幣",
+   "diff": "dime 比 dim 多一個 e。dim 是昏暗的；dime 是美國的十分硬幣。",
+   "points": [
+    "拼字：dim + e = dime",
+    "發音：dim /dɪm/；dime /daɪm/",
+    "搭配：a dim light；a dime",
+    "詞性：dim 是 adj. 或 v.；dime 是 n."
+   ],
+   "tip": "dime 多了不發音的 e，讓 i 念成長音，像 time。",
+   "exA": {
+    "en": "The candle gave only a dim light in the room.",
+    "zh": "蠟燭只讓房間有一點昏暗的光。"
+   },
+   "exB": {
+    "en": "The coin was a dime, worth ten cents.",
+    "zh": "那枚硬幣是十分硬幣，價值十分錢。"
+   }
+  },
+  {
+   "a": "dip",
+   "b": "drip",
+   "kind": "visual",
+   "score": 0.649,
+   "aZh": "v. 浸；蘸；n. 下降",
+   "bZh": "v. 滴下；n. 水滴",
+   "diff": "drip 比 dip 多一個 r。dip 是把東西放進液體再拿出來；drip 是液體一滴一滴落下。",
+   "points": [
+    "拼字：d-ip 對 d-r-ip",
+    "動作：dip 是人把東西浸下去；drip 是液體自己滴落",
+    "搭配：dip bread in soup；drip from the roof",
+    "詞性：drip 也可當 n.，表示水滴"
+   ],
+   "tip": "drip 的 r 像水滴拖出的尾巴；dip 是把東西沾一下。",
+   "exA": {
+    "en": "Amy dipped her brush into the blue paint.",
+    "zh": "Amy 把畫筆蘸進藍色顏料裡。"
+   },
+   "exB": {
+    "en": "Water dripped from the roof after the rain.",
+    "zh": "雨後，水從屋頂一滴一滴落下。"
+   }
+  },
+  {
+   "a": "desk",
+   "b": "disk",
+   "kind": "visual",
+   "score": 0.615,
+   "aZh": "n. 書桌；辦公桌",
+   "bZh": "n. 磁碟；圓盤",
+   "diff": "desk 和 disk 只差 e 和 i。desk 是書桌；disk 是磁碟，也指扁平的圓形物。",
+   "points": [
+    "拼字：d-e-sk 對 d-i-sk",
+    "發音：desk /dɛsk/；disk /dɪsk/",
+    "搭配：a school desk；a hard disk",
+    "英美：disk 在英式英文常拼成 disc"
+   ],
+   "tip": "看意思：放電腦和書本的是 desk；存資料的是 disk。",
+   "exA": {
+    "en": "Tom put his laptop on the desk near the window.",
+    "zh": "Tom 把筆記型電腦放在窗邊的書桌上。"
+   },
+   "exB": {
+    "en": "The old computer saves files on a hard disk.",
+    "zh": "那台舊電腦把檔案存在硬碟裡。"
+   }
+  },
+  {
+   "a": "dislike",
+   "b": "hate",
+   "kind": "semantic",
+   "score": 0.702,
+   "aZh": "v. 不喜歡；厭惡",
+   "bZh": "v. 討厭；憎恨",
+   "diff": "dislike 是不喜歡，語氣溫和；hate 是強烈討厭、憎恨，語氣重很多。",
+   "points": [
+    "程度：dislike 較輕；hate 很強",
+    "搭配：dislike doing；hate to do / hate doing",
+    "名詞：dislike 也可當名詞；hate 的名詞是 hate 或 hatred",
+    "語氣：對長輩或老師說 dislike 較委婉"
+   ],
+   "tip": "dislike 是「不太喜歡」；hate 是「恨透了」。",
+   "exA": {
+    "en": "Tom dislikes getting up early on cold mornings.",
+    "zh": "Tom 不喜歡在寒冷的早晨早起。"
+   },
+   "exB": {
+    "en": "Tom hates getting up early on cold mornings.",
+    "zh": "Tom 很討厭在寒冷的早晨早起。"
+   }
+  },
+  {
+   "a": "dive",
+   "b": "drive",
+   "kind": "visual",
+   "score": 0.731,
+   "aZh": "v./n. 潛水；跳水",
+   "bZh": "v. 駕駛；開車",
+   "diff": "drive 比 dive 多一個 r。dive 是潛水或跳水；drive 是開車。",
+   "points": [
+    "拼字：d-ive 對 d-r-ive",
+    "發音：dive /daɪv/；drive /draɪv/",
+    "變化：dive 過去式 dived 或 dove；drive 是 drove、driven",
+    "搭配：dive into the pool；drive a car"
+   ],
+   "tip": "drive 有 r，像 road（路）；dive 沒有 r，是往水裡跳。",
+   "exA": {
+    "en": "The children dived into the pool one by one.",
+    "zh": "孩子們一個接一個跳進游泳池。"
+   },
+   "exB": {
+    "en": "Dad drives me to school every single morning.",
+    "zh": "爸爸每天早上都開車載我去學校。"
+   }
+  },
+  {
+   "a": "deck",
+   "b": "dock",
+   "kind": "visual",
+   "score": 0.595,
+   "aZh": "n. 甲板；露臺",
+   "bZh": "n. 碼頭；船塢",
+   "diff": "deck 是船上的甲板；dock 是岸邊供船停靠的碼頭。兩字只差一個母音。",
+   "points": [
+    "位置：deck 在船上；dock 在岸上",
+    "拼字：de-ck 對 do-ck",
+    "搭配：on deck；at the dock",
+    "另義：dock 當動詞是船靠岸"
+   ],
+   "tip": "先到 dock（碼頭），再走上 deck（甲板）。",
+   "exA": {
+    "en": "The passengers stood on the deck and waved goodbye.",
+    "zh": "乘客站在甲板上揮手道別。"
+   },
+   "exB": {
+    "en": "The workers carried boxes from the dock to the truck.",
+    "zh": "工人把箱子從碼頭搬到卡車上。"
+   }
+  },
+  {
+   "a": "donkey",
+   "b": "monkey",
+   "kind": "visual",
+   "score": 0.719,
+   "aZh": "n. 驢",
+   "bZh": "n. 猴子",
+   "diff": "donkey 和 monkey 只差第一個字母，字尾都是 -key。donkey 是驢；monkey 是猴子。",
+   "points": [
+    "拼字：d-onkey 對 m-onkey",
+    "發音：donkey /ˈdɑŋki/；monkey /ˈmʌŋki/，母音不同",
+    "搭配：a donkey cart；a monkey in a tree",
+    "複數：-ey 結尾直接加 s，donkeys、monkeys"
+   ],
+   "tip": "monkey 的 mon 念 /mʌŋ/；donkey 的 don 念 /dɑŋ/。",
+   "exA": {
+    "en": "The donkey pulled a small cart along the road.",
+    "zh": "那頭驢沿著馬路拉著一輛小車。"
+   },
+   "exB": {
+    "en": "The monkey climbed up the tree and took a banana.",
+    "zh": "那隻猴子爬上樹，拿走了一根香蕉。"
+   }
+  },
+  {
+   "a": "drag",
+   "b": "pull",
+   "kind": "semantic",
+   "score": 0.555,
+   "aZh": "v. 拖；拉",
+   "bZh": "v. 拉；拖",
+   "diff": "pull 是一般的往自己這邊拉；drag 是吃力地沿著地面拖，東西很重或不情願。",
+   "points": [
+    "用力：drag 較費力；pull 較中性",
+    "路徑：drag 常貼著地面",
+    "搭配：pull a door；drag a heavy bag",
+    "延伸：drag on 拖很久；pull up 拉起"
+   ],
+   "tip": "drag 是拖著走；pull 只是拉一下。",
+   "exA": {
+    "en": "Tom dragged the heavy bag up the stairs.",
+    "zh": "Tom 把那個沉重的袋子拖上樓梯。"
+   },
+   "exB": {
+    "en": "Tom pulled the door and walked into the room.",
+    "zh": "Tom 拉開門走進房間。"
+   }
+  },
+  {
+   "a": "dramatic",
+   "b": "drastic",
+   "kind": "both",
+   "score": 0.721,
+   "aZh": "adj. 戲劇性的；顯著的",
+   "bZh": "adj. 劇烈的；極端的",
+   "diff": "dramatic 指變化明顯、令人印象深刻，也可指戲劇的；drastic 指手段或變化很激烈、極端，常有嚴重後果。",
+   "points": [
+    "語氣：dramatic 偏中性或正面；drastic 偏激烈、嚴重",
+    "搭配：dramatic change；drastic measures",
+    "另義：dramatic 也可指戲劇的",
+    "拼字：dramat-ic 對 drast-ic"
+   ],
+   "tip": "dramatic 裡有 drama（戲劇）；drastic 是手段很極端。",
+   "exA": {
+    "en": "The new coach made a dramatic change to the team.",
+    "zh": "新教練讓球隊有了顯著的改變。"
+   },
+   "exB": {
+    "en": "The city took drastic measures to stop the flood.",
+    "zh": "市政府採取了強烈的措施來阻止淹水。"
+   }
+  },
+  {
+   "a": "drip",
+   "b": "drop",
+   "kind": "semantic",
+   "score": 0.717,
+   "aZh": "v. 滴下；n. 滴",
+   "bZh": "v. 掉下；n. 一滴",
+   "diff": "drip 是液體一滴一滴、連續緩慢地落下；drop 是單獨一滴，或任何東西掉下來。",
+   "points": [
+    "對象：drip 只用於液體；drop 可用於任何東西",
+    "動作：drip 是持續滴；drop 可以只掉一次",
+    "搭配：a dripping tap；drop a book",
+    "名詞：a drop of water 一滴水；drip 多指滴水的動作或聲音"
+   ],
+   "tip": "drip 是一滴接一滴；drop 是「啪」地掉一次。",
+   "exA": {
+    "en": "Water dripped from the old tap in the kitchen all night.",
+    "zh": "廚房那個舊水龍頭整晚都在滴水。"
+   },
+   "exB": {
+    "en": "Tom dropped his phone on the hard floor by accident.",
+    "zh": "Tom 不小心把手機掉到堅硬的地板上。"
+   }
+  },
+  {
+   "a": "drugstore",
+   "b": "pharmacy",
+   "kind": "semantic",
+   "score": 0.807,
+   "aZh": "n. 藥局；雜貨店",
+   "bZh": "n. 藥局；藥學",
+   "diff": "pharmacy 專指配藥的藥局，強調藥師和處方藥；drugstore 是美式說法，除了藥也賣日用品和零食。",
+   "points": [
+    "範圍：drugstore 也賣日用品；pharmacy 專注在藥品",
+    "英美：drugstore 是美式；英式常說 chemist's",
+    "專業：pharmacy 有藥師 pharmacist",
+    "另義：pharmacy 也可指藥學"
+   ],
+   "tip": "drug（藥）+ store（店）就是 drugstore；pharmacy 是配藥的專業藥局。",
+   "exA": {
+    "en": "Jenny bought shampoo and snacks at the drugstore.",
+    "zh": "Jenny 在藥局買了洗髮精和零食。"
+   },
+   "exB": {
+    "en": "The pharmacist at the pharmacy explained how to take the medicine.",
+    "zh": "藥局的藥師說明了這種藥怎麼吃。"
+   }
+  },
+  {
+   "a": "dumb",
+   "b": "dump",
+   "kind": "visual",
+   "score": 0.684,
+   "aZh": "adj. 愚蠢的；不說話的",
+   "bZh": "v. 丟棄；傾倒",
+   "diff": "dumb 和 dump 只差最後一個字母，b 和 p。dumb 的 b 不發音；dump 是丟棄、傾倒。",
+   "points": [
+    "拼字：dum-b 對 dum-p",
+    "發音：dumb /dʌm/；dump /dʌmp/",
+    "搭配：a dumb mistake；dump trash",
+    "規則：字尾 mb 的 b 不發音，像 thumb、climb"
+   ],
+   "tip": "字尾 mb 的 b 不發音：thumb、climb、dumb。",
+   "exA": {
+    "en": "It was dumb of me to forget my umbrella.",
+    "zh": "我忘了帶傘，真是太笨了。"
+   },
+   "exB": {
+    "en": "Please do not dump your trash in the park.",
+    "zh": "請不要把垃圾丟在公園裡。"
+   }
+  },
+  {
+   "a": "dirt",
+   "b": "dust",
+   "kind": "semantic",
+   "score": 0.484,
+   "aZh": "n. 污垢；泥土",
+   "bZh": "n. 灰塵；塵土",
+   "diff": "dust 是飄浮或落在表面的細小顆粒；dirt 泛指各種髒東西，也可指鬆散的泥土。",
+   "points": [
+    "範圍：dust 是細塵；dirt 較廣，包含泥巴",
+    "狀態：dust 常在空氣中或積在表面；dirt 常沾在東西上",
+    "動詞：dust 可當動詞，表示撣灰塵；dirt 不行",
+    "搭配：a layer of dust；wipe the dirt off"
+   ],
+   "tip": "撣掉的是 dust；洗掉、擦掉的是 dirt。",
+   "exA": {
+    "en": "The children came home with dirt on their clothes.",
+    "zh": "孩子們回到家時，衣服上沾滿了泥土。"
+   },
+   "exB": {
+    "en": "A thick layer of dust covered the old piano.",
+    "zh": "一層厚厚的灰塵蓋在那架舊鋼琴上。"
+   }
+  },
+  {
+   "a": "eager",
+   "b": "eagle",
+   "kind": "visual",
+   "score": 0.63,
+   "aZh": "adj. 渴望的；熱切的",
+   "bZh": "n. 老鷹；鷹",
+   "diff": "eager 和 eagle 只差最後兩個字母的位置。eager 是渴望的；eagle 是老鷹。",
+   "points": [
+    "拼字：eag-er 對 eag-le",
+    "發音：eager /ˈiːɡɚ/；eagle /ˈiːɡəl/",
+    "詞性：eager 是 adj.；eagle 是 n.",
+    "搭配：eager to learn；a soaring eagle"
+   ],
+   "tip": "看詞性：形容人心情的是 eager；天空的老鷹是 eagle。",
+   "exA": {
+    "en": "Tom is eager to learn how to play the guitar.",
+    "zh": "Tom 很想學會彈吉他。"
+   },
+   "exB": {
+    "en": "An eagle flew high above the mountain and looked for food.",
+    "zh": "一隻老鷹在山的上空高高飛翔，尋找食物。"
+   }
+  },
+  {
+   "a": "effective",
+   "b": "efficient",
+   "kind": "semantic",
+   "score": 0.628,
+   "aZh": "adj. 有效的；有成效的",
+   "bZh": "adj. 有效率的",
+   "diff": "effective 強調能達到想要的結果；efficient 強調用較少的時間、力氣或資源完成。",
+   "points": [
+    "重點：effective 看結果；efficient 看過程是否省時省力",
+    "搭配：an effective medicine；an efficient system",
+    "理想：又 effective 又 efficient 最好",
+    "名詞：effect 效果；efficiency 效率"
+   ],
+   "tip": "effective 有 effect（效果）；efficient 講究 efficiency（效率）。",
+   "exA": {
+    "en": "This medicine is very effective against headaches and fever.",
+    "zh": "這種藥對頭痛和發燒非常有效。"
+   },
+   "exB": {
+    "en": "The efficient waiter served ten tables in one hour.",
+    "zh": "那位有效率的服務生一個小時服務了十桌客人。"
+   }
+  },
+  {
+   "a": "efficient",
+   "b": "sufficient",
+   "kind": "visual",
+   "score": 0.776,
+   "aZh": "adj. 有效率的；有能力的",
+   "bZh": "adj. 足夠的；充分的",
+   "diff": "efficient 是有效率；sufficient 是足夠。兩字結尾都是 -ficient，只差開頭的 ef- 和 suf-。",
+   "points": [
+    "拼字：ef-ficient 對 suf-ficient",
+    "發音：efficient /ɪˈfɪʃənt/；sufficient /səˈfɪʃənt/",
+    "搭配：an efficient method；sufficient time",
+    "反義：inefficient；insufficient"
+   ],
+   "tip": "sufficient 和 suffice（足夠）同源；efficient 和 effect（效果）同源。",
+   "exA": {
+    "en": "Amy found an efficient way to study for the test.",
+    "zh": "Amy 找到一個準備考試的有效率方法。"
+   },
+   "exB": {
+    "en": "We have sufficient time to finish the project.",
+    "zh": "我們有足夠的時間完成這項專題。"
+   }
+  },
+  {
+   "a": "elder",
+   "b": "elderly",
+   "kind": "visual",
+   "score": 0.709,
+   "aZh": "adj. 年長的；n. 長者",
+   "bZh": "adj. 年長的；上了年紀的",
+   "diff": "elder 是兩人之中較年長的，常用在家人之間；elderly 是形容人已經年紀大，語氣委婉。",
+   "points": [
+    "比較：elder 是兩者之中較年長的，如 my elder sister",
+    "禮貌：elderly 是委婉的「年長」，不用來比較",
+    "位置：elder 多放在名詞前；elderly 可放名詞前或接在 be 後",
+    "搭配：the elderly 指年長者"
+   ],
+   "tip": "elder 用來比較兄姊；elderly 用來形容老人家。",
+   "exA": {
+    "en": "My elder sister is studying at a university in Japan.",
+    "zh": "我姊姊在日本的一所大學讀書。"
+   },
+   "exB": {
+    "en": "The elderly woman needed help crossing the street.",
+    "zh": "那位年長的女士需要有人幫她過馬路。"
+   }
+  },
+  {
+   "a": "elect",
+   "b": "select",
+   "kind": "semantic",
+   "score": 0.819,
+   "aZh": "v. 選出；選舉",
+   "bZh": "v. 選擇；挑選",
+   "diff": "elect 是透過投票選出人擔任職位；select 是依條件或標準從中挑選，不一定要投票。",
+   "points": [
+    "方式：elect 靠投票；select 靠標準或判斷",
+    "對象：elect 多是人和職位；select 可以是任何東西",
+    "搭配：elect a president；select a gift",
+    "名詞：election 選舉；selection 選擇"
+   ],
+   "tip": "elect 用選票；select 用眼光。",
+   "exA": {
+    "en": "The class elected Kevin as its new leader last week.",
+    "zh": "上週全班選 Kevin 當新班長。"
+   },
+   "exB": {
+    "en": "Amy selected a book from the library shelf.",
+    "zh": "Amy 從圖書館的書架上挑了一本書。"
+   }
+  },
+  {
+   "a": "election",
+   "b": "selection",
+   "kind": "visual",
+   "score": 0.888,
+   "aZh": "n. 選舉",
+   "bZh": "n. 選擇；挑選",
+   "diff": "election 是投票選出人的活動；selection 是從很多東西中挑選的過程，或挑出來的東西。",
+   "points": [
+    "拼字：e-lection 對 se-lection",
+    "搭配：the election result；a wide selection of books",
+    "對象：election 選公職；selection 選物品",
+    "動詞：elect 對 select"
+   ],
+   "tip": "se- 有「分開」的意思，selection 是把好的挑出來；election 是投票。",
+   "exA": {
+    "en": "The student election will be held on Friday.",
+    "zh": "學生會選舉將在星期五舉行。"
+   },
+   "exB": {
+    "en": "The bookstore has a wide selection of comics.",
+    "zh": "這家書店有各式各樣的漫畫可以挑選。"
+   }
+  },
+  {
+   "a": "electric",
+   "b": "electricity",
+   "kind": "visual",
+   "score": 0.738,
+   "aZh": "adj. 電的；電動的",
+   "bZh": "n. 電；電力",
+   "diff": "electric 是形容詞，用來形容有電或用電的東西；electricity 是名詞，指電這種能量。",
+   "points": [
+    "詞性：electric 是 adj.；electricity 是 n.",
+    "搭配：an electric fan；save electricity",
+    "誤用：不說 save electric",
+    "另有：electrical 指與電有關的，如 electrical engineer"
+   ],
+   "tip": "要修飾東西用 electric；電本身叫 electricity。",
+   "exA": {
+    "en": "The shop near the station sells electric bikes and scooters.",
+    "zh": "車站附近那家店賣電動腳踏車和電動滑板車。"
+   },
+   "exB": {
+    "en": "The small village finally got electricity last year.",
+    "zh": "那個小村莊去年終於有電可用了。"
+   }
+  },
+  {
+   "a": "electrical",
+   "b": "electronic",
+   "kind": "visual",
+   "score": 0.622,
+   "aZh": "adj. 電力的；電氣的",
+   "bZh": "adj. 電子的；電子設備的",
+   "diff": "electrical 泛指使用電力或與電有關的；electronic 特指用電子元件運作的，如電腦、手機。",
+   "points": [
+    "範圍：electrical 較廣，包含電線、插座",
+    "對象：electronic 多指電腦、手機等電子產品",
+    "搭配：electrical wire；electronic device",
+    "名詞：electricity 電；electronics 電子學"
+   ],
+   "tip": "插座、電線是 electrical；手機、電腦是 electronic。",
+   "exA": {
+    "en": "Please check the electrical wires in the old house.",
+    "zh": "請檢查這棟老房子裡的電線。"
+   },
+   "exB": {
+    "en": "Students may not use electronic devices during the test.",
+    "zh": "考試期間，學生不可以使用電子設備。"
+   }
+  },
+  {
+   "a": "element",
+   "b": "factor",
+   "kind": "semantic",
+   "score": 0.71,
+   "aZh": "n. 元素；要素",
+   "bZh": "n. 因素；要素",
+   "diff": "element 是組成整體的基本部分；factor 是影響結果的因素，不一定屬於整體的一部分。",
+   "points": [
+    "角色：element 是構成成分；factor 是影響原因",
+    "搭配：a key element；an important factor",
+    "另義：element 還可指化學元素",
+    "例子：成功的要素用 element，影響成績的因素用 factor"
+   ],
+   "tip": "組成的東西是 element；影響結果的東西是 factor。",
+   "exA": {
+    "en": "Honesty is a key element of good teamwork.",
+    "zh": "誠實是良好團隊合作的關鍵要素。"
+   },
+   "exB": {
+    "en": "Sleep is an important factor in your test results.",
+    "zh": "睡眠是影響你考試成績的重要因素。"
+   }
+  },
+  {
+   "a": "elevator",
+   "b": "lift",
+   "kind": "semantic",
+   "score": 0.724,
+   "aZh": "n. 電梯",
+   "bZh": "n. 電梯；v. 舉起",
+   "diff": "elevator 是美式的電梯說法；lift 是英式的電梯說法，lift 當動詞還有舉起的意思。",
+   "points": [
+    "英美：elevator 是美式；lift 是英式",
+    "詞性：lift 也可當 v.，表示舉起",
+    "搭配：take the elevator；take the lift",
+    "考試：兩個都能用，全文保持一致即可"
+   ],
+   "tip": "美國人搭 elevator；英國人搭 lift。",
+   "exA": {
+    "en": "We took the elevator to the tenth floor.",
+    "zh": "我們搭電梯到十樓。"
+   },
+   "exB": {
+    "en": "The lift in the London hotel was very small.",
+    "zh": "倫敦那家旅館的電梯非常小。"
+   }
+  },
+  {
+   "a": "allow",
+   "b": "enable",
+   "kind": "semantic",
+   "score": 0.476,
+   "aZh": "v. 允許；准許",
+   "bZh": "v. 使能夠；使可行",
+   "diff": "allow 是准許某人做某事；enable 是提供條件或工具，讓事情變得可能。",
+   "points": [
+    "語意：allow 是批准；enable 是讓做得到",
+    "主詞：allow 的主詞常是有權決定的人；enable 的主詞常是工具或條件",
+    "句型：allow + 人 + to V；enable + 人 + to V",
+    "搭配：allow students to leave；enable students to learn"
+   ],
+   "tip": "allow 是點頭同意；enable 是把路鋪好。",
+   "exA": {
+    "en": "The teacher allowed us to leave school early today.",
+    "zh": "老師今天允許我們提早離開學校。"
+   },
+   "exB": {
+    "en": "The new app enables us to leave our books at home.",
+    "zh": "這個新應用程式讓我們可以不用帶書回家。"
+   }
+  },
+  {
+   "a": "engage",
+   "b": "participate",
+   "kind": "semantic",
+   "score": 0.685,
+   "aZh": "v. 參與；從事；吸引",
+   "bZh": "v. 參加；參與",
+   "diff": "participate 只表示參加活動，常接 in；engage in 強調投入並持續做，也可指吸引注意力。",
+   "points": [
+    "語氣：participate 較中性；engage 帶有投入的感覺",
+    "搭配：participate in a contest；engage in research",
+    "另義：engage 可指吸引；participate 沒有",
+    "名詞：participation 參與；engagement 投入或訂婚"
+   ],
+   "tip": "participate 是「加入」；engage 是「投入進去」。",
+   "exA": {
+    "en": "Many students engage in volunteer work after school.",
+    "zh": "許多學生放學後投入志工服務。"
+   },
+   "exB": {
+    "en": "Many students participate in the school sports day.",
+    "zh": "許多學生參加學校的運動會。"
+   }
+  },
+  {
+   "a": "enable",
+   "b": "enjoyable",
+   "kind": "visual",
+   "score": 0.678,
+   "aZh": "v. 使能夠；使可行",
+   "bZh": "adj. 令人愉快的；有趣的",
+   "diff": "enable 是動詞，使能夠；enjoyable 是形容詞，令人愉快。兩字都以 en- 開頭、-able 結尾，中間不同。",
+   "points": [
+    "拼字：en-able 對 en-joy-able",
+    "詞性：enable 是 v.；enjoyable 是 adj.",
+    "搭配：enable users to；an enjoyable trip",
+    "記法：enjoyable 裡有 joy（喜悅）"
+   ],
+   "tip": "enjoyable 裡有 joy（喜悅），是令人開心的。",
+   "exA": {
+    "en": "The app enables users to save a lot of time.",
+    "zh": "這個應用程式讓使用者能省下很多時間。"
+   },
+   "exB": {
+    "en": "It was an enjoyable evening with old friends.",
+    "zh": "那是和老朋友共度的愉快夜晚。"
+   }
+  },
+  {
+   "a": "entrance",
+   "b": "entry",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "n. 入口；進入",
+   "bZh": "n. 進入；入場；參賽作品",
+   "diff": "entrance 主要指入口的位置，也指進入的動作；entry 偏重進入的行為或許可，也指一項參賽作品或條目。",
+   "points": [
+    "位置：entrance 是門口；entry 較少指門口",
+    "搭配：the main entrance；free entry",
+    "另義：entry 是參賽作品或條目",
+    "詞源：兩者都由 enter 而來"
+   ],
+   "tip": "門在 entrance；准不准進是 entry。",
+   "exA": {
+    "en": "We waited at the main entrance of the school.",
+    "zh": "我們在學校正門口等候。"
+   },
+   "exB": {
+    "en": "Entry to the science museum is free for students.",
+    "zh": "學生進入科學博物館是免費的。"
+   }
+  },
+  {
+   "a": "envy",
+   "b": "jealous",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "n./v. 嫉妒；羨慕",
+   "bZh": "adj. 嫉妒的；吃醋的",
+   "diff": "envy 是想要別人擁有的東西；jealous 是怕自己擁有的人事物被搶走，或是吃醋。",
+   "points": [
+    "方向：envy 是羨慕別人有；jealous 是怕自己被取代",
+    "詞性：envy 是 n. 或 v.；jealous 是 adj.（envious 才是 envy 的形容詞）",
+    "搭配：envy her talent；jealous of a friend",
+    "語氣：jealous 通常更強烈"
+   ],
+   "tip": "envy 是想要別人的；jealous 是怕自己的被搶走。",
+   "exA": {
+    "en": "I envy my cousin because she plays the violin so well.",
+    "zh": "我羨慕我表妹，因為她小提琴拉得很好。"
+   },
+   "exB": {
+    "en": "Tom felt jealous when his best friend spent time with new classmates.",
+    "zh": "最好的朋友和新同學相處時，Tom 覺得吃醋。"
+   }
+  },
+  {
+   "a": "erase",
+   "b": "eraser",
+   "kind": "visual",
+   "score": 0.826,
+   "aZh": "v. 擦掉；刪除",
+   "bZh": "n. 橡皮擦；擦除工具",
+   "diff": "erase 是動詞，指擦掉；eraser 是名詞，指擦東西的工具，如橡皮擦、板擦。",
+   "points": [
+    "詞性：erase 是 v.；eraser 是 n.",
+    "字尾：-er 表示做這件事的工具",
+    "搭配：erase a mistake；a rubber eraser",
+    "誤用：不能說 use an erase"
+   ],
+   "tip": "eraser 是 erase 加 -er，就是「擦掉的工具」。",
+   "exA": {
+    "en": "Amy erased the pencil marks from her homework.",
+    "zh": "Amy 把作業上的鉛筆痕跡擦掉了。"
+   },
+   "exB": {
+    "en": "Tom borrowed an eraser from his desk mate.",
+    "zh": "Tom 向同桌借了一塊橡皮擦。"
+   }
+  },
+  {
+   "a": "excellence",
+   "b": "excellent",
+   "kind": "visual",
+   "score": 0.822,
+   "aZh": "n. 卓越；優秀",
+   "bZh": "adj. 優秀的；極好的",
+   "diff": "excellence 是名詞，指卓越的品質；excellent 是形容詞，用來形容優秀的人事物。",
+   "points": [
+    "詞性：excellence 是 n.；excellent 是 adj.",
+    "搭配：academic excellence；an excellent student",
+    "誤用：不說 an excellence student",
+    "字尾：-ence 常是名詞；-ent 常是形容詞"
+   ],
+   "tip": "修飾名詞要用 excellent：an excellent idea。",
+   "exA": {
+    "en": "The school is proud of its academic excellence.",
+    "zh": "這所學校以學業上的卓越表現為傲。"
+   },
+   "exB": {
+    "en": "Amy gave an excellent speech in English class.",
+    "zh": "Amy 在英文課上發表了一場很棒的演講。"
+   }
+  },
+  {
+   "a": "change",
+   "b": "exchange",
+   "kind": "semantic",
+   "score": 0.75,
+   "aZh": "v./n. 改變；零錢",
+   "bZh": "v./n. 交換；兌換",
+   "diff": "change 是改變，也可指換成別的；exchange 是雙方互相交換東西或想法。",
+   "points": [
+    "對象：change 是變；exchange 是雙方互換",
+    "搭配：change clothes；exchange gifts",
+    "名詞：change 也是零錢；exchange 是交流",
+    "用法：exchange A for B 是把 A 換成 B"
+   ],
+   "tip": "自己換衣服是 change；和別人互換禮物是 exchange。",
+   "exA": {
+    "en": "Please change your shoes before you enter the room.",
+    "zh": "進房間前請先換鞋。"
+   },
+   "exB": {
+    "en": "The students exchanged gifts at the class party.",
+    "zh": "學生們在班級派對上交換了禮物。"
+   }
+  },
+  {
+   "a": "exhibit",
+   "b": "exhibition",
+   "kind": "visual",
+   "score": 0.718,
+   "aZh": "v. 展出；n. 展品",
+   "bZh": "n. 展覽；展覽會",
+   "diff": "exhibition 是整場展覽活動；exhibit 是展出的單件物品，也可當動詞表示展出。",
+   "points": [
+    "範圍：exhibition 是整場展覽；exhibit 是其中一件展品",
+    "詞性：exhibit 可當 n. 或 v.；exhibition 是 n.",
+    "搭配：an art exhibition；the museum's best exhibit",
+    "字尾：-ion 表示活動或結果"
+   ],
+   "tip": "整場叫 exhibition；一件叫 exhibit。",
+   "exA": {
+    "en": "The most popular exhibit was a real dinosaur bone.",
+    "zh": "最受歡迎的展品是一根真正的恐龍骨頭。"
+   },
+   "exB": {
+    "en": "The art exhibition will last for two weeks.",
+    "zh": "這場藝術展會持續兩個星期。"
+   }
+  },
+  {
+   "a": "exception",
+   "b": "expectation",
+   "kind": "visual",
+   "score": 0.64,
+   "aZh": "n. 例外；除外的人事物",
+   "bZh": "n. 期待；預期",
+   "diff": "exception 是例外；expectation 是期待。兩字開頭都是 ex，中間不同。",
+   "points": [
+    "拼字：exc-eption 對 exp-ectation",
+    "發音：exception /ɪkˈsɛpʃən/；expectation /ˌɛkspɛkˈteɪʃən/",
+    "搭配：with the exception of；meet expectations",
+    "動詞：except 除外；expect 期待"
+   ],
+   "tip": "expectation 裡有 expect（期待）；exception 裡有 except（除外）。",
+   "exA": {
+    "en": "Everyone passed the test with the exception of Tom.",
+    "zh": "除了 Tom 之外，每個人都通過了考試。"
+   },
+   "exB": {
+    "en": "The new movie did not meet my expectations.",
+    "zh": "這部新電影沒有達到我的期待。"
+   }
+  },
+  {
+   "a": "experience",
+   "b": "experiment",
+   "kind": "visual",
+   "score": 0.656,
+   "aZh": "n. 經驗；經歷",
+   "bZh": "n. 實驗；試驗",
+   "diff": "experience 是親身經歷過的事或累積的經驗；experiment 是為了測試想法而做的實驗。",
+   "points": [
+    "意思：experience 是經歷；experiment 是實驗",
+    "拼字：experi-ence 對 experi-ment",
+    "可數：experience 表示經驗時不可數，表示經歷時可數",
+    "搭配：work experience；a science experiment"
+   ],
+   "tip": "experience 是「過去發生」的事；experiment 是「動手去做」的事。",
+   "exA": {
+    "en": "Kevin has a lot of experience in cooking.",
+    "zh": "Kevin 有很多烹飪的經驗。"
+   },
+   "exB": {
+    "en": "The class did an experiment in the science room yesterday.",
+    "zh": "全班昨天在自然教室做了一個實驗。"
+   }
+  },
+  {
+   "a": "explode",
+   "b": "explore",
+   "kind": "visual",
+   "score": 0.737,
+   "aZh": "v. 爆炸；爆發",
+   "bZh": "v. 探索；探究",
+   "diff": "explode 和 explore 只差最後一個字母，d 和 r。explode 是爆炸；explore 是探索。",
+   "points": [
+    "拼字：explo-d-e 對 explo-r-e",
+    "發音：explode /ɪkˈsploʊd/；explore /ɪkˈsplɔr/",
+    "名詞：explosion 爆炸；exploration 探索",
+    "搭配：explode with anger；explore a cave"
+   ],
+   "tip": "explode 的 d 像 dynamite（炸藥）；explore 的 r 像 road（路）。",
+   "exA": {
+    "en": "The balloon may explode if you fill it with too much air.",
+    "zh": "如果你灌太多空氣，氣球可能會爆掉。"
+   },
+   "exB": {
+    "en": "The students explored the old town on foot.",
+    "zh": "學生們徒步探索那座老城鎮。"
+   }
   }
  ]
 }
