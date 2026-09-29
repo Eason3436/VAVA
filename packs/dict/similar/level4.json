@@ -1842,6 +1842,2099 @@
     "en": "Jenny gave her teacher a bunch of flowers on Teacher's Day.",
     "zh": "Jenny 在教師節送了老師一束花。"
    }
+  },
+  {
+   "a": "boast",
+   "b": "boost",
+   "kind": "visual",
+   "score": 0.654,
+   "aZh": "v. 吹噓；自豪地擁有",
+   "bZh": "v. 提升；促進",
+   "diff": "兩字只差 a 和 o：boast 是吹噓自己，boost 是提升或促進。",
+   "points": [
+    "拼字：boast 是 -oast，boost 是 -oost",
+    "詞義：boast 是誇耀；boost 是增加、提升",
+    "搭配：boast about；boost confidence"
+   ],
+   "tip": "boast 常接 about（吹噓某事）；boost 直接接受詞（提升某物）。",
+   "exA": {
+    "en": "He often boasts about his high test scores.",
+    "zh": "他常吹噓自己考得很好。"
+   },
+   "exB": {
+    "en": "Exercise can boost your energy and improve your mood.",
+    "zh": "運動可以提升你的精力，改善心情。"
+   }
+  },
+  {
+   "a": "bond",
+   "b": "connection",
+   "kind": "semantic",
+   "score": 0.753,
+   "aZh": "n. 連結；關係",
+   "bZh": "n. 連結；關係；人脈",
+   "diff": "bond 是人與人之間的情感連結，通常很緊密；connection 泛指事物間的關聯，不一定有感情。",
+   "points": [
+    "感情：bond 多指親密的情感；connection 不一定",
+    "搭配：a strong bond between；a connection between A and B",
+    "另一義：connection 也可指人脈、轉乘班次"
+   ],
+   "tip": "bond 是心連心，connection 是有連線。",
+   "exA": {
+    "en": "There is a close bond between the two sisters.",
+    "zh": "這對姊妹感情很親密。"
+   },
+   "exB": {
+    "en": "Scientists found a connection between sleep and memory.",
+    "zh": "科學家發現睡眠和記憶力之間有關聯。"
+   }
+  },
+  {
+   "a": "bread",
+   "b": "breed",
+   "kind": "visual",
+   "score": 0.696,
+   "aZh": "n. 麵包",
+   "bZh": "v. 繁殖；培育；n. 品種",
+   "diff": "breed 是動物的繁殖或品種；bread 是麵包。兩字差在 ee 和 ea，發音也不同。",
+   "points": [
+    "拼字：breed 是 ee，bread 是 ea",
+    "發音：breed 唸 /briːd/，bread 唸 /bred/",
+    "詞性：breed 可作 v./n.；bread 是不可數名詞"
+   ],
+   "tip": "bread 的 ea 唸 /e/，像 head；breed 的 ee 唸 /iː/，像 feed。",
+   "exA": {
+    "en": "Amy has bread and milk for breakfast every morning.",
+    "zh": "Amy 每天早上吃麵包配牛奶。"
+   },
+   "exB": {
+    "en": "Some farmers breed healthy chickens for local markets.",
+    "zh": "有些農夫培育健康的雞，供應當地市場。"
+   }
+  },
+  {
+   "a": "breed",
+   "b": "raise",
+   "kind": "semantic",
+   "score": 0.502,
+   "aZh": "v. 繁殖；培育",
+   "bZh": "v. 養育；飼養；舉起",
+   "diff": "breed 是讓動物繁殖、培育品種；raise 是把動物或孩子養大，不一定涉及繁殖。",
+   "points": [
+    "重點：breed 重繁殖與品種；raise 重養大",
+    "對象：raise 也可養孩子、種作物；breed 多指動物",
+    "三態：breed-bred-bred；raise-raised-raised"
+   ],
+   "tip": "breed 是「生」，raise 是「養」。",
+   "exA": {
+    "en": "They breed horses on the farm outside town.",
+    "zh": "他們在鎮外的農場培育馬匹。"
+   },
+   "exB": {
+    "en": "My grandparents raise chickens and ducks behind their house.",
+    "zh": "我的祖父母在房子後面養雞和鴨。"
+   }
+  },
+  {
+   "a": "broke",
+   "b": "poor",
+   "kind": "semantic",
+   "score": 0.363,
+   "aZh": "adj. 身無分文",
+   "bZh": "adj. 貧窮的；差的",
+   "diff": "broke 是口語，指現在身上沒錢，多半是暫時的；poor 是長期貧窮，也可指品質差。",
+   "points": [
+    "時間：broke 是暫時；poor 是長期狀況",
+    "語氣：broke 較口語",
+    "另一義：poor 可指差勁，如 poor health；broke 沒有"
+   ],
+   "tip": "broke 是「錢花光了」，poor 是「一向沒錢」。",
+   "exA": {
+    "en": "Tom is broke this week because he bought a new bike.",
+    "zh": "Tom 這個星期沒錢了，因為他買了一輛新腳踏車。"
+   },
+   "exB": {
+    "en": "The poor family could not afford a new coat.",
+    "zh": "那個貧窮的家庭買不起新外套。"
+   }
+  },
+  {
+   "a": "brutal",
+   "b": "cruel",
+   "kind": "semantic",
+   "score": 0.544,
+   "aZh": "adj. 殘酷的；嚴酷的",
+   "bZh": "adj. 殘忍的；無情的",
+   "diff": "cruel 指故意讓人或動物痛苦；brutal 語氣更強，指粗暴、毫不留情，也可形容嚴酷的天氣。",
+   "points": [
+    "對象：cruel 常形容人的行為；brutal 也可形容天氣、事實",
+    "程度：brutal 比 cruel 更強烈",
+    "搭配：cruel to animals；a brutal winter"
+   ],
+   "tip": "cruel 是心狠，brutal 是手狠又不留情。",
+   "exA": {
+    "en": "The brutal winter made it difficult for people to travel safely.",
+    "zh": "嚴酷的冬天讓大家很難安全出門。"
+   },
+   "exB": {
+    "en": "It is cruel to leave a dog outside in the cold.",
+    "zh": "把狗留在寒冷的戶外是很殘忍的。"
+   }
+  },
+  {
+   "a": "burglar",
+   "b": "thief",
+   "kind": "semantic",
+   "score": 0.661,
+   "aZh": "n. 竊賊；入室竊賊",
+   "bZh": "n. 小偷；竊賊",
+   "diff": "thief 是偷東西的人，不限場所；burglar 特指闖進建築物偷東西的人。",
+   "points": [
+    "場所：burglar 一定是闖入屋內；thief 不限",
+    "動詞：burglar 對應 burgle；thief 對應 steal",
+    "複數：thief 的複數是 thieves"
+   ],
+   "tip": "burglar 會「破門而入」，thief 只要「偷」。",
+   "exA": {
+    "en": "The burglar entered the empty house through an unlocked window.",
+    "zh": "竊賊從一扇沒鎖的窗戶進入空屋。"
+   },
+   "exB": {
+    "en": "A thief stole Amy's bike outside the library.",
+    "zh": "一名小偷在圖書館外偷走了 Amy 的腳踏車。"
+   }
+  },
+  {
+   "a": "burglar",
+   "b": "robber",
+   "kind": "semantic",
+   "score": 0.466,
+   "aZh": "n. 竊賊；入室竊賊",
+   "bZh": "n. 搶劫者；強盜",
+   "diff": "burglar 是偷偷闖入偷東西，通常沒人在場；robber 是用威脅或暴力當面搶劫。",
+   "points": [
+    "方式：burglar 是偷；robber 是搶",
+    "動詞：burglar 對應 burgle；robber 對應 rob",
+    "搭配：burglar alarm；bank robber"
+   ],
+   "tip": "burglar 靜悄悄，robber 當面搶。",
+   "exA": {
+    "en": "The burglar took the computer while the family was on vacation.",
+    "zh": "竊賊趁那家人去度假時拿走了電腦。"
+   },
+   "exB": {
+    "en": "The bank robber ran away with a bag of money.",
+    "zh": "銀行搶匪帶著一袋錢逃走了。"
+   }
+  },
+  {
+   "a": "calculate",
+   "b": "compute",
+   "kind": "semantic",
+   "score": 0.863,
+   "aZh": "v. 計算；估算",
+   "bZh": "v. 計算；估算",
+   "diff": "兩字都是計算；compute 較正式，常指依規則或電腦運算，calculate 較日常，也用於估算。",
+   "points": [
+    "語氣：compute 較正式",
+    "搭配：calculate the cost；compute the total",
+    "名詞：calculator 是計算機；computer 是電腦"
+   ],
+   "tip": "compute 和 computer 同源：用電腦算。",
+   "exA": {
+    "en": "Students used the data to calculate the average score for each class.",
+    "zh": "學生用這些資料計算各班的平均分數。"
+   },
+   "exB": {
+    "en": "The program can compute the answer in a few seconds.",
+    "zh": "這個程式幾秒鐘就能算出答案。"
+   }
+  },
+  {
+   "a": "calculate",
+   "b": "estimate",
+   "kind": "semantic",
+   "score": 0.764,
+   "aZh": "v. 計算；估算",
+   "bZh": "v. 估計；估算",
+   "diff": "calculate 是依數字算出精確結果；estimate 是根據現有資訊推估，結果只是大概。",
+   "points": [
+    "精確度：calculate 求準確；estimate 求大概",
+    "搭配：calculate the cost；estimate the cost at",
+    "詞性：estimate 也可作名詞「估價」"
+   ],
+   "tip": "calculate 是算出來，estimate 是抓大概。",
+   "exA": {
+    "en": "We calculated the travel cost before booking the tickets.",
+    "zh": "訂票前，我們先算出了旅費。"
+   },
+   "exB": {
+    "en": "The teacher estimated that the test would take an hour.",
+    "zh": "老師估計這次考試會花一個小時。"
+   }
+  },
+  {
+   "a": "campaign",
+   "b": "propaganda",
+   "kind": "semantic",
+   "score": 0.708,
+   "aZh": "n. 活動；宣傳活動",
+   "bZh": "n. 宣傳；宣傳活動",
+   "diff": "campaign 是為某個目標有計畫地推動的活動，多為中性；propaganda 是為影響想法而做的宣傳，常帶有負面意味。",
+   "points": [
+    "語氣：campaign 中性；propaganda 常帶負面",
+    "目的：campaign 有明確目標；propaganda 重在影響想法",
+    "搭配：launch a campaign；political propaganda"
+   ],
+   "tip": "campaign 是行動，propaganda 是用來影響看法的宣傳。",
+   "exA": {
+    "en": "Our school started a campaign to encourage students to bring reusable cups.",
+    "zh": "我們學校發起活動，鼓勵學生自備環保杯。"
+   },
+   "exB": {
+    "en": "The film was full of propaganda for the government.",
+    "zh": "這部電影充滿替政府做的宣傳。"
+   }
+  },
+  {
+   "a": "candidate",
+   "b": "nominee",
+   "kind": "semantic",
+   "score": 0.786,
+   "aZh": "n. 候選人；應試者",
+   "bZh": "n. 被提名者；候選人",
+   "diff": "candidate 是參加競選或應徵的人；nominee 是已被正式提名的人，還沒確定當選。",
+   "points": [
+    "階段：nominee 是被提名；candidate 是參選者",
+    "搭配：presidential candidate；Oscar nominee",
+    "另一義：candidate 也可指考生"
+   ],
+   "tip": "nominate（提名）的人就是 nominee。",
+   "exA": {
+    "en": "Amy is a candidate for the student council president position.",
+    "zh": "Amy 是學生會會長的候選人。"
+   },
+   "exB": {
+    "en": "The nominee will give a short speech tomorrow.",
+    "zh": "那位被提名者明天會發表一段簡短的演說。"
+   }
+  },
+  {
+   "a": "ability",
+   "b": "capacity",
+   "kind": "semantic",
+   "score": 0.936,
+   "aZh": "n. 能力；才能",
+   "bZh": "n. 容量；能力",
+   "diff": "ability 是日常常用的「能力」；capacity 較正式，指能容納的量，或發展某種能力的潛力。",
+   "points": [
+    "範圍：capacity 還有容量的意思；ability 沒有",
+    "語氣：capacity 較正式",
+    "句型：capacity for + N / to V；ability to V"
+   ],
+   "tip": "capacity 是「能裝多少」，ability 是「能做什麼」。",
+   "exA": {
+    "en": "Amy has the ability to speak three languages.",
+    "zh": "Amy 會說三種語言。"
+   },
+   "exB": {
+    "en": "The hall has a capacity of five hundred people for school events.",
+    "zh": "這個禮堂最多可容納五百人舉辦校內活動。"
+   }
+  },
+  {
+   "a": "capability",
+   "b": "capacity",
+   "kind": "visual",
+   "score": 0.711,
+   "aZh": "n. 能力；本領",
+   "bZh": "n. 容量；能力",
+   "diff": "capability 是具備完成某事的條件；capacity 除了能力，還指容量，並強調潛力。",
+   "points": [
+    "範圍：capacity 可指容量；capability 只指能力",
+    "數量：capability 常用複數，指各項能力",
+    "形容詞：capable 對應 capability"
+   ],
+   "tip": "capacity 看容得下多少，capability 看做得到什麼。",
+   "exA": {
+    "en": "This phone has the capability to take clear photos at night.",
+    "zh": "這支手機有在夜間拍出清晰照片的能力。"
+   },
+   "exB": {
+    "en": "The bus has a capacity of forty passengers.",
+    "zh": "這輛公車可搭載四十名乘客。"
+   }
+  },
+  {
+   "a": "cargo",
+   "b": "freight",
+   "kind": "semantic",
+   "score": 0.649,
+   "aZh": "n. 貨物；船貨",
+   "bZh": "n. 貨運；貨物",
+   "diff": "cargo 是船、飛機上載的貨物；freight 是貨運這件事，也指運送中的貨物和運費。",
+   "points": [
+    "重點：cargo 是東西；freight 是運送方式或運費",
+    "搭配：cargo ship；freight train、air freight",
+    "詞性：freight 也可作動詞「運送」"
+   ],
+   "tip": "cargo 是載的貨，freight 是運貨這件事。",
+   "exA": {
+    "en": "The ship carried cargo from Taiwan to several nearby countries.",
+    "zh": "這艘船把貨物從臺灣運到幾個鄰近國家。"
+   },
+   "exB": {
+    "en": "Most of the freight is sent by train across the country.",
+    "zh": "大部分的貨物是用火車運送到全國各地。"
+   }
+  },
+  {
+   "a": "cargo",
+   "b": "goods",
+   "kind": "semantic",
+   "score": 0.614,
+   "aZh": "n. 貨物；船貨",
+   "bZh": "n. 商品；貨物",
+   "diff": "cargo 是運輸中的貨物；goods 是拿來買賣的商品。goods 只用複數。",
+   "points": [
+    "情境：cargo 用於運輸；goods 用於買賣",
+    "數量：goods 只用複數；cargo 單複數皆可",
+    "搭配：cargo plane；sell goods"
+   ],
+   "tip": "cargo 在路上，goods 在店裡。",
+   "exA": {
+    "en": "The workers moved the cargo from the ship to the trucks.",
+    "zh": "工人把貨物從船上搬到貨車上。"
+   },
+   "exB": {
+    "en": "This store sells goods made by local farmers.",
+    "zh": "這家店販售本地農夫做的商品。"
+   }
+  },
+  {
+   "a": "catalogue",
+   "b": "category",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 目錄；商品型錄",
+   "bZh": "n. 類別；種類",
+   "diff": "category 是把東西分成的類別；catalogue 是把項目列出來的目錄。兩字開頭都是 cat-。",
+   "points": [
+    "功能：category 是分類；catalogue 是列表",
+    "拼字：category 是 -egory；catalogue 是 -alogue",
+    "搭配：fall into a category；library catalogue"
+   ],
+   "tip": "category 是分「類」，catalogue 是列「錄」。",
+   "exA": {
+    "en": "The library catalogue helped Amy find books about climate change.",
+    "zh": "圖書館目錄幫助 Amy 找到氣候變遷相關的書。"
+   },
+   "exB": {
+    "en": "Most of the questions fall into the same category.",
+    "zh": "大部分問題都屬於同一類。"
+   }
+  },
+  {
+   "a": "category",
+   "b": "type",
+   "kind": "semantic",
+   "score": 0.588,
+   "aZh": "n. 類別；種類",
+   "bZh": "n. 種類；類型",
+   "diff": "type 是最日常的「種類」；category 較正式，強調依標準劃分出來的類別。",
+   "points": [
+    "語氣：type 較日常；category 較正式",
+    "用法：category 常用於分類、統計；type 用途更廣",
+    "搭配：different categories；this type of book"
+   ],
+   "tip": "type 是「哪一種」，category 是「歸到哪一類」。",
+   "exA": {
+    "en": "The teacher placed each book in the right category for the project.",
+    "zh": "老師把每本書分到專題作業適合的類別。"
+   },
+   "exB": {
+    "en": "What type of music do you like best?",
+    "zh": "你最喜歡哪一種音樂？"
+   }
+  },
+  {
+   "a": "cease",
+   "b": "seize",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "v. 停止；終止",
+   "bZh": "v. 抓住；奪取",
+   "diff": "cease 是停止，seize 是用力抓住。兩字發音只差尾音 /s/ 和 /z/，拼字都有 ea / ei。",
+   "points": [
+    "發音：cease 尾音是 /s/；seize 尾音是 /z/",
+    "拼字：cease 是 ea，seize 是 ei",
+    "搭配：cease operations；seize an opportunity"
+   ],
+   "tip": "cease 尾巴是 s，像 stop；seize 尾巴是 z，像拉開 zipper 一把抓住。",
+   "exA": {
+    "en": "The noise ceased after Amy closed the window.",
+    "zh": "Amy 關上窗戶後，噪音就停了。"
+   },
+   "exB": {
+    "en": "The police seized a large bag of stolen goods.",
+    "zh": "警方查扣了一大袋贓物。"
+   }
+  },
+  {
+   "a": "cease",
+   "b": "stop",
+   "kind": "semantic",
+   "score": 0.842,
+   "aZh": "v. 停止；終止",
+   "bZh": "v. 停止；阻止",
+   "diff": "stop 最日常，可用於任何動作；cease 較正式，常見於公告或書面語。",
+   "points": [
+    "語氣：cease 較正式；stop 較日常",
+    "句型：兩字後面都可接 V-ing；cease 也可接 to V",
+    "另一義：stop 可指「阻止」；cease 沒有"
+   ],
+   "tip": "日常說 stop，公告寫 cease。",
+   "exA": {
+    "en": "The factory ceased production during the holiday period.",
+    "zh": "工廠在假期期間停止生產。"
+   },
+   "exB": {
+    "en": "Please stop talking and listen to the teacher.",
+    "zh": "請不要再講話，聽老師說。"
+   }
+  },
+  {
+   "a": "celebration",
+   "b": "ceremony",
+   "kind": "semantic",
+   "score": 0.49,
+   "aZh": "n. 慶祝；慶祝活動",
+   "bZh": "n. 典禮；儀式",
+   "diff": "celebration 重在高興慶祝；ceremony 是有固定流程的正式典禮，氣氛不一定歡樂。",
+   "points": [
+    "氣氛：celebration 歡樂；ceremony 莊重",
+    "流程：ceremony 有固定程序",
+    "搭配：birthday celebration；graduation ceremony"
+   ],
+   "tip": "celebration 是「慶」，ceremony 是「典」。",
+   "exA": {
+    "en": "Our school held a celebration after the team won the game.",
+    "zh": "球隊贏得比賽後，學校舉辦了慶祝活動。"
+   },
+   "exB": {
+    "en": "Parents came to the hall to watch the graduation ceremony.",
+    "zh": "家長來到禮堂觀看畢業典禮。"
+   }
+  },
+  {
+   "a": "chamber",
+   "b": "room",
+   "kind": "semantic",
+   "score": 0.735,
+   "aZh": "n. 房間；腔室",
+   "bZh": "n. 房間；空間",
+   "diff": "room 是最一般的房間；chamber 較正式或特殊，也指身體或機器內的腔室。",
+   "points": [
+    "語氣：chamber 較正式；room 較日常",
+    "另一義：chamber 可指心臟的腔室；room 也可指空間、餘地",
+    "搭配：chamber music、chamber of commerce；bedroom"
+   ],
+   "tip": "日常說 room，chamber 用在特別的房間或腔室。",
+   "exA": {
+    "en": "The heart has four chambers that help move blood through the body.",
+    "zh": "心臟有四個腔室，幫助血液流遍全身。"
+   },
+   "exB": {
+    "en": "Our classroom has enough room for thirty students.",
+    "zh": "我們的教室有足夠的空間容納三十名學生。"
+   }
+  },
+  {
+   "a": "championship",
+   "b": "tournament",
+   "kind": "semantic",
+   "score": 0.679,
+   "aZh": "n. 錦標賽；冠軍頭銜",
+   "bZh": "n. 錦標賽；比賽",
+   "diff": "tournament 是由多場比賽組成的賽事；championship 是決定冠軍的比賽，也指冠軍頭銜。",
+   "points": [
+    "重點：championship 重冠軍；tournament 重整個賽事",
+    "搭配：win the championship；a tennis tournament",
+    "範圍：tournament 常有很多隊伍輪流比賽"
+   ],
+   "tip": "tournament 是整個比賽，championship 是拿冠軍。",
+   "exA": {
+    "en": "Amy won the championship in swimming at the school competition.",
+    "zh": "Amy 在校內比賽中贏得游泳冠軍。"
+   },
+   "exB": {
+    "en": "Our team will join a basketball tournament next month.",
+    "zh": "我們的球隊下個月會參加一場籃球錦標賽。"
+   }
+  },
+  {
+   "a": "character",
+   "b": "characteristic",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 性格；人物",
+   "bZh": "n. 特徵；adj. 特有的",
+   "diff": "character 是人的性格或故事中的人物；characteristic 是某人事物明顯的特徵。",
+   "points": [
+    "詞性：character 是 n.；characteristic 是 n./adj.",
+    "範圍：character 可指人物、文字；characteristic 是特點",
+    "搭配：main character；common characteristic"
+   ],
+   "tip": "characteristic 是 character 加上 -istic，表示「有什麼特性」。",
+   "exA": {
+    "en": "The main character in the story is a brave girl.",
+    "zh": "故事裡的主角是一個勇敢的女孩。"
+   },
+   "exB": {
+    "en": "Curiosity is a common characteristic of young children.",
+    "zh": "好奇心是年幼孩子常見的特徵。"
+   }
+  },
+  {
+   "a": "characteristic",
+   "b": "trait",
+   "kind": "semantic",
+   "score": 0.619,
+   "aZh": "n. 特徵；特色",
+   "bZh": "n. 特質；特徵",
+   "diff": "trait 多指人的性格或遺傳特徵；characteristic 可指人或事物的明顯特色。",
+   "points": [
+    "對象：trait 多用於人和動物；characteristic 也可用於地方、事物",
+    "搭配：a personality trait；a main characteristic",
+    "詞性：characteristic 也可作形容詞"
+   ],
+   "tip": "trait 是人的「特質」，characteristic 是任何東西的「特色」。",
+   "exA": {
+    "en": "Patience is an important characteristic of a good teacher.",
+    "zh": "耐心是好老師的重要特質。"
+   },
+   "exB": {
+    "en": "Honesty is one of Amy's best personality traits.",
+    "zh": "誠實是 Amy 最好的個性特質之一。"
+   }
+  },
+  {
+   "a": "characteristic",
+   "b": "feature",
+   "kind": "semantic",
+   "score": 0.555,
+   "aZh": "n. 特徵；特色",
+   "bZh": "n. 特色；特徵；專題報導",
+   "diff": "feature 是可以看見的特色或功能，常用於產品和地方；characteristic 強調事物典型的特徵。",
+   "points": [
+    "範圍：feature 常指產品功能、臉部特徵",
+    "強調：characteristic 強調典型、有代表性",
+    "搭配：safety feature；characteristic of + N"
+   ],
+   "tip": "feature 可以指出來看，characteristic 是最能代表它的特點。",
+   "exA": {
+    "en": "Bright colors are characteristic of many children's books.",
+    "zh": "鮮明的色彩是許多童書的特色。"
+   },
+   "exB": {
+    "en": "The new phone has a special safety feature.",
+    "zh": "這支新手機有一項特別的安全功能。"
+   }
+  },
+  {
+   "a": "charity",
+   "b": "clarity",
+   "kind": "visual",
+   "score": 0.75,
+   "aZh": "n. 慈善；慈善機構",
+   "bZh": "n. 清楚；清晰",
+   "diff": "兩字只差 h 和 l：charity 是慈善，clarity 是清楚、清晰。",
+   "points": [
+    "拼字：charity 是 ch-，clarity 是 cl-",
+    "詞義：charity 與幫助別人有關；clarity 與清楚有關",
+    "形容詞：charitable 是慈善的；clear 是清楚的"
+   ],
+   "tip": "clarity 像 clear（清楚）；charity 的 char 像 care（關愛）。",
+   "exA": {
+    "en": "The students raised money for a charity that helps children.",
+    "zh": "學生為一家協助兒童的慈善機構募款。"
+   },
+   "exB": {
+    "en": "The teacher explained the idea with great clarity.",
+    "zh": "老師非常清楚地解釋了這個想法。"
+   }
+  },
+  {
+   "a": "charity",
+   "b": "donation",
+   "kind": "semantic",
+   "score": 0.535,
+   "aZh": "n. 慈善；慈善機構",
+   "bZh": "n. 捐贈；捐款",
+   "diff": "donation 是捐出去的錢或東西；charity 是慈善事業或慈善機構。",
+   "points": [
+    "對象：charity 是接受幫助的機構；donation 是捐的東西",
+    "搭配：give to charity；make a donation",
+    "動詞：donate 是捐贈"
+   ],
+   "tip": "donation 是「捐的東西」，charity 是「收捐的地方」。",
+   "exA": {
+    "en": "The family gave food to charity during the holiday season.",
+    "zh": "這家人在假期期間捐食物做公益。"
+   },
+   "exB": {
+    "en": "Every donation helps the school buy new books.",
+    "zh": "每一筆捐款都能幫學校買新書。"
+   }
+  },
+  {
+   "a": "cherish",
+   "b": "treasure",
+   "kind": "semantic",
+   "score": 0.673,
+   "aZh": "v. 珍惜；珍愛",
+   "bZh": "n. 財寶；v. 珍惜",
+   "diff": "兩字作動詞都是珍惜；cherish 帶有愛護的感情，treasure 強調把它當寶貝，treasure 也常作名詞。",
+   "points": [
+    "詞性：treasure 常作名詞「寶物」；cherish 只作動詞",
+    "搭配：cherish a memory；treasure a gift",
+    "語氣：cherish 較溫柔；treasure 較強調珍貴"
+   ],
+   "tip": "treasure 是把它當寶藏，cherish 是把它捧在心上。",
+   "exA": {
+    "en": "Amy cherishes the letters her grandmother sent from abroad.",
+    "zh": "Amy 很珍惜祖母從國外寄來的信。"
+   },
+   "exB": {
+    "en": "Tom treasures the watch his father gave him.",
+    "zh": "Tom 很珍惜父親送他的手錶。"
+   }
+  },
+  {
+   "a": "bite",
+   "b": "chew",
+   "kind": "semantic",
+   "score": 0.387,
+   "aZh": "v. 咬；叮",
+   "bZh": "v. 咀嚼；嚼碎",
+   "diff": "bite 是用牙齒咬下一口；chew 是把食物在嘴裡反覆嚼碎。",
+   "points": [
+    "動作：bite 是咬一下；chew 是持續嚼",
+    "對象：bite 也可指蟲叮；chew 只用於嘴巴",
+    "三態：bite-bit-bitten；chew-chewed-chewed"
+   ],
+   "tip": "先 bite 咬下，再 chew 嚼碎。",
+   "exA": {
+    "en": "Kevin took a big bite of the apple.",
+    "zh": "Kevin 大大地咬了一口蘋果。"
+   },
+   "exB": {
+    "en": "Chew your food slowly before you swallow it.",
+    "zh": "吞下食物前，先慢慢咀嚼。"
+   }
+  },
+  {
+   "a": "choke",
+   "b": "cough",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "v. 噎住；窒息",
+   "bZh": "v. 咳嗽",
+   "diff": "choke 是被東西卡住而無法呼吸；cough 是把氣從喉嚨用力咳出來。",
+   "points": [
+    "原因：choke 是喉嚨被堵住；cough 是喉嚨不舒服",
+    "搭配：choke on food；cough loudly",
+    "拼字：cough 有不發音的 -ough，別和 choke 混在一起"
+   ],
+   "tip": "choke 是卡住了，cough 是清一清。",
+   "exA": {
+    "en": "He choked on a piece of bread at lunch.",
+    "zh": "他午餐時被一塊麵包噎到了。"
+   },
+   "exB": {
+    "en": "The smoke made everyone in the room cough.",
+    "zh": "煙讓房間裡的每個人都咳嗽。"
+   }
+  },
+  {
+   "a": "choke",
+   "b": "suffocate",
+   "kind": "semantic",
+   "score": 0.686,
+   "aZh": "v. 噎住；使窒息",
+   "bZh": "v. 使窒息；窒息",
+   "diff": "choke 是喉嚨被堵住；suffocate 是空氣不夠而窒息，範圍較廣、程度較重。",
+   "points": [
+    "原因：choke 是被異物卡住；suffocate 是缺氧",
+    "程度：suffocate 較嚴重",
+    "搭配：choke on food；suffocate in smoke"
+   ],
+   "tip": "choke 是喉嚨卡住，suffocate 是整個人沒空氣。",
+   "exA": {
+    "en": "Tom choked on water while he was laughing at the joke.",
+    "zh": "Tom 笑那個笑話時被水嗆到了。"
+   },
+   "exB": {
+    "en": "Many people nearly suffocated in the smoke of the fire.",
+    "zh": "許多人差點在火災的濃煙中窒息。"
+   }
+  },
+  {
+   "a": "choir",
+   "b": "chorus",
+   "kind": "semantic",
+   "score": 0.814,
+   "aZh": "n. 合唱團",
+   "bZh": "n. 合唱團；合唱；副歌",
+   "diff": "choir 是有組織的合唱團，常在學校或教堂；chorus 也指合唱團，還可指歌曲的副歌。",
+   "points": [
+    "發音：choir 唸 /ˈkwaɪər/；chorus 唸 /ˈkɔːrəs/",
+    "另一義：chorus 可指副歌",
+    "搭配：school choir；sing the chorus"
+   ],
+   "tip": "choir 只有合唱團；chorus 還多了副歌。",
+   "exA": {
+    "en": "Amy sings in the school choir every Friday.",
+    "zh": "Amy 每個星期五都參加學校合唱團。"
+   },
+   "exB": {
+    "en": "Everyone joined in loudly when the chorus began.",
+    "zh": "副歌一開始，大家就大聲跟著唱。"
+   }
+  },
+  {
+   "a": "circular",
+   "b": "circulate",
+   "kind": "visual",
+   "score": 0.759,
+   "aZh": "adj. 圓形的；循環的",
+   "bZh": "v. 循環；流通；傳閱",
+   "diff": "circular 是形容詞，指圓形或循環的；circulate 是動詞，指流通、傳閱。",
+   "points": [
+    "詞性：circular 是 adj.；circulate 是 v.",
+    "字尾：-ar 是形容詞；-ate 是動詞",
+    "搭配：a circular table；blood circulates"
+   ],
+   "tip": "字尾 -ate 是動詞，-ar 是形容詞。",
+   "exA": {
+    "en": "The students sat around a large circular table in the hall.",
+    "zh": "學生們圍坐在禮堂裡一張大圓桌旁。"
+   },
+   "exB": {
+    "en": "Fresh air circulates through the classroom when the windows are open.",
+    "zh": "窗戶開著時，新鮮空氣會在教室裡流通。"
+   }
+  },
+  {
+   "a": "circular",
+   "b": "round",
+   "kind": "semantic",
+   "score": 0.767,
+   "aZh": "adj. 圓形的；環狀的",
+   "bZh": "adj. 圓形的；圓的",
+   "diff": "round 是最日常的「圓的」；circular 較正式，強調圓形或環狀，也可指循環。",
+   "points": [
+    "語氣：round 日常；circular 較正式",
+    "範圍：round 可以是球形；circular 多指平面的圓",
+    "另一義：circular 可指循環的"
+   ],
+   "tip": "round 是圓的，circular 是「圓形」也是「繞一圈」。",
+   "exA": {
+    "en": "We walked along a circular path around the lake.",
+    "zh": "我們沿著環湖的圓形小徑散步。"
+   },
+   "exB": {
+    "en": "Amy put a round cake on the table.",
+    "zh": "Amy 把一個圓形蛋糕放在桌上。"
+   }
+  },
+  {
+   "a": "calculation",
+   "b": "circulation",
+   "kind": "visual",
+   "score": 0.749,
+   "aZh": "n. 計算；估算",
+   "bZh": "n. 循環；流通；發行量",
+   "diff": "兩字都以 -culation 結尾：calculation 是計算，circulation 是循環、流通。",
+   "points": [
+    "拼字：calculation 是 calc-，circulation 是 circ-",
+    "詞義：calculation 與數字有關；circulation 與繞圈流動有關",
+    "搭配：make a calculation；blood circulation"
+   ],
+   "tip": "circ 是圓（circle），繞一圈流動；calc 是計算。",
+   "exA": {
+    "en": "After a quick calculation, Amy found the cost of the trip.",
+    "zh": "Amy 快速算了一下，算出了旅行的費用。"
+   },
+   "exB": {
+    "en": "Walking every day can help improve your blood circulation.",
+    "zh": "每天散步能促進血液循環。"
+   }
+  },
+  {
+   "a": "circulate",
+   "b": "spread",
+   "kind": "semantic",
+   "score": 0.603,
+   "aZh": "v. 循環；流通；傳閱",
+   "bZh": "v. 散布；傳播",
+   "diff": "spread 是消息、疾病向外擴散；circulate 是在系統或群體中流動、傳閱，像繞圈。",
+   "points": [
+    "方向：spread 向外擴大；circulate 在範圍內流動",
+    "搭配：spread the news；circulate a notice",
+    "主詞：兩字都能用消息當主詞"
+   ],
+   "tip": "circulate 繞圈傳，spread 向外攤開。",
+   "exA": {
+    "en": "Amy circulated the notice about the trip to every class.",
+    "zh": "Amy 把校外教學的通知傳給每個班級。"
+   },
+   "exB": {
+    "en": "The news of the storm spread quickly through the town.",
+    "zh": "暴風雨的消息很快傳遍了全鎮。"
+   }
+  },
+  {
+   "a": "citizen",
+   "b": "civilian",
+   "kind": "semantic",
+   "score": 0.487,
+   "aZh": "n. 公民；市民",
+   "bZh": "n. 平民；非軍職人員",
+   "diff": "civilian 是相對軍人而言的一般人；citizen 是具有某國或某城市身分的公民。",
+   "points": [
+    "對比：civilian 對軍人；citizen 對外國人",
+    "重點：civilian 看職業；citizen 看法律身分",
+    "搭配：civilian life；a Taiwanese citizen"
+   ],
+   "tip": "civilian 不穿軍服，citizen 有國民身分。",
+   "exA": {
+    "en": "Every citizen has the right to vote at eighteen.",
+    "zh": "每位公民滿十八歲都有投票的權利。"
+   },
+   "exB": {
+    "en": "After years in the navy, he returned to civilian life.",
+    "zh": "在海軍服役多年後，他回到平民生活。"
+   }
+  },
+  {
+   "a": "civilization",
+   "b": "culture",
+   "kind": "semantic",
+   "score": 0.449,
+   "aZh": "n. 文明；文明社會",
+   "bZh": "n. 文化",
+   "diff": "civilization 指有城市、制度與文字的社會發展程度；culture 指一群人共有的習慣、藝術與信仰。",
+   "points": [
+    "範圍：civilization 指整個社會的發展；culture 指生活方式與觀念",
+    "搭配：ancient civilization；local culture",
+    "形容詞：civilization 對應 civilized；culture 對應 cultural"
+   ],
+   "tip": "civilization 看「建設」，culture 看「生活與藝術」。",
+   "exA": {
+    "en": "The museum shows how early civilization developed near rivers.",
+    "zh": "博物館展示早期文明如何在河流附近發展。"
+   },
+   "exB": {
+    "en": "Traditional food is an important part of local culture.",
+    "zh": "傳統食物是在地文化的重要一部分。"
+   }
+  },
+  {
+   "a": "clarify",
+   "b": "classify",
+   "kind": "visual",
+   "score": 0.783,
+   "aZh": "v. 澄清；說明清楚",
+   "bZh": "v. 分類；歸類",
+   "diff": "兩字只差中間幾個字母：clarify 是把話說清楚，classify 是把東西分類。",
+   "points": [
+    "拼字：clarify 是 clar-，classify 是 class-",
+    "詞根：clar- 是清楚；class 是類別",
+    "名詞：clarification 是澄清；classification 是分類"
+   ],
+   "tip": "clarify 有 clar（像 clear），classify 有 class。",
+   "exA": {
+    "en": "The teacher clarified the rules before the game began.",
+    "zh": "遊戲開始前，老師把規則說明清楚。"
+   },
+   "exB": {
+    "en": "The students classified the animals by what they eat.",
+    "zh": "學生依照動物的食性分類。"
+   }
+  },
+  {
+   "a": "clarify",
+   "b": "explain",
+   "kind": "semantic",
+   "score": 0.565,
+   "aZh": "v. 澄清；說明清楚",
+   "bZh": "v. 解釋；說明",
+   "diff": "explain 是把事情的原因或意思講明白；clarify 是把原本不清楚或有誤解的地方說清楚。",
+   "points": [
+    "前提：clarify 針對已經模糊或有誤解的內容；explain 不一定",
+    "句型：explain something to someone；clarify something for someone",
+    "搭配：clarify a point；explain the reason"
+   ],
+   "tip": "explain 是「講明白」，clarify 是「講清楚」。",
+   "exA": {
+    "en": "Please clarify your answer with one clear example.",
+    "zh": "請用一個清楚的例子把你的答案說明清楚。"
+   },
+   "exB": {
+    "en": "Can you explain why the sky turns red at sunset?",
+    "zh": "你可以解釋為什麼日落時天空會變紅嗎？"
+   }
+  },
+  {
+   "a": "clash",
+   "b": "crash",
+   "kind": "visual",
+   "score": 0.687,
+   "aZh": "n./v. 衝突；不相容",
+   "bZh": "n./v. 碰撞；墜毀；當機",
+   "diff": "clash 是意見、時間或風格互相衝突；crash 是物體猛烈撞擊，或飛機墜毀、電腦當機。",
+   "points": [
+    "拼字：clash 是 cl-，crash 是 cr-",
+    "對象：clash 多為抽象的衝突；crash 多為實際的撞擊",
+    "搭配：clash with；crash into"
+   ],
+   "tip": "clash 像上課時間衝突（class）；crash 像 car crash 撞車。",
+   "exA": {
+    "en": "The school trip clashes with my piano lesson.",
+    "zh": "校外教學的時間和我的鋼琴課衝突。"
+   },
+   "exB": {
+    "en": "The car crashed into a tree near the school gate.",
+    "zh": "那輛車撞上了校門附近的一棵樹。"
+   }
+  },
+  {
+   "a": "clash",
+   "b": "conflict",
+   "kind": "semantic",
+   "score": 0.714,
+   "aZh": "n./v. 衝突；不相容",
+   "bZh": "n. 衝突；矛盾；v. 衝突",
+   "diff": "conflict 較正式，可指長期或嚴重的對立；clash 常指一次激烈的衝突，或時間、顏色相撞。",
+   "points": [
+    "程度：conflict 可指長期矛盾；clash 較短暫",
+    "搭配：a conflict of interest；a clash of opinions",
+    "用法：兩字作動詞都常接 with"
+   ],
+   "tip": "conflict 是長期的矛盾，clash 是當下的碰撞。",
+   "exA": {
+    "en": "There was a clash between the two groups after the football match.",
+    "zh": "足球比賽後，兩群人之間發生了衝突。"
+   },
+   "exB": {
+    "en": "The two countries have been in conflict for many years.",
+    "zh": "這兩個國家已經衝突了很多年。"
+   }
+  },
+  {
+   "a": "category",
+   "b": "classification",
+   "kind": "semantic",
+   "score": 0.804,
+   "aZh": "n. 類別；種類",
+   "bZh": "n. 分類；類別",
+   "diff": "category 是分好之後的一個類別；classification 是分類的方法或過程。",
+   "points": [
+    "重點：category 是結果中的一類；classification 是分類的動作與系統",
+    "搭配：fall into a category；a system of classification",
+    "動詞：classify 是分類"
+   ],
+   "tip": "category 是「一格」，classification 是「整套分格的方式」。",
+   "exA": {
+    "en": "Most of the questions fall into the same category.",
+    "zh": "大部分問題都屬於同一類。"
+   },
+   "exB": {
+    "en": "The library uses a clear classification for its books.",
+    "zh": "圖書館用清楚的分類方式整理書籍。"
+   }
+  },
+  {
+   "a": "classify",
+   "b": "sort",
+   "kind": "semantic",
+   "score": 0.579,
+   "aZh": "v. 分類；歸類",
+   "bZh": "v. 分類；整理",
+   "diff": "sort 較日常，指把東西整理分開；classify 較正式，依特徵或標準歸入類別。",
+   "points": [
+    "語氣：sort 較口語；classify 較正式",
+    "搭配：sort the cards；classify plants",
+    "句型：classify A as B；sort A into B"
+   ],
+   "tip": "sort 是動手整理，classify 是依標準歸類。",
+   "exA": {
+    "en": "The students classified the animals by what they eat.",
+    "zh": "學生依照動物的食性分類。"
+   },
+   "exB": {
+    "en": "Please sort the old books into three piles by size.",
+    "zh": "請把舊書按大小分成三疊。"
+   }
+  },
+  {
+   "a": "coarse",
+   "b": "course",
+   "kind": "visual",
+   "score": 0.811,
+   "aZh": "adj. 粗糙的；粗俗的",
+   "bZh": "n. 課程；一道菜；球場",
+   "diff": "兩字發音相同：coarse 是粗糙或粗俗的形容詞，course 是課程、一道菜。",
+   "points": [
+    "發音：兩字都唸 /kɔːrs/",
+    "詞性：coarse 是 adj.；course 是 n.",
+    "拼字：coarse 有 oa；course 有 ou"
+   ],
+   "tip": "course 是 of course、main course 裡的那個字。",
+   "exA": {
+    "en": "The coarse sand made it difficult to build a smooth castle.",
+    "zh": "沙子很粗，很難堆出平滑的沙堡。"
+   },
+   "exB": {
+    "en": "Jenny is taking an English course this summer.",
+    "zh": "Jenny 這個夏天在上一門英文課。"
+   }
+  },
+  {
+   "a": "code",
+   "b": "password",
+   "kind": "semantic",
+   "score": 0.528,
+   "aZh": "n. 密碼；代碼",
+   "bZh": "n. 密碼；通行密語",
+   "diff": "password 是登入時輸入的密碼；code 範圍更廣，也指代碼、法規，動詞還可指寫程式。",
+   "points": [
+    "範圍：code 可指代碼、準則；password 只指登入密碼",
+    "詞性：code 也是動詞",
+    "搭配：a secret code；enter your password"
+   ],
+   "tip": "password 是開門的鑰匙，code 是一串代號。",
+   "exA": {
+    "en": "The school sent each student a code to access the online library.",
+    "zh": "學校寄給每位學生一組代碼，用來登入線上圖書館。"
+   },
+   "exB": {
+    "en": "Never tell your password to anyone, even your best friend.",
+    "zh": "絕對不要把密碼告訴任何人，即使是最好的朋友。"
+   }
+  },
+  {
+   "a": "colleague",
+   "b": "college",
+   "kind": "visual",
+   "score": 0.696,
+   "aZh": "n. 同事；同僚",
+   "bZh": "n. 大學；學院",
+   "diff": "兩字只差字尾：colleague 是一起工作的同事，college 是大學或學院。",
+   "points": [
+    "拼字：colleague 是 -league，college 是 -lege",
+    "發音：colleague 唸 /ˈkɑːliːɡ/；college 唸 /ˈkɑːlɪdʒ/",
+    "搭配：work colleague；go to college"
+   ],
+   "tip": "colleague 尾巴有 league（聯盟），是同一夥的人。",
+   "exA": {
+    "en": "My colleague helped me prepare the science lesson for our students.",
+    "zh": "我的同事幫我準備給學生上的科學課。"
+   },
+   "exB": {
+    "en": "Kevin wants to study medicine at a college in Taipei.",
+    "zh": "Kevin 想在台北的一所學院學醫。"
+   }
+  },
+  {
+   "a": "comedy",
+   "b": "comic",
+   "kind": "semantic",
+   "score": 0.594,
+   "aZh": "n. 喜劇；喜劇片",
+   "bZh": "adj. 滑稽的；喜劇的；n. 漫畫",
+   "diff": "comedy 是喜劇這種作品；comic 可作形容詞「滑稽的」，也可指漫畫書。",
+   "points": [
+    "詞性：comedy 是 n.；comic 可作 adj./n.",
+    "搭配：a romantic comedy；a comic book",
+    "相關：comedian 是喜劇演員"
+   ],
+   "tip": "comedy 是作品，comic 是形容它的樣子，或是漫畫。",
+   "exA": {
+    "en": "Our class watched a comedy together after finishing the final exam.",
+    "zh": "我們班考完期末考後一起看了一部喜劇片。"
+   },
+   "exB": {
+    "en": "Tom likes to read comic books on weekends.",
+    "zh": "Tom 週末喜歡看漫畫書。"
+   }
+  },
+  {
+   "a": "comment",
+   "b": "compliment",
+   "kind": "visual",
+   "score": 0.726,
+   "aZh": "n. 評論；意見；v. 評論",
+   "bZh": "n./v. 稱讚；恭維",
+   "diff": "comment 是對事情的意見，好壞都可以；compliment 是稱讚別人的話。兩字只差 pli。",
+   "points": [
+    "拼字：compliment 比 comment 多 pli",
+    "詞義：comment 中性；compliment 一定是好話",
+    "搭配：comment on；pay someone a compliment"
+   ],
+   "tip": "compliment 裡有 li（like），是好聽的話。",
+   "exA": {
+    "en": "The teacher wrote a helpful comment on Kevin's English essay.",
+    "zh": "老師在 Kevin 的英文作文上寫了一則有幫助的評語。"
+   },
+   "exB": {
+    "en": "Amy received a nice compliment on her new haircut.",
+    "zh": "Amy 的新髮型得到了一句很棒的稱讚。"
+   }
+  },
+  {
+   "a": "comment",
+   "b": "remark",
+   "kind": "semantic",
+   "score": 0.738,
+   "aZh": "n. 評論；意見",
+   "bZh": "n. 評論；話語；v. 評論",
+   "diff": "remark 是隨口說出的簡短評論；comment 可以是較完整的意見或評語，也可寫在文字上。",
+   "points": [
+    "長度：remark 較短；comment 可長可短",
+    "形式：comment 也可以是寫下來的評語",
+    "搭配：make a remark；leave a comment"
+   ],
+   "tip": "remark 是順口一句，comment 是針對某事的意見。",
+   "exA": {
+    "en": "Several students commented on the new library during the class meeting.",
+    "zh": "幾位學生在班會上談了對新圖書館的看法。"
+   },
+   "exB": {
+    "en": "Her remark about the weather made everyone laugh.",
+    "zh": "她對天氣說的那句話讓大家都笑了。"
+   }
+  },
+  {
+   "a": "commerce",
+   "b": "trade",
+   "kind": "semantic",
+   "score": 0.647,
+   "aZh": "n. 商業；貿易",
+   "bZh": "n. 貿易；交易；v. 交換",
+   "diff": "commerce 泛指商業活動，較正式；trade 指商品的買賣交換，也可指某種行業或技藝。",
+   "points": [
+    "範圍：commerce 較廣；trade 較具體",
+    "另一義：trade 可指行業、手藝，也可作動詞「交換」",
+    "搭配：online commerce；foreign trade"
+   ],
+   "tip": "commerce 是整個商業世界，trade 是買賣交換。",
+   "exA": {
+    "en": "Modern commerce depends on fast transport and the internet.",
+    "zh": "現代商業要靠快速的運輸和網路。"
+   },
+   "exB": {
+    "en": "Trade between the two countries has grown quickly.",
+    "zh": "這兩個國家之間的貿易成長得很快。"
+   }
+  },
+  {
+   "a": "commit",
+   "b": "committee",
+   "kind": "visual",
+   "score": 0.752,
+   "aZh": "v. 承諾；投入；犯下",
+   "bZh": "n. 委員會",
+   "diff": "兩字同源但意思不同：commit 是承諾或犯下，committee 是被委派處理事情的一群人。",
+   "points": [
+    "詞性：commit 是 v.；committee 是 n.",
+    "拼字：committee 有 mm、tt、ee",
+    "搭配：commit to；a school committee"
+   ],
+   "tip": "committee 有兩個 m、兩個 t、兩個 e。",
+   "exA": {
+    "en": "Jenny committed herself to practicing the piano every day.",
+    "zh": "Jenny 承諾自己每天練鋼琴。"
+   },
+   "exB": {
+    "en": "The school committee will decide on the new rules.",
+    "zh": "學校的委員會會決定新的規定。"
+   }
+  },
+  {
+   "a": "commit",
+   "b": "devote",
+   "kind": "semantic",
+   "score": 0.689,
+   "aZh": "v. 承諾；投入",
+   "bZh": "v. 奉獻；投入",
+   "diff": "devote 是把時間、精力用在某件事上；commit 是承諾要做，也可指犯下錯誤或罪行。",
+   "points": [
+    "句型：devote oneself to；commit oneself to",
+    "另一義：commit 可指犯罪、犯錯；devote 沒有",
+    "介系詞：兩字後面的 to 都是介系詞，接名詞或 V-ing"
+   ],
+   "tip": "devote 是獻出時間，commit 是把自己押進去。",
+   "exA": {
+    "en": "The team is committed to winning the school championship this year.",
+    "zh": "這支隊伍決心今年要贏得校內冠軍。"
+   },
+   "exB": {
+    "en": "Amy devotes an hour every evening to reading.",
+    "zh": "Amy 每天晚上花一個小時讀書。"
+   }
+  },
+  {
+   "a": "community",
+   "b": "society",
+   "kind": "semantic",
+   "score": 0.632,
+   "aZh": "n. 社區；社群",
+   "bZh": "n. 社會；協會",
+   "diff": "community 是共享地區或身分的一群人，範圍較小；society 泛指整個社會或大型團體，也可指協會。",
+   "points": [
+    "範圍：community 較小、較具體；society 範圍大",
+    "另一義：society 可指協會、社團",
+    "搭配：local community；modern society"
+   ],
+   "tip": "community 是身邊的人，society 是整個大社會。",
+   "exA": {
+    "en": "Our community has a small library that is open to everyone.",
+    "zh": "我們的社區有一間對所有人開放的小圖書館。"
+   },
+   "exB": {
+    "en": "Modern society depends more and more on technology.",
+    "zh": "現代社會越來越依賴科技。"
+   }
+  },
+  {
+   "a": "companion",
+   "b": "company",
+   "kind": "visual",
+   "score": 0.67,
+   "aZh": "n. 同伴；伴侶",
+   "bZh": "n. 公司；陪伴；同伴",
+   "diff": "companion 是同伴這個人；company 是公司，也指陪伴或同伴，表示陪伴時不可數。",
+   "points": [
+    "詞性：兩字都是名詞；company 也指「陪伴」",
+    "可數：companion 可數；company 表示陪伴時不可數",
+    "搭配：a travel companion；keep someone company"
+   ],
+   "tip": "companion 是人，company 是公司或「有人陪」。",
+   "exA": {
+    "en": "Amy brought her younger brother as a companion on the long train trip.",
+    "zh": "Amy 帶著弟弟一起搭長途火車。"
+   },
+   "exB": {
+    "en": "I was glad to have Tom's company on the long trip.",
+    "zh": "這趟長途旅行有 Tom 陪伴，我很高興。"
+   }
+  },
+  {
+   "a": "companion",
+   "b": "compassion",
+   "kind": "visual",
+   "score": 0.802,
+   "aZh": "n. 同伴；伴侶",
+   "bZh": "n. 同情；憐憫",
+   "diff": "兩字拼法接近：companion 是同伴，compassion 是同情心。",
+   "points": [
+    "拼字：companion 結尾是 -panion，compassion 結尾是 -passion",
+    "詞義：companion 是人；compassion 是感情",
+    "形容詞：compassionate 是有同情心的"
+   ],
+   "tip": "compassion 裡有 passion（感情），是心裡的同情。",
+   "exA": {
+    "en": "The new student found a kind companion for the school tour.",
+    "zh": "新同學找到一位友善的同伴，一起參加校園導覽。"
+   },
+   "exB": {
+    "en": "The nurse showed great compassion for the sick children.",
+    "zh": "護理師對生病的孩子表現出很深的同情。"
+   }
+  },
+  {
+   "a": "competition",
+   "b": "composition",
+   "kind": "visual",
+   "score": 0.836,
+   "aZh": "n. 競爭；比賽",
+   "bZh": "n. 作文；作品；組成",
+   "diff": "兩字長得很像：competition 是比賽，composition 是作文或作品。",
+   "points": [
+    "拼字：competition 中間是 -petition，composition 中間是 -position",
+    "詞義：competition 與競爭有關；composition 與寫作、組成有關",
+    "動詞：compete 是競爭；compose 是創作、組成"
+   ],
+   "tip": "compete 是比賽，compose 是創作。",
+   "exA": {
+    "en": "The school held a speech competition to encourage students to share their ideas.",
+    "zh": "學校舉辦演講比賽，鼓勵學生分享想法。"
+   },
+   "exB": {
+    "en": "Our teacher asked us to write a composition about family life.",
+    "zh": "老師要我們寫一篇關於家庭生活的作文。"
+   }
+  },
+  {
+   "a": "competition",
+   "b": "contest",
+   "kind": "semantic",
+   "score": 0.85,
+   "aZh": "n. 競爭；比賽",
+   "bZh": "n. 競賽；比賽",
+   "diff": "contest 是有規則和評審的比賽；competition 範圍更廣，也指抽象的競爭情況。",
+   "points": [
+    "範圍：competition 可指整體競爭；contest 指一場具體的比賽",
+    "搭配：a singing contest；strong competition",
+    "可數：competition 表示競爭時不可數"
+   ],
+   "tip": "contest 是一場比賽，competition 是競爭本身。",
+   "exA": {
+    "en": "There is strong competition for places on the school basketball team.",
+    "zh": "學校籃球隊的名額競爭很激烈。"
+   },
+   "exB": {
+    "en": "Jenny entered a singing contest at the school festival.",
+    "zh": "Jenny 在校慶參加了一場歌唱比賽。"
+   }
+  },
+  {
+   "a": "comparative",
+   "b": "competitive",
+   "kind": "visual",
+   "score": 0.756,
+   "aZh": "adj. 比較的；相對的",
+   "bZh": "adj. 競爭的；有競爭力的",
+   "diff": "兩字只差幾個字母：competitive 是競爭的、好勝的；comparative 是比較的、相對的。",
+   "points": [
+    "詞根：compet- 是競爭；compar- 是比較",
+    "名詞：competition 是競爭；comparison 是比較",
+    "搭配：a competitive price；a comparative study"
+   ],
+   "tip": "compete 比賽，compare 比較。",
+   "exA": {
+    "en": "The teacher gave a comparative study of two poems.",
+    "zh": "老師對兩首詩做了比較研究。"
+   },
+   "exB": {
+    "en": "The school offers competitive prices for its online courses.",
+    "zh": "這所學校的線上課程價格很有競爭力。"
+   }
+  },
+  {
+   "a": "competitor",
+   "b": "contestant",
+   "kind": "semantic",
+   "score": 0.799,
+   "aZh": "n. 競爭者；參賽者",
+   "bZh": "n. 參賽者；競爭者",
+   "diff": "contestant 是參加比賽的人，多用於競賽節目；competitor 範圍較廣，也指市場上的競爭對手。",
+   "points": [
+    "情境：contestant 用於比賽、選秀；competitor 也可用於商業",
+    "搭配：a quiz show contestant；a business competitor",
+    "動詞：compete 是競爭；contest 是爭奪"
+   ],
+   "tip": "contestant 站上舞台，competitor 在市場上。",
+   "exA": {
+    "en": "Each competitor must finish the race before noon.",
+    "zh": "每位參賽者都必須在中午前跑完。"
+   },
+   "exB": {
+    "en": "Every contestant received a small gift after the singing contest.",
+    "zh": "歌唱比賽結束後，每位參賽者都收到一份小禮物。"
+   }
+  },
+  {
+   "a": "competitor",
+   "b": "opponent",
+   "kind": "semantic",
+   "score": 0.657,
+   "aZh": "n. 競爭者；參賽者",
+   "bZh": "n. 對手；競爭者",
+   "diff": "opponent 是直接對上的一方，如球賽對手；competitor 是同場競爭的人，不一定正面對打。",
+   "points": [
+    "關係：opponent 是正面交手；competitor 是同場競爭",
+    "搭配：a debate opponent；a strong competitor",
+    "範圍：competitor 也指企業對手"
+   ],
+   "tip": "opponent 站在你對面，competitor 和你同場比。",
+   "exA": {
+    "en": "She is a strong competitor in the school debate contest.",
+    "zh": "她是校內辯論比賽中的強勁對手。"
+   },
+   "exB": {
+    "en": "Our team shook hands with the opponent after the game.",
+    "zh": "比賽結束後，我們的隊伍和對手握了手。"
+   }
+  },
+  {
+   "a": "compose",
+   "b": "comprise",
+   "kind": "semantic",
+   "score": 0.709,
+   "aZh": "v. 創作；組成",
+   "bZh": "v. 由…組成；包含",
+   "diff": "compose 是把部分組成整體，常用被動 be composed of；comprise 是整體包含各部分。",
+   "points": [
+    "句型：be composed of；comprise 直接接部分，如 The team comprises ten students",
+    "方向：compose 由部分看整體；comprise 由整體看部分",
+    "另一義：compose 還有創作、作曲的意思"
+   ],
+   "tip": "整體 comprise 部分；部分 compose 整體。",
+   "exA": {
+    "en": "The team is composed of students from three classes.",
+    "zh": "這個隊伍由三個班的學生組成。"
+   },
+   "exB": {
+    "en": "The committee comprises five teachers and four students.",
+    "zh": "這個委員會由五位老師和四位學生組成。"
+   }
+  },
+  {
+   "a": "concentrate",
+   "b": "focus",
+   "kind": "semantic",
+   "score": 0.759,
+   "aZh": "v. 專心；集中",
+   "bZh": "n. 焦點；v. 專注",
+   "diff": "兩字作動詞都是專注；focus 較口語，也常作名詞「焦點」；concentrate 較強調把心思集中在一處。",
+   "points": [
+    "詞性：focus 也是名詞；concentrate 主要是動詞",
+    "介系詞：兩字後面都接 on",
+    "語氣：focus 較簡潔口語"
+   ],
+   "tip": "focus 像相機對焦，concentrate 像把心思聚到中心。",
+   "exA": {
+    "en": "Tom concentrated on finishing his science project before dinner.",
+    "zh": "Tom 專心在晚餐前完成他的科學專題。"
+   },
+   "exB": {
+    "en": "Please focus on the questions about the reading.",
+    "zh": "請專心看關於這篇閱讀的問題。"
+   }
+  },
+  {
+   "a": "attention",
+   "b": "concentration",
+   "kind": "semantic",
+   "score": 0.74,
+   "aZh": "n. 注意；專心",
+   "bZh": "n. 專心；專注；濃度",
+   "diff": "attention 是留意或注意力；concentration 是把注意力持續集中在一件事上，也指濃度。",
+   "points": [
+    "程度：concentration 需要持續專注；attention 可能只是留意",
+    "搭配：pay attention；lose concentration",
+    "另一義：concentration 也指濃度"
+   ],
+   "tip": "attention 是「看向」，concentration 是「整個人集中」。",
+   "exA": {
+    "en": "The bright poster caught the attention of every student.",
+    "zh": "那張鮮豔的海報吸引了每位學生的注意。"
+   },
+   "exB": {
+    "en": "Good concentration helps students understand difficult lessons quickly.",
+    "zh": "專心有助於學生很快理解較難的課程。"
+   }
+  },
+  {
+   "a": "concept",
+   "b": "concert",
+   "kind": "visual",
+   "score": 0.76,
+   "aZh": "n. 概念；觀念",
+   "bZh": "n. 音樂會；演唱會",
+   "diff": "兩字只差 p 和 r：concept 是概念，concert 是音樂會。",
+   "points": [
+    "拼字：concept 是 -cept，concert 是 -cert",
+    "詞義：concept 是想法；concert 是演出",
+    "動詞：conceive 是構想"
+   ],
+   "tip": "concept 的 cept 是「取、抓」，抓住想法；concert 是一場 cert 演出。",
+   "exA": {
+    "en": "The teacher explained the concept with a simple example.",
+    "zh": "老師用一個簡單的例子解釋這個概念。"
+   },
+   "exB": {
+    "en": "Our school choir will give a concert in the park.",
+    "zh": "我們學校的合唱團將在公園辦一場音樂會。"
+   }
+  },
+  {
+   "a": "concept",
+   "b": "idea",
+   "kind": "semantic",
+   "score": 0.631,
+   "aZh": "n. 概念；觀念",
+   "bZh": "n. 想法；主意",
+   "diff": "idea 是日常的想法或主意；concept 是較抽象、有系統的概念，常用在學習和討論。",
+   "points": [
+    "語氣：idea 較日常；concept 較正式",
+    "內容：idea 可以是點子；concept 是成形的概念",
+    "搭配：a good idea；the concept of freedom"
+   ],
+   "tip": "idea 是靈光一閃，concept 是整理好的概念。",
+   "exA": {
+    "en": "Students learned the concept of equal rights in class.",
+    "zh": "學生在課堂上學到平等權利的概念。"
+   },
+   "exB": {
+    "en": "Kevin had a good idea for the school project.",
+    "zh": "Kevin 對學校專題有個好點子。"
+   }
+  },
+  {
+   "a": "conference",
+   "b": "confidence",
+   "kind": "visual",
+   "score": 0.786,
+   "aZh": "n. 會議；研討會",
+   "bZh": "n. 信心；自信",
+   "diff": "兩字長得很像：conference 是會議，confidence 是信心。",
+   "points": [
+    "拼字：conference 是 -ference，confidence 是 -fidence",
+    "詞根：fer 是帶來；fid 是相信",
+    "形容詞：confident 是有信心的"
+   ],
+   "tip": "confidence 裡有 fid（相信）；conference 裡有 fer（帶來）。",
+   "exA": {
+    "en": "Our school will hold a conference about student health.",
+    "zh": "我們學校將舉辦一場學生健康研討會。"
+   },
+   "exB": {
+    "en": "Practice gave Amy the confidence to speak in class.",
+    "zh": "練習讓 Amy 有信心在課堂上發言。"
+   }
+  },
+  {
+   "a": "conference",
+   "b": "seminar",
+   "kind": "semantic",
+   "score": 0.782,
+   "aZh": "n. 會議；研討會",
+   "bZh": "n. 研討會；研討課",
+   "diff": "conference 較大、有多位講者；seminar 規模較小，以討論和學習為主，也指大學的研討課。",
+   "points": [
+    "規模：conference 較大；seminar 較小",
+    "形式：seminar 重討論互動",
+    "搭配：an international conference；a science seminar"
+   ],
+   "tip": "conference 像大會，seminar 像小班討論。",
+   "exA": {
+    "en": "The conference on education begins at nine tomorrow.",
+    "zh": "教育研討會明天九點開始。"
+   },
+   "exB": {
+    "en": "Our teacher led a small seminar on writing skills.",
+    "zh": "我們的老師帶領了一場關於寫作技巧的小型研討會。"
+   }
+  },
+  {
+   "a": "admit",
+   "b": "confess",
+   "kind": "semantic",
+   "score": 0.725,
+   "aZh": "v. 承認；坦承",
+   "bZh": "v. 承認；坦白",
+   "diff": "admit 是承認事實或錯誤，語氣一般；confess 是說出自己做過的錯事或秘密，帶有坦白、認罪的感覺。",
+   "points": [
+    "語氣：confess 較強烈",
+    "句型：admit + V-ing / that；confess to + N / V-ing",
+    "搭配：admit a mistake；confess a crime"
+   ],
+   "tip": "admit 是「承認」，confess 是「坦白從寬」。",
+   "exA": {
+    "en": "Tom admitted that he had forgotten to bring the book.",
+    "zh": "Tom 承認自己忘了帶那本書。"
+   },
+   "exB": {
+    "en": "Amy confessed to copying her friend's answer on the test.",
+    "zh": "Amy 承認在考試時抄了朋友的答案。"
+   }
+  },
+  {
+   "a": "confidence",
+   "b": "confident",
+   "kind": "visual",
+   "score": 0.825,
+   "aZh": "n. 信心；自信",
+   "bZh": "adj. 有信心的；確信的",
+   "diff": "confidence 是名詞，confident 是形容詞，兩字只差字尾 -ce 和 -t。",
+   "points": [
+    "詞性：confidence 是 n.；confident 是 adj.",
+    "句型：have confidence in；be confident of / that",
+    "拼字：-ce 是名詞字尾，-t 是形容詞字尾"
+   ],
+   "tip": "有 confidence 的人，就會很 confident。",
+   "exA": {
+    "en": "The team has confidence in its new coach.",
+    "zh": "這支隊伍信任新教練。"
+   },
+   "exB": {
+    "en": "Jenny felt confident about her speech after weeks of practice.",
+    "zh": "練習了好幾個星期後，Jenny 對自己的演講很有信心。"
+   }
+  },
+  {
+   "a": "celebrate",
+   "b": "congratulate",
+   "kind": "semantic",
+   "score": 0.465,
+   "aZh": "v. 慶祝；歡度",
+   "bZh": "v. 祝賀；恭喜",
+   "diff": "celebrate 是慶祝某件事，常一起歡慶；congratulate 是對某人的成就說恭喜，一定有對象。",
+   "points": [
+    "受詞：celebrate 接事件；congratulate 接人",
+    "句型：congratulate someone on + N",
+    "搭配：celebrate a birthday；congratulate the winner"
+   ],
+   "tip": "慶祝事情用 celebrate，恭喜某人用 congratulate。",
+   "exA": {
+    "en": "We celebrated the end of exams with a big dinner.",
+    "zh": "我們用一頓大餐慶祝考試結束。"
+   },
+   "exB": {
+    "en": "We congratulated Amy on winning the speech contest.",
+    "zh": "我們恭喜 Amy 贏得演講比賽。"
+   }
+  },
+  {
+   "a": "congress",
+   "b": "parliament",
+   "kind": "semantic",
+   "score": 0.886,
+   "aZh": "n. 國會；議會",
+   "bZh": "n. 國會；議會",
+   "diff": "Congress 特指美國國會；parliament 多用於英國等國家的議會。兩字都是立法機構。",
+   "points": [
+    "國別：Congress 是美國；parliament 是英國等",
+    "大小寫：指美國國會時，Congress 首字母大寫",
+    "另一義：congress 也可指大型代表大會"
+   ],
+   "tip": "美國看 Congress，英國看 Parliament。",
+   "exA": {
+    "en": "The members of Congress voted on the new law last night.",
+    "zh": "國會議員昨晚對新法律投了票。"
+   },
+   "exB": {
+    "en": "The British Parliament meets in a famous building in London.",
+    "zh": "英國議會在倫敦一棟著名的建築裡開會。"
+   }
+  },
+  {
+   "a": "conference",
+   "b": "congress",
+   "kind": "both",
+   "score": 0.526,
+   "aZh": "n. 會議；研討會",
+   "bZh": "n. 國會；代表大會",
+   "diff": "conference 是討論主題的會議；congress 是美國國會，也指大型的代表大會。兩字都以 con- 開頭。",
+   "points": [
+    "主要義：conference 是會議；Congress 是國會",
+    "拼字：-ference 和 -gress 不同",
+    "搭配：a press conference；a member of Congress"
+   ],
+   "tip": "看到大寫的 Congress，想到美國國會；conference 是一般會議。",
+   "exA": {
+    "en": "Our school will hold a conference about student health.",
+    "zh": "我們學校將舉辦一場學生健康研討會。"
+   },
+   "exB": {
+    "en": "Congress discussed a new plan for public transportation.",
+    "zh": "美國國會討論了新的大眾運輸計畫。"
+   }
+  },
+  {
+   "a": "conquer",
+   "b": "overcome",
+   "kind": "semantic",
+   "score": 0.871,
+   "aZh": "v. 征服；克服",
+   "bZh": "v. 克服；戰勝",
+   "diff": "conquer 語氣較強，可指征服土地，也可指克服恐懼；overcome 主要指克服困難、問題。",
+   "points": [
+    "範圍：conquer 可指征服國家；overcome 沒有",
+    "搭配：conquer a fear；overcome a difficulty",
+    "三態：conquer 是規則變化；overcome-overcame-overcome"
+   ],
+   "tip": "conquer 像打下一座城，overcome 是爬過一道難關。",
+   "exA": {
+    "en": "Amy worked hard to conquer her fear of speaking in public.",
+    "zh": "Amy 努力克服公開演講的恐懼。"
+   },
+   "exB": {
+    "en": "Kevin tried hard to overcome many difficulties in his project.",
+    "zh": "Kevin 努力克服專題裡的許多困難。"
+   }
+  },
+  {
+   "a": "consequence",
+   "b": "result",
+   "kind": "semantic",
+   "score": 0.598,
+   "aZh": "n. 結果；後果",
+   "bZh": "n. 結果；成果",
+   "diff": "result 是最中性的結果；consequence 常指某個行動帶來、需要承擔的後果。",
+   "points": [
+    "語氣：consequence 常帶負面或嚴重意味；result 中性",
+    "搭配：face the consequences；the result of the test",
+    "數量：consequence 常用複數"
+   ],
+   "tip": "consequence 是要承擔的後果，result 只是結果。",
+   "exA": {
+    "en": "One consequence of missing class was losing important notes.",
+    "zh": "缺課的結果之一，就是漏掉重要筆記。"
+   },
+   "exB": {
+    "en": "The result of the test will be announced on Friday.",
+    "zh": "考試的結果會在星期五公布。"
+   }
+  },
+  {
+   "a": "consequence",
+   "b": "sequence",
+   "kind": "visual",
+   "score": 0.681,
+   "aZh": "n. 結果；後果",
+   "bZh": "n. 順序；一連串",
+   "diff": "兩字結尾都是 -sequence：consequence 是結果，sequence 是順序或一連串事件。",
+   "points": [
+    "拼字：consequence 比 sequence 多 con-",
+    "詞義：consequence 是後果；sequence 是次序",
+    "形容詞：consequent 是隨之而來的；sequential 是依序的"
+   ],
+   "tip": "sequence 是一個接一個，consequence 是接在後面的結果。",
+   "exA": {
+    "en": "Lack of sleep is a consequence of staying up too late.",
+    "zh": "睡眠不足是熬夜造成的結果。"
+   },
+   "exB": {
+    "en": "Please write the numbers in the correct sequence.",
+    "zh": "請把這些數字按正確的順序寫下來。"
+   }
+  },
+  {
+   "a": "conservation",
+   "b": "conservative",
+   "kind": "visual",
+   "score": 0.765,
+   "aZh": "n. 保育；保護；節約",
+   "bZh": "adj. 保守的",
+   "diff": "兩字都來自 conserve：conservation 是保育或節約，conservative 是保守、不喜歡改變的。",
+   "points": [
+    "詞性：conservation 是 n.；conservative 是 adj.",
+    "詞義：conservation 是保護；conservative 是不愛變",
+    "搭配：wildlife conservation；a conservative view"
+   ],
+   "tip": "conservation 保護自然，conservative 保守傳統。",
+   "exA": {
+    "en": "Wildlife conservation is important for the future of our planet.",
+    "zh": "野生動物保育對地球的未來很重要。"
+   },
+   "exB": {
+    "en": "My grandparents have conservative views about family life.",
+    "zh": "我的祖父母對家庭生活抱持較保守的看法。"
+   }
+  },
+  {
+   "a": "comprise",
+   "b": "consist",
+   "kind": "semantic",
+   "score": 0.748,
+   "aZh": "v. 由…組成；包含",
+   "bZh": "v. 由…組成；在於",
+   "diff": "comprise 直接接所含的部分；consist 要加 of 才能接組成部分，不能用被動。",
+   "points": [
+    "句型：comprise + N；consist of + N",
+    "被動：兩字都不用一般被動，不說 is consisted of",
+    "另一義：consist in 是「在於」"
+   ],
+   "tip": "consist 後面一定要 of，comprise 不用。",
+   "exA": {
+    "en": "The committee comprises five teachers and four students.",
+    "zh": "這個委員會由五位老師和四位學生組成。"
+   },
+   "exB": {
+    "en": "The club consists of students from three different grades.",
+    "zh": "這個社團由三個不同年級的學生組成。"
+   }
+  },
+  {
+   "a": "consist",
+   "b": "constitute",
+   "kind": "semantic",
+   "score": 0.449,
+   "aZh": "v. 由…組成；在於",
+   "bZh": "v. 構成；組成；算是",
+   "diff": "consist of 是由哪些部分組成；constitute 是這些部分構成整體，也可表示某事算是什麼。",
+   "points": [
+    "方向：整體 consist of 部分；部分 constitute 整體",
+    "句型：consist of + N；constitute + N",
+    "另一義：constitute 可指某事算是某種情況"
+   ],
+   "tip": "整體 consist of 部分，部分 constitute 整體。",
+   "exA": {
+    "en": "A healthy lunch consists of vegetables, rice, and fruit.",
+    "zh": "健康的午餐由蔬菜、米飯和水果組成。"
+   },
+   "exB": {
+    "en": "Women constitute more than half of the school's student body.",
+    "zh": "女性占了這所學校學生總數的一半以上。"
+   }
+  },
+  {
+   "a": "consistent",
+   "b": "constant",
+   "kind": "visual",
+   "score": 0.689,
+   "aZh": "adj. 一致的；持續穩定的",
+   "bZh": "adj. 持續的；不斷的",
+   "diff": "consistent 是前後一致或表現穩定；constant 是持續不斷，或一直不變。",
+   "points": [
+    "介系詞：consistent with；constant 不接 with",
+    "重點：consistent 看是否一致；constant 看有沒有中斷",
+    "名詞：consistency 是一致性；constant 也可作名詞「常數」"
+   ],
+   "tip": "consistent 是前後一致，constant 是一直在。",
+   "exA": {
+    "en": "Her answer was consistent with the facts in the report.",
+    "zh": "她的回答和報告中的事實一致。"
+   },
+   "exB": {
+    "en": "The constant noise from the road made it hard to sleep.",
+    "zh": "馬路傳來持續不斷的噪音，讓人難以入睡。"
+   }
+  },
+  {
+   "a": "constitution",
+   "b": "construction",
+   "kind": "visual",
+   "score": 0.74,
+   "aZh": "n. 憲法；體質",
+   "bZh": "n. 建造；施工",
+   "diff": "兩字長得很像：constitution 是憲法或體質，construction 是建造或施工。",
+   "points": [
+    "拼字：constitution 是 -stitu-，construction 是 -struc-",
+    "詞義：constitution 是根本法律；construction 是工程",
+    "動詞：constitute 是構成；construct 是建造"
+   ],
+   "tip": "construction 裡有 struct（結構），蓋房子；constitution 是國家的根本大法。",
+   "exA": {
+    "en": "The new constitution protects the rights of every citizen.",
+    "zh": "新憲法保障每位公民的權利。"
+   },
+   "exB": {
+    "en": "Construction of the new sports center will begin next month.",
+    "zh": "新的運動中心將於下個月開始施工。"
+   }
+  },
+  {
+   "a": "build",
+   "b": "construct",
+   "kind": "semantic",
+   "score": 0.943,
+   "aZh": "v. 建造；建立",
+   "bZh": "v. 建造；建構",
+   "diff": "build 最常用，日常都能用；construct 較正式，也可指建立論點或理論。",
+   "points": [
+    "語氣：build 日常；construct 較正式",
+    "搭配：build a house；construct an argument",
+    "三態：build-built-built；construct 是規則變化"
+   ],
+   "tip": "日常用 build，正式或抽象時用 construct。",
+   "exA": {
+    "en": "My uncle built a small wooden house near the river.",
+    "zh": "我叔叔在河邊蓋了一間小木屋。"
+   },
+   "exB": {
+    "en": "Workers will construct a new library near the school.",
+    "zh": "工人將在學校附近建造一座新圖書館。"
+   }
+  },
+  {
+   "a": "constructive",
+   "b": "destructive",
+   "kind": "visual",
+   "score": 0.729,
+   "aZh": "adj. 有建設性的",
+   "bZh": "adj. 破壞性的；有害的",
+   "diff": "constructive 是幫助改善的；destructive 是造成破壞的，兩字意思相反，只差字首。",
+   "points": [
+    "字首：con- 是一起；de- 是向下、破壞",
+    "搭配：constructive criticism；destructive behavior",
+    "名詞：construction 是建造；destruction 是破壞"
+   ],
+   "tip": "construct 是蓋起來，destruct 是拆掉。",
+   "exA": {
+    "en": "Our teacher gave constructive advice on the group project.",
+    "zh": "老師針對小組專題給了有建設性的建議。"
+   },
+   "exB": {
+    "en": "The storm had a destructive effect on the small village.",
+    "zh": "暴風雨對那個小村莊造成了破壞。"
+   }
+  },
+  {
+   "a": "construction",
+   "b": "instruction",
+   "kind": "visual",
+   "score": 0.826,
+   "aZh": "n. 建造；施工",
+   "bZh": "n. 指示；說明；教學",
+   "diff": "兩字結尾都是 -struction：construction 是建造，instruction 是說明或教學。",
+   "points": [
+    "拼字：construction 是 con-；instruction 是 in-",
+    "詞義：construction 是工程；instruction 是指示",
+    "動詞：construct 是建造；instruct 是指導"
+   ],
+   "tip": "in 是往裡教（指導），con 是一起蓋（施工）。",
+   "exA": {
+    "en": "Road construction near the school will last for two months.",
+    "zh": "學校附近的道路施工會持續兩個月。"
+   },
+   "exB": {
+    "en": "Please read the instructions carefully before you begin.",
+    "zh": "開始之前，請仔細閱讀說明。"
+   }
+  },
+  {
+   "a": "consult",
+   "b": "discuss",
+   "kind": "both",
+   "score": 0.5,
+   "aZh": "v. 請教；諮詢",
+   "bZh": "v. 討論；商討",
+   "diff": "consult 是向某人請教或查閱資料；discuss 是與人一起討論某件事。",
+   "points": [
+    "句型：consult someone about；discuss something with someone",
+    "介系詞：discuss 後面直接接話題，不接 about",
+    "對象：consult 的受詞是人或資料；discuss 的受詞是話題"
+   ],
+   "tip": "consult 的受詞是人，discuss 的受詞是事。",
+   "exA": {
+    "en": "Jenny consulted her teacher about choosing a science course.",
+    "zh": "Jenny 請教老師如何選擇自然科課程。"
+   },
+   "exB": {
+    "en": "The class discussed the plan for the school trip.",
+    "zh": "全班討論了校外教學的計畫。"
+   }
+  },
+  {
+   "a": "adviser",
+   "b": "consultant",
+   "kind": "semantic",
+   "score": 0.831,
+   "aZh": "n. 顧問；指導者",
+   "bZh": "n. 顧問",
+   "diff": "adviser 泛指提供意見或指導的人；consultant 是受聘提供專業建議的專家。",
+   "points": [
+    "身分：consultant 常受聘於公司或個人；adviser 範圍較廣",
+    "搭配：a college adviser；a business consultant",
+    "拼字：adviser 也可拼成 advisor"
+   ],
+   "tip": "consultant 是花錢請來的專家，adviser 是給意見的人。",
+   "exA": {
+    "en": "The school adviser helped Amy choose the right college.",
+    "zh": "學校的指導老師幫 Amy 選到合適的大學。"
+   },
+   "exB": {
+    "en": "The school hired a consultant to improve its library.",
+    "zh": "學校聘請了一位顧問來改善圖書館。"
+   }
+  },
+  {
+   "a": "consume",
+   "b": "costume",
+   "kind": "visual",
+   "score": 0.667,
+   "aZh": "v. 消耗；消費",
+   "bZh": "n. 服裝；戲服",
+   "diff": "兩字只差 n 和 t：consume 是消耗，costume 是服裝或戲服。",
+   "points": [
+    "拼字：consume 是 -nsume，costume 是 -stume",
+    "詞性：consume 是 v.；costume 是 n.",
+    "搭配：consume energy；a Halloween costume"
+   ],
+   "tip": "consume 是吃掉用掉，costume 是穿在身上。",
+   "exA": {
+    "en": "This heater consumes less energy than the old one.",
+    "zh": "這台暖氣比舊的那台耗電少。"
+   },
+   "exB": {
+    "en": "Amy wore a colorful costume in the school play.",
+    "zh": "Amy 在學校話劇裡穿了一件色彩鮮豔的戲服。"
+   }
+  },
+  {
+   "a": "consumer",
+   "b": "customer",
+   "kind": "semantic",
+   "score": 0.403,
+   "aZh": "n. 消費者；使用者",
+   "bZh": "n. 顧客；客戶",
+   "diff": "customer 是向某家店或公司買東西的人；consumer 是使用商品的人，範圍較廣、較正式。",
+   "points": [
+    "範圍：consumer 泛指所有消費的人；customer 是特定店家的客人",
+    "搭配：consumer rights；a regular customer",
+    "身分：consumer 不一定是購買者"
+   ],
+   "tip": "customer 對某一家店，consumer 對整個市場。",
+   "exA": {
+    "en": "Consumers often compare prices before buying a phone.",
+    "zh": "消費者買手機前常會比較價格。"
+   },
+   "exB": {
+    "en": "The shop gives a small gift to every customer.",
+    "zh": "這家店送每位顧客一份小禮物。"
+   }
+  },
+  {
+   "a": "content",
+   "b": "contest",
+   "kind": "visual",
+   "score": 0.798,
+   "aZh": "n. 內容；adj. 滿足的",
+   "bZh": "n. 競賽；v. 爭辯",
+   "diff": "兩字只差 n 和 s：content 是內容或滿足的，contest 是比賽。",
+   "points": [
+    "拼字：content 是 -ten-，contest 是 -tes-",
+    "重音：content 名詞重音在前，形容詞「滿足的」重音在後；contest 名詞重音在前，動詞在後",
+    "詞性：content 可作 n./adj./v.；contest 可作 n./v."
+   ],
+   "tip": "contest 裡有 test（測驗），是比賽；content 裡有 tent（帳篷），裡面裝的就是內容。",
+   "exA": {
+    "en": "The content of the speech was clear and easy to follow.",
+    "zh": "這場演講的內容清楚又好懂。"
+   },
+   "exB": {
+    "en": "Ten students took part in the drawing contest.",
+    "zh": "有十位學生參加了繪畫比賽。"
+   }
+  },
+  {
+   "a": "content",
+   "b": "context",
+   "kind": "visual",
+   "score": 0.731,
+   "aZh": "n. 內容；adj. 滿足的",
+   "bZh": "n. 上下文；背景",
+   "diff": "content 是裡面裝的東西；context 是前後文或事情發生的背景。",
+   "points": [
+    "拼字：content 是 -tent；context 是 -text",
+    "詞義：content 是內容；context 是脈絡",
+    "搭配：the content of a book；in this context"
+   ],
+   "tip": "context 有 text（文字），是前後文。",
+   "exA": {
+    "en": "The teacher checked the content of our reports before class.",
+    "zh": "老師上課前看了我們報告的內容。"
+   },
+   "exB": {
+    "en": "You can guess the meaning of a new word from the context.",
+    "zh": "你可以從上下文猜出新單字的意思。"
+   }
   }
  ]
 }
