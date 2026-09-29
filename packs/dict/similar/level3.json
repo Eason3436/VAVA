@@ -7552,6 +7552,1869 @@
     "en": "The loud thunder made the little dog hide under the bed.",
     "zh": "響亮的雷聲讓小狗躲到床底下。"
    }
+  },
+  {
+   "a": "location",
+   "b": "place",
+   "kind": "semantic",
+   "score": 0.803,
+   "aZh": "n. 地點；位置",
+   "bZh": "n. 地方；位置",
+   "diff": "place 是最一般的地方，也可指座位、名次；location 是某個東西所在的位置，常指經過選擇或用地圖標出的地點。",
+   "points": [
+    "範圍：place 很廣，可指地方、座位、名次；location 專指地理位置",
+    "語氣：location 較正式，place 較日常",
+    "搭配：a convenient location；take place、a quiet place"
+   ],
+   "tip": "location 讓人想到 locate（找出位置）；place 是任何一個地方。",
+   "exA": {
+    "en": "The hotel is popular because of its convenient location.",
+    "zh": "這間飯店因為位置方便而很受歡迎。"
+   },
+   "exB": {
+    "en": "This is a quiet place to read and study.",
+    "zh": "這裡是個安靜的讀書地方。"
+   }
+  },
+  {
+   "a": "loose",
+   "b": "lose",
+   "kind": "visual",
+   "score": 0.831,
+   "aZh": "adj. 鬆的；寬鬆的",
+   "bZh": "v. 失去；輸掉",
+   "diff": "lose 是動詞，表示失去或輸掉；loose 是形容詞，表示鬆的、不緊。lose 只有一個 o，loose 有兩個 o。",
+   "points": [
+    "詞性：lose 是動詞，loose 是形容詞",
+    "發音：lose 讀 /luːz/，loose 讀 /luːs/",
+    "拼字：lose 一個 o，loose 兩個 o"
+   ],
+   "tip": "lose 少一個 o，因為失去了一個。",
+   "exA": {
+    "en": "This jacket is too loose, so I need a smaller one.",
+    "zh": "這件外套太寬鬆了，所以我需要小一號的。"
+   },
+   "exB": {
+    "en": "Don't lose your ticket before you enter the museum.",
+    "zh": "進博物館之前，別弄丟你的票。"
+   }
+  },
+  {
+   "a": "liver",
+   "b": "lover",
+   "kind": "visual",
+   "score": 0.7,
+   "aZh": "n. 肝臟",
+   "bZh": "n. 愛好者；情人",
+   "diff": "liver 是肝臟；lover 是愛好者或情人。兩字只差中間的 i 和 o。",
+   "points": [
+    "拼字：liver 是 li-ver，lover 是 lo-ver",
+    "發音：liver 讀 /ˈlɪvər/，lover 讀 /ˈlʌvər/",
+    "字源：lover 來自 love"
+   ],
+   "tip": "lover 裡有 love（愛）；liver 裡有 live（活著），肝臟讓人活著。",
+   "exA": {
+    "en": "Eating too much fatty food is bad for your liver.",
+    "zh": "吃太多油膩的食物對你的肝臟不好。"
+   },
+   "exB": {
+    "en": "As a music lover, Amy listens to songs on the bus.",
+    "zh": "Amy 是個音樂愛好者，常在公車上聽歌。"
+   }
+  },
+  {
+   "a": "language",
+   "b": "luggage",
+   "kind": "visual",
+   "score": 0.567,
+   "aZh": "n. 語言",
+   "bZh": "n. 行李",
+   "diff": "language 是語言；luggage 是行李。兩字都含有 g，結尾也像，拼字容易混。",
+   "points": [
+    "拼字：language 是 lan-guage，luggage 是 lug-gage",
+    "發音：language 讀 /ˈlæŋɡwɪdʒ/，luggage 讀 /ˈlʌɡɪdʒ/",
+    "可數性：language 可數，luggage 不可數"
+   ],
+   "tip": "luggage 有雙 g，想成 lug 加 gage；language 的關鍵是 gu。",
+   "exA": {
+    "en": "English is a very useful language for traveling abroad.",
+    "zh": "英文是出國旅行時很有用的語言。"
+   },
+   "exB": {
+    "en": "Heavy luggage made it hard to climb the stairs.",
+    "zh": "沉重的行李讓人很難爬樓梯。"
+   }
+  },
+  {
+   "a": "magic",
+   "b": "magical",
+   "kind": "visual",
+   "score": 0.746,
+   "aZh": "n. 魔法；魔術；adj. 有魔力的",
+   "bZh": "adj. 魔法的；神奇的",
+   "diff": "magic 是魔法或魔術，也可當形容詞；magical 只是形容詞，強調像魔法一樣神奇、美好。",
+   "points": [
+    "詞性：magic 是名詞也是形容詞，magical 只是形容詞",
+    "搭配：magic tricks、magic wand；a magical night、a magical moment",
+    "語氣：magical 常形容美好、令人難忘的經驗"
+   ],
+   "tip": "magical 多了 -al，像 wonderful：形容美好的感覺。",
+   "exA": {
+    "en": "The magician showed a magic trick to the class.",
+    "zh": "魔術師向全班表演了一個魔術。"
+   },
+   "exB": {
+    "en": "The old castle looked magical under the moonlight.",
+    "zh": "那座古堡在月光下看起來很神奇。"
+   }
+  },
+  {
+   "a": "magician",
+   "b": "musician",
+   "kind": "visual",
+   "score": 0.658,
+   "aZh": "n. 魔術師",
+   "bZh": "n. 音樂家；音樂演奏者",
+   "diff": "magician 是表演魔術的人；musician 是演奏或創作音樂的人。兩字字尾都是 -ician，開頭不同。",
+   "points": [
+    "拼字：magic-ian 和 music-ian，前面的 magic 與 music 不同",
+    "字尾：-ian 表示從事某事的人",
+    "發音：magician 讀 /məˈdʒɪʃən/，musician 讀 /mjuˈzɪʃən/"
+   ],
+   "tip": "magician 是 magic 加 ian；musician 是 music 加 ian。",
+   "exA": {
+    "en": "The magician made a white rabbit appear from an empty hat.",
+    "zh": "魔術師讓一隻白兔從空帽子裡出現。"
+   },
+   "exB": {
+    "en": "The young musician played the violin at the concert.",
+    "zh": "那位年輕的音樂家在音樂會上拉小提琴。"
+   }
+  },
+  {
+   "a": "majority",
+   "b": "minority",
+   "kind": "both",
+   "score": 0.668,
+   "aZh": "n. 大多數；多數",
+   "bZh": "n. 少數；少數族群",
+   "diff": "majority 是人數較多的一方，通常指過半；minority 是人數較少的一方。字首 maj- 與 min- 相反。",
+   "points": [
+    "反義：maj- 是大，min- 是小",
+    "搭配：the majority of；a small minority",
+    "動詞：majority of 後接複數名詞時，動詞多用複數"
+   ],
+   "tip": "maj 像 major（大的）；min 像 minus（減、小）。",
+   "exA": {
+    "en": "The majority of the class agreed with the new plan.",
+    "zh": "班上大多數人都同意這項新計畫。"
+   },
+   "exB": {
+    "en": "Only a small minority of students disagreed with the rule.",
+    "zh": "只有一小部分學生不同意這項規定。"
+   }
+  },
+  {
+   "a": "majority",
+   "b": "most",
+   "kind": "semantic",
+   "score": 0.654,
+   "aZh": "n. 大多數；多數",
+   "bZh": "adj./pron. 大多數；大部分",
+   "diff": "majority 是名詞，前面要加 the，強調超過一半；most 直接接名詞，表示大部分，不一定強調過半。",
+   "points": [
+    "文法：the majority of + 複數名詞；most + 名詞，或 most of + the + 名詞",
+    "程度：majority 指過半，most 只表示大部分",
+    "詞性：majority 是名詞，most 可作形容詞和代名詞"
+   ],
+   "tip": "majority 前面一定有 the；most 前面不加 the。",
+   "exA": {
+    "en": "The majority of students chose the school lunch today.",
+    "zh": "今天大多數學生都選了學校午餐。"
+   },
+   "exB": {
+    "en": "Most students walk to school in our town.",
+    "zh": "在我們鎮上，大部分學生走路上學。"
+   }
+  },
+  {
+   "a": "march",
+   "b": "match",
+   "kind": "visual",
+   "score": 0.654,
+   "aZh": "n. 三月；v. 行進",
+   "bZh": "n. 比賽；火柴；v. 相配",
+   "diff": "march 是三月，也是列隊前進；match 是比賽、火柴，或指兩者相配。兩字只差 r 和 t。",
+   "points": [
+    "拼字：march 是 mar-ch，match 是 ma-tch",
+    "發音：march 讀 /mɑːrtʃ/，match 讀 /mætʃ/",
+    "搭配：in March、march through the streets；a football match、match colors"
+   ],
+   "tip": "march 的 r 想成 row（一排排走）；match 的 t 想成 team（比賽）。",
+   "exA": {
+    "en": "The students marched across the field during practice.",
+    "zh": "學生在練習時列隊走過操場。"
+   },
+   "exB": {
+    "en": "Our team won the basketball match last Friday.",
+    "zh": "上週五我們的隊伍贏了籃球比賽。"
+   }
+  },
+  {
+   "a": "marker",
+   "b": "market",
+   "kind": "visual",
+   "score": 0.752,
+   "aZh": "n. 記號筆；標記物",
+   "bZh": "n. 市場；市集",
+   "diff": "marker 是記號筆或標記物；market 是市場。兩字只差結尾的 -er 和 -et。",
+   "points": [
+    "拼字：marker 結尾是 -er，market 結尾是 -et",
+    "字源：marker 來自 mark（記號），market 是買賣的地方",
+    "發音：marker 讀 /ˈmɑːrkər/，market 讀 /ˈmɑːrkɪt/"
+   ],
+   "tip": "marker 是 mark 加 er；market 是買菜、買東西的地方。",
+   "exA": {
+    "en": "Amy wrote her name on the box with a black marker.",
+    "zh": "Amy 用黑色記號筆把名字寫在盒子上。"
+   },
+   "exB": {
+    "en": "We buy fresh fruit at the night market every weekend.",
+    "zh": "我們每個週末都在夜市買新鮮水果。"
+   }
+  },
+  {
+   "a": "major",
+   "b": "mayor",
+   "kind": "visual",
+   "score": 0.683,
+   "aZh": "adj. 主要的；重大的；n. 主修科目",
+   "bZh": "n. 市長；鎮長",
+   "diff": "major 是主要的、重大的，也指大學主修；mayor 是市長。兩字字形只差 j 和 y，發音也不同。",
+   "points": [
+    "拼字：major 有 j，mayor 有 y",
+    "發音：major 讀 /ˈmeɪdʒər/，mayor 讀 /ˈmeɪər/",
+    "詞性：major 可作形容詞、名詞、動詞，mayor 只是名詞"
+   ],
+   "tip": "major 的 maj- 是「大」，majority 也是；mayor 是市長。",
+   "exA": {
+    "en": "Traffic is a major problem in big cities.",
+    "zh": "交通是大城市的一個重大問題。"
+   },
+   "exB": {
+    "en": "The mayor of our town opened the new library today.",
+    "zh": "我們鎮的鎮長今天為新圖書館揭幕。"
+   }
+  },
+  {
+   "a": "meantime",
+   "b": "meanwhile",
+   "kind": "visual",
+   "score": 0.635,
+   "aZh": "n. 其間；同時",
+   "bZh": "adv. 同時；在此期間",
+   "diff": "兩字意思接近。meanwhile 是副詞，可單獨放在句首；meantime 是名詞，常用在 in the meantime。",
+   "points": [
+    "詞性：meanwhile 是副詞，meantime 是名詞",
+    "搭配：Meanwhile, ...；in the meantime",
+    "句型：meantime 前面通常要有 in the"
+   ],
+   "tip": "meanwhile 有 while（一段時間）；meantime 有 time（時間），要配 in the。",
+   "exA": {
+    "en": "The bus will arrive soon; in the meantime, please wait here.",
+    "zh": "公車很快就會到；在此期間，請在這裡等候。"
+   },
+   "exB": {
+    "en": "Mom is cooking dinner. Meanwhile, I am setting the table.",
+    "zh": "媽媽在煮晚餐，同時我在擺桌子。"
+   }
+  },
+  {
+   "a": "medal",
+   "b": "metal",
+   "kind": "visual",
+   "score": 0.654,
+   "aZh": "n. 獎牌；勳章",
+   "bZh": "n. 金屬",
+   "diff": "medal 是獎牌；metal 是金屬。兩字只差 d 和 t，在美式發音中聽起來很像。",
+   "points": [
+    "拼字：medal 是 d，metal 是 t",
+    "發音：美式發音中兩字聽起來很像，要看上下文",
+    "搭配：win a medal；a metal box"
+   ],
+   "tip": "medal 是比賽得到的；metal 是鐵、鋼這類材料。",
+   "exA": {
+    "en": "Amy won a gold medal in the school swimming contest.",
+    "zh": "Amy 在學校游泳比賽中贏得金牌。"
+   },
+   "exB": {
+    "en": "The spoon is made of metal, not plastic.",
+    "zh": "這支湯匙是金屬做的，不是塑膠。"
+   }
+  },
+  {
+   "a": "dissolve",
+   "b": "melt",
+   "kind": "semantic",
+   "score": 0.375,
+   "aZh": "v. 溶解；解散",
+   "bZh": "v. 融化；熔化",
+   "diff": "melt 是固體受熱變成液體，如冰、奶油；dissolve 是固體溶入液體中而消失，如糖、鹽溶在水裡。",
+   "points": [
+    "原因：melt 靠加熱，dissolve 靠溶進液體",
+    "例子：ice melts；sugar dissolves in water",
+    "詞性：兩字都是動詞，可作及物與不及物"
+   ],
+   "tip": "melt 是被熱融掉；dissolve 是被水吃掉。",
+   "exA": {
+    "en": "Stir the tea until the sugar dissolves completely.",
+    "zh": "把茶攪拌到糖完全溶解為止。"
+   },
+   "exB": {
+    "en": "The ice began to melt when the sun came out.",
+    "zh": "太陽出來後，冰開始融化。"
+   }
+  },
+  {
+   "a": "amend",
+   "b": "mend",
+   "kind": "visual",
+   "score": 0.777,
+   "aZh": "v. 修正；修改",
+   "bZh": "v. 修理；修補",
+   "diff": "mend 是修補破損的東西，也可指修復關係；amend 是修改法律、文件或計畫的內容，使它更好。",
+   "points": [
+    "對象：mend 接衣服、椅子、關係；amend 接法律、規定、文件",
+    "語氣：amend 較正式",
+    "拼字：amend 比 mend 多一個開頭的 a"
+   ],
+   "tip": "amend 是改條文；mend 是補東西。",
+   "exA": {
+    "en": "The government plans to amend the traffic rules next year.",
+    "zh": "政府打算明年修改交通規則。"
+   },
+   "exB": {
+    "en": "Grandma sits by the window to mend our old socks.",
+    "zh": "奶奶坐在窗邊縫補我們的舊襪子。"
+   }
+  },
+  {
+   "a": "fix",
+   "b": "mend",
+   "kind": "semantic",
+   "score": 0.728,
+   "aZh": "v. 修理；安排",
+   "bZh": "v. 修補；修復",
+   "diff": "fix 是最常用的修理，也可指解決問題、安排；mend 多指縫補、修補破損的小東西，也可指修復關係，語氣較舊式。",
+   "points": [
+    "範圍：fix 範圍最廣，可修機器、問題；mend 多用於布料、小物品",
+    "語氣：fix 口語自然，mend 較舊式",
+    "延伸：fix 還可指安排時間，mend 沒有這個意思"
+   ],
+   "tip": "fix 什麼都能修；mend 多半是縫縫補補。",
+   "exA": {
+    "en": "Dad will fix the broken bike this weekend.",
+    "zh": "爸爸這個週末會修好那輛壞掉的腳踏車。"
+   },
+   "exB": {
+    "en": "Amy learned to mend her torn jacket with a needle and thread.",
+    "zh": "Amy 學會用針線縫補她破掉的外套。"
+   }
+  },
+  {
+   "a": "mend",
+   "b": "repair",
+   "kind": "semantic",
+   "score": 0.823,
+   "aZh": "v. 修補；修復關係",
+   "bZh": "v. 修理；n. 修理",
+   "diff": "repair 較正式，多指修理機器、房屋、道路等較複雜的東西；mend 多指縫補衣物或小東西，也可比喻修復關係。",
+   "points": [
+    "對象：repair 接機器、設備、道路；mend 接衣服、柵欄、小物件",
+    "語氣：repair 較正式，mend 較日常",
+    "詞性：repair 也可當名詞（修理），mend 較少"
+   ],
+   "tip": "repair 是找師傅修；mend 是自己動手補。",
+   "exA": {
+    "en": "Grandpa helped me mend the broken chair yesterday.",
+    "zh": "爺爺昨天幫我修理壞掉的椅子。"
+   },
+   "exB": {
+    "en": "The workers repair the bridge after the heavy storm.",
+    "zh": "大暴風雨後，工人們修理那座橋。"
+   }
+  },
+  {
+   "a": "mental",
+   "b": "metal",
+   "kind": "visual",
+   "score": 0.755,
+   "aZh": "adj. 心理的；精神的",
+   "bZh": "n. 金屬",
+   "diff": "mental 是心理的、精神的；metal 是金屬。兩字只差一個 n。",
+   "points": [
+    "拼字：mental 有 n，metal 沒有",
+    "詞性：mental 是形容詞，metal 是名詞，也可作形容詞",
+    "搭配：mental health；a metal box"
+   ],
+   "tip": "mental 的 n 想成 mind（心）；metal 是金屬。",
+   "exA": {
+    "en": "Regular exercise can improve your mental health and mood.",
+    "zh": "規律運動可以改善你的心理健康和心情。"
+   },
+   "exB": {
+    "en": "The old key is made of metal and looks heavy.",
+    "zh": "那把舊鑰匙是金屬做的，看起來很重。"
+   }
+  },
+  {
+   "a": "mental",
+   "b": "physical",
+   "kind": "semantic",
+   "score": 0.563,
+   "aZh": "adj. 心理的；精神的",
+   "bZh": "adj. 身體的；物理的",
+   "diff": "mental 指心理、精神和思考方面；physical 指身體、肉體，也指物理或實際存在的東西。兩字常成對出現。",
+   "points": [
+    "反義：mental 是心，physical 是身",
+    "搭配：mental health、physical health",
+    "拼字：physical 的 ph 讀 /f/"
+   ],
+   "tip": "mental 是 mind（心）；physical 是 body（身）。",
+   "exA": {
+    "en": "Doing math in your head needs strong mental skills.",
+    "zh": "在腦中算數學需要很強的心智能力。"
+   },
+   "exB": {
+    "en": "Playing sports every day is good for your physical health.",
+    "zh": "每天運動對你的身體健康有好處。"
+   }
+  },
+  {
+   "a": "marry",
+   "b": "merry",
+   "kind": "visual",
+   "score": 0.687,
+   "aZh": "v. 結婚；嫁娶",
+   "bZh": "adj. 愉快的；歡樂的",
+   "diff": "marry 是動詞，表示結婚；merry 是形容詞，表示愉快、歡樂，常見於 Merry Christmas。兩字只差 a 和 e。",
+   "points": [
+    "詞性：marry 是動詞，merry 是形容詞",
+    "拼字：mar-ry 和 mer-ry",
+    "搭配：marry someone（不加 with）；Merry Christmas"
+   ],
+   "tip": "marry 有 a，像 Amy 要嫁人；merry 有 e，像 everyone 都開心。",
+   "exA": {
+    "en": "My cousin will marry her classmate next spring.",
+    "zh": "我表姊明年春天要和她的同學結婚。"
+   },
+   "exB": {
+    "en": "The children were merry during the school Christmas party.",
+    "zh": "孩子們在學校聖誕派對中都很開心。"
+   }
+  },
+  {
+   "a": "microphone",
+   "b": "microscope",
+   "kind": "visual",
+   "score": 0.662,
+   "aZh": "n. 麥克風",
+   "bZh": "n. 顯微鏡",
+   "diff": "microphone 是收聲音的麥克風；microscope 是看微小東西的顯微鏡。兩字都以 micro-（微小）開頭。",
+   "points": [
+    "字尾：-phone 是聲音，-scope 是看",
+    "字首：兩字的 micro- 都是小",
+    "搭配：speak into a microphone；look through a microscope"
+   ],
+   "tip": "phone 是聽，scope 是看。",
+   "exA": {
+    "en": "Please speak closer to the microphone so everyone can hear you.",
+    "zh": "請靠近麥克風說話，這樣大家才聽得到你。"
+   },
+   "exB": {
+    "en": "We looked at tiny cells through a microscope in science class.",
+    "zh": "我們在自然課上用顯微鏡觀察微小的細胞。"
+   }
+  },
+  {
+   "a": "microphone",
+   "b": "microwave",
+   "kind": "visual",
+   "score": 0.595,
+   "aZh": "n. 麥克風",
+   "bZh": "n. 微波爐；微波",
+   "diff": "microphone 是麥克風；microwave 是微波爐或微波。兩字都以 micro- 開頭，後面 -phone 和 -wave 不同。",
+   "points": [
+    "字尾：-phone 是聲音，-wave 是波",
+    "詞性：microwave 也可作動詞，表示用微波爐加熱",
+    "發音：/ˈmaɪkrəfoʊn/ 和 /ˈmaɪkroʊweɪv/"
+   ],
+   "tip": "phone 是聲音的 microphone；wave 是加熱的 microwave。",
+   "exA": {
+    "en": "The singer held the microphone with both hands.",
+    "zh": "那位歌手雙手握著麥克風。"
+   },
+   "exB": {
+    "en": "Mom warmed the soup in the microwave for two minutes.",
+    "zh": "媽媽用微波爐把湯加熱了兩分鐘。"
+   }
+  },
+  {
+   "a": "mighty",
+   "b": "powerful",
+   "kind": "semantic",
+   "score": 0.729,
+   "aZh": "adj. 強大的；極大的",
+   "bZh": "adj. 強大的；有力的",
+   "diff": "mighty 帶有文學感，形容力量壯大、氣勢驚人，也可加強語氣；powerful 是一般的強大、有影響力，較常用。",
+   "points": [
+    "語氣：mighty 較文學化，powerful 較日常",
+    "搭配：a mighty river；a powerful engine",
+    "用法：mighty 可表示程度極大，powerful 沒有這種用法"
+   ],
+   "tip": "mighty 有 might（力量）；powerful 有 power（動力、權力）。",
+   "exA": {
+    "en": "The mighty river provides water for many farms.",
+    "zh": "這條強大的河流為許多農場提供水源。"
+   },
+   "exB": {
+    "en": "This powerful engine can pull a very heavy train.",
+    "zh": "這具強力的引擎可以拉動很重的火車。"
+   }
+  },
+  {
+   "a": "misery",
+   "b": "mystery",
+   "kind": "visual",
+   "score": 0.631,
+   "aZh": "n. 痛苦；悲慘",
+   "bZh": "n. 謎；神祕的事物",
+   "diff": "misery 是深切的痛苦；mystery 是讓人想不通的謎。兩字長得像，只差 i 和 yst。",
+   "points": [
+    "拼字：misery 是 mis-ery，mystery 是 myst-ery",
+    "發音：misery 讀 /ˈmɪzəri/，mystery 讀 /ˈmɪstəri/",
+    "形容詞：miserable 痛苦的，mysterious 神祕的"
+   ],
+   "tip": "misery 的 mis 想成不幸；mystery 的 myst 想成神祕。",
+   "exA": {
+    "en": "The long illness caused great misery for the whole family.",
+    "zh": "長期的疾病讓全家人承受很大的痛苦。"
+   },
+   "exB": {
+    "en": "The missing key remained a mystery to everyone in the house.",
+    "zh": "那把不見的鑰匙對家裡每個人來說都是個謎。"
+   }
+  },
+  {
+   "a": "missile",
+   "b": "mission",
+   "kind": "visual",
+   "score": 0.659,
+   "aZh": "n. 飛彈；導彈",
+   "bZh": "n. 任務；使命",
+   "diff": "missile 是飛彈；mission 是任務。兩字都源自拉丁文 mittere（送出），拼字只差 -ile 和 -ion。",
+   "points": [
+    "拼字：missile 結尾是 -ile，mission 結尾是 -ion",
+    "發音：missile 讀 /ˈmɪsəl/，mission 讀 /ˈmɪʃən/",
+    "搭配：a missile test；a secret mission"
+   ],
+   "tip": "missile 是被送（send）出去的飛彈；mission 是被派出去的任務。",
+   "exA": {
+    "en": "The news report showed a missile being tested at a base.",
+    "zh": "新聞報導播出飛彈在基地試射的畫面。"
+   },
+   "exB": {
+    "en": "The team finished its mission and returned home safely.",
+    "zh": "這支隊伍完成了任務，平安回到家。"
+   }
+  },
+  {
+   "a": "mission",
+   "b": "task",
+   "kind": "semantic",
+   "score": 0.702,
+   "aZh": "n. 任務；使命",
+   "bZh": "n. 任務；工作",
+   "diff": "mission 是被派去完成、有重要目的的任務，也可指傳教團；task 是需要完成的一件具體工作，較日常。",
+   "points": [
+    "重要性：mission 較重大、有使命感，task 較一般",
+    "規模：mission 常是整個行動，task 是其中的一項工作",
+    "搭配：a rescue mission；a difficult task"
+   ],
+   "tip": "mission 是被派出去的使命；task 是手邊的一件工作。",
+   "exA": {
+    "en": "The team's mission is to clean the river this weekend.",
+    "zh": "這個團隊的任務是在這個週末清理河川。"
+   },
+   "exB": {
+    "en": "Cleaning the classroom is a task for everyone.",
+    "zh": "打掃教室是每個人的工作。"
+   }
+  },
+  {
+   "a": "fog",
+   "b": "mist",
+   "kind": "semantic",
+   "score": 0.517,
+   "aZh": "n. 霧",
+   "bZh": "n. 薄霧；水氣",
+   "diff": "fog 是濃霧，會明顯降低能見度；mist 是很薄的霧，視線大多還看得到，也指細小的水滴。",
+   "points": [
+    "濃度：fog 較濃，mist 較淡",
+    "能見度：fog 常讓開車或走路困難，mist 通常不會",
+    "詞性：mist 也可作動詞，表示噴霧"
+   ],
+   "tip": "fog 是厚厚的霧牆；mist 是薄薄一層。",
+   "exA": {
+    "en": "Thick fog made the driver slow down on the highway.",
+    "zh": "濃霧讓駕駛在高速公路上放慢車速。"
+   },
+   "exB": {
+    "en": "A light mist covered the road after the rain.",
+    "zh": "下雨後，薄霧籠罩了道路。"
+   }
+  },
+  {
+   "a": "miss",
+   "b": "mist",
+   "kind": "visual",
+   "score": 0.684,
+   "aZh": "v. 錯過；想念",
+   "bZh": "n. 薄霧；v. 噴霧",
+   "diff": "miss 是錯過或想念；mist 是薄霧。兩字只差最後一個字母 s 和 t。",
+   "points": [
+    "詞性：miss 是動詞（也可當名詞），mist 主要是名詞",
+    "過去式：miss 是 missed，mist 是 misted",
+    "搭配：miss the bus；morning mist"
+   ],
+   "tip": "miss 兩個 s，想成 miss you 想念；mist 的 t 想成 tiny drops（小水滴）。",
+   "exA": {
+    "en": "I was late and missed the last train yesterday.",
+    "zh": "我遲到了，昨天錯過了末班車。"
+   },
+   "exB": {
+    "en": "Morning mist hung over the lake as the sun rose.",
+    "zh": "太陽升起時，晨霧籠罩著湖面。"
+   }
+  },
+  {
+   "a": "mist",
+   "b": "moist",
+   "kind": "visual",
+   "score": 0.731,
+   "aZh": "n. 薄霧；水氣",
+   "bZh": "adj. 潮濕的；微濕的",
+   "diff": "mist 是名詞，指薄霧；moist 是形容詞，形容有一點水分。moist 比 mist 多一個 o。",
+   "points": [
+    "詞性：mist 是名詞，moist 是形容詞",
+    "拼字：moist 多一個 o",
+    "發音：mist 讀 /mɪst/，moist 讀 /mɔɪst/"
+   ],
+   "tip": "moist 多了 o，想成 o 是一滴水。",
+   "exA": {
+    "en": "Morning mist hung over the lake as the sun rose.",
+    "zh": "太陽升起時，晨霧籠罩著湖面。"
+   },
+   "exB": {
+    "en": "Keep the soil moist while the seeds begin to grow.",
+    "zh": "種子開始生長時，讓土壤保持濕潤。"
+   }
+  },
+  {
+   "a": "crowd",
+   "b": "mob",
+   "kind": "semantic",
+   "score": 0.603,
+   "aZh": "n. 人群；群眾",
+   "bZh": "n. 暴民；一群人",
+   "diff": "crowd 是聚在一起的一大群人，語氣中性；mob 是可能失控、帶敵意的群眾，語氣帶負面。",
+   "points": [
+    "語氣：crowd 中性，mob 負面",
+    "行為：mob 常有暴力或混亂的意思",
+    "詞性：兩字都可作動詞，mob 是蜂擁圍住，crowd 是擠在一起"
+   ],
+   "tip": "crowd 只是人多；mob 是人多又失控。",
+   "exA": {
+    "en": "A large crowd waited outside the stadium for the game.",
+    "zh": "一大群人在體育場外等著看比賽。"
+   },
+   "exB": {
+    "en": "The police tried to calm the angry mob in front of the building.",
+    "zh": "警方試著安撫大樓前憤怒的暴民。"
+   }
+  },
+  {
+   "a": "mobile",
+   "b": "portable",
+   "kind": "semantic",
+   "score": 0.546,
+   "aZh": "adj. 可移動的；n. 手機",
+   "bZh": "adj. 可攜帶的；輕便的",
+   "diff": "portable 強調體積小、重量輕，可以隨手帶著走；mobile 強調可以移動位置或以行動方式提供服務，英式英文也指手機。",
+   "points": [
+    "重點：portable 強調好攜帶，mobile 強調能移動或行動",
+    "搭配：a portable charger；a mobile library",
+    "地區：mobile 在英式英文可直接指手機"
+   ],
+   "tip": "portable 的 port 是搬運，像 transport；mobile 的 mob 是動，像 move。",
+   "exA": {
+    "en": "A mobile library visits the small village every Friday.",
+    "zh": "行動圖書館每週五都會到那個小村莊。"
+   },
+   "exB": {
+    "en": "I carry a portable charger in my school bag every day.",
+    "zh": "我每天都在書包裡帶一個行動電源。"
+   }
+  },
+  {
+   "a": "damp",
+   "b": "moist",
+   "kind": "semantic",
+   "score": 0.83,
+   "aZh": "adj. 潮濕的；微濕的",
+   "bZh": "adj. 潮濕的；微濕的",
+   "diff": "兩字都是微濕。damp 常帶有不舒服、不理想的感覺，像發霉的牆；moist 通常是好的濕潤，像蛋糕、土壤。",
+   "points": [
+    "感受：damp 常負面，moist 常正面",
+    "對象：damp 形容牆壁、衣物、地下室，moist 形容食物、土壤、皮膚",
+    "搭配：a damp basement；a moist cake"
+   ],
+   "tip": "damp 想到發霉的牆；moist 想到鬆軟的蛋糕。",
+   "exA": {
+    "en": "The old basement always smelled damp and cold.",
+    "zh": "那間舊地下室聞起來總是又濕又冷。"
+   },
+   "exB": {
+    "en": "Bake the bread slowly so that it stays soft and moist.",
+    "zh": "慢慢烘烤麵包，才能讓它保持鬆軟濕潤。"
+   }
+  },
+  {
+   "a": "humidity",
+   "b": "moisture",
+   "kind": "semantic",
+   "score": 0.486,
+   "aZh": "n. 濕度；潮濕",
+   "bZh": "n. 水分；濕氣",
+   "diff": "humidity 專指空氣中的濕度，常用在天氣預報；moisture 指物體或空氣中的水分，範圍更廣，如土壤、皮膚。",
+   "points": [
+    "範圍：humidity 只指空氣，moisture 可指各種物體",
+    "搭配：high humidity；soil moisture、retain moisture",
+    "用途：humidity 多用於天氣，moisture 多用於植物、食物、皮膚"
+   ],
+   "tip": "humidity 看天氣；moisture 看物體裡的水分。",
+   "exA": {
+    "en": "The humidity is very high in summer in Taiwan.",
+    "zh": "台灣夏天的濕度很高。"
+   },
+   "exB": {
+    "en": "Plants need moisture from the soil to stay healthy.",
+    "zh": "植物需要土壤中的水分才能保持健康。"
+   }
+  },
+  {
+   "a": "monk",
+   "b": "monkey",
+   "kind": "visual",
+   "score": 0.722,
+   "aZh": "n. 僧侶；修士",
+   "bZh": "n. 猴子",
+   "diff": "monk 是僧侶；monkey 是猴子。monkey 是 monk 後面再加 -ey。",
+   "points": [
+    "拼字：monkey 是 monk + ey",
+    "發音：monk 讀 /mʌŋk/，monkey 讀 /ˈmʌŋki/",
+    "複數：monks 和 monkeys"
+   ],
+   "tip": "monkey 是 monk 加 ey：僧侶身邊多了一隻猴子。",
+   "exA": {
+    "en": "The monk taught the children how to grow vegetables.",
+    "zh": "那名僧侶教孩子們如何種蔬菜。"
+   },
+   "exB": {
+    "en": "The monkey climbed the tree and took a banana.",
+    "zh": "猴子爬上樹，拿走了一根香蕉。"
+   }
+  },
+  {
+   "a": "moral",
+   "b": "morale",
+   "kind": "visual",
+   "score": 0.768,
+   "aZh": "adj. 道德的；n. 寓意",
+   "bZh": "n. 士氣；信心",
+   "diff": "moral 是道德或故事的寓意；morale 是團體或個人的士氣。morale 多一個 e，重音也不同。",
+   "points": [
+    "詞性：moral 可作形容詞和名詞，morale 只是名詞",
+    "重音：moral 讀 /ˈmɔːrəl/，morale 讀 /məˈræl/",
+    "搭配：moral values、the moral of the story；boost morale"
+   ],
+   "tip": "morale 多了 e，想成 encouragement（鼓勵）提升士氣。",
+   "exA": {
+    "en": "The moral of the story is that honesty matters.",
+    "zh": "這個故事的寓意是誠實很重要。"
+   },
+   "exB": {
+    "en": "The coach's speech raised the team's morale before the final.",
+    "zh": "教練的談話在決賽前提升了球隊的士氣。"
+   }
+  },
+  {
+   "a": "largely",
+   "b": "mostly",
+   "kind": "semantic",
+   "score": 0.857,
+   "aZh": "adv. 大多；主要地",
+   "bZh": "adv. 主要地；大多數地",
+   "diff": "兩字都表示大部分。mostly 描述大部分的組成或情況；largely 較正式，強調某結果主要是由某原因造成。",
+   "points": [
+    "語氣：largely 較正式，mostly 較日常",
+    "用法：largely because of 常用來說明原因",
+    "搭配：mostly students；largely successful"
+   ],
+   "tip": "mostly 看數量占多數；largely 看主要原因。",
+   "exA": {
+    "en": "The project was largely successful because of the team's hard work.",
+    "zh": "這項計畫大致成功，主要是因為團隊的努力。"
+   },
+   "exB": {
+    "en": "The audience was mostly made up of high school students.",
+    "zh": "觀眾大多是高中生。"
+   }
+  },
+  {
+   "a": "most",
+   "b": "mostly",
+   "kind": "both",
+   "score": 0.7,
+   "aZh": "adj./pron. 大多數",
+   "bZh": "adv. 主要地；大多數地",
+   "diff": "most 是形容詞或代名詞，放在名詞前，如 most students；mostly 是副詞，修飾動詞或形容詞，如 mostly quiet。",
+   "points": [
+    "詞性：most 修飾名詞，mostly 修飾動詞、形容詞",
+    "常見錯誤：不說 mostly students，要說 most students",
+    "搭配：most of the students；mostly because"
+   ],
+   "tip": "mostly 有 ly，是副詞，不能直接接名詞。",
+   "exA": {
+    "en": "Most of my friends like playing basketball after school.",
+    "zh": "我的朋友大多喜歡放學後打籃球。"
+   },
+   "exB": {
+    "en": "The soup is mostly vegetables with a little chicken.",
+    "zh": "這碗湯主要是蔬菜，只加了一點雞肉。"
+   }
+  },
+  {
+   "a": "hotel",
+   "b": "motel",
+   "kind": "semantic",
+   "score": 0.699,
+   "aZh": "n. 旅館；飯店",
+   "bZh": "n. 汽車旅館",
+   "diff": "hotel 是一般旅館；motel 是 motor hotel 的縮合字，位在道路旁，方便開車旅客把車停在房間前。",
+   "points": [
+    "位置：motel 常在公路旁，hotel 多在城市或景點",
+    "停車：motel 房間前通常直接有停車位",
+    "字源：motel = motor + hotel"
+   ],
+   "tip": "motel = motor + hotel，開車旅行的旅館。",
+   "exA": {
+    "en": "We booked a hotel near the beach for the summer trip.",
+    "zh": "我們為暑假旅行訂了一間海灘附近的飯店。"
+   },
+   "exB": {
+    "en": "The motel has a parking space right in front of every room.",
+    "zh": "這間汽車旅館每個房間前面都有停車位。"
+   }
+  },
+  {
+   "a": "motel",
+   "b": "motor",
+   "kind": "visual",
+   "score": 0.576,
+   "aZh": "n. 汽車旅館",
+   "bZh": "n. 馬達；引擎",
+   "diff": "motel 是汽車旅館；motor 是馬達或引擎。兩字都以 mot- 開頭，字尾 -el 和 -or 不同。",
+   "points": [
+    "字源：motel 是 motor + hotel 的縮合字",
+    "拼字：motel 結尾是 -el，motor 結尾是 -or",
+    "重音：motel 重音在後面，motor 重音在前面"
+   ],
+   "tip": "motel 的 el 來自 hotel；motor 是機器的動力。",
+   "exA": {
+    "en": "The motel was quiet, and we slept well after the long drive.",
+    "zh": "那間汽車旅館很安靜，長途開車後我們睡得很好。"
+   },
+   "exB": {
+    "en": "The motor stopped working during the science experiment.",
+    "zh": "科學實驗期間，馬達停止運轉了。"
+   }
+  },
+  {
+   "a": "moth",
+   "b": "mouth",
+   "kind": "visual",
+   "score": 0.684,
+   "aZh": "n. 蛾",
+   "bZh": "n. 嘴；口",
+   "diff": "moth 是蛾；mouth 是嘴巴。mouth 比 moth 多一個 u，兩字結尾都是 th。",
+   "points": [
+    "拼字：mouth 多一個 u",
+    "發音：moth 讀 /mɔːθ/，mouth 讀 /maʊθ/",
+    "複數：moths 和 mouths"
+   ],
+   "tip": "mouth 的 ou 像嘴巴張開的形狀。",
+   "exA": {
+    "en": "A moth flew into the room through the open window.",
+    "zh": "一隻蛾從開著的窗戶飛進房間。"
+   },
+   "exB": {
+    "en": "Please cover your mouth when you cough or sneeze.",
+    "zh": "咳嗽或打噴嚏時，請遮住你的嘴。"
+   }
+  },
+  {
+   "a": "month",
+   "b": "moth",
+   "kind": "visual",
+   "score": 0.684,
+   "aZh": "n. 月份；一個月",
+   "bZh": "n. 蛾",
+   "diff": "month 是月份；moth 是蛾。month 比 moth 多一個 n，發音也不同。",
+   "points": [
+    "拼字：month 多一個 n",
+    "發音：month 讀 /mʌnθ/，moth 讀 /mɔːθ/",
+    "複數：months 和 moths"
+   ],
+   "tip": "month 的 n 可想成 number（月份有數字）。",
+   "exA": {
+    "en": "The school festival will be held next month.",
+    "zh": "校慶下個月會舉行。"
+   },
+   "exB": {
+    "en": "Moths are often drawn to bright lights at night.",
+    "zh": "蛾常常在夜裡被明亮的燈光吸引。"
+   }
+  },
+  {
+   "a": "engine",
+   "b": "motor",
+   "kind": "semantic",
+   "score": 0.651,
+   "aZh": "n. 引擎；發動機",
+   "bZh": "n. 馬達；引擎",
+   "diff": "engine 多半是燃燒燃料產生動力的引擎，如汽車引擎；motor 多半是用電推動的馬達，如電風扇馬達，兩字有時可通用。",
+   "points": [
+    "動力：engine 多靠燃料，motor 多靠電力",
+    "對象：engine 用於汽車、飛機，motor 用於風扇、電動工具",
+    "動詞：motor 也可作動詞，表示乘車旅行"
+   ],
+   "tip": "engine 多半是燒油的；motor 多半是接電的。",
+   "exA": {
+    "en": "The car engine made a strange noise on the hill.",
+    "zh": "汽車引擎在坡上發出奇怪的聲音。"
+   },
+   "exB": {
+    "en": "This small electric motor can turn the fan very fast.",
+    "zh": "這個小型電動馬達可以讓風扇轉得很快。"
+   }
+  },
+  {
+   "a": "kill",
+   "b": "murder",
+   "kind": "semantic",
+   "score": 0.517,
+   "aZh": "v. 殺死；弄死",
+   "bZh": "n./v. 謀殺；殺害",
+   "diff": "kill 泛指使人或動物死亡，不一定犯法；murder 專指非法且故意的殺人，用於法律或新聞。",
+   "points": [
+    "法律：murder 是犯罪，kill 不一定",
+    "對象：murder 只用於人，kill 可用於動物、植物、細菌",
+    "詞性：murder 也是名詞，kill 主要是動詞"
+   ],
+   "tip": "murder 是犯罪；kill 只是使死亡。",
+   "exA": {
+    "en": "Too much cold weather can kill many garden plants.",
+    "zh": "太冷的天氣可能凍死許多花園裡的植物。"
+   },
+   "exB": {
+    "en": "The police are working hard to solve the murder case.",
+    "zh": "警方正努力偵破這起謀殺案。"
+   }
+  },
+  {
+   "a": "napkin",
+   "b": "tissue",
+   "kind": "semantic",
+   "score": 0.474,
+   "aZh": "n. 餐巾；餐巾紙",
+   "bZh": "n. 面紙；衛生紙",
+   "diff": "napkin 是用餐時擦嘴、鋪在腿上的餐巾；tissue 是擤鼻涕、擦臉用的面紙。",
+   "points": [
+    "用途：napkin 用在餐桌，tissue 用在隨身擦拭",
+    "材質：napkin 也可以是布做的，tissue 是薄紙",
+    "字義：tissue 還有生物組織的意思"
+   ],
+   "tip": "napkin 在餐桌上；tissue 在口袋裡。",
+   "exA": {
+    "en": "Please use a napkin to wipe the sauce from your mouth.",
+    "zh": "請用餐巾紙擦掉嘴邊的醬汁。"
+   },
+   "exB": {
+    "en": "Amy took a tissue from her bag to wipe her nose.",
+    "zh": "Amy 從包包裡拿出一張面紙擦鼻子。"
+   }
+  },
+  {
+   "a": "naive",
+   "b": "native",
+   "kind": "visual",
+   "score": 0.739,
+   "aZh": "adj. 天真的；不切實際的",
+   "bZh": "adj. 本地的；n. 本地人",
+   "diff": "naive 是缺乏經驗、容易相信別人的天真；native 是出生在當地的、本地的。兩字只差 i 和 t。",
+   "points": [
+    "拼字：naive 是 na-ive，native 是 na-tive",
+    "發音：naive 讀 /naɪˈiːv/，native 讀 /ˈneɪtɪv/",
+    "搭配：a naive idea；a native speaker"
+   ],
+   "tip": "native 的 nat 像 nation（出生的國家）；naive 是天真。",
+   "exA": {
+    "en": "It is naive to believe everything you read online.",
+    "zh": "相信網路上看到的每一件事是很天真的。"
+   },
+   "exB": {
+    "en": "Amy is a native speaker of English, but she also studies Chinese.",
+    "zh": "Amy 的母語是英文，但她也學中文。"
+   }
+  },
+  {
+   "a": "army",
+   "b": "navy",
+   "kind": "semantic",
+   "score": 0.465,
+   "aZh": "n. 軍隊；陸軍",
+   "bZh": "n. 海軍",
+   "diff": "army 是陸軍，也可指軍隊；navy 是海軍，在海上作戰。",
+   "points": [
+    "軍種：army 在陸地，navy 在海上",
+    "相關字：naval 是海軍的，military 是軍事的",
+    "搭配：join the army；join the navy"
+   ],
+   "tip": "navy 的 nav 和 navigate（航行）同一家；army 是陸軍。",
+   "exA": {
+    "en": "Her father joined the army and served in the mountains.",
+    "zh": "她爸爸加入陸軍，在山區服役。"
+   },
+   "exB": {
+    "en": "The navy sent a ship to help the fishing boats in the storm.",
+    "zh": "海軍派了一艘船去幫助暴風雨中的漁船。"
+   }
+  },
+  {
+   "a": "neat",
+   "b": "tidy",
+   "kind": "semantic",
+   "score": 0.725,
+   "aZh": "adj. 整潔的；巧妙的",
+   "bZh": "adj. 整齊的；v. 整理",
+   "diff": "兩字都可形容整齊。tidy 多指東西收拾得井井有條，也可作動詞（整理）；neat 還可指外表乾淨俐落，或方法巧妙。",
+   "points": [
+    "詞性：tidy 也是動詞，tidy up 是整理；neat 只是形容詞",
+    "延伸：neat 口語可指巧妙、很棒，tidy 沒有",
+    "搭配：a tidy room；neat handwriting、a neat idea"
+   ],
+   "tip": "tidy 是收拾整齊；neat 是俐落好看。",
+   "exA": {
+    "en": "Jenny keeps her notes neat so she can review them easily.",
+    "zh": "Jenny 把筆記整理得很整齊，方便複習。"
+   },
+   "exB": {
+    "en": "Please keep your desk tidy before you leave the classroom.",
+    "zh": "離開教室前，請把你的桌面收拾整齊。"
+   }
+  },
+  {
+   "a": "necklace",
+   "b": "necktie",
+   "kind": "visual",
+   "score": 0.602,
+   "aZh": "n. 項鍊",
+   "bZh": "n. 領帶",
+   "diff": "necklace 是戴在脖子上的項鍊，屬於首飾；necktie 是繫在襯衫領口的領帶，屬於服裝。兩字都有 neck。",
+   "points": [
+    "類別：necklace 是首飾，necktie 是衣飾",
+    "拼字：necklace 結尾是 -lace，necktie 結尾是 -tie",
+    "簡稱：necktie 常簡稱 tie"
+   ],
+   "tip": "necklace 有 lace（細帶）；necktie 有 tie（綁）。",
+   "exA": {
+    "en": "Amy wore a silver necklace to the school dance.",
+    "zh": "Amy 戴著一條銀項鍊去參加學校舞會。"
+   },
+   "exB": {
+    "en": "Dad taught me how to tie a necktie for the interview.",
+    "zh": "爸爸教我怎麼為面試打領帶。"
+   }
+  },
+  {
+   "a": "neighbor",
+   "b": "neighborhood",
+   "kind": "visual",
+   "score": 0.705,
+   "aZh": "n. 鄰居；鄰近的人",
+   "bZh": "n. 鄰近地區；社區",
+   "diff": "neighbor 是住在附近的人；neighborhood 是那一帶的地區或社區。neighborhood 是 neighbor 加 -hood。",
+   "points": [
+    "指人或地：neighbor 指人，neighborhood 指地區",
+    "字尾：-hood 表示狀態或範圍",
+    "搭配：a friendly neighbor；a quiet neighborhood"
+   ],
+   "tip": "-hood 像 childhood，表示那一整片範圍。",
+   "exA": {
+    "en": "Our neighbor often shares fruit from her garden with us.",
+    "zh": "我們的鄰居常把她花園裡的水果分給我們。"
+   },
+   "exB": {
+    "en": "Our neighborhood holds a market every Saturday morning.",
+    "zh": "我們的社區每週六早上都會舉辦市集。"
+   }
+  },
+  {
+   "a": "community",
+   "b": "neighborhood",
+   "kind": "semantic",
+   "score": 0.593,
+   "aZh": "n. 社區；社群",
+   "bZh": "n. 鄰近地區；社區",
+   "diff": "neighborhood 強調住家附近的地理範圍；community 強調共同生活或有共同特徵的一群人，範圍可大可小。",
+   "points": [
+    "重點：neighborhood 看地點，community 看人群",
+    "範圍：community 也可指群體，如 the student community",
+    "搭配：a quiet neighborhood；the local community、a community center"
+   ],
+   "tip": "neighborhood 看地圖；community 看人。",
+   "exA": {
+    "en": "The local community worked together to clean the beach.",
+    "zh": "當地社區的居民一起合作清理海灘。"
+   },
+   "exB": {
+    "en": "Kids from the neighborhood play basketball in the park after school.",
+    "zh": "社區裡的孩子放學後會在公園打籃球。"
+   }
+  },
+  {
+   "a": "formal",
+   "b": "normal",
+   "kind": "visual",
+   "score": 0.778,
+   "aZh": "adj. 正式的；拘謹的",
+   "bZh": "adj. 正常的；一般的",
+   "diff": "formal 是正式的，如正式場合、書面語；normal 是正常的、平常的。兩字只差第一個字母。",
+   "points": [
+    "拼字：formal 是 f 開頭，normal 是 n 開頭",
+    "反義：formal 對 informal，normal 對 abnormal",
+    "搭配：formal clothes；normal life"
+   ],
+   "tip": "formal 的 f 想成 fancy（講究）；normal 的 n 想成 no problem（沒問題）。",
+   "exA": {
+    "en": "Students wear formal clothes to the graduation ceremony.",
+    "zh": "學生穿正式服裝參加畢業典禮。"
+   },
+   "exB": {
+    "en": "It is normal to feel nervous before an important test.",
+    "zh": "重要考試前感到緊張是正常的。"
+   }
+  },
+  {
+   "a": "novelist",
+   "b": "writer",
+   "kind": "semantic",
+   "score": 0.668,
+   "aZh": "n. 小說家",
+   "bZh": "n. 作者；作家",
+   "diff": "novelist 專指寫小說的人；writer 泛指以寫作為職業或興趣的人，包括小說、新聞、詩等。",
+   "points": [
+    "範圍：novelist 只寫小說，writer 範圍更廣",
+    "字尾：-ist 表示專門從事某事的人",
+    "相關字：author 指某本書的作者"
+   ],
+   "tip": "novel 加 -ist 就是寫小說的人。",
+   "exA": {
+    "en": "The novelist spent three years writing her first book.",
+    "zh": "那位小說家花了三年時間寫她的第一本書。"
+   },
+   "exB": {
+    "en": "My uncle is a writer who writes about travel.",
+    "zh": "我叔叔是個寫旅行文章的作家。"
+   }
+  },
+  {
+   "a": "monk",
+   "b": "nun",
+   "kind": "semantic",
+   "score": 0.481,
+   "aZh": "n. 僧侶；修士",
+   "bZh": "n. 修女",
+   "diff": "monk 是男性僧侶或修士；nun 是女性修女。兩者都是過宗教修行生活的人。",
+   "points": [
+    "性別：monk 是男性，nun 是女性",
+    "住處：monk 住在寺院或修道院，nun 住在女修道院",
+    "搭配：a Buddhist monk；a Catholic nun"
+   ],
+   "tip": "monk 和 monastery（修道院）同一家；nun 是女性。",
+   "exA": {
+    "en": "The monk taught the children how to grow vegetables.",
+    "zh": "那名僧侶教孩子們如何種蔬菜。"
+   },
+   "exB": {
+    "en": "The nun teaches children at a small school near the church.",
+    "zh": "那位修女在教堂附近的一所小學教孩子。"
+   }
+  },
+  {
+   "a": "notice",
+   "b": "observe",
+   "kind": "semantic",
+   "score": 0.619,
+   "aZh": "v. 注意到；察覺",
+   "bZh": "v. 觀察；遵守",
+   "diff": "notice 是不經意察覺到某件事；observe 是有意地仔細觀看，也可指遵守規定。",
+   "points": [
+    "有意與否：notice 常是無意間發現，observe 是刻意觀察",
+    "語氣：observe 較正式",
+    "字義：observe 還有遵守的意思"
+   ],
+   "tip": "notice 是眼睛突然看到；observe 是專心看。",
+   "exA": {
+    "en": "Amy noticed a small bird outside the window.",
+    "zh": "Amy 注意到窗外有一隻小鳥。"
+   },
+   "exB": {
+    "en": "The class observed how the plants grew in different light.",
+    "zh": "全班觀察植物在不同光線下如何生長。"
+   }
+  },
+  {
+   "a": "obey",
+   "b": "observe",
+   "kind": "semantic",
+   "score": 0.582,
+   "aZh": "v. 服從；遵守",
+   "bZh": "v. 觀察；遵守",
+   "diff": "obey 是服從命令、指示或規定；observe 表示遵守法律、習俗，語氣較正式，也可指觀察。",
+   "points": [
+    "對象：obey 常接人、命令；observe 常接規則、傳統",
+    "語氣：observe 較正式",
+    "字義：observe 還有觀察的意思，obey 沒有"
+   ],
+   "tip": "obey 是聽話照做；observe 是遵守規範，也能仔細看。",
+   "exA": {
+    "en": "Children should always obey their parents and teachers.",
+    "zh": "孩子應該永遠服從父母和老師。"
+   },
+   "exB": {
+    "en": "All visitors must observe the rules inside the museum.",
+    "zh": "所有參觀者都必須遵守博物館內的規定。"
+   }
+  },
+  {
+   "a": "occasion",
+   "b": "opportunity",
+   "kind": "semantic",
+   "score": 0.747,
+   "aZh": "n. 場合；時機；機會",
+   "bZh": "n. 機會",
+   "diff": "occasion 是事情發生的場合或時機，也可指機會；opportunity 是做某事的好機會，重點在把握。",
+   "points": [
+    "重點：occasion 看場合，opportunity 看機會",
+    "搭配：a special occasion；an opportunity to learn",
+    "語氣：opportunity 常表示有利的好機會"
+   ],
+   "tip": "occasion 是某個日子；opportunity 是能利用的機會。",
+   "exA": {
+    "en": "We wore our best clothes for the special occasion.",
+    "zh": "我們為了這個特別場合穿上最好的衣服。"
+   },
+   "exB": {
+    "en": "This trip is a great opportunity to practice English.",
+    "zh": "這趟旅行是練習英文的好機會。"
+   }
+  },
+  {
+   "a": "occasion",
+   "b": "occupation",
+   "kind": "visual",
+   "score": 0.676,
+   "aZh": "n. 場合；時機；機會",
+   "bZh": "n. 職業；工作",
+   "diff": "occasion 是場合或時機；occupation 是職業。兩字都以 oc- 開頭，後面的 -casion 和 -cupation 不同。",
+   "points": [
+    "拼字：occasion 是 oc-ca-sion，occupation 是 oc-cu-pa-tion",
+    "發音：occasion 讀 /əˈkeɪʒən/，occupation 讀 /ˌɑːkjuˈpeɪʃən/",
+    "搭配：a special occasion；a stable occupation"
+   ],
+   "tip": "occupation 來自 occupy（佔據）：職業佔據你大部分時間。",
+   "exA": {
+    "en": "The wedding was a happy occasion for both families.",
+    "zh": "婚禮對兩家人來說都是快樂的場合。"
+   },
+   "exB": {
+    "en": "Teaching is a respected occupation in many countries.",
+    "zh": "在許多國家，教書是受人尊敬的職業。"
+   }
+  },
+  {
+   "a": "odd",
+   "b": "strange",
+   "kind": "semantic",
+   "score": 0.74,
+   "aZh": "adj. 奇怪的；奇數的",
+   "bZh": "adj. 奇怪的；陌生的",
+   "diff": "兩字都是奇怪。odd 是有點不尋常、不合常理，也可指奇數；strange 較強，常表示陌生或讓人不安。",
+   "points": [
+    "程度：strange 比 odd 強",
+    "字義：odd 還有奇數的意思；strange 還有陌生的意思",
+    "搭配：an odd number；a strange place"
+   ],
+   "tip": "odd 也是奇數，偏偏落單所以奇怪。",
+   "exA": {
+    "en": "It seemed odd that the classroom was empty after lunch.",
+    "zh": "午餐後教室空無一人，這情況似乎有點奇怪。"
+   },
+   "exB": {
+    "en": "The children heard a strange noise from the old house.",
+    "zh": "孩子們聽到那間老房子傳出奇怪的聲音。"
+   }
+  },
+  {
+   "a": "ongoing",
+   "b": "outgoing",
+   "kind": "visual",
+   "score": 0.678,
+   "aZh": "adj. 持續進行的",
+   "bZh": "adj. 外向的；愛交際的",
+   "diff": "ongoing 是還在進行、尚未結束；outgoing 是性格外向、愛與人交往，也指離開的。兩字只差 on 和 out。",
+   "points": [
+    "字首：on- 是繼續，out- 是向外",
+    "詞性：兩字都是形容詞",
+    "搭配：an ongoing project；an outgoing person"
+   ],
+   "tip": "on 是接著走下去；out 是往外走向人群。",
+   "exA": {
+    "en": "The school has an ongoing project to reduce food waste.",
+    "zh": "學校有一項持續進行的減少食物浪費計畫。"
+   },
+   "exB": {
+    "en": "Amy is an outgoing girl who makes friends easily.",
+    "zh": "Amy 是個外向的女孩，很容易交到朋友。"
+   }
+  },
+  {
+   "a": "onion",
+   "b": "union",
+   "kind": "visual",
+   "score": 0.699,
+   "aZh": "n. 洋蔥",
+   "bZh": "n. 聯合；工會",
+   "diff": "onion 是洋蔥；union 是聯合或工會。兩字字母相近，只差開頭的 o 和 u，發音也不同。",
+   "points": [
+    "拼字：onion 是 on-ion，union 是 un-ion",
+    "發音：onion 讀 /ˈʌnjən/，union 讀 /ˈjuːnjən/",
+    "詞性：兩字都是名詞"
+   ],
+   "tip": "onion 開頭是 o，像洋蔥圓圓的；union 開頭是 u。",
+   "exA": {
+    "en": "My brother added chopped onion to the soup for dinner.",
+    "zh": "我弟弟在晚餐的湯裡加了切碎的洋蔥。"
+   },
+   "exB": {
+    "en": "The workers formed a union to ask for better pay.",
+    "zh": "工人們組成工會，要求更好的薪水。"
+   }
+  },
+  {
+   "a": "cooperation",
+   "b": "operation",
+   "kind": "visual",
+   "score": 0.821,
+   "aZh": "n. 合作；協力",
+   "bZh": "n. 運作；手術",
+   "diff": "cooperation 是合作，多了 co-（一起）；operation 是運作或手術。兩字只差前面的 co-。",
+   "points": [
+    "字首：co- 是一起，cooperation 就是一起運作",
+    "拼字：cooperation 中間有兩個 o 連在一起",
+    "搭配：in cooperation with；an operation on the heart"
+   ],
+   "tip": "co- 是 together：cooperation 就是一起 operation。",
+   "exA": {
+    "en": "The two schools finished the project in close cooperation.",
+    "zh": "兩所學校密切合作，完成了這項計畫。"
+   },
+   "exB": {
+    "en": "The doctor said the operation would take about two hours.",
+    "zh": "醫生說這場手術大約要花兩個小時。"
+   }
+  },
+  {
+   "a": "operation",
+   "b": "surgery",
+   "kind": "semantic",
+   "score": 0.538,
+   "aZh": "n. 手術；運作",
+   "bZh": "n. 外科手術；外科",
+   "diff": "operation 是一次具體的手術，可數；surgery 是外科手術這門醫療或手術行為的泛稱，常不可數。",
+   "points": [
+    "可數性：an operation 可數，surgery 常不可數",
+    "搭配：have an operation；have surgery、heart surgery",
+    "字義：operation 還有運作、行動的意思"
+   ],
+   "tip": "operation 是這一台手術；surgery 是外科這一類醫療。",
+   "exA": {
+    "en": "Her operation went well, and she returned home the next day.",
+    "zh": "她的手術很順利，隔天就回家了。"
+   },
+   "exB": {
+    "en": "He needs heart surgery, but the doctors are hopeful.",
+    "zh": "他需要動心臟手術，不過醫生很有信心。"
+   }
+  },
+  {
+   "a": "chance",
+   "b": "opportunity",
+   "kind": "semantic",
+   "score": 0.83,
+   "aZh": "n. 機會；可能性",
+   "bZh": "n. 機會",
+   "diff": "chance 較口語，也可指偶然或可能性；opportunity 較正式，指適合做某事的有利機會。",
+   "points": [
+    "語氣：chance 口語，opportunity 正式",
+    "字義：chance 還有可能性、偶然（by chance）",
+    "搭配：a chance of rain；an opportunity to study abroad"
+   ],
+   "tip": "chance 是碰到的機會，也可能是機率；opportunity 是值得把握的機會。",
+   "exA": {
+    "en": "There is a good chance of rain this afternoon.",
+    "zh": "今天下午很有可能會下雨。"
+   },
+   "exB": {
+    "en": "The exchange program gave Amy an opportunity to study abroad.",
+    "zh": "交換計畫給了 Amy 出國留學的機會。"
+   }
+  },
+  {
+   "a": "opportunity",
+   "b": "possibility",
+   "kind": "semantic",
+   "score": 0.785,
+   "aZh": "n. 機會",
+   "bZh": "n. 可能性；機會",
+   "diff": "opportunity 是可以把握、實際採取行動的機會；possibility 是某件事可能發生的可能性，不一定能把握。",
+   "points": [
+    "重點：opportunity 看行動，possibility 看可能",
+    "搭配：an opportunity to + V；the possibility of + N",
+    "句型：have an opportunity；there is a possibility that"
+   ],
+   "tip": "opportunity 可以抓住；possibility 只是有可能。",
+   "exA": {
+    "en": "Students have an opportunity to ask questions after the talk.",
+    "zh": "演講結束後，學生有機會提問。"
+   },
+   "exB": {
+    "en": "There is a possibility of rain this weekend.",
+    "zh": "這個週末有可能會下雨。"
+   }
+  },
+  {
+   "a": "across",
+   "b": "opposite",
+   "kind": "semantic",
+   "score": 0.471,
+   "aZh": "prep. 橫越；在……對面",
+   "bZh": "prep. 在……對面；adj. 相反的",
+   "diff": "across 表示從一邊到另一邊，也可表示在街道或河的對面；opposite 表示正好面對面，位置相對。",
+   "points": [
+    "動作：across 可表示橫越，opposite 只表示位置對面",
+    "搭配：across the street 在街的另一邊；opposite the station 在車站對面",
+    "詞性：opposite 也可作形容詞、名詞，across 只是介系詞、副詞"
+   ],
+   "tip": "across 是跨過去；opposite 是面對面站著。",
+   "exA": {
+    "en": "The bank is across the street from our school.",
+    "zh": "那間銀行在我們學校的街對面。"
+   },
+   "exB": {
+    "en": "The new cafe is opposite the school gate.",
+    "zh": "新的咖啡店就在學校大門對面。"
+   }
+  },
+  {
+   "a": "contrary",
+   "b": "opposite",
+   "kind": "semantic",
+   "score": 0.629,
+   "aZh": "adj. 相反的；違背的",
+   "bZh": "adj. 相反的；對面的",
+   "diff": "opposite 可表示位置對面或完全相反；contrary 主要表示意見或事實相反，語氣較正式。",
+   "points": [
+    "位置：opposite 可指對面，contrary 不行",
+    "搭配：opposite directions；contrary to popular belief",
+    "語氣：contrary 較正式"
+   ],
+   "tip": "opposite 有 position（位置）的味道；contrary 常說 on the contrary。",
+   "exA": {
+    "en": "Contrary to what people think, the test was easy.",
+    "zh": "和大家想的相反，這次考試很簡單。"
+   },
+   "exB": {
+    "en": "The two roads go in opposite directions from the station.",
+    "zh": "這兩條路從車站往相反方向延伸。"
+   }
+  },
+  {
+   "a": "optimistic",
+   "b": "pessimistic",
+   "kind": "both",
+   "score": 0.62,
+   "aZh": "adj. 樂觀的",
+   "bZh": "adj. 悲觀的；消極的",
+   "diff": "optimistic 是預期事情會有好結果；pessimistic 是預期事情會有壞結果。兩字字形很像，只差前面幾個字母。",
+   "points": [
+    "反義：opti- 是最好，pessi- 是最壞",
+    "搭配：optimistic about；pessimistic about",
+    "名詞：optimism 樂觀，pessimism 悲觀"
+   ],
+   "tip": "optimistic 的 opti- 是最好；pessimistic 的 pessi- 是最壞。",
+   "exA": {
+    "en": "Kevin stayed optimistic even after receiving a low test score.",
+    "zh": "Kevin 即使考試分數不高，仍保持樂觀。"
+   },
+   "exB": {
+    "en": "Tom is pessimistic about winning because the other team is strong.",
+    "zh": "Tom 對獲勝很悲觀，因為對手很強。"
+   }
+  },
+  {
+   "a": "oral",
+   "b": "verbal",
+   "kind": "semantic",
+   "score": 0.604,
+   "aZh": "adj. 口頭的；口腔的",
+   "bZh": "adj. 口頭的；言語的",
+   "diff": "oral 強調用嘴說出口，也指口腔；verbal 強調用語言表達，不一定和書面相對，也可指言語方面的。",
+   "points": [
+    "字義：oral 還指口腔，verbal 指語言方面",
+    "搭配：oral exam；verbal communication",
+    "對比：oral 常和 written 對比，verbal 常和 non-verbal（非語言）對比"
+   ],
+   "tip": "oral 是嘴巴的；verbal 是話語的。",
+   "exA": {
+    "en": "The oral test in English will begin right after lunch.",
+    "zh": "英文口試會在午餐後馬上開始。"
+   },
+   "exB": {
+    "en": "Body language is as important as verbal communication.",
+    "zh": "肢體語言和言語溝通一樣重要。"
+   }
+  },
+  {
+   "a": "natural",
+   "b": "organic",
+   "kind": "semantic",
+   "score": 0.419,
+   "aZh": "adj. 自然的；天然的",
+   "bZh": "adj. 有機的；有機體的",
+   "diff": "natural 只表示自然或沒有大量加工；organic 指符合有機生產標準，例如不使用人工化學肥料。",
+   "points": [
+    "範圍：natural 較廣，organic 有明確標準",
+    "搭配：natural ingredients；organic vegetables",
+    "注意：natural 不一定是 organic"
+   ],
+   "tip": "natural 是自然來的；organic 是有標準的有機。",
+   "exA": {
+    "en": "This juice is made from all natural ingredients.",
+    "zh": "這種果汁全是用天然的原料做成的。"
+   },
+   "exB": {
+    "en": "My family buys organic vegetables at the weekend market.",
+    "zh": "我家會在週末市集購買有機蔬菜。"
+   }
+  },
+  {
+   "a": "organic",
+   "b": "organize",
+   "kind": "visual",
+   "score": 0.716,
+   "aZh": "adj. 有機的",
+   "bZh": "v. 組織；安排；整理",
+   "diff": "organic 是形容詞，指有機的；organize 是動詞，指組織、安排。兩字都來自 organ，只差字尾 -ic 和 -ize。",
+   "points": [
+    "詞性：organic 是形容詞，organize 是動詞",
+    "字尾：-ic 形成形容詞，-ize 形成動詞",
+    "同源：兩字都來自 organ（器官、工具）"
+   ],
+   "tip": "字尾 -ic 是形容詞，-ize 是動詞。",
+   "exA": {
+    "en": "Organic farmers do not use strong chemicals on their crops.",
+    "zh": "有機農夫不在作物上使用強烈的化學藥劑。"
+   },
+   "exB": {
+    "en": "Jenny organized a study group before the final exam.",
+    "zh": "Jenny 在期末考前組織了一個讀書會。"
+   }
+  },
+  {
+   "a": "arrange",
+   "b": "organize",
+   "kind": "semantic",
+   "score": 0.843,
+   "aZh": "v. 安排；籌備",
+   "bZh": "v. 組織；安排；整理",
+   "diff": "arrange 強調安排特定的時間、順序或細節，如約定見面；organize 強調把人事物整理成有系統的整體，如籌辦活動。",
+   "points": [
+    "重點：arrange 是安排細節，organize 是建立整體秩序",
+    "搭配：arrange a meeting time；organize an event",
+    "整理：兩字都可指整理，organize 更像分類歸檔"
+   ],
+   "tip": "arrange 是排位置、排時間；organize 是把整件事組織起來。",
+   "exA": {
+    "en": "We arranged a time to meet after school.",
+    "zh": "我們約好放學後見面的時間。"
+   },
+   "exB": {
+    "en": "The student council organized a charity sale for the school.",
+    "zh": "學生會為學校舉辦了一場義賣。"
+   }
+  },
+  {
+   "a": "initial",
+   "b": "original",
+   "kind": "semantic",
+   "score": 0.545,
+   "aZh": "adj. 最初的；n. 姓名首字母",
+   "bZh": "adj. 原本的；獨創的",
+   "diff": "initial 只指最開始的階段；original 指原本的版本，也可指獨創的、不是模仿的。",
+   "points": [
+    "字義：initial 只指最初，original 還有獨創的意思",
+    "搭配：the initial stage；the original plan、an original idea",
+    "詞性：original 也可作名詞（原作），initial 也可作名詞（首字母）"
+   ],
+   "tip": "initial 來自 initiate（開始）；original 和 origin（起源）同一家。",
+   "exA": {
+    "en": "Our initial plan was to visit the museum in the morning.",
+    "zh": "我們原先的計畫是早上去參觀博物館。"
+   },
+   "exB": {
+    "en": "The original painting is kept in a special room.",
+    "zh": "那幅原作被保存在一間特別的展間裡。"
+   }
+  },
+  {
+   "a": "outdoor",
+   "b": "outdoors",
+   "kind": "visual",
+   "score": 0.874,
+   "aZh": "adj. 戶外的",
+   "bZh": "adv. 在戶外",
+   "diff": "outdoor 是形容詞，放在名詞前；outdoors 是副詞，放在動詞後。差別在字尾的 s。",
+   "points": [
+    "詞性：outdoor 修飾名詞，outdoors 修飾動詞",
+    "搭配：outdoor activities；play outdoors",
+    "拼字：副詞 outdoors 多一個 s"
+   ],
+   "tip": "outdoors 後面不接名詞，所以以 s 收尾。",
+   "exA": {
+    "en": "Our school offers many outdoor activities in spring.",
+    "zh": "我們學校春天提供許多戶外活動。"
+   },
+   "exB": {
+    "en": "The children enjoy playing outdoors with their friends after school.",
+    "zh": "孩子們喜歡放學後和朋友在戶外玩耍。"
+   }
+  },
+  {
+   "a": "outer",
+   "b": "outside",
+   "kind": "semantic",
+   "score": 1.0,
+   "aZh": "adj. 外部的；外面的",
+   "bZh": "adj./adv./prep. 外面；在外面",
+   "diff": "outer 是形容詞，放在名詞前指外層，和 inner 相對；outside 可作名詞、副詞、介系詞和形容詞，用法更廣。",
+   "points": [
+    "詞性：outer 只作形容詞，outside 用法更多",
+    "搭配：outer space、outer layer；outside the house",
+    "對比：outer 對 inner，outside 對 inside"
+   ],
+   "tip": "outer 只能放在名詞前；outside 什麼位置都能用。",
+   "exA": {
+    "en": "The outer wall needs new paint before winter.",
+    "zh": "外牆在冬天前需要重新油漆。"
+   },
+   "exB": {
+    "en": "The children are waiting outside the classroom for their teacher.",
+    "zh": "孩子們正在教室外面等老師。"
+   }
+  },
+  {
+   "a": "outline",
+   "b": "summary",
+   "kind": "semantic",
+   "score": 0.351,
+   "aZh": "n. 大綱；輪廓",
+   "bZh": "n. 摘要；總結",
+   "diff": "outline 著重架構和重點，是寫作前列出的骨架；summary 是把已完成的內容濃縮成較短的說明。",
+   "points": [
+    "時間：outline 常在寫作前，summary 常在完成後",
+    "內容：outline 列出要點，summary 用句子概述整體",
+    "搭配：write an outline；write a summary"
+   ],
+   "tip": "outline 是外圍的線條；summary 是把整件事縮短。",
+   "exA": {
+    "en": "Please write an outline before you begin your essay.",
+    "zh": "開始寫作文前，請先列出大綱。"
+   },
+   "exB": {
+    "en": "Please write a short summary of the story.",
+    "zh": "請為這個故事寫一份簡短的摘要。"
+   }
+  },
+  {
+   "a": "oven",
+   "b": "stove",
+   "kind": "semantic",
+   "score": 0.494,
+   "aZh": "n. 烤箱；烤爐",
+   "bZh": "n. 爐子；爐具",
+   "diff": "oven 是封閉的烤箱，用高溫烘烤食物；stove 是爐具，通常在上面放鍋子煮食物。",
+   "points": [
+    "用法：oven 烤，stove 煮、炒",
+    "結構：oven 是封閉空間，stove 是開放的爐面",
+    "搭配：bake in the oven；cook on the stove"
+   ],
+   "tip": "oven 裡面烤；stove 上面煮。",
+   "exA": {
+    "en": "Mom baked the bread in the oven this morning.",
+    "zh": "媽媽今天早上用烤箱烤了麵包。"
+   },
+   "exB": {
+    "en": "Dad is cooking soup on the stove for dinner.",
+    "zh": "爸爸正在爐子上煮晚餐的湯。"
+   }
+  },
+  {
+   "a": "abroad",
+   "b": "overseas",
+   "kind": "semantic",
+   "score": 0.682,
+   "aZh": "adv. 在國外；到國外",
+   "bZh": "adv./adj. 在海外；海外的",
+   "diff": "abroad 是副詞，不能直接修飾名詞；overseas 可作副詞和形容詞，所以能說 an overseas student。",
+   "points": [
+    "詞性：abroad 是副詞，overseas 是副詞也是形容詞",
+    "搭配：study abroad；an overseas student",
+    "介系詞：go abroad、go overseas 前面都不加 to"
+   ],
+   "tip": "abroad 只能放在動詞後；overseas 還能放在名詞前。",
+   "exA": {
+    "en": "Amy plans to study abroad after high school.",
+    "zh": "Amy 打算高中畢業後出國留學。"
+   },
+   "exB": {
+    "en": "The company has several overseas offices in Asia and Europe.",
+    "zh": "這家公司在亞洲和歐洲有幾個海外辦公室。"
+   }
+  },
+  {
+   "a": "owe",
+   "b": "own",
+   "kind": "visual",
+   "score": 0.564,
+   "aZh": "v. 欠；歸功於",
+   "bZh": "v. 擁有；adj. 自己的",
+   "diff": "owe 是欠錢、欠人情，或歸功於；own 是擁有。兩字發音有點像，拼字差 e 和 n。",
+   "points": [
+    "拼字：owe 結尾是 e，own 結尾是 n",
+    "發音：owe 讀 /oʊ/，own 讀 /oʊn/",
+    "搭配：owe someone money；own a house"
+   ],
+   "tip": "own 的 n 想成 name（寫我的名字，是我的）；owe 的 e 想成 empty（口袋空空要還）。",
+   "exA": {
+    "en": "I owe my brother twenty dollars for lunch.",
+    "zh": "我欠哥哥二十美元的午餐錢。"
+   },
+   "exB": {
+    "en": "My uncle owns a small bookstore near the station.",
+    "zh": "我叔叔在車站附近擁有一間小書店。"
+   }
+  },
+  {
+   "a": "howl",
+   "b": "owl",
+   "kind": "visual",
+   "score": 0.716,
+   "aZh": "n./v. 嚎叫；長嘯",
+   "bZh": "n. 貓頭鷹",
+   "diff": "howl 是動物或風發出的長長嚎叫聲；owl 是貓頭鷹。owl 是 howl 去掉開頭的 h。",
+   "points": [
+    "拼字：howl 比 owl 多一個 h",
+    "發音：howl 讀 /haʊl/，owl 讀 /aʊl/",
+    "詞性：howl 是動詞或名詞，owl 是名詞"
+   ],
+   "tip": "貓頭鷹（owl）夜裡叫聲像 howl，但少了一個 h。",
+   "exA": {
+    "en": "The wolf began to howl at the bright moon.",
+    "zh": "那隻狼對著明亮的月亮嚎叫起來。"
+   },
+   "exB": {
+    "en": "We heard an owl calling near the forest at night.",
+    "zh": "我們晚上聽到森林附近有貓頭鷹在叫。"
+   }
+  },
+  {
+   "a": "ownership",
+   "b": "possession",
+   "kind": "semantic",
+   "score": 0.504,
+   "aZh": "n. 所有權；責任感",
+   "bZh": "n. 持有；所有物",
+   "diff": "ownership 是法律或實際上的所有權，看是不是你的東西；possession 著重手上持有或占有，不一定是所有人。",
+   "points": [
+    "重點：ownership 看誰是主人，possession 看誰拿著",
+    "可數性：ownership 不可數，possession 表示物品時可數，常用複數 possessions",
+    "搭配：proof of ownership；personal possessions"
+   ],
+   "tip": "ownership 是名分；possession 是手上有。",
+   "exA": {
+    "en": "The document proves her ownership of the house.",
+    "zh": "這份文件證明她擁有那棟房子的所有權。"
+   },
+   "exB": {
+    "en": "Please keep your personal possessions in a safe place.",
+    "zh": "請把你的個人物品放在安全的地方。"
+   }
+  },
+  {
+   "a": "mat",
+   "b": "pad",
+   "kind": "semantic",
+   "score": 0.499,
+   "aZh": "n. 墊子",
+   "bZh": "n. 墊子；護墊；便條本",
+   "diff": "mat 通常是放在地面或桌面的薄墊子，如地墊、瑜伽墊；pad 是柔軟、有厚度的墊子或護墊，也指便條本。",
+   "points": [
+    "厚度：mat 較薄，pad 較厚、柔軟",
+    "用途：mat 鋪在地上，pad 護住身體或墊在中間",
+    "字義：pad 還可指便條本、平板電腦"
+   ],
+   "tip": "mat 是鋪在地上的；pad 是墊在中間保護的。",
+   "exA": {
+    "en": "Please put the yoga mat on the floor.",
+    "zh": "請把瑜伽墊鋪在地板上。"
+   },
+   "exB": {
+    "en": "Wear a knee pad when you practice skateboarding.",
+    "zh": "練習滑板時要戴護膝。"
+   }
   }
  ]
 }
