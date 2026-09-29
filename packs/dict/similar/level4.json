@@ -8006,6 +8006,1593 @@
     "en": "Birds flee into the trees when a cat comes near.",
     "zh": "貓一靠近，鳥就飛逃到樹上。"
    }
+  },
+  {
+   "a": "escape",
+   "b": "flee",
+   "kind": "semantic",
+   "score": 0.568,
+   "aZh": "v. 逃脫；避開",
+   "bZh": "v. 逃離；逃跑",
+   "diff": "flee 是因為害怕或危險而迅速逃離，重點在離開；escape 強調成功脫離被關住或危險的處境，重點在擺脫。",
+   "points": [
+    "重點：flee 是逃跑的動作；escape 是成功脫身",
+    "搭配：flee from danger；escape from a cage",
+    "變化：flee 的過去式是 fled；escape 是規則變化"
+   ],
+   "tip": "flee 是拔腿就跑；escape 是成功逃出來了。",
+   "exA": {
+    "en": "The little bird escaped from its cage through an open window.",
+    "zh": "那隻小鳥從敞開的窗戶逃出了籠子。"
+   },
+   "exB": {
+    "en": "The villagers had to flee from the fire.",
+    "zh": "村民們必須逃離那場大火。"
+   }
+  },
+  {
+   "a": "blush",
+   "b": "flush",
+   "kind": "semantic",
+   "score": 0.807,
+   "aZh": "v. 臉紅；n. 臉紅；紅暈",
+   "bZh": "v. 臉紅；沖洗；n. 紅暈",
+   "diff": "blush 專指因害羞、尷尬而臉紅；flush 的臉紅範圍較廣，也可因生氣、發燒、運動而發紅，另外還有「沖水」的意思。",
+   "points": [
+    "原因：blush 多因害羞或尷尬；flush 可因生氣、發熱、運動",
+    "字義：flush 還有沖水，例如 flush the toilet；blush 沒有",
+    "搭配：blush with embarrassment；flush with anger"
+   ],
+   "tip": "blush 的 b 想成 bashful（害羞）；flush 會沖水，也會漲紅臉。",
+   "exA": {
+    "en": "Amy began to blush when everyone sang her a birthday song.",
+    "zh": "大家為 Amy 唱生日快樂歌時，她開始臉紅。"
+   },
+   "exB": {
+    "en": "Tom's face flushed after he ran around the playground.",
+    "zh": "Tom 繞著操場跑完後，臉漲得通紅。"
+   }
+  },
+  {
+   "a": "bubble",
+   "b": "foam",
+   "kind": "semantic",
+   "score": 0.552,
+   "aZh": "n. 泡泡；氣泡",
+   "bZh": "n. 泡沫；泡綿",
+   "diff": "bubble 是一顆一顆的氣泡；foam 是許多氣泡聚在一起形成的泡沫，也可指輕軟的泡綿材料。",
+   "points": [
+    "數量：bubble 可數，指單一氣泡；foam 通常不可數",
+    "搭配：soap bubbles；foam on the coffee",
+    "字義：foam 還可指泡綿材料"
+   ],
+   "tip": "許多 bubble 聚在一起，就成了 foam。",
+   "exA": {
+    "en": "The children blew soap bubbles in the yard.",
+    "zh": "孩子們在院子裡吹肥皂泡泡。"
+   },
+   "exB": {
+    "en": "There was too much foam on top of my milk tea.",
+    "zh": "我的奶茶上面泡沫太多了。"
+   }
+  },
+  {
+   "a": "ban",
+   "b": "forbid",
+   "kind": "semantic",
+   "score": 0.771,
+   "aZh": "v. 禁止；取締；n. 禁令",
+   "bZh": "v. 禁止；不准",
+   "diff": "ban 多指由法律或組織明文禁止，常接事物；forbid 是不准某人做某事，常接人加 to V。",
+   "points": [
+    "句型：ban + N；forbid + 人 + to V",
+    "對象：ban 常接事物，如 plastic bags；forbid 常接人",
+    "語氣：forbid 較正式，帶有權威者不准的意味"
+   ],
+   "tip": "forbid 裡有 bid（命令）：命令你不准做；ban 是把某物列入禁止名單。",
+   "exA": {
+    "en": "The city will ban plastic bags in all stores next year.",
+    "zh": "市政府明年起將禁止所有商店使用塑膠袋。"
+   },
+   "exB": {
+    "en": "Our parents forbid us to stay out after ten.",
+    "zh": "我們的父母不准我們十點以後還在外面。"
+   }
+  },
+  {
+   "a": "forbid",
+   "b": "prohibit",
+   "kind": "semantic",
+   "score": 0.892,
+   "aZh": "v. 禁止；不准",
+   "bZh": "v. 禁止；阻止",
+   "diff": "兩者都是禁止。forbid 是個人或權威者不准某人做某事；prohibit 較正式，常用於法律、規定或告示。",
+   "points": [
+    "語氣：prohibit 更正式；forbid 較一般",
+    "句型：forbid + 人 + to V；prohibit + 人 + from + V-ing",
+    "場合：prohibit 常見於法規與告示，如 Smoking is prohibited"
+   ],
+   "tip": "forbid 是「不准你做」；prohibit 像禁止標誌上的規定。",
+   "exA": {
+    "en": "My teacher forbids us to eat in the classroom.",
+    "zh": "我的老師不准我們在教室裡吃東西。"
+   },
+   "exB": {
+    "en": "The law prohibits people from smoking in public buildings.",
+    "zh": "法律禁止人們在公共建築內吸菸。"
+   }
+  },
+  {
+   "a": "forecast",
+   "b": "predict",
+   "kind": "semantic",
+   "score": 0.917,
+   "aZh": "n. 預報；預測；v. 預報",
+   "bZh": "v. 預測；預料",
+   "diff": "forecast 常指根據資料預報天氣、經濟等未來情況；predict 是泛指預言未來，不一定有資料，也可憑直覺。",
+   "points": [
+    "用途：forecast 多用於天氣、銷售、經濟；predict 範圍更廣",
+    "詞性：forecast 可作 n. 與 v.；predict 是 v.，名詞是 prediction",
+    "依據：forecast 通常有資料依據；predict 可以只是猜測"
+   ],
+   "tip": "forecast 的 fore- 是事先，事先盤算就是預報。",
+   "exA": {
+    "en": "The radio forecast a cold weekend for the whole island.",
+    "zh": "電台預報整個島這個週末會很冷。"
+   },
+   "exB": {
+    "en": "No one can predict who will win the game.",
+    "zh": "沒有人能預測誰會贏得這場比賽。"
+   }
+  },
+  {
+   "a": "equation",
+   "b": "formula",
+   "kind": "semantic",
+   "score": 0.424,
+   "aZh": "n. 方程式；等式",
+   "bZh": "n. 公式；方法",
+   "diff": "equation 是含有等號的式子，可以解出答案，例如 x + 2 = 5；formula 是用來計算某類問題的固定公式，例如圓面積公式。",
+   "points": [
+    "數學上：equation 是要求解的等式；formula 是直接套用的公式",
+    "字義：formula 也指方法、配方；equation 沒有",
+    "搭配：solve an equation；use a formula"
+   ],
+   "tip": "equation 裡有 equal（等於）；formula 是固定的公式。",
+   "exA": {
+    "en": "Kevin solved the equation in less than a minute.",
+    "zh": "Kevin 不到一分鐘就解出了這個方程式。"
+   },
+   "exB": {
+    "en": "We used a formula to find the area of the circle.",
+    "zh": "我們用公式算出這個圓的面積。"
+   }
+  },
+  {
+   "a": "formula",
+   "b": "method",
+   "kind": "semantic",
+   "score": 0.605,
+   "aZh": "n. 公式；方法；方案",
+   "bZh": "n. 方法；方式",
+   "diff": "method 是一般做事的方法；formula 是可以直接套用、有固定步驟或比例的公式或配方，也可比喻成功的訣竅。",
+   "points": [
+    "固定程度：formula 較固定；method 較有彈性",
+    "搭配：a formula for success；a teaching method",
+    "語感：formula 帶有「照著做就會成功」的意味"
+   ],
+   "tip": "formula 是照著套；method 是做事的方式。",
+   "exA": {
+    "en": "Is there a simple formula for getting high scores?",
+    "zh": "有沒有取得高分的簡單公式？"
+   },
+   "exB": {
+    "en": "Our teacher uses a fun method to teach new words.",
+    "zh": "我們的老師用有趣的方法教新單字。"
+   }
+  },
+  {
+   "a": "formation",
+   "b": "information",
+   "kind": "visual",
+   "score": 0.783,
+   "aZh": "n. 形成；組成；隊形",
+   "bZh": "n. 資訊；消息",
+   "diff": "information 是 inform 的名詞，指資訊；formation 是 form 的名詞，指形成或隊形。information 多了 in-，而且是不可數名詞。",
+   "points": [
+    "拼字：information 比 formation 多開頭的 in",
+    "詞義：information 是資訊；formation 是形成、隊形",
+    "可數性：information 不可數，不加 -s；formation 可數"
+   ],
+   "tip": "information 裡有 inform（告知）；formation 裡有 form（形成）。",
+   "exA": {
+    "en": "The birds flew across the sky in a V formation.",
+    "zh": "鳥群排成 V 字形飛過天空。"
+   },
+   "exB": {
+    "en": "Please give us more information about the school trip.",
+    "zh": "請多給我們一些關於校外旅行的資訊。"
+   }
+  },
+  {
+   "a": "fortunate",
+   "b": "lucky",
+   "kind": "semantic",
+   "score": 0.728,
+   "aZh": "adj. 幸運的；有福的",
+   "bZh": "adj. 幸運的；走運的",
+   "diff": "lucky 最口語，泛指運氣好；fortunate 較正式，常用來說明遇到了好的情況或條件。",
+   "points": [
+    "語氣：lucky 口語；fortunate 較正式",
+    "句型：be lucky to V、be fortunate to V 都可用",
+    "搭配：a lucky number；fortunate enough to V"
+   ],
+   "tip": "fortunate 和 fortune（運氣）同一家；lucky 是日常最常說的幸運。",
+   "exA": {
+    "en": "We were fortunate to have good weather on our trip.",
+    "zh": "我們的旅行很幸運，遇到了好天氣。"
+   },
+   "exB": {
+    "en": "Amy felt lucky to win a free movie ticket.",
+    "zh": "Amy 覺得能贏得一張免費電影票很幸運。"
+   }
+  },
+  {
+   "a": "basis",
+   "b": "foundation",
+   "kind": "semantic",
+   "score": 0.719,
+   "aZh": "n. 基礎；根據",
+   "bZh": "n. 基礎；根基；基金會",
+   "diff": "basis 是判斷、決定所依據的理由或基準；foundation 是支撐事物發展的根基，也可指建築的地基和基金會。",
+   "points": [
+    "用法：basis 多用來說明依據，如 on the basis of；foundation 是基礎本身",
+    "字義：foundation 還有地基、基金會；basis 沒有",
+    "搭配：on a regular basis 定期；lay the foundation 奠定基礎"
+   ],
+   "tip": "foundation 像蓋房子的地基；basis 像做決定的根據。",
+   "exA": {
+    "en": "The teacher chose the winner on the basis of the final test.",
+    "zh": "老師依據期末測驗的結果選出優勝者。"
+   },
+   "exB": {
+    "en": "Good habits lay the foundation for a successful life.",
+    "zh": "好習慣為成功的人生奠定基礎。"
+   }
+  },
+  {
+   "a": "foundation",
+   "b": "fountain",
+   "kind": "visual",
+   "score": 0.629,
+   "aZh": "n. 基礎；根基；基金會",
+   "bZh": "n. 噴泉；噴水池",
+   "diff": "兩個字開頭都是 foun-，foundation 是基礎，fountain 是噴泉。foundation 的 foun 後面接 d，fountain 的 foun 後面接 t。",
+   "points": [
+    "拼字：foun-d-ation 與 foun-t-ain",
+    "詞義：foundation 是基礎；fountain 是噴水池",
+    "詞性：兩者都是名詞"
+   ],
+   "tip": "fountain 和 mountain 只差第一個字母：想成山上噴出的泉水。",
+   "exA": {
+    "en": "The new house has a strong foundation made of stone.",
+    "zh": "這棟新房子有用石頭砌成的穩固地基。"
+   },
+   "exB": {
+    "en": "Children were playing near the fountain in the park.",
+    "zh": "孩子們在公園的噴泉附近玩耍。"
+   }
+  },
+  {
+   "a": "gender",
+   "b": "sex",
+   "kind": "semantic",
+   "score": 0.827,
+   "aZh": "n. 性別",
+   "bZh": "n. 性別；生理性別；性",
+   "diff": "sex 多指生理上的性別，也是表格中常見的欄位；gender 多指社會與文化上的性別角色或認同，常見於性別平等的話題。",
+   "points": [
+    "重點：sex 偏生理；gender 偏社會角色與認同",
+    "搭配：gender equality、gender roles；填寫表格時的 sex",
+    "字義：sex 還有性行為的意思，因此談論性別議題時多用 gender"
+   ],
+   "tip": "gender 談角色與平等；sex 談生理分類。",
+   "exA": {
+    "en": "The class talked about gender equality in the workplace.",
+    "zh": "全班討論了職場上的性別平等。"
+   },
+   "exB": {
+    "en": "Please write your name, age, and sex on the form.",
+    "zh": "請在表格上填寫你的姓名、年齡和性別。"
+   }
+  },
+  {
+   "a": "genius",
+   "b": "talent",
+   "kind": "semantic",
+   "score": 0.477,
+   "aZh": "n. 天才；天賦",
+   "bZh": "n. 天分；才能；人才",
+   "diff": "talent 是某方面的天分，程度不一定極高；genius 指特別出眾的天賦，或有這種天賦的人，程度更高。",
+   "points": [
+    "程度：genius 比 talent 更強",
+    "對象：genius 可指人；talent 多指才能，也可指人才",
+    "搭配：a talent for music；a genius at math"
+   ],
+   "tip": "talent 是天分；genius 是天分高到出眾。",
+   "exA": {
+    "en": "Our teacher says Tom has a genius for solving math problems.",
+    "zh": "老師說 Tom 有解數學題的天賦。"
+   },
+   "exB": {
+    "en": "Amy has a talent for drawing and often joins art contests.",
+    "zh": "Amy 有繪畫的天分，常常參加美術比賽。"
+   }
+  },
+  {
+   "a": "disappoint",
+   "b": "frustrate",
+   "kind": "semantic",
+   "score": 0.511,
+   "aZh": "v. 使失望",
+   "bZh": "v. 使受挫；使沮喪",
+   "diff": "disappoint 是結果不如預期而失望；frustrate 是目標受阻、努力沒有用而感到挫折，強調被擋住。",
+   "points": [
+    "原因：disappoint 因期待落空；frustrate 因受阻",
+    "情緒：disappointed 是失望；frustrated 是受挫、煩躁",
+    "搭配：be disappointed with；be frustrated by"
+   ],
+   "tip": "disappoint 是期待落空；frustrate 是被卡住。",
+   "exA": {
+    "en": "The low score disappointed Amy after weeks of hard study.",
+    "zh": "努力讀了好幾週，低分卻讓 Amy 很失望。"
+   },
+   "exB": {
+    "en": "The broken printer frustrated Amy when she needed to hand in her report.",
+    "zh": "Amy 需要交報告時，壞掉的印表機讓她很受挫。"
+   }
+  },
+  {
+   "a": "achieve",
+   "b": "fulfill",
+   "kind": "semantic",
+   "score": 0.747,
+   "aZh": "v. 達成；實現",
+   "bZh": "v. 實現；履行；符合",
+   "diff": "achieve 強調經過努力達到目標或成就；fulfill 強調實現願望、履行承諾或符合要求，重點在把它做到位。",
+   "points": [
+    "搭配：achieve a goal、achieve success；fulfill a promise、fulfill a dream",
+    "受詞：fulfill 常接 promise、duty、requirement",
+    "語氣：fulfill 較正式"
+   ],
+   "tip": "fulfill 裡有 full：把承諾補滿、做到位。",
+   "exA": {
+    "en": "Tom worked hard to achieve his goal of joining the team.",
+    "zh": "Tom 努力想達成加入球隊的目標。"
+   },
+   "exB": {
+    "en": "Amy fulfilled her promise and came to the party.",
+    "zh": "Amy 履行了承諾，來參加派對。"
+   }
+  },
+  {
+   "a": "fill",
+   "b": "fulfill",
+   "kind": "visual",
+   "score": 0.586,
+   "aZh": "v. 裝滿；填寫；使充滿",
+   "bZh": "v. 實現；履行；符合",
+   "diff": "fill 是把容器或空間裝滿，也可指填寫表格；fulfill 是實現夢想、履行承諾或符合要求。fulfill 看起來像 full 加 fill，但意思不同。",
+   "points": [
+    "拼字：fulfill 是 ful + fill",
+    "詞義：fill 是裝滿、填寫；fulfill 是實現、履行",
+    "搭配：fill a cup、fill out a form；fulfill a dream"
+   ],
+   "tip": "fulfill 的受詞是夢想、承諾這類抽象的事；fill 的受詞是具體的空間或容器。",
+   "exA": {
+    "en": "Please fill the bottle with fresh water before the hike.",
+    "zh": "健行前，請把瓶子裝滿乾淨的水。"
+   },
+   "exB": {
+    "en": "Winning the contest helped Amy fulfill her dream.",
+    "zh": "贏得比賽幫助 Amy 實現了夢想。"
+   }
+  },
+  {
+   "a": "basic",
+   "b": "fundamental",
+   "kind": "semantic",
+   "score": 0.883,
+   "aZh": "adj. 基本的；基礎的",
+   "bZh": "adj. 基本的；根本的",
+   "diff": "basic 是入門、簡單的基礎；fundamental 是構成事物不可缺少的根本，重要性更高，語氣較正式。",
+   "points": [
+    "程度：basic 偏入門；fundamental 偏根本",
+    "搭配：basic skills、basic English；fundamental rights、fundamental change",
+    "語氣：fundamental 較正式"
+   ],
+   "tip": "basic 是起點；fundamental 是地基（和 foundation 同一家）。",
+   "exA": {
+    "en": "The class teaches basic English words for daily life.",
+    "zh": "這堂課教日常生活用的基本英文單字。"
+   },
+   "exB": {
+    "en": "Freedom of speech is a fundamental right in many countries.",
+    "zh": "言論自由在許多國家是一項基本權利。"
+   }
+  },
+  {
+   "a": "burial",
+   "b": "funeral",
+   "kind": "semantic",
+   "score": 0.85,
+   "aZh": "n. 埋葬；葬禮",
+   "bZh": "n. 葬禮；喪禮",
+   "diff": "funeral 是為逝者舉行的告別儀式；burial 是把遺體埋入土中的行為，不一定有儀式。",
+   "points": [
+    "重點：funeral 是儀式；burial 是埋葬的動作",
+    "搭配：attend a funeral；burial ground 墓地",
+    "相關字：bury 是埋，burial 是它的名詞"
+   ],
+   "tip": "burial 來自 bury（埋）；funeral 是告別儀式。",
+   "exA": {
+    "en": "The burial took place in a quiet cemetery near the village.",
+    "zh": "埋葬儀式在村子附近一處安靜的墓園舉行。"
+   },
+   "exB": {
+    "en": "Many friends came to the funeral to say goodbye.",
+    "zh": "許多朋友來到葬禮上道別。"
+   }
+  },
+  {
+   "a": "angry",
+   "b": "furious",
+   "kind": "semantic",
+   "score": 0.643,
+   "aZh": "adj. 生氣的；憤怒的",
+   "bZh": "adj. 狂怒的；極生氣的",
+   "diff": "angry 是一般的生氣，程度範圍較廣；furious 是極度生氣，語氣很強，接近勃然大怒。",
+   "points": [
+    "程度：furious 比 angry 強很多",
+    "名詞：angry 對應 anger；furious 對應 fury",
+    "搭配：兩者都可接 with 人、about 事"
+   ],
+   "tip": "furious 有 fury（狂怒）：怒火最高的一級。",
+   "exA": {
+    "en": "Dad was angry when he saw the mess in the kitchen.",
+    "zh": "爸爸看到廚房一團亂，很生氣。"
+   },
+   "exB": {
+    "en": "Dad was furious when the noisy neighbors woke him up again.",
+    "zh": "吵鬧的鄰居又把爸爸吵醒，他氣炸了。"
+   }
+  },
+  {
+   "a": "curious",
+   "b": "furious",
+   "kind": "visual",
+   "score": 0.785,
+   "aZh": "adj. 好奇的；想知道的",
+   "bZh": "adj. 狂怒的；極生氣的",
+   "diff": "兩個字只差第一個字母：curious 是好奇的，furious 是狂怒的，字尾都是 -rious。",
+   "points": [
+    "拼字：c 與 f 開頭不同，其餘都是 -urious",
+    "詞義：curious 是想知道；furious 是極度生氣",
+    "搭配：be curious about；be furious with someone"
+   ],
+   "tip": "curious 對應 curiosity（好奇心）；furious 對應 fury（狂怒）。",
+   "exA": {
+    "en": "The children were curious about the strange box on the table.",
+    "zh": "孩子們對桌上那個奇怪的盒子很好奇。"
+   },
+   "exB": {
+    "en": "The children were furious when the teacher canceled the game.",
+    "zh": "老師取消比賽時，孩子們氣壞了。"
+   }
+  },
+  {
+   "a": "furnish",
+   "b": "provide",
+   "kind": "semantic",
+   "score": 0.704,
+   "aZh": "v. 添置家具；提供",
+   "bZh": "v. 提供；供應",
+   "diff": "provide 是一般的提供；furnish 較正式，可指為房間添置家具，也可指提供資料或資源。",
+   "points": [
+    "字義：furnish 多了「添置家具」的意思",
+    "句型：furnish + 人或地方 + with + N；provide + 人 + with + N",
+    "語氣：furnish 較正式，provide 使用範圍廣"
+   ],
+   "tip": "furnish 和 furniture（家具）同一家。",
+   "exA": {
+    "en": "The hotel furnished each room with a small desk and a lamp.",
+    "zh": "旅館為每個房間添置了一張小書桌和一盞檯燈。"
+   },
+   "exB": {
+    "en": "The hotel provides free breakfast for all guests.",
+    "zh": "這間旅館為所有房客提供免費早餐。"
+   }
+  },
+  {
+   "a": "besides",
+   "b": "furthermore",
+   "kind": "semantic",
+   "score": 0.603,
+   "aZh": "adv./prep. 此外；除……之外",
+   "bZh": "adv. 此外；而且",
+   "diff": "besides 較口語，可當副詞或介系詞；furthermore 較正式，只當副詞，多用在文章裡補充另一項理由。",
+   "points": [
+    "詞性：besides 可作 adv. 與 prep.；furthermore 只作 adv.",
+    "語氣：furthermore 正式；besides 較口語",
+    "位置：兩者都常放句首，後面加逗號"
+   ],
+   "tip": "furthermore 是 further + more：一項一項往下加。",
+   "exA": {
+    "en": "Besides, we still have plenty of time to finish the project.",
+    "zh": "而且，我們還有很多時間可以完成這個專題。"
+   },
+   "exB": {
+    "en": "Furthermore, the new schedule gives students more time to rest.",
+    "zh": "此外，新的時間表讓學生有更多時間休息。"
+   }
+  },
+  {
+   "a": "gallery",
+   "b": "museum",
+   "kind": "semantic",
+   "score": 0.509,
+   "aZh": "n. 美術館；畫廊",
+   "bZh": "n. 博物館",
+   "diff": "museum 是收藏展示各種文物、歷史或科學物品的博物館；gallery 主要展示藝術作品，可以是美術館，也可以是販售畫作的畫廊。",
+   "points": [
+    "展品：gallery 以藝術品為主；museum 涵蓋歷史、科學、自然",
+    "性質：gallery 可能是私人畫廊，也可能販售作品",
+    "搭配：an art gallery；a history museum、a science museum"
+   ],
+   "tip": "gallery 是掛畫的展廳；museum 是收藏各種文物的地方。",
+   "exA": {
+    "en": "Amy looked at paintings in the gallery for an hour.",
+    "zh": "Amy 在畫廊裡欣賞畫作看了一個小時。"
+   },
+   "exB": {
+    "en": "Our class visited the science museum on Friday.",
+    "zh": "我們班星期五參觀了科學博物館。"
+   }
+  },
+  {
+   "a": "globe",
+   "b": "glove",
+   "kind": "visual",
+   "score": 0.659,
+   "aZh": "n. 地球；地球儀",
+   "bZh": "n. 手套",
+   "diff": "globe 是地球或地球儀，glove 是手套；兩個字只差 b 和 v，發音也不同。",
+   "points": [
+    "拼字：glo-b-e 與 glo-v-e 只差一個字母",
+    "發音：globe 念 /ɡloʊb/；glove 念 /ɡlʌv/",
+    "詞義：globe 與地球有關；glove 與手有關"
+   ],
+   "tip": "globe 的 b 想成 ball（球）；glove 裡有 love，戴在手上。",
+   "exA": {
+    "en": "The teacher turned the globe to show us where Japan is.",
+    "zh": "老師轉動地球儀，讓我們看日本在哪裡。"
+   },
+   "exB": {
+    "en": "Amy put on warm gloves before she went out.",
+    "zh": "Amy 出門前戴上了保暖的手套。"
+   }
+  },
+  {
+   "a": "giggle",
+   "b": "laugh",
+   "kind": "semantic",
+   "score": 0.462,
+   "aZh": "v. 咯咯笑；傻笑",
+   "bZh": "v. 笑；嘲笑",
+   "diff": "laugh 是最一般的笑；giggle 是短促、輕快的笑聲，常在覺得好笑卻想忍住、或感到害羞時出現。",
+   "points": [
+    "聲音：giggle 短促輕快；laugh 可大可小",
+    "情境：giggle 常因害羞、緊張或忍不住",
+    "搭配：giggle at；laugh at（也可指嘲笑）"
+   ],
+   "tip": "giggle 的聲音像「咯咯咯」；laugh 是一般的大笑。",
+   "exA": {
+    "en": "The little girl giggled when the puppy licked her hand.",
+    "zh": "小狗舔她的手時，小女孩咯咯笑了起來。"
+   },
+   "exB": {
+    "en": "Everyone laughed out loud at the teacher's joke.",
+    "zh": "大家都被老師的笑話逗得哈哈大笑。"
+   }
+  },
+  {
+   "a": "goods",
+   "b": "product",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "n. 商品；貨物",
+   "bZh": "n. 產品；製品；成果",
+   "diff": "goods 是可買賣或運送的商品總稱，通常用複數；product 是製造或生產出來的產品，單複數都可用，也可指結果。",
+   "points": [
+    "單複數：goods 只有複數形；product 是可數名詞，可加 -s",
+    "範圍：goods 偏買賣、運送；product 偏製造出來的東西",
+    "字義：product 還有成果、產物的意思，goods 沒有"
+   ],
+   "tip": "goods 是店裡賣的貨；product 是工廠做出的東西。",
+   "exA": {
+    "en": "The store sells goods from many countries at fair prices.",
+    "zh": "這家店以合理的價格販售來自許多國家的商品。"
+   },
+   "exB": {
+    "en": "This new product is made from recycled plastic bottles.",
+    "zh": "這項新產品是用回收的塑膠瓶做成的。"
+   }
+  },
+  {
+   "a": "graceful",
+   "b": "grateful",
+   "kind": "visual",
+   "score": 0.853,
+   "aZh": "adj. 優雅的；得體的",
+   "bZh": "adj. 感激的；感謝的",
+   "diff": "graceful 是優雅，grateful 是感激。兩個字拼法很像，只差第四個字母 c 和 t。",
+   "points": [
+    "拼字：gra-c-eful 與 gra-t-eful 只差一個字母",
+    "詞義：graceful 與 grace（優雅）有關；grateful 與 gratitude（感激）有關",
+    "搭配：a graceful dancer；be grateful for"
+   ],
+   "tip": "graceful 的 c 想成 charming（有魅力）；grateful 的 t 想成 thanks（感謝）。",
+   "exA": {
+    "en": "The dancer gave a graceful bow at the end of the show.",
+    "zh": "舞者在演出結束時優雅地鞠了個躬。"
+   },
+   "exB": {
+    "en": "I am grateful to my teacher for her patient help.",
+    "zh": "我很感謝老師耐心的幫助。"
+   }
+  },
+  {
+   "a": "graceful",
+   "b": "gracious",
+   "kind": "both",
+   "score": 0.579,
+   "aZh": "adj. 優雅的；得體的",
+   "bZh": "adj. 親切有禮的；寬厚的",
+   "diff": "graceful 形容動作、姿態優美；gracious 形容待人親切有禮、寬厚大方。",
+   "points": [
+    "對象：graceful 形容動作與舉止；gracious 形容人的態度",
+    "搭配：a graceful movement；a gracious host",
+    "拼字：注意 -ful 與 -ious 字尾的不同"
+   ],
+   "tip": "graceful 看動作好不好看；gracious 看待人親不親切。",
+   "exA": {
+    "en": "The dancer's graceful steps made everyone stop and watch.",
+    "zh": "舞者優美的舞步讓大家都停下來欣賞。"
+   },
+   "exB": {
+    "en": "Our gracious host offered every guest a cup of tea.",
+    "zh": "我們親切的主人請每位客人喝了一杯茶。"
+   }
+  },
+  {
+   "a": "chart",
+   "b": "graph",
+   "kind": "semantic",
+   "score": 0.635,
+   "aZh": "n. 圖表；排名表；v. 繪製圖表",
+   "bZh": "n. 圖表；曲線圖；v. 以圖表表示",
+   "diff": "graph 是表示數據關係的圖，例如折線圖、長條圖；chart 範圍較廣，可指各種整理資訊的圖表，如排行榜、流程圖。",
+   "points": [
+    "範圍：chart 較廣；graph 專指數據關係圖",
+    "搭配：line graph、bar graph；pie chart、flow chart",
+    "用法：chart 也可指排行榜，如 music chart"
+   ],
+   "tip": "graph 看數據的變化；chart 是整理資訊的圖表。",
+   "exA": {
+    "en": "The pie chart shows how students spend their free time.",
+    "zh": "這張圓餅圖顯示學生如何運用空閒時間。"
+   },
+   "exB": {
+    "en": "The line graph shows how the temperature changed this week.",
+    "zh": "這張折線圖顯示這週的氣溫如何變化。"
+   }
+  },
+  {
+   "a": "appreciate",
+   "b": "grateful",
+   "kind": "semantic",
+   "score": 0.748,
+   "aZh": "v. 感激；感謝；欣賞",
+   "bZh": "adj. 感激的；感謝的",
+   "diff": "appreciate 是動詞，後面直接接感謝的事物；grateful 是形容詞，要搭配 be 動詞，感謝的對象前要加 to。",
+   "points": [
+    "詞性：appreciate 是 v.；grateful 是 adj.",
+    "句型：I appreciate your help；I am grateful for your help",
+    "常見錯誤：I am appreciate your help 是錯的"
+   ],
+   "tip": "appreciate 是動作；grateful 是心裡的感受。",
+   "exA": {
+    "en": "I really appreciate your help with my homework.",
+    "zh": "我真的很感謝你幫我寫功課。"
+   },
+   "exB": {
+    "en": "I am grateful for your help with my homework.",
+    "zh": "我很感激你幫我寫功課。"
+   }
+  },
+  {
+   "a": "attitude",
+   "b": "gratitude",
+   "kind": "visual",
+   "score": 0.641,
+   "aZh": "n. 態度；看法",
+   "bZh": "n. 感激；感謝",
+   "diff": "兩個字字尾都是 -titude；attitude 是態度，gratitude 是感激。gratitude 開頭是 gra-，attitude 開頭是 at-。",
+   "points": [
+    "拼字：atti-tude 與 gra-titude 開頭不同",
+    "詞義：attitude 是態度；gratitude 是感謝",
+    "搭配：a positive attitude；express gratitude"
+   ],
+   "tip": "gratitude 的開頭像 grateful；attitude 則是 at- 開頭。",
+   "exA": {
+    "en": "Tom has a positive attitude toward learning new things.",
+    "zh": "Tom 對學習新事物抱持積極的態度。"
+   },
+   "exB": {
+    "en": "The students showed their gratitude with a big thank-you card.",
+    "zh": "學生們用一張大大的感謝卡表達他們的感激。"
+   }
+  },
+  {
+   "a": "grave",
+   "b": "serious",
+   "kind": "semantic",
+   "score": 0.73,
+   "aZh": "adj. 嚴重的；嚴肅的",
+   "bZh": "adj. 嚴重的；認真的；嚴肅的",
+   "diff": "serious 是最常用的嚴重、認真；grave 語氣更正式、更沉重，用於後果嚴重或令人擔憂的情況。",
+   "points": [
+    "語氣：grave 較正式；serious 較日常",
+    "搭配：a grave mistake；a serious problem",
+    "字義：serious 還有「認真的」；grave 還有「墳墓」"
+   ],
+   "tip": "grave 也是墳墓：讓人聯想到後果很沉重。",
+   "exA": {
+    "en": "The government warned of a grave danger to the town.",
+    "zh": "政府警告這座城鎮面臨嚴重的危險。"
+   },
+   "exB": {
+    "en": "The doctor said the illness was serious but not deadly.",
+    "zh": "醫生說這種病很嚴重，但不會致命。"
+   }
+  },
+  {
+   "a": "grave",
+   "b": "tomb",
+   "kind": "semantic",
+   "score": 0.634,
+   "aZh": "n. 墳墓",
+   "bZh": "n. 墳墓；墓穴",
+   "diff": "grave 是埋在地下的一般墳墓，常有墓碑；tomb 常指較大的石造墓室或陵墓，古代或重要人物的墓多用 tomb。",
+   "points": [
+    "規模：grave 一般；tomb 常較大、較有紀念性",
+    "搭配：visit a grave；an ancient tomb",
+    "字義：grave 還可作形容詞「嚴重的」"
+   ],
+   "tip": "grave 是土裡的墓穴；tomb 是有建築的墓室。",
+   "exA": {
+    "en": "Jenny put fresh flowers on her grandmother's grave.",
+    "zh": "Jenny 在祖母的墳前放上新鮮的花。"
+   },
+   "exB": {
+    "en": "Tourists visited the ancient tomb hidden in the hills.",
+    "zh": "遊客參觀了藏在山丘中的古墓。"
+   }
+  },
+  {
+   "a": "greeting",
+   "b": "hello",
+   "kind": "semantic",
+   "score": 0.912,
+   "aZh": "n. 問候；招呼",
+   "bZh": "int. 你好；n. 招呼",
+   "diff": "hello 是打招呼時說的一句話；greeting 是問候的行為或內容，也可指信件、卡片中的問候語。",
+   "points": [
+    "詞性：hello 是感嘆詞，也可作名詞；greeting 是名詞",
+    "搭配：say hello；send greetings、a greeting card",
+    "用法：greeting 常用複數 greetings 表示問候語"
+   ],
+   "tip": "greeting 是動詞 greet 的名詞。",
+   "exA": {
+    "en": "The teacher gave the new students a warm greeting.",
+    "zh": "老師熱情地向新同學打招呼。"
+   },
+   "exB": {
+    "en": "Amy said hello to her neighbor on the bus.",
+    "zh": "Amy 在公車上向鄰居打了招呼。"
+   }
+  },
+  {
+   "a": "greeting",
+   "b": "meeting",
+   "kind": "visual",
+   "score": 0.708,
+   "aZh": "n. 問候；招呼",
+   "bZh": "n. 會議；集會；相遇",
+   "diff": "greeting 是問候，meeting 是會議或見面。兩個字字尾都是 -eeting，只有開頭的 gr- 和 m- 不同。",
+   "points": [
+    "拼字：gr- 與 m- 開頭不同，其餘都是 -eeting",
+    "詞義：greeting 來自 greet；meeting 來自 meet",
+    "搭配：a warm greeting；a class meeting"
+   ],
+   "tip": "greeting 的 greet 是問候；meeting 的 meet 是見面開會。",
+   "exA": {
+    "en": "The students gave the guest a friendly greeting.",
+    "zh": "學生們親切地向來賓打招呼。"
+   },
+   "exB": {
+    "en": "The class meeting will start at three o'clock.",
+    "zh": "班會將在三點開始。"
+   }
+  },
+  {
+   "a": "brief",
+   "b": "grief",
+   "kind": "visual",
+   "score": 0.719,
+   "aZh": "adj. 簡短的；短暫的",
+   "bZh": "n. 悲傷；悲痛",
+   "diff": "兩個字只差第一個字母 b 和 g，後面都是 -rief。brief 是簡短的，grief 是悲痛。",
+   "points": [
+    "拼字：b 與 g 開頭不同，其餘都是 -rief",
+    "詞性：brief 常作 adj.；grief 是 n.",
+    "搭配：a brief talk；deep grief"
+   ],
+   "tip": "grief 的 g 想成 grave（墳墓）：失去親人的悲痛。",
+   "exA": {
+    "en": "The principal gave a brief speech at the ceremony.",
+    "zh": "校長在典禮上發表了簡短的演說。"
+   },
+   "exB": {
+    "en": "Deep grief filled the room after the sad news.",
+    "zh": "聽到這個悲傷的消息後，房間裡充滿了悲痛。"
+   }
+  },
+  {
+   "a": "crush",
+   "b": "grind",
+   "kind": "semantic",
+   "score": 0.383,
+   "aZh": "v. 壓碎；壓壞",
+   "bZh": "v. 磨碎；磨粉",
+   "diff": "crush 是用力壓碎，結果可能是碎塊；grind 是反覆磨擦，把東西磨成細粉或細末。",
+   "points": [
+    "動作：crush 是壓；grind 是磨",
+    "結果：crush 得到碎塊；grind 得到粉末",
+    "搭配：crush garlic、crush a can；grind coffee beans"
+   ],
+   "tip": "crush 是一壓就碎；grind 是轉著磨成粉。",
+   "exA": {
+    "en": "Kevin crushed the empty can with his foot.",
+    "zh": "Kevin 用腳把空罐踩扁了。"
+   },
+   "exB": {
+    "en": "Dad grinds pepper over his soup before every meal.",
+    "zh": "爸爸每餐前都會把胡椒磨在湯上。"
+   }
+  },
+  {
+   "a": "guarantee",
+   "b": "warranty",
+   "kind": "semantic",
+   "score": 0.816,
+   "aZh": "n. 保證；保固；v. 保證",
+   "bZh": "n. 保固；保證書",
+   "diff": "warranty 是廠商對產品品質與維修的書面保固，多指產品；guarantee 範圍更廣，可保證產品，也可承諾結果，還可當動詞。",
+   "points": [
+    "範圍：guarantee 可用於產品與承諾；warranty 多用於產品保固",
+    "詞性：guarantee 可作 n. 與 v.；warranty 只作 n.",
+    "搭配：a two-year warranty；guarantee success"
+   ],
+   "tip": "warranty 是產品的保固書；guarantee 是更廣的保證。",
+   "exA": {
+    "en": "The store guarantees that all its fruit is fresh.",
+    "zh": "這家店保證所有水果都很新鮮。"
+   },
+   "exB": {
+    "en": "This laptop comes with a two-year warranty.",
+    "zh": "這台筆電附有兩年的保固。"
+   }
+  },
+  {
+   "a": "ensure",
+   "b": "guarantee",
+   "kind": "semantic",
+   "score": 0.643,
+   "aZh": "v. 確保；保證",
+   "bZh": "v. 保證；擔保；n. 保固",
+   "diff": "ensure 是採取行動確保事情發生或不出錯；guarantee 是明確承諾某事一定發生或某產品有保障，語氣更強，也可作名詞。",
+   "points": [
+    "重點：ensure 重行動；guarantee 重承諾",
+    "詞性：ensure 只作 v.；guarantee 可作 n. 與 v.",
+    "搭配：ensure safety；a money-back guarantee"
+   ],
+   "tip": "ensure 是把事情做好；guarantee 是開出保證。",
+   "exA": {
+    "en": "The teacher checked the list to ensure nobody was left behind.",
+    "zh": "老師核對名單，確保沒有人被留下。"
+   },
+   "exB": {
+    "en": "The shop guarantees a full refund if you are not happy.",
+    "zh": "如果你不滿意，這家店保證全額退款。"
+   }
+  },
+  {
+   "a": "gap",
+   "b": "gulf",
+   "kind": "semantic",
+   "score": 0.457,
+   "aZh": "n. 缺口；間隔；差距",
+   "bZh": "n. 海灣；巨大差距",
+   "diff": "gap 是一般的空隙或差距，大小不拘；gulf 是很大、很難跨越的差距，也指大海灣。",
+   "points": [
+    "程度：gulf 比 gap 更大更深",
+    "搭配：a gap in knowledge；a gulf between rich and poor",
+    "字義：gulf 還可指海灣"
+   ],
+   "tip": "gap 是小縫；gulf 像深不見底的鴻溝。",
+   "exA": {
+    "en": "There is a small gap between the door and the floor.",
+    "zh": "門和地板之間有一道小縫隙。"
+   },
+   "exB": {
+    "en": "A wide gulf separated the two neighbors after the argument.",
+    "zh": "吵架後，兩位鄰居之間出現了很深的隔閡。"
+   }
+  },
+  {
+   "a": "halt",
+   "b": "stop",
+   "kind": "semantic",
+   "score": 0.738,
+   "aZh": "v. 停止；使停止；n. 停止",
+   "bZh": "v. 停止；阻止；n. 停止；車站",
+   "diff": "stop 是最常用的停止；halt 較正式，多指突然、正式地中止活動或進程，常見 come to a halt。",
+   "points": [
+    "語氣：halt 較正式；stop 較日常",
+    "搭配：come to a halt；stop the car",
+    "字義：stop 還有車站、阻止的意思"
+   ],
+   "tip": "halt 像喊「站住」的停；stop 是一般的停。",
+   "exA": {
+    "en": "The police halted traffic to let the parade pass.",
+    "zh": "警方暫停交通，讓遊行隊伍通過。"
+   },
+   "exB": {
+    "en": "Please stop the car near the bus station.",
+    "zh": "請把車停在公車站附近。"
+   }
+  },
+  {
+   "a": "difficulty",
+   "b": "hardship",
+   "kind": "semantic",
+   "score": 0.528,
+   "aZh": "n. 困難；難題",
+   "bZh": "n. 困苦；艱難",
+   "diff": "difficulty 泛指不容易處理的事，程度可輕可重，可數；hardship 指生活中嚴重或長期的困苦，多與貧困、災難有關。",
+   "points": [
+    "程度：hardship 較嚴重、較長期",
+    "可數性：difficulty 可數；hardship 作總稱時不可數",
+    "搭配：have difficulty V-ing；face hardship"
+   ],
+   "tip": "difficulty 是難題；hardship 是苦日子。",
+   "exA": {
+    "en": "Tom had some difficulty understanding the last math question.",
+    "zh": "Tom 對最後一題數學題有些難以理解。"
+   },
+   "exB": {
+    "en": "The family faced great hardship after losing their home.",
+    "zh": "失去房子後，這個家庭面臨極大的困苦。"
+   }
+  },
+  {
+   "a": "haste",
+   "b": "hasten",
+   "kind": "visual",
+   "score": 0.785,
+   "aZh": "n. 匆忙；急促",
+   "bZh": "v. 加快；促使",
+   "diff": "haste 是名詞，指匆忙；hasten 是動詞，指加快或促使。hasten 就是 haste 加上 -en。",
+   "points": [
+    "詞性：haste 是 n.；hasten 是 v.",
+    "搭配：in haste；hasten the process",
+    "形容詞：hasty 是匆忙的、草率的"
+   ],
+   "tip": "-en 常把名詞變成動詞：haste + en = hasten。",
+   "exA": {
+    "en": "Tom left the house in haste and forgot his keys.",
+    "zh": "Tom 匆忙離開家，忘了帶鑰匙。"
+   },
+   "exB": {
+    "en": "Better roads may hasten the growth of the town.",
+    "zh": "更好的道路可能會加快這座小鎮的發展。"
+   }
+  },
+  {
+   "a": "haste",
+   "b": "waste",
+   "kind": "visual",
+   "score": 0.732,
+   "aZh": "n. 匆忙；急促",
+   "bZh": "n. 浪費；廢棄物",
+   "diff": "haste 是匆忙，waste 是浪費，只差第一個字母 h 和 w。俗話說 Haste makes waste，匆忙容易造成浪費。",
+   "points": [
+    "拼字：h 與 w 開頭不同，其餘都是 -aste",
+    "詞義：haste 是匆忙；waste 是浪費",
+    "搭配：in haste；a waste of time"
+   ],
+   "tip": "Haste makes waste：太匆忙就會浪費。",
+   "exA": {
+    "en": "Do not sign the form in haste; read it first.",
+    "zh": "不要匆忙簽表格，先讀過再說。"
+   },
+   "exB": {
+    "en": "Playing games all night is a waste of time.",
+    "zh": "整晚打電動是浪費時間。"
+   }
+  },
+  {
+   "a": "eagle",
+   "b": "hawk",
+   "kind": "semantic",
+   "score": 0.412,
+   "aZh": "n. 老鷹；鷹",
+   "bZh": "n. 鷹；v. 叫賣",
+   "diff": "eagle 是體型較大的猛禽，翅膀寬闊有力；hawk 是體型較小的猛禽，常在空中盤旋捕食。hawk 也可當動詞，指叫賣。",
+   "points": [
+    "體型：eagle 較大；hawk 較小",
+    "形容：a hawk's eye 形容目光敏銳",
+    "詞性：hawk 還可作動詞，意思是叫賣"
+   ],
+   "tip": "eagle 更大更壯；hawk 較小，目光敏銳。",
+   "exA": {
+    "en": "An eagle flew high above the snowy mountain.",
+    "zh": "一隻老鷹在積雪的山上高高飛翔。"
+   },
+   "exB": {
+    "en": "A hawk circled over the field looking for food.",
+    "zh": "一隻鷹在田野上空盤旋，尋找食物。"
+   }
+  },
+  {
+   "a": "flock",
+   "b": "herd",
+   "kind": "semantic",
+   "score": 0.475,
+   "aZh": "n. 羊群；鳥群；人群",
+   "bZh": "n. 獸群；畜群",
+   "diff": "herd 指牛、象、鹿等大型哺乳動物的群體；flock 指羊或鳥的群體，也可比喻人群。",
+   "points": [
+    "對象：herd 是大型哺乳動物；flock 是羊與鳥",
+    "搭配：a herd of cattle；a flock of birds",
+    "動詞：herd 可指驅趕；flock 指成群聚集"
+   ],
+   "tip": "herd 想到牛群和象群；flock 想到鳥群和羊群。",
+   "exA": {
+    "en": "A flock of birds flew over the school ground.",
+    "zh": "一群鳥飛過學校的操場。"
+   },
+   "exB": {
+    "en": "A herd of cows walked slowly along the country road.",
+    "zh": "一群牛沿著鄉間小路慢慢走著。"
+   }
+  },
+  {
+   "a": "hard",
+   "b": "harsh",
+   "kind": "both",
+   "score": 0.62,
+   "aZh": "adj. 困難的；堅硬的",
+   "bZh": "adj. 嚴厲的；刺耳的；惡劣的",
+   "diff": "hard 是困難或堅硬；harsh 是嚴厲、刺耳、惡劣，帶有令人不舒服的感受。形容天氣或批評時用 harsh。",
+   "points": [
+    "詞義：hard 指難或硬；harsh 指令人不適的嚴厲",
+    "搭配：hard work；harsh weather、harsh words",
+    "拼字：hard 字尾是 d；harsh 字尾是 sh"
+   ],
+   "tip": "harsh 有 sh，像噓聲一樣刺耳。",
+   "exA": {
+    "en": "The math test was hard, but Amy finished it.",
+    "zh": "這次數學考試很難，但 Amy 還是寫完了。"
+   },
+   "exB": {
+    "en": "The harsh winter made life difficult for many farmers.",
+    "zh": "嚴酷的冬天讓許多農夫的生活很艱難。"
+   }
+  },
+  {
+   "a": "harsh",
+   "b": "severe",
+   "kind": "semantic",
+   "score": 0.607,
+   "aZh": "adj. 嚴厲的；刺耳的；惡劣的",
+   "bZh": "adj. 嚴重的；嚴厲的；劇烈的",
+   "diff": "severe 強調程度很高、很嚴重，如 severe pain；harsh 強調令人不舒服的粗暴、嚴苛，如 harsh words。",
+   "points": [
+    "重點：severe 講程度；harsh 講令人不舒服的嚴苛",
+    "搭配：severe pain、a severe storm；harsh words、harsh conditions",
+    "語氣：severe 較正式、中性；harsh 帶負面感受"
+   ],
+   "tip": "severe 看程度高不高；harsh 看刺不刺耳。",
+   "exA": {
+    "en": "The coach's harsh words made the young player cry.",
+    "zh": "教練嚴厲的話讓那位年輕球員哭了。"
+   },
+   "exB": {
+    "en": "The storm caused severe damage to the coastal town.",
+    "zh": "這場暴風雨對海邊小鎮造成了嚴重的損害。"
+   }
+  },
+  {
+   "a": "guilt",
+   "b": "shame",
+   "kind": "semantic",
+   "score": 0.41,
+   "aZh": "n. 罪惡感；罪責",
+   "bZh": "n. 羞恥；羞愧；可惜",
+   "diff": "guilt 是覺得自己做錯事而內疚；shame 是覺得丟臉、羞愧，常因為別人的看法。shame 也可用 What a shame 表示可惜。",
+   "points": [
+    "原因：guilt 因做錯事；shame 因覺得丟臉",
+    "搭配：feel guilt；feel shame、What a shame!",
+    "字義：shame 還有「可惜」；guilt 還有「有罪」"
+   ],
+   "tip": "guilt 是心裡有愧；shame 是臉上無光。",
+   "exA": {
+    "en": "Amy felt guilt after she forgot to help her friend.",
+    "zh": "Amy 忘了幫朋友，心裡感到內疚。"
+   },
+   "exB": {
+    "en": "Tom felt shame when everyone saw his low score.",
+    "zh": "大家看到他的低分時，Tom 覺得很丟臉。"
+   }
+  },
+  {
+   "a": "guilt",
+   "b": "guilty",
+   "kind": "visual",
+   "score": 0.818,
+   "aZh": "n. 罪惡感；罪責",
+   "bZh": "adj. 有罪的；內疚的",
+   "diff": "guilt 是名詞，guilty 是形容詞。說「某人有罪、感到內疚」要用 guilty，不能用 guilt。",
+   "points": [
+    "詞性：guilt 是 n.；guilty 是 adj.",
+    "搭配：a sense of guilt；feel guilty、be guilty of",
+    "常見錯誤：He is guilt 是錯的，要寫 He is guilty"
+   ],
+   "tip": "-y 字尾像形容詞（guilty、angry、happy）。",
+   "exA": {
+    "en": "A deep sense of guilt kept Tom awake at night.",
+    "zh": "深深的罪惡感讓 Tom 夜裡睡不著。"
+   },
+   "exB": {
+    "en": "Tom felt guilty about breaking his friend's pen.",
+    "zh": "Tom 因為弄壞朋友的筆而感到內疚。"
+   }
+  },
+  {
+   "a": "hive",
+   "b": "nest",
+   "kind": "semantic",
+   "score": 0.464,
+   "aZh": "n. 蜂箱；蜂巢",
+   "bZh": "n. 巢；窩",
+   "diff": "nest 是鳥、昆蟲等動物築的巢；hive 專指蜜蜂居住的蜂箱或蜂巢，常是人設置的。",
+   "points": [
+    "對象：hive 只指蜜蜂；nest 指各種動物",
+    "來源：hive 常是人設置的蜂箱；nest 多是動物自己築的",
+    "比喻：a hive of activity 指忙碌熱鬧的地方"
+   ],
+   "tip": "hive 是蜜蜂的家，和 bee 一起記。",
+   "exA": {
+    "en": "The farmer took some honey from the hive.",
+    "zh": "農夫從蜂箱裡取了一些蜂蜜。"
+   },
+   "exB": {
+    "en": "A small bird built a nest in the tree outside my window.",
+    "zh": "一隻小鳥在我窗外的樹上築了巢。"
+   }
+  },
+  {
+   "a": "horrify",
+   "b": "terrify",
+   "kind": "semantic",
+   "score": 0.731,
+   "aZh": "v. 使震驚；使恐懼",
+   "bZh": "v. 使害怕；使恐懼",
+   "diff": "terrify 強調讓人非常害怕；horrify 除了害怕，還帶有震驚、厭惡，常因看到可怕或殘酷的事。",
+   "points": [
+    "情緒：terrify 是恐懼；horrify 是震驚加恐懼",
+    "原因：horrify 常因可怕、殘酷的事；terrify 常因威脅",
+    "分詞：horrified、terrified 都可描述人的感受"
+   ],
+   "tip": "terrify 是怕到發抖；horrify 是看到後驚呆了。",
+   "exA": {
+    "en": "The pictures of the polluted river horrified the students.",
+    "zh": "受污染河川的照片讓學生們震驚不已。"
+   },
+   "exB": {
+    "en": "The sudden thunder terrified the little dog at night.",
+    "zh": "夜裡突然的雷聲把小狗嚇壞了。"
+   }
+  },
+  {
+   "a": "horrify",
+   "b": "shock",
+   "kind": "semantic",
+   "score": 0.642,
+   "aZh": "v. 使震驚；使恐懼",
+   "bZh": "v. 使震驚；n. 震驚",
+   "diff": "shock 是使人吃驚，好壞消息都可以；horrify 是使人感到恐怖和強烈的不安，情緒更負面。",
+   "points": [
+    "語感：shock 只表示驚訝；horrify 帶有恐懼與厭惡",
+    "詞性：shock 也可作 n.；horrify 是 v.",
+    "搭配：be shocked at；be horrified by"
+   ],
+   "tip": "shock 是嚇一跳；horrify 是被可怕的事嚇到。",
+   "exA": {
+    "en": "The cruel scenes in the film horrified many young viewers.",
+    "zh": "電影裡殘忍的畫面讓許多年輕觀眾感到驚恐。"
+   },
+   "exB": {
+    "en": "The sudden noise shocked everyone in the room.",
+    "zh": "突然的聲響讓房間裡的每個人都嚇了一跳。"
+   }
+  },
+  {
+   "a": "hose",
+   "b": "pipe",
+   "kind": "semantic",
+   "score": 0.493,
+   "aZh": "n. 水管；軟管",
+   "bZh": "n. 管子",
+   "diff": "hose 是柔軟、可彎曲的軟管，常用來澆花、洗車；pipe 是堅硬的管子，常固定在牆內或地下輸送水或氣體。",
+   "points": [
+    "材質：hose 柔軟；pipe 堅硬",
+    "用途：hose 可移動；pipe 多半固定",
+    "搭配：a garden hose；a water pipe"
+   ],
+   "tip": "hose 可以拿著走；pipe 是固定在牆裡的。",
+   "exA": {
+    "en": "Dad used a hose to wash the car.",
+    "zh": "爸爸用水管洗車。"
+   },
+   "exB": {
+    "en": "The water pipe under the kitchen sink is broken.",
+    "zh": "廚房水槽下面的水管壞了。"
+   }
+  },
+  {
+   "a": "family",
+   "b": "household",
+   "kind": "semantic",
+   "score": 0.665,
+   "aZh": "n. 家庭；家人",
+   "bZh": "n. 家庭；住戶",
+   "diff": "family 是有血緣或婚姻關係的家人；household 是住在同一處、共同生活的一戶人，成員不一定是親屬。",
+   "points": [
+    "關係：family 講親屬；household 講共同居住",
+    "用法：household 常用在統計、調查與通知",
+    "搭配：a family of four；every household"
+   ],
+   "tip": "family 是親人；household 是同一屋簷下的住戶。",
+   "exA": {
+    "en": "My family eats dinner together at home every evening.",
+    "zh": "我的家人每天晚上都在家一起吃晚餐。"
+   },
+   "exB": {
+    "en": "Every household in the town received a recycling guide.",
+    "zh": "鎮上每一戶都收到一份回收指南。"
+   }
+  },
+  {
+   "a": "household",
+   "b": "housework",
+   "kind": "visual",
+   "score": 0.606,
+   "aZh": "n. 住戶；adj. 家庭的",
+   "bZh": "n. 家事；家務",
+   "diff": "household 是住戶，或形容家庭的；housework 是打掃、洗衣、煮飯等家事，不可數。",
+   "points": [
+    "詞性：household 是 n. 或 adj.；housework 是 n.",
+    "可數性：housework 不可數，不加 -s",
+    "搭配：household income；do the housework"
+   ],
+   "tip": "housework 是 house + work：在家裡做的工作。",
+   "exA": {
+    "en": "The average household in this town has three members.",
+    "zh": "這個鎮上平均每戶有三個人。"
+   },
+   "exB": {
+    "en": "Kevin helps his mother with the housework every weekend.",
+    "zh": "Kevin 每個週末都幫媽媽做家事。"
+   }
+  },
+  {
+   "a": "homework",
+   "b": "housework",
+   "kind": "visual",
+   "score": 0.749,
+   "aZh": "n. 家庭作業",
+   "bZh": "n. 家事；家務",
+   "diff": "homework 是學校交代要在家完成的作業；housework 是在家裡做的打掃、洗衣等家事。兩個字都不可數。",
+   "points": [
+    "拼字：home-work 與 house-work 只差 me 和 use",
+    "詞義：homework 是作業；housework 是家事",
+    "可數性：兩者都不可數，不加 -s"
+   ],
+   "tip": "homework 是學校的功課；housework 是房子（house）裡的活。",
+   "exA": {
+    "en": "Amy finished all her homework before dinner tonight.",
+    "zh": "Amy 今晚吃晚餐前寫完了所有的功課。"
+   },
+   "exB": {
+    "en": "Tom washes the dishes and does other housework at home.",
+    "zh": "Tom 在家洗碗，也做其他家事。"
+   }
+  },
+  {
+   "a": "chore",
+   "b": "housework",
+   "kind": "semantic",
+   "score": 0.565,
+   "aZh": "n. 家事；例行工作",
+   "bZh": "n. 家事；家務",
+   "diff": "housework 是打掃、洗衣等家事的總稱，不可數；chore 是一件件例行的雜事，可數，也可指家務以外的日常雜事。",
+   "points": [
+    "可數性：chore 可數；housework 不可數",
+    "範圍：chore 可指任何例行雜事；housework 專指家事",
+    "搭配：do the chores；do the housework"
+   ],
+   "tip": "housework 是一整類的家事；chore 是其中一件件的小事。",
+   "exA": {
+    "en": "Taking out the trash is Tom's daily chore.",
+    "zh": "倒垃圾是 Tom 每天的例行家事。"
+   },
+   "exB": {
+    "en": "Housework takes a lot of time on Saturday mornings.",
+    "zh": "週六早上做家事要花很多時間。"
+   }
+  },
+  {
+   "a": "humanity",
+   "b": "humidity",
+   "kind": "visual",
+   "score": 0.713,
+   "aZh": "n. 人類；仁慈",
+   "bZh": "n. 濕度；潮濕",
+   "diff": "兩個字都是 hum- 開頭、-ity 結尾，只差中間的 an 和 id。humanity 是人類，humidity 是濕度。",
+   "points": [
+    "拼字：hum-an-ity 與 hum-id-ity 只差中間兩個字母",
+    "詞根：humanity 來自 human（人）；humidity 來自 humid（潮濕）",
+    "搭配：the future of humanity；high humidity"
+   ],
+   "tip": "humanity 裡有 human（人）；humidity 裡有 humid（潮濕的）。",
+   "exA": {
+    "en": "Many scientists hope their work will help all of humanity.",
+    "zh": "許多科學家希望自己的研究能幫助全人類。"
+   },
+   "exB": {
+    "en": "The humidity in the room makes the walls wet.",
+    "zh": "房間裡的濕氣讓牆壁變潮濕。"
+   }
+  },
+  {
+   "a": "hurricane",
+   "b": "typhoon",
+   "kind": "semantic",
+   "score": 0.489,
+   "aZh": "n. 颶風",
+   "bZh": "n. 颱風",
+   "diff": "兩者都是強烈的熱帶氣旋，差別在發生的海域：大西洋和東北太平洋叫 hurricane，西北太平洋叫 typhoon，台灣遇到的是 typhoon。",
+   "points": [
+    "海域：hurricane 在大西洋與東北太平洋；typhoon 在西北太平洋",
+    "地區：美國東南岸常遇 hurricane；台灣常遇 typhoon",
+    "中文：hurricane 譯為颶風；typhoon 譯為颱風"
+   ],
+   "tip": "台灣的颱風是 typhoon；美國東岸的是 hurricane。",
+   "exA": {
+    "en": "A hurricane hit the coast of Florida last month.",
+    "zh": "上個月一場颶風襲擊了佛羅里達的海岸。"
+   },
+   "exB": {
+    "en": "A typhoon brought heavy rain to Taiwan last night.",
+    "zh": "昨晚一個颱風為台灣帶來了大雨。"
+   }
+  },
+  {
+   "a": "idle",
+   "b": "idol",
+   "kind": "visual",
+   "score": 0.605,
+   "aZh": "adj. 閒置的；無所事事的",
+   "bZh": "n. 偶像；崇拜對象",
+   "diff": "兩個字發音相同，只差 e 和 o 兩個字母。idle 是閒置、無所事事，idol 是偶像。",
+   "points": [
+    "發音：兩者都念 /ˈaɪdəl/",
+    "拼字：idle 結尾是 -le；idol 結尾是 -ol",
+    "詞性：idle 是 adj. 或 v.；idol 是 n."
+   ],
+   "tip": "idle 的 le 想到 lazy；idol 的 o 想成偶像頭上的光環。",
+   "exA": {
+    "en": "The machine stayed idle for most of the day.",
+    "zh": "那台機器大半天都閒置著。"
+   },
+   "exB": {
+    "en": "Jenny put a poster of her favorite idol on the wall.",
+    "zh": "Jenny 把她最喜歡的偶像海報貼在牆上。"
+   }
+  },
+  {
+   "a": "idle",
+   "b": "lazy",
+   "kind": "semantic",
+   "score": 0.442,
+   "aZh": "adj. 閒置的；無所事事的",
+   "bZh": "adj. 懶惰的；慵懶的",
+   "diff": "lazy 是形容人不願意工作，帶有批評；idle 只描述沒有事做或沒有在使用，不一定是個性懶惰。",
+   "points": [
+    "對象：idle 可形容人或機器；lazy 多形容人或動物",
+    "評價：lazy 帶負面評價；idle 較中性",
+    "搭配：idle time、an idle machine；a lazy student"
+   ],
+   "tip": "idle 是暫時沒事做；lazy 是個性不想做。",
+   "exA": {
+    "en": "The factory was idle because there was no work.",
+    "zh": "工廠因為沒有工作可做而閒置著。"
+   },
+   "exB": {
+    "en": "The lazy student never finished his homework on time.",
+    "zh": "那位懶惰的學生從來沒有準時寫完功課。"
+   }
+  },
+  {
+   "a": "identical",
+   "b": "similar",
+   "kind": "semantic",
+   "score": 0.554,
+   "aZh": "adj. 完全相同；一模一樣",
+   "bZh": "adj. 相似的；類似的",
+   "diff": "identical 是每個細節都相同，語氣很強；similar 只是相似，有相同也有不同。",
+   "points": [
+    "程度：identical 是完全相同；similar 是大致相同",
+    "搭配：identical twins；similar interests",
+    "句型：be identical to；be similar to"
+   ],
+   "tip": "identical 是同一個樣；similar 只是有點像。",
+   "exA": {
+    "en": "The twins wore identical clothes to the party.",
+    "zh": "雙胞胎穿著一模一樣的衣服去參加派對。"
+   },
+   "exB": {
+    "en": "The two sisters have similar hobbies but different tastes in food.",
+    "zh": "這對姊妹的興趣相似，但對食物的口味不同。"
+   }
+  },
+  {
+   "a": "identical",
+   "b": "identify",
+   "kind": "visual",
+   "score": 0.651,
+   "aZh": "adj. 完全相同；一模一樣",
+   "bZh": "v. 辨認；確認身分",
+   "diff": "identical 是形容詞，表示完全相同；identify 是動詞，表示辨認出來。兩個字開頭都是 identi-，字尾不同。",
+   "points": [
+    "詞性：identical 是 adj.；identify 是 v.",
+    "字尾：-cal 是形容詞字尾；-fy 是動詞字尾",
+    "字根：兩者的 ident- 都與「同一個」有關"
+   ],
+   "tip": "-fy 是動詞字尾（identify）；-cal 是形容詞字尾（identical）。",
+   "exA": {
+    "en": "The two bags look identical from the outside.",
+    "zh": "這兩個包包從外面看起來一模一樣。"
+   },
+   "exB": {
+    "en": "Can you identify the bird from its song?",
+    "zh": "你能從叫聲辨認出這隻鳥嗎？"
+   }
+  },
+  {
+   "a": "identify",
+   "b": "identity",
+   "kind": "visual",
+   "score": 0.754,
+   "aZh": "v. 辨認；確認身分",
+   "bZh": "n. 身分；特徵",
+   "diff": "identify 是動詞，表示辨認；identity 是名詞，表示身分本身。兩個字只差字尾 -fy 和 -ty。",
+   "points": [
+    "詞性：identify 是 v.；identity 是 n.",
+    "搭配：identify a problem；protect one's identity",
+    "相關字：identification 是身分證明"
+   ],
+   "tip": "identity 想成 ID（身分）；identify 是辨認的動作。",
+   "exA": {
+    "en": "Police could not identify the owner of the lost bag.",
+    "zh": "警方無法確認遺失背包的主人是誰。"
+   },
+   "exB": {
+    "en": "Please show a card that proves your identity.",
+    "zh": "請出示能證明你身分的證件。"
+   }
+  },
+  {
+   "a": "identification",
+   "b": "identity",
+   "kind": "both",
+   "score": 0.5,
+   "aZh": "n. 辨認；身分證明",
+   "bZh": "n. 身分；特徵",
+   "diff": "identity 是一個人是誰，是身分本身；identification 是辨認的動作，或用來證明身分的文件，例如身分證。",
+   "points": [
+    "重點：identity 是身分；identification 是辨認或證明文件",
+    "搭配：protect one's identity；show identification",
+    "縮寫：identification 常簡寫成 ID"
+   ],
+   "tip": "ID 是 identification 的縮寫。",
+   "exA": {
+    "en": "You need identification to enter the school building.",
+    "zh": "進入學校大樓需要出示身分證明。"
+   },
+   "exB": {
+    "en": "The police protected the identity of the young witness.",
+    "zh": "警方保護了那位年輕目擊者的身分。"
+   }
+  },
+  {
+   "a": "idiom",
+   "b": "idiot",
+   "kind": "visual",
+   "score": 0.751,
+   "aZh": "n. 慣用語；成語",
+   "bZh": "n. 笨蛋；蠢人",
+   "diff": "idiom 是慣用語，idiot 是笨蛋，只差最後一個字母 m 和 t。idiot 是不禮貌的罵人字眼。",
+   "points": [
+    "拼字：id-i-om 與 id-i-ot 只差字尾",
+    "詞義：idiom 是語言用法；idiot 是罵人的話",
+    "用法：idiot 不禮貌，避免對人使用"
+   ],
+   "tip": "idiom 的 m 想成 meaning：整句一起才有意思。",
+   "exA": {
+    "en": "Our teacher explained a common English idiom in class.",
+    "zh": "我們的老師在課堂上解釋了一個常見的英文慣用語。"
+   },
+   "exB": {
+    "en": "It is not polite to call someone an idiot.",
+    "zh": "叫別人笨蛋是不禮貌的。"
+   }
+  },
+  {
+   "a": "idiom",
+   "b": "phrase",
+   "kind": "semantic",
+   "score": 0.469,
+   "aZh": "n. 慣用語；成語",
+   "bZh": "n. 片語；短語",
+   "diff": "phrase 是由幾個字組成的詞組，不一定有特別意思；idiom 是固定說法，整體意思無法從單字推出，例如 break the ice。",
+   "points": [
+    "意義：idiom 的意思常是比喻；phrase 只是詞組",
+    "例子：break the ice 是 idiom；in the morning 是 phrase",
+    "範圍：idiom 可以算是 phrase 的一種"
+   ],
+   "tip": "idiom 是有比喻意思的片語；phrase 只是字的組合。",
+   "exA": {
+    "en": "Break the ice is an idiom about starting a friendly talk.",
+    "zh": "Break the ice 是一個和展開友善交談有關的慣用語。"
+   },
+   "exB": {
+    "en": "In the morning is a common phrase in English.",
+    "zh": "In the morning 是英文裡常見的片語。"
+   }
   }
  ]
 }
