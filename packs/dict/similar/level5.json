@@ -3036,6 +3036,1708 @@
     "en": "The park will limit the number of visitors each day.",
     "zh": "公園將限制每天的入園人數。"
    }
+  },
+  {
+   "a": "confront",
+   "b": "face",
+   "kind": "semantic",
+   "score": 0.708,
+   "aZh": "v. 面對；處理；質問",
+   "bZh": "v. 面對；面臨；n. 臉",
+   "diff": "face 是一般地面對困難或事實，語氣中性；confront 是直接面對問題，或當面質問某人，語氣較強，帶有對立的意味。",
+   "points": [
+    "語氣：face 中性；confront 較強烈",
+    "用法：confront 可指當面質問",
+    "搭配：face a problem；confront someone about"
+   ],
+   "tip": "face 是面對；confront 是正面對上，甚至質問。",
+   "exA": {
+    "en": "The team must confront the problem before the contest.",
+    "zh": "隊伍必須在比賽前正面處理這個問題。"
+   },
+   "exB": {
+    "en": "Many students face pressure before the big exam.",
+    "zh": "許多學生在大考前都要面對壓力。"
+   }
+  },
+  {
+   "a": "conflict",
+   "b": "confrontation",
+   "kind": "semantic",
+   "score": 0.632,
+   "aZh": "n. 衝突；矛盾；v. 衝突",
+   "bZh": "n. 對抗；衝突",
+   "diff": "conflict 泛指意見、利益或目標互相抵觸，不一定當面發生；confrontation 是雙方面對面直接對立，常帶緊張的氣氛。",
+   "points": [
+    "形式：conflict 可以是內在或長期的矛盾；confrontation 是當面對立",
+    "搭配：a conflict of interest；avoid a confrontation",
+    "詞性：conflict 也可作動詞"
+   ],
+   "tip": "conflict 是彼此抵觸；confrontation 是面對面對峙。",
+   "exA": {
+    "en": "There is a conflict between the two clubs over the practice room.",
+    "zh": "兩個社團為了練習室的使用而有衝突。"
+   },
+   "exB": {
+    "en": "The teacher stepped in to stop the confrontation between the two boys.",
+    "zh": "老師介入，阻止了兩個男孩之間的對峙。"
+   }
+  },
+  {
+   "a": "consecutive",
+   "b": "successive",
+   "kind": "semantic",
+   "score": 1.0,
+   "aZh": "adj. 連續的；接連的",
+   "bZh": "adj. 連續的；接連的",
+   "diff": "兩個字意思幾乎相同，都表示一個接一個。consecutive 強調沒有間斷地依序發生，常接時間單位；successive 較正式，強調前後相繼。",
+   "points": [
+    "用法：兩者都放在名詞前",
+    "語氣：successive 較正式",
+    "搭配：three consecutive days；successive governments"
+   ],
+   "tip": "consecutive 是連著來；successive 是一個接一個上場。",
+   "exA": {
+    "en": "Our team won five consecutive games this season.",
+    "zh": "我們隊伍本季連贏五場比賽。"
+   },
+   "exB": {
+    "en": "Successive rulers of the country built the great wall.",
+    "zh": "這個國家歷代的統治者接力建造了長城。"
+   }
+  },
+  {
+   "a": "consecutive",
+   "b": "continuous",
+   "kind": "semantic",
+   "score": 0.54,
+   "aZh": "adj. 連續的；接連的",
+   "bZh": "adj. 連續不斷的",
+   "diff": "continuous 是中間完全沒有停頓，像一條不斷的線；consecutive 是一個接一個，中間可以是分開的事件，如連續三天。",
+   "points": [
+    "重點：continuous 是不間斷；consecutive 是依序相接",
+    "搭配：continuous rain；three consecutive days",
+    "區別：continuous 可形容過程；consecutive 多接可數的單位"
+   ],
+   "tip": "continuous 是不停；consecutive 是一件接一件。",
+   "exA": {
+    "en": "She studied for three consecutive weekends before the test.",
+    "zh": "她在考試前連續三個週末都在念書。"
+   },
+   "exB": {
+    "en": "The continuous noise from the road kept us awake all night.",
+    "zh": "馬路上不斷的噪音讓我們整晚睡不著。"
+   }
+  },
+  {
+   "a": "consensus",
+   "b": "consent",
+   "kind": "both",
+   "score": 0.686,
+   "aZh": "n. 共識；一致意見",
+   "bZh": "n. 同意；准許；v. 同意",
+   "diff": "兩個字很像，也都跟同意有關。consensus 是一群人形成的共識；consent 是個人或某一方表示同意，常用於許可。",
+   "points": [
+    "對象：consensus 是團體；consent 是個人或一方",
+    "搭配：reach a consensus；give consent",
+    "詞性：consent 也可作動詞"
+   ],
+   "tip": "consensus 是大家都同意；consent 是你點頭。",
+   "exA": {
+    "en": "The class reached a consensus about the graduation trip.",
+    "zh": "全班對畢業旅行達成了共識。"
+   },
+   "exB": {
+    "en": "Students need their parents' consent to join the camp.",
+    "zh": "學生需要家長同意才能參加營隊。"
+   }
+  },
+  {
+   "a": "conservation",
+   "b": "conversation",
+   "kind": "visual",
+   "score": 0.81,
+   "aZh": "n. 保育；保護；節約",
+   "bZh": "n. 對話；談話",
+   "diff": "兩個字只差 s 和 v，念法也有點像。conservation 是保育或節約；conversation 是交談。",
+   "points": [
+    "拼字：conservation 是 con-serv；conversation 是 con-vers",
+    "詞義：conservation 是保護；conversation 是聊天",
+    "詞性：兩者都是名詞"
+   ],
+   "tip": "conservation 有 serve，保護資源；conversation 有 verse，像來回說話。",
+   "exA": {
+    "en": "Water conservation is important during a dry summer.",
+    "zh": "乾燥的夏天裡，節約用水很重要。"
+   },
+   "exB": {
+    "en": "We had a long conversation about our summer plans.",
+    "zh": "我們針對暑假計畫聊了很久。"
+   }
+  },
+  {
+   "a": "constraint",
+   "b": "restriction",
+   "kind": "semantic",
+   "score": 0.831,
+   "aZh": "n. 限制；約束",
+   "bZh": "n. 限制；約束",
+   "diff": "restriction 是由規則或法律訂出的限制；constraint 是外在條件形成的限制，像時間、金錢，常影響選擇和行動。",
+   "points": [
+    "來源：restriction 由規則；constraint 由條件",
+    "搭配：speed restrictions；time constraints",
+    "語氣：兩者都較正式"
+   ],
+   "tip": "restriction 是被規定的；constraint 是被條件卡住的。",
+   "exA": {
+    "en": "A limited budget was the main constraint on the project.",
+    "zh": "有限的預算是這個專題的主要限制。"
+   },
+   "exB": {
+    "en": "The city placed a restriction on the number of cars downtown.",
+    "zh": "市政府對市中心的汽車數量設了限制。"
+   }
+  },
+  {
+   "a": "constraint",
+   "b": "restraint",
+   "kind": "visual",
+   "score": 0.678,
+   "aZh": "n. 限制；約束",
+   "bZh": "n. 克制；自制；限制",
+   "diff": "兩個字拼法很像。constraint 是限制條件；restraint 是克制自己的行為或情緒，也可指約束。",
+   "points": [
+    "拼字：constraint 是 con-；restraint 是 re-",
+    "詞義：constraint 是外在的限制；restraint 是自我克制",
+    "搭配：time constraints；show restraint"
+   ],
+   "tip": "constraint 是外面加的；restraint 是自己收的。",
+   "exA": {
+    "en": "Time is a constraint when we plan the school trip.",
+    "zh": "規劃校外教學時，時間是一項限制。"
+   },
+   "exB": {
+    "en": "She showed great restraint and did not shout at him.",
+    "zh": "她表現得很克制，沒有對他大吼。"
+   }
+  },
+  {
+   "a": "consolation",
+   "b": "consultation",
+   "kind": "visual",
+   "score": 0.844,
+   "aZh": "n. 安慰；慰藉",
+   "bZh": "n. 諮詢；請教；協商",
+   "diff": "兩個字只差 o 和 u 的位置，結尾都是 -ation。consolation 是安慰；consultation 是向專業人士請教或協商。",
+   "points": [
+    "拼字：consolation 是 sol（安慰）；consultation 是 sult（商議）",
+    "詞義：consolation 是安慰；consultation 是諮詢",
+    "搭配：a consolation prize；a medical consultation"
+   ],
+   "tip": "consultation 裡有 consult（請教）；consolation 的 sol 可聯想 solace（慰藉）。",
+   "exA": {
+    "en": "The small gift was a consolation after she lost the contest.",
+    "zh": "比賽輸了之後，那份小禮物給了她一點安慰。"
+   },
+   "exB": {
+    "en": "After a consultation with the doctor, he changed his diet.",
+    "zh": "和醫生商量之後，他改變了飲食。"
+   }
+  },
+  {
+   "a": "contagious",
+   "b": "infectious",
+   "kind": "semantic",
+   "score": 0.962,
+   "aZh": "adj. 傳染性的；有感染力的",
+   "bZh": "adj. 傳染性的；有感染力的",
+   "diff": "兩個字常可互換。contagious 強調透過接觸傳播的疾病；infectious 強調病原體造成的感染，兩者都可以形容笑容和情緒。",
+   "points": [
+    "疾病：contagious 是接觸傳染；infectious 是病原體感染",
+    "情緒：兩者都可形容熱情、笑聲",
+    "用法：兩者在日常口語常可互換"
+   ],
+   "tip": "contagious 是碰到就傳；infectious 是細菌讓人感染。",
+   "exA": {
+    "en": "The flu is highly contagious in crowded classrooms.",
+    "zh": "流感在擁擠的教室裡很容易傳染。"
+   },
+   "exB": {
+    "en": "Her infectious laugh made everyone in the room smile.",
+    "zh": "她很有感染力的笑聲讓房裡的每個人都笑了。"
+   }
+  },
+  {
+   "a": "consider",
+   "b": "contemplate",
+   "kind": "semantic",
+   "score": 0.512,
+   "aZh": "v. 考慮；認為",
+   "bZh": "v. 仔細考慮；凝視；沉思",
+   "diff": "consider 是最常用的考慮，語氣平實；contemplate 是花較長時間認真思考，或安靜地凝視思考，後面接名詞或 V-ing。",
+   "points": [
+    "程度：contemplate 比 consider 更深入",
+    "句型：contemplate + N / V-ing",
+    "語氣：contemplate 較正式"
+   ],
+   "tip": "consider 是想一想；contemplate 是慢慢深思。",
+   "exA": {
+    "en": "We should consider the weather before we choose the date.",
+    "zh": "我們選日期前應該先考慮天氣。"
+   },
+   "exB": {
+    "en": "She contemplated moving to another city for college.",
+    "zh": "她仔細考慮到另一座城市念大學。"
+   }
+  },
+  {
+   "a": "contemplate",
+   "b": "ponder",
+   "kind": "semantic",
+   "score": 0.836,
+   "aZh": "v. 仔細考慮；凝視；沉思",
+   "bZh": "v. 沉思；仔細考慮",
+   "diff": "兩個字都是深入地思考。ponder 是長時間思索某個問題，常接 over；contemplate 也可指考慮要不要做某事，或安靜凝視。",
+   "points": [
+    "對象：ponder 多接問題、意義；contemplate 可接行動",
+    "句型：ponder over；contemplate + V-ing",
+    "意思：contemplate 還可指凝視"
+   ],
+   "tip": "ponder 是反覆想；contemplate 是考慮，也可以是靜靜看著想。",
+   "exA": {
+    "en": "He contemplated leaving school to start his own business.",
+    "zh": "他考慮離開學校去創業。"
+   },
+   "exB": {
+    "en": "Amy pondered the meaning of the poem for a long time.",
+    "zh": "Amy 思索那首詩的意思思索了很久。"
+   }
+  },
+  {
+   "a": "compete",
+   "b": "contend",
+   "kind": "semantic",
+   "score": 0.789,
+   "aZh": "v. 競爭；比賽",
+   "bZh": "v. 主張；競爭；爭奪",
+   "diff": "compete 是一般的競爭，常接 in、for、with；contend 較正式，可指爭奪某個目標，也可指提出主張。",
+   "points": [
+    "語氣：contend 較正式",
+    "句型：compete in / for；contend for",
+    "多義：contend 還可表示主張"
+   ],
+   "tip": "compete 是比賽；contend 是奮力爭取，也可以是堅持主張。",
+   "exA": {
+    "en": "Twenty schools will compete in the science contest this year.",
+    "zh": "今年有二十所學校要參加科學競賽。"
+   },
+   "exB": {
+    "en": "Several runners contended for first place in the final race.",
+    "zh": "好幾位跑者在決賽中爭奪第一名。"
+   }
+  },
+  {
+   "a": "conflict",
+   "b": "contradiction",
+   "kind": "semantic",
+   "score": 0.87,
+   "aZh": "n. 衝突；矛盾；v. 衝突",
+   "bZh": "n. 矛盾；不一致",
+   "diff": "conflict 可指意見或利益的衝突，也可指爭鬥；contradiction 是兩個說法或事實無法同時為真的矛盾，重點在邏輯。",
+   "points": [
+    "重點：conflict 是衝突；contradiction 是邏輯上的矛盾",
+    "搭配：a conflict of interest；a contradiction between",
+    "範圍：conflict 也可指戰爭或爭吵"
+   ],
+   "tip": "conflict 是互相抵觸；contradiction 是說法互相否定。",
+   "exA": {
+    "en": "A conflict between two friends can hurt the whole group.",
+    "zh": "兩位朋友之間的衝突可能傷害整個團體。"
+   },
+   "exB": {
+    "en": "There is a contradiction between what he said and what he did.",
+    "zh": "他說的話和做的事之間有矛盾。"
+   }
+  },
+  {
+   "a": "conversation",
+   "b": "conversion",
+   "kind": "visual",
+   "score": 0.818,
+   "aZh": "n. 對話；談話",
+   "bZh": "n. 轉換；改變",
+   "diff": "兩個字都以 conver- 開頭，只差字尾。conversation 是交談；conversion 是把東西轉換成另一種形式。",
+   "points": [
+    "拼字：conversation 是 -ation；conversion 是 -ion",
+    "詞義：conversation 是聊天；conversion 是轉變",
+    "動詞：conversation 來自 converse；conversion 來自 convert"
+   ],
+   "tip": "conversation 是聊天（converse）；conversion 是轉換（convert）。",
+   "exA": {
+    "en": "We had a long conversation about our summer plans.",
+    "zh": "我們針對暑假計畫聊了很久。"
+   },
+   "exB": {
+    "en": "The conversion of the old room into a library took a month.",
+    "zh": "把舊房間改成圖書館花了一個月。"
+   }
+  },
+  {
+   "a": "convict",
+   "b": "convince",
+   "kind": "visual",
+   "score": 0.669,
+   "aZh": "v. 宣判有罪；定罪",
+   "bZh": "v. 使相信；說服",
+   "diff": "兩個字只差第五、六個字母，念法也有點像。convict 是法院判定有罪；convince 是說服別人相信。",
+   "points": [
+    "拼字：convict 是 -vict；convince 是 -vince",
+    "詞義：convict 是定罪；convince 是說服",
+    "詞源：兩者都與拉丁文 vincere（征服）有關"
+   ],
+   "tip": "convict 有 v-i-c-t，像 victim（受害者）；convince 有 v-i-n-c-e，說服人。",
+   "exA": {
+    "en": "The court convicted the man of stealing a bicycle.",
+    "zh": "法院判定這名男子偷竊腳踏車有罪。"
+   },
+   "exB": {
+    "en": "The teacher convinced Amy to study harder for the exam.",
+    "zh": "老師說服 Amy 為考試更用功念書。"
+   }
+  },
+  {
+   "a": "belief",
+   "b": "conviction",
+   "kind": "semantic",
+   "score": 0.697,
+   "aZh": "n. 信念；看法",
+   "bZh": "n. 堅信；信念；定罪",
+   "diff": "belief 是相信某事為真，堅定程度不一定高；conviction 是很堅定、不容易動搖的信念，也可指法院判定有罪。",
+   "points": [
+    "程度：belief 一般；conviction 更堅定",
+    "意思：conviction 還有定罪",
+    "搭配：a strong belief；a strong conviction"
+   ],
+   "tip": "belief 是相信；conviction 是深信不疑。",
+   "exA": {
+    "en": "Many people share the belief that hard work leads to success.",
+    "zh": "許多人都相信努力會帶來成功。"
+   },
+   "exB": {
+    "en": "She spoke with conviction about the need to protect the ocean.",
+    "zh": "她很堅定地說出保護海洋的必要。"
+   }
+  },
+  {
+   "a": "copyright",
+   "b": "patent",
+   "kind": "semantic",
+   "score": 0.457,
+   "aZh": "n. 著作權；版權",
+   "bZh": "n. 專利；專利權",
+   "diff": "copyright 保護文章、音樂、圖片等創作；patent 保護發明和新技術。兩種權利保護的對象不同。",
+   "points": [
+    "對象：copyright 保護作品；patent 保護發明",
+    "例子：一首歌有 copyright；一項新機器有 patent",
+    "詞性：兩者都可作動詞"
+   ],
+   "tip": "copyright 是保護作品；patent 是保護發明。",
+   "exA": {
+    "en": "The singer owns the copyright to all her songs.",
+    "zh": "那位歌手擁有她所有歌曲的著作權。"
+   },
+   "exB": {
+    "en": "The company applied for a patent on its new engine.",
+    "zh": "這家公司為它的新引擎申請專利。"
+   }
+  },
+  {
+   "a": "cooperate",
+   "b": "corporate",
+   "kind": "visual",
+   "score": 0.681,
+   "aZh": "v. 合作；協力",
+   "bZh": "adj. 公司的；企業的",
+   "diff": "兩個字只差一個字母，長得很像。cooperate 是合作；corporate 是公司的。",
+   "points": [
+    "拼字：cooperate 有兩個 o；corporate 有兩個 r",
+    "詞性：cooperate 是動詞；corporate 是形容詞",
+    "搭配：cooperate with；corporate culture"
+   ],
+   "tip": "cooperate 兩個 o 像兩個人牽手合作；corporate 有 r，像 company。",
+   "exA": {
+    "en": "Everyone must cooperate to keep the classroom clean.",
+    "zh": "每個人都必須合作，才能保持教室乾淨。"
+   },
+   "exB": {
+    "en": "The corporate office is on the tenth floor.",
+    "zh": "公司辦公室在十樓。"
+   }
+  },
+  {
+   "a": "cooperation",
+   "b": "corporation",
+   "kind": "visual",
+   "score": 0.762,
+   "aZh": "n. 合作；協力",
+   "bZh": "n. 公司；法人組織",
+   "diff": "兩個字很像，只差 o 和 r 的位置。cooperation 是合作；corporation 是依法成立的公司。",
+   "points": [
+    "拼字：cooperation 有 coop；corporation 有 corp",
+    "詞義：cooperation 是合作；corporation 是公司",
+    "詞性：兩者都是名詞"
+   ],
+   "tip": "cooperation 有兩個 o，兩人合作；corporation 有 r，是組織。",
+   "exA": {
+    "en": "The project needs the cooperation of every student.",
+    "zh": "這個專題需要每位學生的合作。"
+   },
+   "exB": {
+    "en": "The corporation opened a new office near the station.",
+    "zh": "這家公司在車站附近開了一間新辦公室。"
+   }
+  },
+  {
+   "a": "correlation",
+   "b": "relation",
+   "kind": "semantic",
+   "score": 0.75,
+   "aZh": "n. 相關；關聯",
+   "bZh": "n. 關係；關聯；親戚",
+   "diff": "relation 泛指兩件事或兩個人之間的關係；correlation 特指兩件事互相關聯、一起變化，常用在研究和數據，不代表一定有因果關係。",
+   "points": [
+    "範圍：relation 泛指關係；correlation 是數據上的關聯",
+    "用法：relation 也可指親戚",
+    "搭配：a strong correlation；family relations"
+   ],
+   "tip": "relation 是有關係；correlation 是一起變化的關聯。",
+   "exA": {
+    "en": "The study found a correlation between sleep and test scores.",
+    "zh": "這項研究發現睡眠和考試成績有關聯。"
+   },
+   "exB": {
+    "en": "There is a close relation between diet and health.",
+    "zh": "飲食和健康之間有密切的關係。"
+   }
+  },
+  {
+   "a": "correspondent",
+   "b": "respondent",
+   "kind": "visual",
+   "score": 0.772,
+   "aZh": "n. 通訊記者；通信者",
+   "bZh": "n. 受訪者；答覆者",
+   "diff": "兩個字都以 -respondent 結尾，很容易混淆。correspondent 是記者或通信的人；respondent 是回答問卷或問題的人。",
+   "points": [
+    "拼字：correspondent 前面多 cor-",
+    "詞義：correspondent 是寫報導；respondent 是回答問題",
+    "搭配：a foreign correspondent；survey respondents"
+   ],
+   "tip": "correspondent 是寄出報導或信的人；respondent 是回答的人。",
+   "exA": {
+    "en": "The foreign correspondent sent a report from Paris.",
+    "zh": "駐外記者從巴黎傳回了一篇報導。"
+   },
+   "exB": {
+    "en": "Most respondents said they liked the new school lunch.",
+    "zh": "大多數受訪者說他們喜歡新的學校午餐。"
+   }
+  },
+  {
+   "a": "correspondent",
+   "b": "reporter",
+   "kind": "semantic",
+   "score": 0.561,
+   "aZh": "n. 通訊記者；駐外記者",
+   "bZh": "n. 記者；新聞工作者",
+   "diff": "reporter 是泛指採訪並報導新聞的人；correspondent 多指派駐在某地或某個領域的記者，也可指通信的人。",
+   "points": [
+    "範圍：reporter 泛指記者；correspondent 通常派駐外地",
+    "搭配：a war correspondent；a TV reporter",
+    "意思：correspondent 還可指通信對象"
+   ],
+   "tip": "reporter 是記者；correspondent 是派到外地的記者。",
+   "exA": {
+    "en": "The correspondent in Tokyo wrote about the city's new subway.",
+    "zh": "駐東京的記者寫了關於這座城市新地鐵的報導。"
+   },
+   "exB": {
+    "en": "A reporter asked the mayor about the school budget.",
+    "zh": "一位記者向市長詢問學校預算。"
+   }
+  },
+  {
+   "a": "advice",
+   "b": "counsel",
+   "kind": "semantic",
+   "score": 0.898,
+   "aZh": "n. 建議；忠告",
+   "bZh": "n. 建議；忠告；v. 勸告",
+   "diff": "advice 是最常用的建議，不可數；counsel 是較正式的建議或勸告，也可指法律顧問，用在正式場合。",
+   "points": [
+    "語氣：advice 日常常用；counsel 較正式",
+    "可數：兩者常不可數",
+    "詞性：counsel 也可作動詞"
+   ],
+   "tip": "advice 是日常說的建議；counsel 較正式，也指法律顧問。",
+   "exA": {
+    "en": "Let me give you some advice about choosing a club.",
+    "zh": "讓我給你一些選社團的建議。"
+   },
+   "exB": {
+    "en": "The family sought legal counsel before signing the contract.",
+    "zh": "這個家庭在簽約前尋求法律諮詢。"
+   }
+  },
+  {
+   "a": "consultant",
+   "b": "counselor",
+   "kind": "semantic",
+   "score": 0.477,
+   "aZh": "n. 顧問",
+   "bZh": "n. 輔導員；諮商師",
+   "diff": "consultant 是針對專業問題提供意見的顧問，常受僱提供服務；counselor 是在學校或機構為人提供心理或生涯輔導的人。",
+   "points": [
+    "工作：consultant 給專業建議；counselor 做輔導",
+    "場合：consultant 多在商業；counselor 多在學校",
+    "搭配：a business consultant；a school counselor"
+   ],
+   "tip": "consultant 給專業意見；counselor 陪你談心事和方向。",
+   "exA": {
+    "en": "The company hired a consultant to improve its website.",
+    "zh": "公司聘請了一位顧問來改善網站。"
+   },
+   "exB": {
+    "en": "The school counselor helped Kevin plan his future.",
+    "zh": "學校輔導老師幫助 Kevin 規劃未來。"
+   }
+  },
+  {
+   "a": "courteous",
+   "b": "polite",
+   "kind": "semantic",
+   "score": 0.876,
+   "aZh": "adj. 有禮貌的；客氣的",
+   "bZh": "adj. 有禮貌的；客氣的",
+   "diff": "polite 是最常用的有禮貌，適用於日常；courteous 較正式，強調舉止周到、尊重他人，常用於服務和職場。",
+   "points": [
+    "語氣：courteous 較正式",
+    "對象：courteous 常形容服務和待客",
+    "搭配：a polite reply；courteous service"
+   ],
+   "tip": "polite 是日常有禮；courteous 是周到有禮。",
+   "exA": {
+    "en": "The hotel staff were courteous to every guest.",
+    "zh": "飯店員工對每位客人都很客氣周到。"
+   },
+   "exB": {
+    "en": "It is polite to say thank you when someone helps you.",
+    "zh": "有人幫助你時說謝謝是有禮貌的。"
+   }
+  },
+  {
+   "a": "creek",
+   "b": "stream",
+   "kind": "semantic",
+   "score": 0.727,
+   "aZh": "n. 小溪；小河",
+   "bZh": "n. 溪流；小河；一連串",
+   "diff": "兩個字都指小型的水流。creek 多見於美式英文，指小河；stream 英美都常用，也可指一連串，如 a stream of people。",
+   "points": [
+    "地區：creek 偏美式；stream 通用",
+    "延伸：stream 還可指一連串",
+    "搭配：cross a creek；a mountain stream"
+   ],
+   "tip": "creek 是美式說法的小溪；stream 通用，也可指一連串。",
+   "exA": {
+    "en": "The children played by the creek behind the farm.",
+    "zh": "孩子們在農場後面的小溪邊玩耍。"
+   },
+   "exB": {
+    "en": "A clear stream runs down from the mountain.",
+    "zh": "一條清澈的溪流從山上流下來。"
+   }
+  },
+  {
+   "a": "cripple",
+   "b": "ripple",
+   "kind": "visual",
+   "score": 0.843,
+   "aZh": "v. 嚴重損害；使癱瘓",
+   "bZh": "n. 漣漪；波紋；v. 泛起漣漪",
+   "diff": "兩個字只差第一個字母，都以 -ipple 結尾。cripple 是嚴重損害，使功能癱瘓；ripple 是水面上的小波紋。",
+   "points": [
+    "拼字：cripple 是 c 開頭；ripple 是 r 開頭",
+    "詞義：cripple 是重創；ripple 是漣漪",
+    "詞性：兩者都可作動詞"
+   ],
+   "tip": "cripple 比 ripple 多一個 c，多的 c 像卡住不動。",
+   "exA": {
+    "en": "The storm crippled the bus service for several days.",
+    "zh": "暴風雨使公車服務癱瘓了好幾天。"
+   },
+   "exB": {
+    "en": "A small stone made ripples on the surface of the pond.",
+    "zh": "一顆小石頭在池塘水面激起了漣漪。"
+   }
+  },
+  {
+   "a": "criterion",
+   "b": "standard",
+   "kind": "semantic",
+   "score": 0.636,
+   "aZh": "n. 標準；準則",
+   "bZh": "adj. 標準的；n. 標準；水準",
+   "diff": "standard 是一般的標準或水準，範圍較廣；criterion 是判斷或評估時採用的一項具體依據，複數是 criteria。",
+   "points": [
+    "範圍：standard 泛指標準水準；criterion 指判斷依據",
+    "單複數：criterion 的複數是 criteria",
+    "搭配：meet the criteria；high standards"
+   ],
+   "tip": "standard 是水準有多高；criterion 是拿來判斷的那一條依據。",
+   "exA": {
+    "en": "Cost is an important criterion when we choose a school trip.",
+    "zh": "選擇校外教學時，費用是一項重要的標準。"
+   },
+   "exB": {
+    "en": "The school keeps a high standard for its science classes.",
+    "zh": "這所學校對自然課程維持很高的水準。"
+   }
+  },
+  {
+   "a": "crude",
+   "b": "rude",
+   "kind": "visual",
+   "score": 0.764,
+   "aZh": "adj. 粗糙的；粗俗的",
+   "bZh": "adj. 無禮的；粗魯的",
+   "diff": "兩個字只差第一個字母 c。crude 是粗糙、未加工，也指言語粗俗；rude 是對人沒有禮貌。",
+   "points": [
+    "拼字：crude 比 rude 多一個 c",
+    "詞義：crude 可指未加工；rude 只指無禮",
+    "搭配：crude oil；a rude reply"
+   ],
+   "tip": "crude 比 rude 多一個 c，像 crude oil（原油）。",
+   "exA": {
+    "en": "The class built a crude model of the school from paper.",
+    "zh": "全班用紙做了一個簡陋的學校模型。"
+   },
+   "exB": {
+    "en": "It is rude to talk with your mouth full.",
+    "zh": "嘴裡塞滿食物還說話是很失禮的。"
+   }
+  },
+  {
+   "a": "cruise",
+   "b": "sail",
+   "kind": "semantic",
+   "score": 0.568,
+   "aZh": "n. 遊輪旅行；v. 巡航",
+   "bZh": "v. 航行；乘船；n. 帆",
+   "diff": "sail 泛指乘船航行，也指用帆前進；cruise 是船平穩悠閒地航行，常指遊輪旅行，重點是享受旅程。",
+   "points": [
+    "重點：sail 是航行；cruise 是悠閒航行或遊輪旅行",
+    "搭配：sail across；go on a cruise",
+    "名詞：sail 是帆；cruise 是遊輪旅行"
+   ],
+   "tip": "sail 是航行；cruise 是悠閒地航行、玩一趟船。",
+   "exA": {
+    "en": "Our family took a cruise around the islands last summer.",
+    "zh": "去年夏天，我們一家人搭遊輪環遊群島。"
+   },
+   "exB": {
+    "en": "The old ship will sail across the ocean next month.",
+    "zh": "那艘老船下個月要橫渡海洋。"
+   }
+  },
+  {
+   "a": "currency",
+   "b": "current",
+   "kind": "visual",
+   "score": 0.739,
+   "aZh": "n. 貨幣；通貨",
+   "bZh": "adj. 目前的；現行的；n. 水流",
+   "diff": "兩個字很像，currency 是名詞，指一個國家使用的貨幣；current 是形容詞，指目前的，也可作名詞指水流。",
+   "points": [
+    "拼字：currency 是 -ency；current 是 -ent",
+    "詞義：currency 是貨幣；current 是目前的",
+    "詞源：兩者都和 run（流動）有關"
+   ],
+   "tip": "currency 是流通的錢；current 是流動的水流，也是目前的。",
+   "exA": {
+    "en": "Please change your money into the local currency at the bank.",
+    "zh": "請在銀行把你的錢換成當地貨幣。"
+   },
+   "exB": {
+    "en": "The current price of the ticket is much higher than before.",
+    "zh": "這張票目前的價格比以前高很多。"
+   }
+  },
+  {
+   "a": "currency",
+   "b": "money",
+   "kind": "semantic",
+   "score": 0.481,
+   "aZh": "n. 貨幣；通貨",
+   "bZh": "n. 金錢；錢",
+   "diff": "money 泛指錢，可指現金或財富；currency 是一個國家或地區使用的貨幣種類，如臺幣、日圓。",
+   "points": [
+    "範圍：money 泛指；currency 指某種貨幣",
+    "搭配：foreign currency；save money",
+    "用法：currency 可數，money 不可數"
+   ],
+   "tip": "money 是錢的統稱；currency 是哪一國的錢。",
+   "exA": {
+    "en": "Which currency do people use in your country?",
+    "zh": "你的國家的人使用哪一種貨幣？"
+   },
+   "exB": {
+    "en": "Amy saves some money from her allowance every week.",
+    "zh": "Amy 每個星期從零用錢中存一些錢。"
+   }
+  },
+  {
+   "a": "course",
+   "b": "curriculum",
+   "kind": "semantic",
+   "score": 0.579,
+   "aZh": "n. 課程；一道菜；球場",
+   "bZh": "n. 課程；課程安排",
+   "diff": "course 是單一一門課，也可指一道菜或球場；curriculum 是學校規劃的整套課程與內容，指整體。",
+   "points": [
+    "範圍：course 是一門課；curriculum 是整套課程",
+    "複數：course 的複數是 courses；curriculum 的複數是 curricula",
+    "搭配：an English course；the school curriculum"
+   ],
+   "tip": "course 是一門課；curriculum 是整套課程。",
+   "exA": {
+    "en": "Kevin took a summer course in computer design.",
+    "zh": "Kevin 上了一門暑期電腦設計課。"
+   },
+   "exB": {
+    "en": "The school added environmental science to its curriculum.",
+    "zh": "學校把環境科學加入了課程。"
+   }
+  },
+  {
+   "a": "custom",
+   "b": "customs",
+   "kind": "both",
+   "score": 0.856,
+   "aZh": "n. 習俗；風俗",
+   "bZh": "n. 海關；風俗；習俗",
+   "diff": "custom 是一項習俗，可數；customs 加了 s 變成海關，也可指一地的許多習俗。少了 s 或多了 s，意思差很多。",
+   "points": [
+    "意思：custom 是一項習俗；customs 是海關",
+    "單複數：customs 作「海關」時只用複數",
+    "搭配：a local custom；go through customs"
+   ],
+   "tip": "customs 是機場裡要排隊的海關，別忘了 s。",
+   "exA": {
+    "en": "Giving red envelopes is a custom during the New Year.",
+    "zh": "過年時發紅包是一項習俗。"
+   },
+   "exB": {
+    "en": "We waited in line at customs for half an hour.",
+    "zh": "我們在海關排了半小時的隊。"
+   }
+  },
+  {
+   "a": "customer",
+   "b": "customs",
+   "kind": "visual",
+   "score": 0.747,
+   "aZh": "n. 顧客；客戶",
+   "bZh": "n. 海關；風俗",
+   "diff": "兩個字都以 custom 開頭，字尾不同。customer 是顧客；customs 是海關或風俗。",
+   "points": [
+    "拼字：customer 是 -er；customs 是 -s",
+    "詞義：customer 是買東西的人；customs 是海關",
+    "詞源：兩者都和 custom（習慣）有關"
+   ],
+   "tip": "customer 是常來買東西的人；customs 是進出境的關卡。",
+   "exA": {
+    "en": "Every customer received a small gift at the shop.",
+    "zh": "店裡的每位顧客都拿到一份小禮物。"
+   },
+   "exB": {
+    "en": "The customs officer checked our bags very carefully before we left.",
+    "zh": "我們離開前，海關人員很仔細地檢查了我們的行李。"
+   }
+  },
+  {
+   "a": "debt",
+   "b": "debut",
+   "kind": "visual",
+   "score": 0.686,
+   "aZh": "n. 債務；欠款",
+   "bZh": "n. 首次登場；v. 首次登場",
+   "diff": "兩個字只差最後一個字母。debt 是欠的錢，b 不發音；debut 是第一次公開登場。",
+   "points": [
+    "拼字：debt 是 debt；debut 是 debut，多了 u",
+    "發音：debt 是 /det/；debut 是 /ˈdeɪbjuː/",
+    "詞義：debt 是欠款；debut 是首次登場"
+   ],
+   "tip": "debt 的 b 不發音；debut 是第一次上場，多了 u，像 you 出場。",
+   "exA": {
+    "en": "He worked hard to pay off his debt in two years.",
+    "zh": "他努力工作，在兩年內還清了債務。"
+   },
+   "exB": {
+    "en": "The young singer made her debut at a school concert.",
+    "zh": "那位年輕的歌手在學校的音樂會上首度登場。"
+   }
+  },
+  {
+   "a": "decay",
+   "b": "decline",
+   "kind": "semantic",
+   "score": 0.58,
+   "aZh": "n. 腐爛；衰敗；v. 腐爛",
+   "bZh": "n. 下降；衰退；v. 下降；婉拒",
+   "diff": "decay 是逐漸腐爛或衰敗，常用於食物、牙齒和建築；decline 是數量、品質或程度下降，也可指婉拒，不涉及腐爛。",
+   "points": [
+    "對象：decay 用於食物、牙齒；decline 用於數量、品質",
+    "意思：decline 還可指婉拒",
+    "搭配：tooth decay；a decline in sales"
+   ],
+   "tip": "decay 是爛掉；decline 是數字或品質往下掉。",
+   "exA": {
+    "en": "Too much sugar can cause tooth decay in young children.",
+    "zh": "太多的糖可能會使幼童蛀牙。"
+   },
+   "exB": {
+    "en": "The number of visitors began to decline after the summer.",
+    "zh": "夏天過後，遊客人數開始下降。"
+   }
+  },
+  {
+   "a": "deceive",
+   "b": "receive",
+   "kind": "visual",
+   "score": 0.798,
+   "aZh": "v. 欺騙；蒙騙",
+   "bZh": "v. 收到；接到",
+   "diff": "兩個字只差第一個字母，都用 -ceive 結尾。deceive 是欺騙；receive 是收到。",
+   "points": [
+    "拼字：deceive 是 d 開頭；receive 是 r 開頭",
+    "詞義：deceive 是騙人；receive 是收下",
+    "規則：兩者都是 i 在 e 前，除非在 c 後"
+   ],
+   "tip": "deceive 是 de（離開真相）；receive 是 re（收回來）。",
+   "exA": {
+    "en": "He deceived his parents about where he had gone.",
+    "zh": "他騙父母說他去了別的地方。"
+   },
+   "exB": {
+    "en": "Amy received a letter from her cousin yesterday.",
+    "zh": "Amy 昨天收到了表姊寄來的信。"
+   }
+  },
+  {
+   "a": "cheat",
+   "b": "deceive",
+   "kind": "semantic",
+   "score": 0.621,
+   "aZh": "v. 作弊；欺騙；n. 騙子",
+   "bZh": "v. 欺騙；蒙騙",
+   "diff": "cheat 是為了得到好處而不誠實，如考試作弊、騙錢；deceive 是用謊言或假象讓人相信不真實的事，重點在讓人誤信。",
+   "points": [
+    "行為：cheat 是不誠實地取得利益；deceive 是讓人誤信",
+    "搭配：cheat on a test；deceive someone about",
+    "用法：cheat 常接 on 或 out of"
+   ],
+   "tip": "cheat 是耍賴得利；deceive 是讓人信以為真。",
+   "exA": {
+    "en": "Students who cheat on the test may fail the class.",
+    "zh": "考試作弊的學生可能會被當掉。"
+   },
+   "exB": {
+    "en": "The advertisement deceived buyers about the product's quality.",
+    "zh": "這則廣告對產品品質欺騙了買家。"
+   }
+  },
+  {
+   "a": "decent",
+   "b": "descent",
+   "kind": "visual",
+   "score": 0.784,
+   "aZh": "adj. 像樣的；正派的",
+   "bZh": "n. 下降；下坡；血統",
+   "diff": "兩個字只差一個字母 s。decent 是像樣的、得體的；descent 是往下走、下降，也指血統。",
+   "points": [
+    "拼字：descent 比 decent 多一個 s",
+    "發音：decent 是 /ˈdiːsənt/；descent 是 /dɪˈsent/",
+    "詞義：decent 是得體；descent 是下降"
+   ],
+   "tip": "descent 裡有 descend（下降）的 s。",
+   "exA": {
+    "en": "The hotel was simple, but the rooms were decent and clean.",
+    "zh": "飯店很簡單，但房間還算像樣又乾淨。"
+   },
+   "exB": {
+    "en": "The tired group began their descent before it got dark.",
+    "zh": "疲累的一行人在天黑前開始下山。"
+   }
+  },
+  {
+   "a": "decent",
+   "b": "recent",
+   "kind": "visual",
+   "score": 0.778,
+   "aZh": "adj. 像樣的；正派的",
+   "bZh": "adj. 最近的；近來的",
+   "diff": "兩個字只差第一個字母，字尾都是 -cent。decent 是像樣的；recent 是最近的。",
+   "points": [
+    "拼字：decent 是 d 開頭；recent 是 r 開頭",
+    "詞義：decent 是得體；recent 是最近",
+    "搭配：a decent meal；recent news"
+   ],
+   "tip": "recent 的 re 是「再」，最近再發生的事；decent 是得體。",
+   "exA": {
+    "en": "Amy earned a decent grade on her first English test.",
+    "zh": "Amy 在第一次英文考試中拿到不錯的成績。"
+   },
+   "exB": {
+    "en": "The recent rain has helped the farmers a lot.",
+    "zh": "最近的雨對農夫幫助很大。"
+   }
+  },
+  {
+   "a": "decline",
+   "b": "refuse",
+   "kind": "semantic",
+   "score": 0.529,
+   "aZh": "v. 婉拒；下降",
+   "bZh": "v. 拒絕；不肯",
+   "diff": "兩個字都能表示不接受邀請或提議，decline 語氣客氣正式；refuse 直接明確，語氣較強。decline 另有「下降」的意思，refuse 沒有。",
+   "points": [
+    "語氣：decline 較委婉客氣，refuse 較直接強硬",
+    "搭配：decline an invitation 婉拒邀請；refuse to + V 不肯做某事",
+    "字義：decline 另可表示下降，refuse 沒有這個用法"
+   ],
+   "tip": "decline 是客氣地說「不了，謝謝」；refuse 是直接說「我不要」。",
+   "exA": {
+    "en": "Amy politely declined the invitation to the dance.",
+    "zh": "Amy 客氣地婉拒了舞會的邀請。"
+   },
+   "exB": {
+    "en": "Amy refused the invitation and would not explain why.",
+    "zh": "Amy 拒絕了邀請，也不肯說明原因。"
+   }
+  },
+  {
+   "a": "defendant",
+   "b": "dependent",
+   "kind": "visual",
+   "score": 0.702,
+   "aZh": "n. 被告",
+   "bZh": "adj. 依賴的；n. 受扶養者",
+   "diff": "defendant 是法庭上被控告的人；dependent 是依靠別人的人或依賴的狀態。兩個字中間只差 fend 和 pend。",
+   "points": [
+    "詞性：defendant 是 n.；dependent 可作 adj. 也可作 n.",
+    "拼字：defend（防衛）加 -ant；depend（依靠）加 -ent",
+    "搭配：the defendant in court 被告；be dependent on 依賴"
+   ],
+   "tip": "defendant 裡有 defend，被告要替自己辯護；dependent 裡有 depend，要靠別人。",
+   "exA": {
+    "en": "The defendant told the judge he was not at the scene.",
+    "zh": "被告告訴法官他不在現場。"
+   },
+   "exB": {
+    "en": "The boy is still dependent on his parents for money.",
+    "zh": "那個男孩的花費還要靠父母。"
+   }
+  },
+  {
+   "a": "deficit",
+   "b": "shortage",
+   "kind": "semantic",
+   "score": 0.663,
+   "aZh": "n. 不足；赤字",
+   "bZh": "n. 不足；短缺",
+   "diff": "deficit 常指收入少於支出的赤字，也可指不足的差額；shortage 指物品、人力或資源供應不夠，例如缺水、缺人手。",
+   "points": [
+    "字義：deficit 常指金額上的赤字；shortage 多指物資或人手短缺",
+    "搭配：budget deficit 預算赤字；water shortage 缺水",
+    "句型：a shortage of + N 缺少某物"
+   ],
+   "tip": "deficit 想到帳本上的紅字；shortage 想到架上缺貨。",
+   "exA": {
+    "en": "The school had a budget deficit after repair costs went up.",
+    "zh": "維修費用增加後，學校出現預算赤字。"
+   },
+   "exB": {
+    "en": "The school had a shortage of teachers after the new term began.",
+    "zh": "新學期開始後，學校缺少老師。"
+   }
+  },
+  {
+   "a": "defy",
+   "b": "deny",
+   "kind": "visual",
+   "score": 0.634,
+   "aZh": "v. 違抗；公然反抗",
+   "bZh": "v. 否認；否定",
+   "diff": "defy 是公然違抗規則、命令或權威；deny 是否認事實，或不給予某物。兩個字只差中間一個字母，意思完全不同。",
+   "points": [
+    "拼字：defy 是 f，deny 是 n，只差一個字母",
+    "受詞：defy 接規則、命令、權威；deny 接事實、指控或 V-ing",
+    "字義：deny 還可表示不給，例如 deny him entry"
+   ],
+   "tip": "defy 的 f 想成 fight（對抗）；deny 的 n 想成 no（否認）。",
+   "exA": {
+    "en": "The student defied the rule and used his phone in class.",
+    "zh": "那位學生公然違反規定，在課堂上使用手機。"
+   },
+   "exB": {
+    "en": "The student denied that he had used his phone in class.",
+    "zh": "那位學生否認自己在課堂上用過手機。"
+   }
+  },
+  {
+   "a": "delegate",
+   "b": "delicate",
+   "kind": "visual",
+   "score": 0.697,
+   "aZh": "n. 代表；v. 委派",
+   "bZh": "adj. 精緻的；脆弱的；微妙的",
+   "diff": "delegate 是代表或委派工作；delicate 形容東西脆弱易壞、精緻，或情況微妙。兩個字開頭都是 del-，字尾都是 -ate。",
+   "points": [
+    "詞性：delegate 是 n./v.；delicate 是 adj.",
+    "發音：delegate 作動詞時字尾是 /eɪt/；delicate 字尾是 /ət/",
+    "拼字：deleg- 與派遣有關；delic- 表示精緻"
+   ],
+   "tip": "delegate 的 leg 讓人想到派人跑腿；delicate 的 cat 讓人想到小貓般脆弱。",
+   "exA": {
+    "en": "The class chose Amy to be its delegate at the meeting.",
+    "zh": "全班選 Amy 當會議的代表。"
+   },
+   "exB": {
+    "en": "Be careful with this delicate glass because it breaks easily.",
+    "zh": "這個玻璃杯很精緻，要小心，因為它很容易破。"
+   }
+  },
+  {
+   "a": "democracy",
+   "b": "democrat",
+   "kind": "visual",
+   "score": 0.734,
+   "aZh": "n. 民主；民主制度",
+   "bZh": "n. 民主主義者；民主黨員",
+   "diff": "democracy 是民主這種制度或社會；democrat 是支持民主的人，或民主黨的成員。前者指制度，後者指人。",
+   "points": [
+    "詞性：兩個都是名詞，democracy 指制度，democrat 指人",
+    "拼字：-cy 表示狀態或制度；-crat 表示某類人",
+    "搭配：live in a democracy 生活在民主國家；a democrat 一位民主主義者"
+   ],
+   "tip": "democrat 的 -crat 指人（如 bureaucrat）；democracy 的 -cy 指制度或狀態。",
+   "exA": {
+    "en": "Many people want to live in a democracy where everyone can vote.",
+    "zh": "許多人希望生活在人人都能投票的民主國家。"
+   },
+   "exB": {
+    "en": "My uncle is a democrat who votes in every election.",
+    "zh": "我叔叔是個民主主義者，每次選舉都會投票。"
+   }
+  },
+  {
+   "a": "democrat",
+   "b": "democratic",
+   "kind": "visual",
+   "score": 0.827,
+   "aZh": "n. 民主主義者",
+   "bZh": "adj. 民主的",
+   "diff": "democrat 是名詞，指人；democratic 是形容詞，形容民主的制度、作風或社會。",
+   "points": [
+    "詞性：democrat 是 n.；democratic 是 adj.",
+    "搭配：a democrat 一位民主主義者；a democratic country 民主國家",
+    "用法：形容國家或制度要用 democratic，不能用 democrat"
+   ],
+   "tip": "-ic 是形容詞字尾（democratic、economic）；democrat 指的是人。",
+   "exA": {
+    "en": "She is a democrat who believes in free speech.",
+    "zh": "她是個相信言論自由的民主主義者。"
+   },
+   "exB": {
+    "en": "Taiwan is a democratic country with free and fair elections.",
+    "zh": "台灣是個有自由公平選舉的民主國家。"
+   }
+  },
+  {
+   "a": "denial",
+   "b": "refusal",
+   "kind": "semantic",
+   "score": 0.629,
+   "aZh": "n. 否認；拒絕承認",
+   "bZh": "n. 拒絕；回絕",
+   "diff": "denial 是否認事實或指控，意思是「我沒有做」；refusal 是不答應要求、邀請或提議，意思是「我不要」。",
+   "points": [
+    "對象：denial of + 事實或指控；refusal of + 要求或提議",
+    "句型：refusal to + V 不肯做某事；denial 不接 to + V",
+    "動詞：denial 對應 deny，refusal 對應 refuse"
+   ],
+   "tip": "deny 是「我沒做」（否認事實）；refuse 是「我不要」（拒絕請求）。",
+   "exA": {
+    "en": "His denial of the rumor surprised everyone at school.",
+    "zh": "他否認那個謠言，讓學校裡的每個人都很驚訝。"
+   },
+   "exB": {
+    "en": "His refusal to answer the question surprised everyone at school.",
+    "zh": "他不肯回答問題，讓學校裡的每個人都很驚訝。"
+   }
+  },
+  {
+   "a": "depict",
+   "b": "describe",
+   "kind": "semantic",
+   "score": 0.652,
+   "aZh": "v. 描繪；描述",
+   "bZh": "v. 描述；形容",
+   "diff": "describe 是用語言說明特徵或情況，用途最廣；depict 帶有畫面感，常指用圖畫或文字生動地表現出來。",
+   "points": [
+    "範圍：describe 用途最廣；depict 較正式，偏書面",
+    "搭配：兩者都可用 ... as 表示把……說成",
+    "句型：describe 可接疑問詞子句，如 describe what happened；depict 不常這樣用"
+   ],
+   "tip": "describe 是說明（scribe 與寫有關）；depict 是畫出來（pict 與圖畫有關）。",
+   "exA": {
+    "en": "The artist depicted the man standing alone at the station.",
+    "zh": "畫家畫出那個男人獨自站在車站的樣子。"
+   },
+   "exB": {
+    "en": "Can you describe the man you saw at the station?",
+    "zh": "你能描述你在車站看到的那個男人嗎？"
+   }
+  },
+  {
+   "a": "deprive",
+   "b": "derive",
+   "kind": "visual",
+   "score": 0.832,
+   "aZh": "v. 剝奪；使失去",
+   "bZh": "v. 源自；取得",
+   "diff": "deprive 是把原本有的東西拿走，常用 deprive sb of sth；derive 是從某個來源得到，常用 derive from。",
+   "points": [
+    "介系詞：deprive ... of；derive ... from",
+    "字義：deprive 有被拿走的損失感；derive 是得到或來自",
+    "拼字：deprive 比 derive 多一個 p"
+   ],
+   "tip": "deprive 後面接 of（被拿走），derive 後面接 from（來源），各記一組搭配。",
+   "exA": {
+    "en": "The noise at night deprived the whole family of good sleep.",
+    "zh": "夜晚的噪音讓全家人都睡不好。"
+   },
+   "exB": {
+    "en": "Many words in English derive from Latin and Greek.",
+    "zh": "英文裡有許多字源自拉丁文和希臘文。"
+   }
+  },
+  {
+   "a": "derive",
+   "b": "drive",
+   "kind": "visual",
+   "score": 0.778,
+   "aZh": "v. 源自；取得",
+   "bZh": "v. 駕駛；驅使",
+   "diff": "derive 是源自或從某處獲得，後面常接 from；drive 是開車或驅使。derive 比 drive 多一個 e。",
+   "points": [
+    "拼字：derive 比 drive 多一個 e",
+    "發音：derive /dɪˈraɪv/ 重音在後；drive /draɪv/ 只有一個音節",
+    "搭配：derive from 源自；drive a car 開車"
+   ],
+   "tip": "drive 只有一個母音 i；derive 多了 de-，可想成離開來源。",
+   "exA": {
+    "en": "Many students derive great joy from playing music together.",
+    "zh": "許多學生從一起演奏音樂中得到很大的快樂。"
+   },
+   "exB": {
+    "en": "My father drives me to school when it rains.",
+    "zh": "下雨時，我爸爸開車載我去學校。"
+   }
+  },
+  {
+   "a": "ascend",
+   "b": "descend",
+   "kind": "both",
+   "score": 0.636,
+   "aZh": "v. 上升；登上",
+   "bZh": "v. 下降；走下；出身於",
+   "diff": "兩個字只差字首，as- 是向上，de- 是向下。ascend 是往上升，descend 是往下降，是一組反義字。",
+   "points": [
+    "字首：as-（ad-）表示向上；de- 表示向下",
+    "名詞：ascent 上升；descent 下降",
+    "搭配：ascend a mountain 登山；descend the stairs 走下樓梯"
+   ],
+   "tip": "descend 的 de 想成 down；ascend 就是相反的向上。",
+   "exA": {
+    "en": "The climbers slowly ascended the steep mountain path.",
+    "zh": "登山客慢慢爬上陡峭的山路。"
+   },
+   "exB": {
+    "en": "The climbers descended the mountain slowly before it got dark.",
+    "zh": "天黑之前，登山客慢慢下山。"
+   }
+  },
+  {
+   "a": "despair",
+   "b": "desperate",
+   "kind": "visual",
+   "score": 0.563,
+   "aZh": "n. 絕望；v. 感到絕望",
+   "bZh": "adj. 絕望的；不顧一切的",
+   "diff": "despair 是名詞或動詞，指絕望的心情；desperate 是形容詞，形容人走投無路、拚命想要，或情況十分緊急。",
+   "points": [
+    "詞性：despair 是 n./v.；desperate 是 adj.",
+    "拼字：despair 結尾是 -air；desperate 結尾是 -erate",
+    "搭配：in despair 感到絕望；desperate for 極度渴望"
+   ],
+   "tip": "in despair 是名詞（陷入絕望）；a desperate man 是形容詞（絕望的人）。",
+   "exA": {
+    "en": "He was in despair after losing the final game.",
+    "zh": "輸掉決賽之後，他陷入絕望。"
+   },
+   "exB": {
+    "en": "The desperate team tried one last time to win the game.",
+    "zh": "走投無路的球隊最後再拚一次，想贏得比賽。"
+   }
+  },
+  {
+   "a": "destination",
+   "b": "destiny",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 目的地；終點",
+   "bZh": "n. 命運；天命",
+   "diff": "destination 是旅程要到達的地方；destiny 是被安排好的命運。兩個字都來自 destine，字根有「注定」的意思。",
+   "points": [
+    "字義：destination 指地點；destiny 指人生際遇",
+    "詞性：兩者都是名詞，destined 是形容詞「注定的」",
+    "搭配：tourist destination 觀光目的地；control one's destiny 掌握命運"
+   ],
+   "tip": "「注定要去的地方」是 destination；「注定的人生」是 destiny。",
+   "exA": {
+    "en": "Our final destination is a small island in the south.",
+    "zh": "我們最後的目的地是南方的一座小島。"
+   },
+   "exB": {
+    "en": "Some people believe they cannot change their destiny.",
+    "zh": "有些人相信自己無法改變命運。"
+   }
+  },
+  {
+   "a": "destiny",
+   "b": "fate",
+   "kind": "semantic",
+   "score": 0.787,
+   "aZh": "n. 命運；天命",
+   "bZh": "n. 命運；宿命",
+   "diff": "destiny 指被安排好、帶有使命感的人生方向，語氣較正面；fate 強調無法改變的結果，常帶有不幸或無奈的意味。",
+   "points": [
+    "語氣：destiny 常有使命感；fate 常有無可奈何的感覺",
+    "搭配：shape one's destiny 塑造命運；accept one's fate 接受宿命",
+    "用法：fate 也可指人或事物最後的下場，如 the fate of the ship"
+   ],
+   "tip": "destiny 是要走向的目標；fate 是躲不掉的結局。",
+   "exA": {
+    "en": "Jenny felt it was her destiny to become a teacher.",
+    "zh": "Jenny 覺得成為老師是她的天命。"
+   },
+   "exB": {
+    "en": "The old ship met a sad fate in the storm.",
+    "zh": "那艘老船在暴風雨中遭遇了悲慘的下場。"
+   }
+  },
+  {
+   "a": "destructive",
+   "b": "harmful",
+   "kind": "semantic",
+   "score": 0.923,
+   "aZh": "adj. 破壞性的；有害的",
+   "bZh": "adj. 有害的",
+   "diff": "destructive 強調造成破壞、損毀，程度通常較強；harmful 泛指對人或事物有害，不一定造成破壞。",
+   "points": [
+    "程度：destructive 語氣較強，harmful 較一般",
+    "搭配：destructive behavior 破壞行為；harmful habits 有害的習慣",
+    "介系詞：兩者都可接 to + N"
+   ],
+   "tip": "destructive 想到 destroy（破壞）；harmful 想到 harm（傷害）。",
+   "exA": {
+    "en": "The storm was destructive to crops and small houses.",
+    "zh": "那場暴風雨對農作物和小房子造成了破壞。"
+   },
+   "exB": {
+    "en": "Too much sugar is harmful to your teeth and health.",
+    "zh": "糖吃太多對牙齒和健康都有害。"
+   }
+  },
+  {
+   "a": "dedication",
+   "b": "devotion",
+   "kind": "semantic",
+   "score": 0.991,
+   "aZh": "n. 奉獻；投入",
+   "bZh": "n. 奉獻；投入；忠誠",
+   "diff": "兩個字都指全心投入。dedication 強調為某個目標付出時間與努力；devotion 更強調深厚的感情與忠誠，常用在家人、信仰或所愛的事物上。",
+   "points": [
+    "重點：dedication 偏努力與投入；devotion 偏感情與忠誠",
+    "搭配：dedication to study 專心學習；devotion to family 對家人的奉獻",
+    "句型：兩者後面都接 to，to 是介系詞"
+   ],
+   "tip": "dedication 想到努力練習；devotion 想到 devoted fan（忠實粉絲）。",
+   "exA": {
+    "en": "His dedication to practice helped him win the piano contest.",
+    "zh": "他勤於練習，讓他贏得了鋼琴比賽。"
+   },
+   "exB": {
+    "en": "Her devotion to her family is clear to everyone.",
+    "zh": "她對家人的奉獻大家都看得出來。"
+   }
+  },
+  {
+   "a": "diagnose",
+   "b": "diagnosis",
+   "kind": "visual",
+   "score": 0.766,
+   "aZh": "v. 診斷",
+   "bZh": "n. 診斷；診斷結果",
+   "diff": "diagnose 是動詞，指做出診斷；diagnosis 是名詞，指診斷的過程或結果。字尾差在 -e 和 -is，複數是 diagnoses。",
+   "points": [
+    "詞性：diagnose 是 v.；diagnosis 是 n.",
+    "搭配：diagnose a disease 診斷疾病；make a diagnosis 作出診斷",
+    "複數：diagnosis 的複數是 diagnoses"
+   ],
+   "tip": "diagnosis 字尾 -sis 是名詞（如 analysis）；diagnose 字尾 -e 是動詞。",
+   "exA": {
+    "en": "The doctor diagnosed the problem as a mild infection.",
+    "zh": "醫生診斷這個問題是輕微感染。"
+   },
+   "exB": {
+    "en": "The doctor's diagnosis was clear: a mild stomach infection.",
+    "zh": "醫生的診斷很明確：輕微的腸胃感染。"
+   }
+  },
+  {
+   "a": "accent",
+   "b": "dialect",
+   "kind": "semantic",
+   "score": 0.36,
+   "aZh": "n. 口音；腔調",
+   "bZh": "n. 方言；地方語",
+   "diff": "accent 只指說話的口音；dialect 除了發音，還包含地方特有的詞彙和文法。",
+   "points": [
+    "範圍：accent 著重發音；dialect 包含詞彙、文法和發音",
+    "搭配：a strong accent 濃重的口音；a local dialect 地方方言",
+    "用法：同一種語言可以有不同的 accent，也可以有不同的 dialect"
+   ],
+   "tip": "accent 是聽起來怎麼發音；dialect 是一整套地方說法。",
+   "exA": {
+    "en": "The teacher has a British accent when she reads aloud.",
+    "zh": "老師朗讀時帶有英式口音。"
+   },
+   "exB": {
+    "en": "My grandmother speaks a local dialect that few young people know.",
+    "zh": "我奶奶說一種很少年輕人會說的地方方言。"
+   }
+  },
+  {
+   "a": "diameter",
+   "b": "radius",
+   "kind": "semantic",
+   "score": 0.55,
+   "aZh": "n. 直徑",
+   "bZh": "n. 半徑；周邊範圍",
+   "diff": "diameter 是通過圓心、連接圓周兩點的長度；radius 是圓心到圓周的長度，只有直徑的一半。",
+   "points": [
+    "數量：diameter 是 radius 的兩倍",
+    "字源：diameter 裡有 meter（測量）；radius 原意是射線",
+    "搭配：the diameter of a circle 圓的直徑；within a radius of five kilometers 半徑五公里內"
+   ],
+   "tip": "radius 想成從圓心射出的光線（ray），只有一半長。",
+   "exA": {
+    "en": "The diameter of the circle is ten centimeters.",
+    "zh": "這個圓的直徑是十公分。"
+   },
+   "exB": {
+    "en": "The radius of the circle is five centimeters.",
+    "zh": "這個圓的半徑是五公分。"
+   }
+  },
+  {
+   "a": "aspect",
+   "b": "dimension",
+   "kind": "semantic",
+   "score": 0.509,
+   "aZh": "n. 面向；方面",
+   "bZh": "n. 尺寸；維度；層面",
+   "diff": "兩個字都可指事情的一個面向。aspect 只指看事情的角度或方面；dimension 還可指長寬高等尺寸。",
+   "points": [
+    "字義：dimension 可指物體尺寸；aspect 不行",
+    "搭配：every aspect of life 生活的各方面；a new dimension 新的面向",
+    "用法：the dimensions of a room 房間的尺寸"
+   ],
+   "tip": "要說長寬高用 dimension；只說「方面」用 aspect 就夠。",
+   "exA": {
+    "en": "Sleep is an important aspect of a healthy life.",
+    "zh": "睡眠是健康生活很重要的一環。"
+   },
+   "exB": {
+    "en": "The report adds a new dimension to the discussion of health.",
+    "zh": "這份報告為健康的討論增添了新的面向。"
+   }
+  },
+  {
+   "a": "dimension",
+   "b": "size",
+   "kind": "semantic",
+   "score": 0.681,
+   "aZh": "n. 尺寸；維度",
+   "bZh": "n. 尺寸；大小",
+   "diff": "size 是整體的大小；dimensions 是長、寬、高等各項具體的數字，常用複數。",
+   "points": [
+    "數量：size 指整體大小；dimension 常用複數，列出各項尺寸",
+    "搭配：the size of the box 盒子的大小；the dimensions of a room 房間的尺寸",
+    "延伸：dimension 還可指層面，size 沒有這個用法"
+   ],
+   "tip": "只問「多大」用 size；要一一報出長寬高才用 dimensions。",
+   "exA": {
+    "en": "Please check the dimensions of the desk before buying it.",
+    "zh": "買書桌之前，請先確認它的各項尺寸。"
+   },
+   "exB": {
+    "en": "Please check the size of the desk before buying it.",
+    "zh": "買書桌之前，請先確認它的大小。"
+   }
+  },
+  {
+   "a": "decrease",
+   "b": "diminish",
+   "kind": "semantic",
+   "score": 0.812,
+   "aZh": "v. 減少；降低",
+   "bZh": "v. 減少；減弱",
+   "diff": "decrease 是常用字，指數量或程度變少，也可作名詞；diminish 較正式，常指逐漸變少、變弱或重要性降低。",
+   "points": [
+    "語氣：decrease 是一般用語；diminish 較正式",
+    "詞性：decrease 可作 n.；diminish 多作 v.",
+    "搭配：decrease in number 數量減少；diminish in importance 重要性降低"
+   ],
+   "tip": "decrease 是數字往下降；diminish 是一點一點變小、變弱。",
+   "exA": {
+    "en": "The number of visitors decreased after the summer ended.",
+    "zh": "夏天結束後，遊客人數減少了。"
+   },
+   "exB": {
+    "en": "Her interest in the game slowly diminished as it went on.",
+    "zh": "隨著比賽進行，她對比賽的興趣慢慢減退。"
+   }
+  },
+  {
+   "a": "diminish",
+   "b": "reduce",
+   "kind": "semantic",
+   "score": 0.658,
+   "aZh": "v. 減少；減弱",
+   "bZh": "v. 減少；降低",
+   "diff": "reduce 是由人動手使數量降低，後面一定接受詞；diminish 可以是自己逐漸變少，不一定有人去做。",
+   "points": [
+    "及物：reduce 一定接受詞；diminish 可及物也可不及物",
+    "搭配：reduce waste 減少垃圾；diminish in importance 重要性降低",
+    "語氣：diminish 較正式"
+   ],
+   "tip": "reduce 是有人動手減少；diminish 是自己慢慢變小。",
+   "exA": {
+    "en": "The amount of plastic waste has slowly diminished at our school.",
+    "zh": "我們學校的塑膠垃圾量慢慢減少了。"
+   },
+   "exB": {
+    "en": "Our school wants to reduce the amount of plastic waste.",
+    "zh": "我們學校想減少塑膠垃圾的量。"
+   }
+  },
+  {
+   "a": "diploma",
+   "b": "diplomatic",
+   "kind": "visual",
+   "score": 0.718,
+   "aZh": "n. 文憑；畢業證書",
+   "bZh": "adj. 外交的；圓融的",
+   "diff": "diploma 是畢業證書；diplomatic 是形容詞，指外交的，也指處事圓融。兩個字同源，但用法不同。",
+   "points": [
+    "詞性：diploma 是 n.；diplomatic 是 adj.",
+    "相關字：diplomat 是外交官，diplomacy 是外交",
+    "搭配：a high school diploma 高中畢業證書；diplomatic relations 外交關係"
+   ],
+   "tip": "diploma 是一張證書；diplomatic 字尾 -ic 是形容詞，指外交的。",
+   "exA": {
+    "en": "Jenny finally received her high school diploma in June.",
+    "zh": "Jenny 六月終於拿到高中畢業證書。"
+   },
+   "exB": {
+    "en": "The two countries agreed to improve their diplomatic relations.",
+    "zh": "兩國同意改善彼此的外交關係。"
+   }
+  },
+  {
+   "a": "director",
+   "b": "directory",
+   "kind": "visual",
+   "score": 0.841,
+   "aZh": "n. 主管；導演；董事",
+   "bZh": "n. 名錄；指南",
+   "diff": "director 是人，指主管、導演；directory 是東西，指依類別整理的名錄或電腦目錄。",
+   "points": [
+    "詞性：兩者都是 n.，director 指人，directory 指物",
+    "拼字：director 結尾是 -or，表示人；directory 結尾是 -ory",
+    "搭配：film director 電影導演；telephone directory 電話簿"
+   ],
+   "tip": "director 的 -or 是人（如 doctor、actor）；directory 多了 y，是一本名冊。",
+   "exA": {
+    "en": "The director of the school play chose Tom for the lead.",
+    "zh": "校園話劇的導演選了 Tom 當主角。"
+   },
+   "exB": {
+    "en": "I found the school's phone number in the online directory.",
+    "zh": "我在線上名錄裡找到學校的電話號碼。"
+   }
+  },
+  {
+   "a": "disapprove",
+   "b": "object",
+   "kind": "semantic",
+   "score": 0.878,
+   "aZh": "v. 不贊成；反對",
+   "bZh": "v. 反對；提出異議",
+   "diff": "disapprove 表示心裡不贊成，常接 of；object 是明確提出反對意見，常接 to。介系詞不同是最常出錯的地方。",
+   "points": [
+    "介系詞：disapprove of + N；object to + N / V-ing",
+    "字義：disapprove 強調不認同；object 強調提出反對",
+    "詞性：object 也可作名詞「物體」，重音不同"
+   ],
+   "tip": "disapprove 記 of；object 記 to，各背一組搭配。",
+   "exA": {
+    "en": "Her parents disapprove of staying up late before exams.",
+    "zh": "她的父母不贊成她考前熬夜。"
+   },
+   "exB": {
+    "en": "Her parents object to staying up late before exams.",
+    "zh": "她的父母反對她考前熬夜。"
+   }
+  },
+  {
+   "a": "disapprove",
+   "b": "oppose",
+   "kind": "semantic",
+   "score": 0.7,
+   "aZh": "v. 不贊成；反對",
+   "bZh": "v. 反對；反抗",
+   "diff": "oppose 是積極反對某個計畫或提議，後面直接接受詞；disapprove 是不認同，通常接 of，語氣較弱。",
+   "points": [
+    "介系詞：disapprove of + N；oppose + N 不加介系詞",
+    "語氣：oppose 較強烈，disapprove 較溫和",
+    "搭配：oppose a plan 反對計畫；disapprove of a decision 不贊成某項決定"
+   ],
+   "tip": "oppose 後面直接接受詞；disapprove 一定要有 of。",
+   "exA": {
+    "en": "Many citizens disapprove of the plan to cut down old trees.",
+    "zh": "許多市民不贊成砍掉老樹的計畫。"
+   },
+   "exB": {
+    "en": "Many citizens oppose the plan to cut down old trees.",
+    "zh": "許多市民反對砍掉老樹的計畫。"
+   }
+  },
+  {
+   "a": "disclose",
+   "b": "expose",
+   "kind": "semantic",
+   "score": 0.666,
+   "aZh": "v. 揭露；透露",
+   "bZh": "v. 揭露；曝光；使暴露",
+   "diff": "disclose 是主動說出原本保密的資訊；expose 是把隱藏的事或壞事攤開，也可指使暴露在某種環境中。",
+   "points": [
+    "語氣：expose 常有揭發壞事的意味；disclose 較中性",
+    "字義：expose 也可指使接觸，如 expose skin to the sun",
+    "搭配：disclose information 透露資訊；be exposed to 暴露於"
+   ],
+   "tip": "disclose 是打開保密的門；expose 是把東西攤到外面。",
+   "exA": {
+    "en": "The bank refused to disclose the names of its customers.",
+    "zh": "那家銀行拒絕透露客戶的姓名。"
+   },
+   "exB": {
+    "en": "The reporter exposed the bank's secret to the public.",
+    "zh": "記者向大眾揭發了那家銀行的祕密。"
+   }
+  },
+  {
+   "a": "discourage",
+   "b": "discourse",
+   "kind": "visual",
+   "score": 0.733,
+   "aZh": "v. 使洩氣；勸阻",
+   "bZh": "n. 論述；談話",
+   "diff": "discourage 是動詞，指使人失去信心或勸人不要做；discourse 是名詞，指正式的談論或論述。兩個字前面都是 discour-。",
+   "points": [
+    "詞性：discourage 是 v.；discourse 是 n.",
+    "拼字：discourage 結尾 -age，裡面有 courage（勇氣）；discourse 結尾 -se",
+    "搭配：discourage sb from V-ing 勸阻某人；public discourse 公共論述"
+   ],
+   "tip": "discourage 是拿走 courage（勇氣）；discourse 裡有 course，話一路說下去。",
+   "exA": {
+    "en": "Bad grades should not discourage you from trying again.",
+    "zh": "成績不好不該讓你不敢再試一次。"
+   },
+   "exB": {
+    "en": "The article is about public discourse on online learning.",
+    "zh": "這篇文章談的是大眾對線上學習的討論。"
+   }
+  },
+  {
+   "a": "differentiate",
+   "b": "discriminate",
+   "kind": "semantic",
+   "score": 0.691,
+   "aZh": "v. 區分；使不同",
+   "bZh": "v. 歧視；辨別",
+   "diff": "兩個字都可指辨別差異。differentiate 只有「區分」的意思；discriminate 除了辨別，更常指因身分而不公平對待。",
+   "points": [
+    "字義：discriminate 常表示歧視；differentiate 沒有歧視的意思",
+    "句型：differentiate A from B；discriminate against + N 歧視；discriminate between A and B 辨別",
+    "語氣：differentiate 較正式、中性"
+   ],
+   "tip": "看到 against 就是歧視；看到 between / from 才是辨別。",
+   "exA": {
+    "en": "It is hard to differentiate the twins by their voices.",
+    "zh": "光靠聲音很難分辨這對雙胞胎。"
+   },
+   "exB": {
+    "en": "It is wrong to discriminate against people because of their skin color.",
+    "zh": "因為膚色而歧視他人是不對的。"
+   }
+  },
+  {
+   "a": "discrimination",
+   "b": "prejudice",
+   "kind": "semantic",
+   "score": 0.468,
+   "aZh": "n. 歧視；不公平待遇",
+   "bZh": "n. 偏見；成見",
+   "diff": "prejudice 是心裡的偏見或成見；discrimination 是根據偏見而做出的不公平行為。",
+   "points": [
+    "層面：prejudice 是想法；discrimination 是行動",
+    "搭配：discrimination against women 對女性的歧視；prejudice against foreigners 對外國人的偏見",
+    "詞性：prejudice 也可作 v. 使有偏見"
+   ],
+   "tip": "偏見在心裡（prejudice）；歧視在行動（discrimination）。",
+   "exA": {
+    "en": "The law does not allow discrimination in hiring workers.",
+    "zh": "法律不允許在僱用員工時有歧視。"
+   },
+   "exB": {
+    "en": "Many people still have a prejudice against foreign workers.",
+    "zh": "許多人對外籍工作者仍有偏見。"
+   }
   }
  ]
 }

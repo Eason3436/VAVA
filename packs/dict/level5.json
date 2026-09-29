@@ -17978,11 +17978,15 @@
     {
      "pos": "v.",
      "zh": "面對；處理",
-     "ext": "",
+     "ext": "站到對方面前 → 直接面對問題或挑戰",
      "examples": [
       {
        "en": "The team must confront the problem before the contest.",
        "zh": "隊伍必須在比賽前面對這個問題。"
+      },
+      {
+       "en": "Young people must confront many new challenges after graduation.",
+       "zh": "年輕人畢業後必須面對許多新的挑戰。"
       }
      ],
      "patterns": [
@@ -18010,11 +18014,15 @@
     {
      "pos": "v.",
      "zh": "質問；當面對質",
-     "ext": "",
+     "ext": "當面站在對方前面 → 當面質問某人",
      "examples": [
       {
        "en": "Amy confronted her friend about the missing book.",
        "zh": "艾美為了那本不見的書當面質問朋友。"
+      },
+      {
+       "en": "The manager confronted the workers about the long delays.",
+       "zh": "經理當面質問工人為何拖延這麼久。"
       }
      ],
      "patterns": [
@@ -18108,11 +18116,15 @@
     {
      "pos": "n.",
      "zh": "對抗；衝突",
-     "ext": "",
+     "ext": "面對面站著 → 雙方直接對抗或衝突",
      "examples": [
       {
        "en": "The meeting ended without a confrontation between the two teams.",
        "zh": "會議結束時，兩隊沒有發生衝突。"
+      },
+      {
+       "en": "The police tried to stop a confrontation between the two crowds.",
+       "zh": "警方試圖阻止兩群人之間發生衝突。"
       }
      ],
      "patterns": [
@@ -18206,11 +18218,15 @@
     {
      "pos": "adj.",
      "zh": "連續的；接連的",
-     "ext": "",
+     "ext": "一個緊跟一個 → 依序接連發生的",
      "examples": [
       {
        "en": "Our team won three consecutive games this season.",
        "zh": "我們隊這個球季連續贏了三場比賽。"
+      },
+      {
+       "en": "It rained for five consecutive days during the school trip.",
+       "zh": "校外教學期間連續下了五天雨。"
       }
      ],
      "patterns": [],
@@ -18311,11 +18327,15 @@
     {
      "pos": "n.",
      "zh": "共識；一致意見",
-     "ext": "",
+     "ext": "共同的感受 → 團體大致一致的看法",
      "examples": [
       {
        "en": "The class reached a consensus about the school trip destination.",
        "zh": "全班對校外教學的地點達成共識。"
+      },
+      {
+       "en": "There is a growing consensus that students need more sleep.",
+       "zh": "越來越多人有共識，認為學生需要更多睡眠。"
       }
      ],
      "patterns": [
@@ -18405,11 +18425,15 @@
     {
      "pos": "n.",
      "zh": "同意；准許",
-     "ext": "",
+     "ext": "共同的感受 → 表示同意、准許",
      "examples": [
       {
        "en": "The school needs parental consent for the trip.",
        "zh": "學校需要家長同意才能舉辦這趟旅行。"
+      },
+      {
+       "en": "He left the room without the teacher's consent.",
+       "zh": "他沒有得到老師的同意就離開了教室。"
       }
      ],
      "patterns": [
@@ -18437,11 +18461,15 @@
     {
      "pos": "v.",
      "zh": "同意；准許",
-     "ext": "",
+     "ext": "想法一致而點頭 → 表示同意或准許某事",
      "examples": [
       {
        "en": "The students consented to having their photos taken.",
        "zh": "學生們同意讓人拍攝照片。"
+      },
+      {
+       "en": "The mayor finally consented to meet the students.",
+       "zh": "市長終於同意與學生見面。"
       }
      ],
      "patterns": [
@@ -18540,11 +18568,15 @@
     {
      "pos": "n.",
      "zh": "保育；保護",
-     "ext": "",
+     "ext": "一起守護 → 有計畫地保護自然環境與生物",
      "examples": [
       {
        "en": "The club joined a conservation project to protect local birds.",
        "zh": "社團參加保育計畫，保護當地鳥類。"
+      },
+      {
+       "en": "The government spends a lot of money on the conservation of wild animals.",
+       "zh": "政府花很多錢保護野生動物。"
       }
      ],
      "patterns": [
@@ -18572,11 +18604,15 @@
     {
      "pos": "n.",
      "zh": "節約；保存",
-     "ext": "",
+     "ext": "把東西守住不浪費 → 節約資源、保存事物",
      "examples": [
       {
        "en": "Water conservation is important during a dry summer.",
        "zh": "乾旱的夏天，節約用水很重要。"
+      },
+      {
+       "en": "Energy conservation begins with turning off lights you do not use.",
+       "zh": "節約能源從關掉沒用的燈開始。"
       }
      ],
      "patterns": [
@@ -18677,11 +18713,15 @@
     {
      "pos": "adj.",
      "zh": "體貼的；替人著想的",
-     "ext": "",
+     "ext": "仔細考慮過別人 → 做事會替別人著想的",
      "examples": [
       {
        "en": "It was considerate of Kevin to save a seat for his friend.",
        "zh": "凱文替朋友留位子，做得很體貼。"
+      },
+      {
+       "en": "Please be considerate of your neighbors and keep the music low.",
+       "zh": "請體諒你的鄰居，把音樂關小聲一點。"
       }
      ],
      "patterns": [
@@ -18775,11 +18815,15 @@
     {
      "pos": "adj.",
      "zh": "憲法的；合乎憲法的",
-     "ext": "",
+     "ext": "由憲法(constitution)規定的 → 與憲法有關或符合憲法的",
      "examples": [
       {
        "en": "The students learned about their constitutional rights in class.",
        "zh": "學生在課堂上認識自己的憲法權利。"
+      },
+      {
+       "en": "The court decided that the new rule was not constitutional.",
+       "zh": "法院判定這項新規定不符合憲法。"
       }
      ],
      "patterns": [],
@@ -18870,11 +18914,15 @@
     {
      "pos": "n.",
      "zh": "限制；約束",
-     "ext": "",
+     "ext": "被緊緊綁住 → 限制行動或選擇的條件",
      "examples": [
       {
        "en": "Time was our main constraint during the group project.",
        "zh": "時間是我們小組專題的主要限制。"
+      },
+      {
+       "en": "Lack of time is a major constraint on our study plan.",
+       "zh": "時間不夠是我們讀書計畫的主要限制。"
       }
      ],
      "patterns": [
@@ -18964,11 +19012,15 @@
     {
      "pos": "n.",
      "zh": "諮詢；請教",
-     "ext": "",
+     "ext": "請人一起商議 → 向專業人士請教意見",
      "examples": [
       {
        "en": "After a consultation with the doctor, Kevin changed his diet.",
        "zh": "凱文諮詢醫生後，調整了飲食。"
+      },
+      {
+       "en": "The nurse offered a free health consultation at the school clinic.",
+       "zh": "護理師在學校的保健室提供免費的健康諮詢。"
       }
      ],
      "patterns": [
@@ -18996,11 +19048,15 @@
     {
      "pos": "n.",
      "zh": "協商；磋商",
-     "ext": "",
+     "ext": "共同商議 → 相關人士之間的協商",
      "examples": [
       {
        "en": "The school made the change after consultation with students.",
        "zh": "學校與學生協商後才做出變更。"
+      },
+      {
+       "en": "The city government held a public consultation on the new park.",
+       "zh": "市政府就新公園舉辦了公開諮詢。"
       }
      ],
      "patterns": [
@@ -19095,6 +19151,10 @@
       {
        "en": "The report shows a rise in energy consumption.",
        "zh": "報告顯示能源消耗增加了。"
+      },
+      {
+       "en": "Cars with lower fuel consumption save money and protect the environment.",
+       "zh": "油耗較低的車可以省錢，也能保護環境。"
       }
      ],
      "patterns": [],
@@ -19108,11 +19168,15 @@
     {
      "pos": "n.",
      "zh": "食用；攝取",
-     "ext": "",
+     "ext": "把食物吃進去 → 食物或飲料的攝取",
      "examples": [
       {
        "en": "The doctor advised him to reduce his sugar consumption.",
        "zh": "醫生建議他減少糖分攝取。"
+      },
+      {
+       "en": "The consumption of fresh vegetables is good for your health.",
+       "zh": "攝取新鮮蔬菜對你的健康有益。"
       }
      ],
      "patterns": [],
@@ -19177,6 +19241,10 @@
       {
        "en": "The doctor said the illness was highly contagious.",
        "zh": "醫生說這種疾病傳染性很強。"
+      },
+      {
+       "en": "The flu is contagious, so sick students should stay home.",
+       "zh": "流感會傳染，所以生病的學生應該待在家。"
       }
      ],
      "patterns": [],
@@ -19199,6 +19267,10 @@
       {
        "en": "Her laughter was so contagious that everyone smiled.",
        "zh": "她的笑聲很有感染力，大家都跟著笑了。"
+      },
+      {
+       "en": "The coach's confidence was contagious, so the team felt calm before the game.",
+       "zh": "教練的自信很有感染力，所以球隊在比賽前很冷靜。"
       }
      ],
      "patterns": [],
@@ -19279,6 +19351,10 @@
       {
        "en": "Chemicals from the factory contaminated the river.",
        "zh": "工廠的化學物質污染了河川。"
+      },
+      {
+       "en": "Careless visitors may contaminate the lake with trash.",
+       "zh": "粗心的遊客可能會用垃圾汙染這座湖。"
       }
      ],
      "patterns": [
@@ -19352,6 +19428,10 @@
       {
        "en": "She is contemplating a move to another city for college.",
        "zh": "她正在考慮為了上大學搬到另一個城市。"
+      },
+      {
+       "en": "Tom is contemplating whether to join the basketball team.",
+       "zh": "Tom 正在考慮要不要加入籃球隊。"
       }
      ],
      "patterns": [
@@ -19380,6 +19460,10 @@
       {
        "en": "They sat by the lake and contemplated the view.",
        "zh": "他們坐在湖邊，凝望著眼前的景色。"
+      },
+      {
+       "en": "The old man sat quietly by the sea and contemplated the view.",
+       "zh": "老先生靜靜坐在海邊，凝望著景色沉思。"
       }
      ],
      "patterns": [],
@@ -19447,6 +19531,10 @@
       {
        "en": "The museum displays contemporary art by young artists.",
        "zh": "這間博物館展出年輕藝術家的當代藝術作品。"
+      },
+      {
+       "en": "Contemporary music often mixes different styles from around the world.",
+       "zh": "當代音樂常融合世界各地的不同風格。"
       }
      ],
      "patterns": [],
@@ -19464,11 +19552,15 @@
     {
      "pos": "n.",
      "zh": "同時代的人",
-     "ext": "",
+     "ext": "同一時期的人 → 與某人同一時代生活的人",
      "examples": [
       {
        "en": "The writer was admired by many of his contemporaries.",
        "zh": "這位作家受到許多同時代人士的敬重。"
+      },
+      {
+       "en": "The poet and his contemporaries often met to share new poems.",
+       "zh": "那位詩人和與他同時代的人常聚在一起分享新詩。"
       }
      ],
      "patterns": [
@@ -19555,6 +19647,10 @@
       {
        "en": "She showed contempt for rules that treated students unfairly.",
        "zh": "她蔑視那些不公平對待學生的規定。"
+      },
+      {
+       "en": "The crowd showed contempt for the player who cheated.",
+       "zh": "群眾對那名作弊的球員表示鄙視。"
       }
      ],
      "patterns": [
@@ -19642,6 +19738,10 @@
       {
        "en": "The researchers contend that more study is needed.",
        "zh": "研究人員主張還需要更多研究。"
+      },
+      {
+       "en": "The lawyer contended that his client was not at the scene.",
+       "zh": "律師主張他的當事人當時不在現場。"
       }
      ],
      "patterns": [
@@ -19666,6 +19766,10 @@
       {
        "en": "Three teams will contend for the school championship.",
        "zh": "三支隊伍將爭奪校內冠軍。"
+      },
+      {
+       "en": "Several runners contended for first place in the final race.",
+       "zh": "好幾位跑者在決賽中爭奪第一名。"
       }
      ],
      "patterns": [
@@ -19777,6 +19881,10 @@
       {
        "en": "Winters are cold in regions with a continental climate.",
        "zh": "大陸性氣候地區的冬天很冷。"
+      },
+      {
+       "en": "Summers in continental regions are hot, and winters are very cold.",
+       "zh": "大陸性地區的夏天很熱，冬天非常冷。"
       }
      ],
      "patterns": [],
@@ -19847,6 +19955,10 @@
       {
        "en": "The contractor repaired the school roof during the break.",
        "zh": "承包商利用假期修理了學校屋頂。"
+      },
+      {
+       "en": "We hired a contractor to build a new kitchen.",
+       "zh": "我們僱了一位承包商來蓋新廚房。"
       }
      ],
      "patterns": [],
@@ -19928,6 +20040,10 @@
       {
        "en": "There is a contradiction between his words and actions.",
        "zh": "他的言行之間有矛盾。"
+      },
+      {
+       "en": "The witness's story is full of contradictions and cannot be trusted.",
+       "zh": "那位證人的說法充滿矛盾，不能相信。"
       }
      ],
      "patterns": [
@@ -20035,6 +20151,10 @@
       {
        "en": "The school changed its controversial phone policy this year.",
        "zh": "學校今年修改了那項有爭議的手機規定。"
+      },
+      {
+       "en": "The mayor made a controversial decision about closing the old market.",
+       "zh": "市長對關閉舊市場做了一個有爭議的決定。"
       }
      ],
      "patterns": [],
@@ -20114,6 +20234,10 @@
       {
        "en": "The new school rule caused controversy among parents.",
        "zh": "新的校規在家長之間引發爭議。"
+      },
+      {
+       "en": "The movie caused great controversy when it was first shown.",
+       "zh": "這部電影剛上映時引起了很大的爭議。"
       }
      ],
      "patterns": [
@@ -20208,6 +20332,10 @@
       {
        "en": "The conversion of the old library took several months.",
        "zh": "舊圖書館的改建花了好幾個月。"
+      },
+      {
+       "en": "The conversion of light into energy helps plants to grow.",
+       "zh": "把光轉換成能量，幫助植物生長。"
       }
      ],
      "patterns": [
@@ -20302,6 +20430,10 @@
       {
        "en": "The school converted an empty room into a study space.",
        "zh": "學校把一間空房改成自習空間。"
+      },
+      {
+       "en": "Farmers converted the wet land into a fish farm.",
+       "zh": "農夫把那片潮濕的土地改建成養魚場。"
       }
      ],
      "patterns": [
@@ -20330,6 +20462,10 @@
       {
        "en": "You can convert dollars into local currency at the airport.",
        "zh": "可以在機場把美元兌換成當地貨幣。"
+      },
+      {
+       "en": "Use this website to convert kilometers into miles.",
+       "zh": "用這個網站把公里換算成英里。"
       }
      ],
      "patterns": [
@@ -20411,6 +20547,10 @@
       {
        "en": "The court convicted him after reviewing the evidence.",
        "zh": "法庭檢視證據後判他有罪。"
+      },
+      {
+       "en": "The judge convicted the thief after hearing all the evidence.",
+       "zh": "法官聽完所有證據後，判定那個小偷有罪。"
       }
      ],
      "patterns": [
@@ -20434,11 +20574,15 @@
     {
      "pos": "n.",
      "zh": "囚犯；罪犯",
-     "ext": "",
+     "ext": "被判有罪的人 → 已定罪而被關起來的人",
      "examples": [
       {
        "en": "The former convict spoke to students about making better choices.",
        "zh": "這名曾入獄的罪犯向學生談如何做出更好的選擇。"
+      },
+      {
+       "en": "The prison teaches convicts useful job skills before they go home.",
+       "zh": "這所監獄在受刑人回家前教他們有用的工作技能。"
       }
      ],
      "patterns": [],
@@ -20524,11 +20668,15 @@
     {
      "pos": "n.",
      "zh": "堅信；信念",
-     "ext": "",
+     "ext": "被證明後深信不疑 → 堅定不移的信念",
      "examples": [
       {
        "en": "Her conviction that practice would improve her score kept her studying.",
        "zh": "她深信多練習能提高分數，因此持續讀書。"
+      },
+      {
+       "en": "Tom spoke with conviction, so everyone believed him.",
+       "zh": "Tom 說話很有信念，所以大家都相信他。"
       }
      ],
      "patterns": [
@@ -20552,11 +20700,15 @@
     {
      "pos": "n.",
      "zh": "定罪；判罪",
-     "ext": "",
+     "ext": "被證據證明有罪 → 法院正式判定有罪",
      "examples": [
       {
        "en": "The court's conviction was based on clear evidence.",
        "zh": "法院根據明確證據作出有罪判決。"
+      },
+      {
+       "en": "After his conviction, he was sent to prison for two years.",
+       "zh": "他被定罪後，被送進監獄關了兩年。"
       }
      ],
      "patterns": [
@@ -20620,18 +20772,22 @@
   },
   {
    "word": "coordinate",
-   "phonetic": "/koʊˈɔːrdɪneɪt/；/koʊˈɔːrdɪnət/",
+   "phonetic": "/koʊˈɔːrdɪneɪt/（v.）；/koʊˈɔːrdɪnət/（n.）",
    "level": 5,
    "forms": "coordinates · coordinated · coordinating · coordination · coordinator",
    "meanings": [
     {
      "pos": "v.",
      "zh": "協調；統籌",
-     "ext": "",
+     "ext": "使處於同一秩序 → 安排各方一起配合",
      "examples": [
       {
        "en": "Amy coordinates the school trip with the student club.",
        "zh": "Amy 和學生社團一起統籌校外教學。"
+      },
+      {
+       "en": "The teacher coordinated the volunteers during the charity event.",
+       "zh": "老師在慈善活動中統籌志工的工作。"
       }
      ],
      "patterns": [
@@ -20660,11 +20816,15 @@
     {
      "pos": "n.",
      "zh": "座標",
-     "ext": "",
+     "ext": "共同排列的位置 → 標示位置的一組數字",
      "examples": [
       {
        "en": "The map shows the coordinates of the island.",
        "zh": "地圖標出了那座島的座標。"
+      },
+      {
+       "en": "You can find any place on Earth by its coordinates.",
+       "zh": "你可以憑座標找到地球上的任何地方。"
       }
      ],
      "patterns": [],
@@ -20720,11 +20880,15 @@
     {
      "pos": "n.",
      "zh": "著作權；版權",
-     "ext": "",
+     "ext": "複製(copy)的權利(right) → 創作者對作品享有的權利",
      "examples": [
       {
        "en": "The photo is protected by copyright, so the class asked before using it.",
        "zh": "這張照片受著作權保護，因此班上使用前先徵求同意。"
+      },
+      {
+       "en": "Copying a whole book without asking breaks copyright law.",
+       "zh": "未經許可複製整本書違反著作權法。"
       }
      ],
      "patterns": [
@@ -20753,6 +20917,10 @@
       {
        "en": "The writer copyrighted her first book last year.",
        "zh": "這位作家去年為第一本書辦理著作權登記。"
+      },
+      {
+       "en": "The band copyrighted its new song before releasing it.",
+       "zh": "樂團在發行新歌之前先為它申請了著作權。"
       }
      ],
      "patterns": [
@@ -20811,11 +20979,15 @@
     {
      "pos": "n.",
      "zh": "核心；中心",
-     "ext": "",
+     "ext": "水果的中心 → 事物最重要的核心",
      "examples": [
       {
        "en": "Trust is at the core of a strong friendship.",
        "zh": "信任是深厚友誼的核心。"
+      },
+      {
+       "en": "The core of the problem is that students do not get enough sleep.",
+       "zh": "這個問題的核心是學生睡得不夠。"
       }
      ],
      "patterns": [
@@ -20839,11 +21011,15 @@
     {
      "pos": "n.",
      "zh": "果核；果心",
-     "ext": "",
+     "ext": "水果最中心的硬部分 → 吃完後留下的果核",
      "examples": [
       {
        "en": "Please put the apple core in the food waste bin.",
        "zh": "請把蘋果果核丟進廚餘桶。"
+      },
+      {
+       "en": "Cut the apple and remove the core before you eat it.",
+       "zh": "把蘋果切開，吃之前先去掉果核。"
       }
      ],
      "patterns": [],
@@ -20912,11 +21088,15 @@
     {
      "pos": "adj.",
      "zh": "公司的；企業的",
-     "ext": "",
+     "ext": "組成一個團體 → 屬於整個公司的",
      "examples": [
       {
        "en": "The company shared its corporate plan with all employees.",
        "zh": "公司向所有員工分享企業計畫。"
+      },
+      {
+       "en": "The corporate office is located on the top floor of the building.",
+       "zh": "公司總部位在這棟大樓的頂樓。"
       }
      ],
      "patterns": [],
@@ -20980,11 +21160,15 @@
     {
      "pos": "n.",
      "zh": "公司；法人組織",
-     "ext": "",
+     "ext": "組成一個身體 → 依法成立、可獨立行事的法人團體",
      "examples": [
       {
        "en": "The corporation opened a new office near the train station.",
        "zh": "這家公司在火車站附近開了新的辦公室。"
+      },
+      {
+       "en": "Several large corporations sponsor the school's science fair.",
+       "zh": "幾家大型公司贊助學校的科學展。"
       }
      ],
      "patterns": [],
@@ -21044,11 +21228,15 @@
     {
      "pos": "n.",
      "zh": "相關；關聯",
-     "ext": "",
+     "ext": "互相(re)連結在一起(co) → 兩件事之間彼此有關聯",
      "examples": [
       {
        "en": "The study found a correlation between sleep and test scores.",
        "zh": "研究發現睡眠和考試成績之間有關聯。"
+      },
+      {
+       "en": "Scientists found a correlation between air pollution and health problems in cities.",
+       "zh": "科學家發現城市裡的空氣汙染和健康問題有關聯。"
       }
      ],
      "patterns": [
@@ -21118,11 +21306,15 @@
     {
      "pos": "n.",
      "zh": "通訊記者；駐外記者",
-     "ext": "",
+     "ext": "與遠方保持通訊的人 → 駐在外地發稿的記者",
      "examples": [
       {
        "en": "The correspondent reported on the school program from abroad.",
        "zh": "這名記者從國外報導學校計畫。"
+      },
+      {
+       "en": "The news correspondent reported live from the flooded town.",
+       "zh": "新聞台的通訊記者從淹水的小鎮現場報導。"
       }
      ],
      "patterns": [],
@@ -21140,11 +21332,15 @@
     {
      "pos": "n.",
      "zh": "通信者；通信對象",
-     "ext": "",
+     "ext": "彼此互通信件的人 → 通信的對象",
      "examples": [
       {
        "en": "My aunt became a regular correspondent with her old classmate.",
        "zh": "我阿姨和以前的同學成了固定通信的朋友。"
+      },
+      {
+       "en": "Jenny is a faithful correspondent and writes to her cousin every month.",
+       "zh": "Jenny 是很認真的通信者，每個月都寫信給她的表姊。"
       }
      ],
      "patterns": [],
@@ -21195,11 +21391,15 @@
     {
      "pos": "n.",
      "zh": "走廊；通道",
-     "ext": "",
+     "ext": "奔跑的地方 → 供人通行的長走廊",
      "examples": [
       {
        "en": "Students waited quietly in the corridor before class.",
        "zh": "學生在上課前安靜地在走廊等候。"
+      },
+      {
+       "en": "A long corridor connects the old building with the new library.",
+       "zh": "一條長走廊把舊大樓和新圖書館連起來。"
       }
      ],
      "patterns": [],
@@ -21250,11 +21450,15 @@
     {
      "pos": "adj.",
      "zh": "貪污的；腐敗的",
-     "ext": "",
+     "ext": "被破壞而變壞 → 靠權力與金錢謀私的",
      "examples": [
       {
        "en": "The report exposed corrupt officials who took public money.",
        "zh": "報告揭露了挪用公款的貪污官員。"
+      },
+      {
+       "en": "The court found the corrupt police officer guilty.",
+       "zh": "法院判定那位貪污的警察有罪。"
       }
      ],
      "patterns": [],
@@ -21272,11 +21476,15 @@
     {
      "pos": "v.",
      "zh": "使腐敗；使墮落",
-     "ext": "",
+     "ext": "使壞掉 → 使人或制度變得不正直",
      "examples": [
       {
        "en": "Power can corrupt leaders who ignore the needs of others.",
        "zh": "權力可能使漠視他人需求的領導者變得腐敗。"
+      },
+      {
+       "en": "Bad friends can corrupt a young person's sense of right and wrong.",
+       "zh": "壞朋友可能敗壞年輕人的是非觀念。"
       }
      ],
      "patterns": [
@@ -21296,11 +21504,15 @@
     {
      "pos": "v.",
      "zh": "損毀資料",
-     "ext": "",
+     "ext": "資料被破壞 → 使電腦檔案損毀",
      "examples": [
       {
        "en": "A sudden power failure corrupted the files on the computer.",
        "zh": "突然停電損毀了電腦裡的檔案。"
+      },
+      {
+       "en": "A virus corrupted the data on the school computer.",
+       "zh": "病毒損毀了學校電腦裡的資料。"
       }
      ],
      "patterns": [],
@@ -21365,11 +21577,15 @@
     {
      "pos": "n.",
      "zh": "貪污；腐敗",
-     "ext": "",
+     "ext": "被破壞而敗壞 → 靠職權謀取私利的貪污",
      "examples": [
       {
        "en": "The news report described corruption in the city office.",
        "zh": "新聞報導描述了市政府辦公室的貪污情形。"
+      },
+      {
+       "en": "The new mayor promised to fight corruption in the city government.",
+       "zh": "新市長承諾要打擊市政府裡的貪污。"
       }
      ],
      "patterns": [
@@ -21393,11 +21609,15 @@
     {
      "pos": "n.",
      "zh": "損壞；訛誤",
-     "ext": "",
+     "ext": "資料被破壞 → 檔案或文字出現的損毀錯誤",
      "examples": [
       {
        "en": "A power failure caused corruption of the saved file.",
        "zh": "停電造成儲存檔案損壞。"
+      },
+      {
+       "en": "The corruption of the music file made it impossible to play.",
+       "zh": "音樂檔案損毀，讓它無法播放。"
       }
      ],
      "patterns": [],
@@ -21458,11 +21678,15 @@
     {
      "pos": "n.",
      "zh": "建議；忠告",
-     "ext": "",
+     "ext": "一起商議 → 經商量後給的建議",
      "examples": [
       {
        "en": "Her teacher's counsel helped her choose a suitable study plan.",
        "zh": "老師的建議幫她選出合適的讀書計畫。"
+      },
+      {
+       "en": "The lawyer gave the family legal counsel about the contract.",
+       "zh": "律師就合約向這個家庭提供了法律意見。"
       }
      ],
      "patterns": [
@@ -21486,11 +21710,15 @@
     {
      "pos": "v.",
      "zh": "勸告；建議",
-     "ext": "",
+     "ext": "對人提供建議 → 勸告或建議某人",
      "examples": [
       {
        "en": "The doctor counseled Amy to rest before the exam.",
        "zh": "醫生建議 Amy 在考試前休息。"
+      },
+      {
+       "en": "The nurse counseled the patient to eat less salt.",
+       "zh": "護理師勸病人少吃鹽。"
       }
      ],
      "patterns": [
@@ -21552,11 +21780,15 @@
     {
      "pos": "n.",
      "zh": "輔導員；諮商師",
-     "ext": "",
+     "ext": "提供建議的人 → 學校或機構裡負責輔導的人",
      "examples": [
       {
        "en": "The school counselor helped Kevin plan his next steps.",
        "zh": "學校輔導老師協助 Kevin 規劃接下來的方向。"
+      },
+      {
+       "en": "The counselor listens to students who feel worried about exams.",
+       "zh": "輔導老師傾聽對考試感到擔心的學生。"
       }
      ],
      "patterns": [],
@@ -21627,11 +21859,15 @@
     {
      "pos": "adj.",
      "zh": "有禮貌的；客氣的",
-     "ext": "",
+     "ext": "宮廷裡的(court) → 舉止有禮又周到的",
      "examples": [
       {
        "en": "The hotel staff were courteous to every guest.",
        "zh": "飯店員工對每位客人都很有禮貌。"
+      },
+      {
+       "en": "The waiter was courteous even when the restaurant was very busy.",
+       "zh": "即使餐廳很忙，服務生仍然很有禮貌。"
       }
      ],
      "patterns": [
@@ -21706,11 +21942,15 @@
     {
      "pos": "n.",
      "zh": "報導；新聞涵蓋",
-     "ext": "",
+     "ext": "覆蓋的範圍 → 媒體對事件的報導",
      "examples": [
       {
        "en": "The news coverage of the school fair included student interviews.",
        "zh": "這則校慶新聞報導也訪問了學生。"
+      },
+      {
+       "en": "The news station gave live coverage of the marathon all day.",
+       "zh": "新聞台整天現場報導馬拉松。"
       }
      ],
      "patterns": [
@@ -21734,11 +21974,15 @@
     {
      "pos": "n.",
      "zh": "涵蓋範圍；保障範圍",
-     "ext": "",
+     "ext": "蓋住的範圍 → 保險或服務所涵蓋的項目",
      "examples": [
       {
        "en": "This travel plan provides coverage for medical costs abroad.",
        "zh": "這份旅遊方案涵蓋在國外的醫療費用。"
+      },
+      {
+       "en": "Our health plan has full coverage for emergency treatment.",
+       "zh": "我們的健康保險完整涵蓋緊急治療。"
       }
      ],
      "patterns": [
@@ -21809,6 +22053,10 @@
       {
        "en": "The report gained credibility after experts checked its facts.",
        "zh": "專家查證報告內容後，報告的可信度提高了。"
+      },
+      {
+       "en": "The teacher checked the credibility of the website before using it.",
+       "zh": "老師在使用那個網站前，先確認它的可信度。"
       }
      ],
      "patterns": [
@@ -21878,11 +22126,15 @@
     {
      "pos": "n.",
      "zh": "小溪；小河",
-     "ext": "",
+     "ext": "小水道 → 比河流小的天然溪流",
      "examples": [
       {
        "en": "The students followed a narrow creek through the forest.",
        "zh": "學生沿著一條狹窄的小溪穿過森林。"
+      },
+      {
+       "en": "A small wooden bridge crosses the creek behind the school.",
+       "zh": "一座小木橋橫跨在學校後面的小溪上。"
       }
      ],
      "patterns": [],
@@ -21934,6 +22186,10 @@
       {
        "en": "The storm crippled the town's bus service for several days.",
        "zh": "暴風雨讓鎮上的公車服務癱瘓了好幾天。"
+      },
+      {
+       "en": "The strike crippled train services across the country.",
+       "zh": "罷工使全國的火車服務陷入癱瘓。"
       }
      ],
      "patterns": [
@@ -22004,6 +22260,10 @@
       {
        "en": "Cost is an important criterion when we choose a school trip.",
        "zh": "選擇校外教學時，費用是重要的考量標準。"
+      },
+      {
+       "en": "Honesty is the most important criterion when we choose a class leader.",
+       "zh": "我們選班長時，誠實是最重要的標準。"
       }
      ],
      "patterns": [
@@ -22075,11 +22335,15 @@
     {
      "pos": "adj.",
      "zh": "關鍵的；極重要的",
-     "ext": "",
+     "ext": "十字路口 → 需要作出選擇的關鍵時刻",
      "examples": [
       {
        "en": "Regular practice is crucial for improving your English writing.",
        "zh": "定期練習對提升英文寫作能力很重要。"
+      },
+      {
+       "en": "The last five minutes of the game were crucial for our team.",
+       "zh": "比賽的最後五分鐘對我們隊伍至關重要。"
       }
      ],
      "patterns": [
@@ -22162,6 +22426,10 @@
       {
        "en": "The students built a crude model from paper and tape.",
        "zh": "學生用紙和膠帶做了一個簡陋的模型。"
+      },
+      {
+       "en": "Crude oil must be treated before it can be used as fuel.",
+       "zh": "原油必須先經過處理才能當燃料使用。"
       }
      ],
      "patterns": [],
@@ -22183,11 +22451,15 @@
     {
      "pos": "adj.",
      "zh": "粗俗的；不雅的",
-     "ext": "",
+     "ext": "生而不熟 → 沒有教養的粗俗言行",
      "examples": [
       {
        "en": "The teacher asked the class to avoid crude jokes in their presentation.",
        "zh": "老師請全班在報告中避免講粗俗的笑話。"
+      },
+      {
+       "en": "Please do not use crude language in the classroom.",
+       "zh": "請不要在教室裡使用粗俗的言語。"
       }
      ],
      "patterns": [],
@@ -22252,6 +22524,10 @@
       {
        "en": "Our family took a cruise around the islands during summer vacation.",
        "zh": "暑假時，我們全家搭遊輪環繞群島旅行。"
+      },
+      {
+       "en": "Many retired people enjoy a cruise along the coast.",
+       "zh": "許多退休的人喜歡沿著海岸搭遊輪旅行。"
       }
      ],
      "patterns": [],
@@ -22269,11 +22545,15 @@
     {
      "pos": "v.",
      "zh": "巡航；悠閒航行",
-     "ext": "",
+     "ext": "悠閒地航行 → 船在水上平穩緩慢前進",
      "examples": [
       {
        "en": "The ship cruised slowly along the coast at sunrise.",
        "zh": "日出時，船沿著海岸緩緩航行。"
+      },
+      {
+       "en": "The boat cruised quietly across the lake in the evening.",
+       "zh": "傍晚時，小船安靜地航行過湖面。"
       }
      ],
      "patterns": [
@@ -22330,11 +22610,15 @@
     {
      "pos": "n.",
      "zh": "水晶；結晶",
-     "ext": "",
+     "ext": "像冰一樣透明 → 有規則結構的結晶或水晶",
      "examples": [
       {
        "en": "The science teacher showed us a crystal formed from salt water.",
        "zh": "自然老師讓我們看鹽水形成的結晶。"
+      },
+      {
+       "en": "The necklace is made of clear crystal that shines in the light.",
+       "zh": "這條項鍊是用透明的水晶做成的，在光線下閃閃發亮。"
       }
      ],
      "patterns": [],
@@ -22385,6 +22669,10 @@
       {
        "en": "The students learned about Taiwanese cuisine during the culture week.",
        "zh": "文化週期間，學生認識了台灣料理。"
+      },
+      {
+       "en": "Many tourists come here to enjoy the local cuisine.",
+       "zh": "許多遊客來這裡品嚐當地的料理。"
       }
      ],
      "patterns": [
@@ -22450,6 +22738,10 @@
       {
        "en": "Travelers should check the local currency before visiting another country.",
        "zh": "前往其他國家前，旅客應先查清楚當地使用的貨幣。"
+      },
+      {
+       "en": "The exchange rate between the two currencies changes every day.",
+       "zh": "這兩種貨幣之間的匯率每天都在變動。"
       }
      ],
      "patterns": [
@@ -22536,6 +22828,10 @@
       {
        "en": "The school added environmental science to its curriculum this year.",
        "zh": "學校今年把環境科學加入課程。"
+      },
+      {
+       "en": "The new curriculum gives students more time for art and music.",
+       "zh": "新課程讓學生有更多時間學習美術和音樂。"
       }
      ],
      "patterns": [
@@ -22601,6 +22897,10 @@
       {
        "en": "The lost phones are in the custody of the school office.",
        "zh": "遺失的手機由學校辦公室保管。"
+      },
+      {
+       "en": "The court gave the mother custody of the two children.",
+       "zh": "法院把兩個孩子的監護權判給母親。"
       }
      ],
      "patterns": [
@@ -22671,11 +22971,15 @@
     {
      "pos": "n.",
      "zh": "海關",
-     "ext": "",
+     "ext": "進出國境時要繳的關稅 → 負責檢查貨物與旅客的海關",
      "examples": [
       {
        "en": "We went through customs after our flight from Japan.",
        "zh": "我們從日本搭機回來後通過了海關。"
+      },
+      {
+       "en": "Travelers must show their passports and open their bags at customs.",
+       "zh": "旅客必須在海關出示護照並打開行李。"
       }
      ],
      "patterns": [
@@ -22699,11 +23003,15 @@
     {
      "pos": "n.",
      "zh": "風俗；習俗",
-     "ext": "",
+     "ext": "長期形成的做法 → 一個地方的風俗習慣",
      "examples": [
       {
        "en": "The guide explained local customs to our class.",
        "zh": "導遊向我們班介紹當地的風俗。"
+      },
+      {
+       "en": "Different countries have different customs for greeting people.",
+       "zh": "不同的國家有不同的打招呼習俗。"
       }
      ],
      "patterns": [],
@@ -22762,6 +23070,10 @@
       {
        "en": "The news warned people about a deadly disease spreading nearby.",
        "zh": "新聞提醒民眾注意附近正在傳播的致命疾病。"
+      },
+      {
+       "en": "Smoking is a deadly habit that harms many people every year.",
+       "zh": "吸菸是一種致命的習慣，每年傷害許多人。"
       }
      ],
      "patterns": [],
@@ -22775,11 +23087,15 @@
     {
      "pos": "adv.",
      "zh": "極度地；完全地",
-     "ext": "",
+     "ext": "像死亡般毫無動靜 → 極度、非常地",
      "examples": [
       {
        "en": "The room was deadly quiet while the students waited for the results.",
        "zh": "學生等候結果時，教室裡安靜得不得了。"
+      },
+      {
+       "en": "The teacher looked deadly serious when she talked about the exam.",
+       "zh": "老師談到考試時看起來極為嚴肅。"
       }
      ],
      "patterns": [],
@@ -22868,6 +23184,10 @@
       {
        "en": "After the storm, volunteers cleared debris from the school yard.",
        "zh": "暴風雨過後，志工清除校園裡的碎片。"
+      },
+      {
+       "en": "Rescue workers searched through the debris for missing people.",
+       "zh": "救難人員在殘骸中搜尋失蹤的人。"
       }
      ],
      "patterns": [
@@ -22929,18 +23249,22 @@
   },
   {
    "word": "debut",
-   "phonetic": "/ˈdeɪ.bjuː/",
+   "phonetic": "/ˈdeɪbjuː/",
    "level": 5,
    "forms": "debuted · debuting",
    "meanings": [
     {
      "pos": "n.",
      "zh": "首次登場；首演",
-     "ext": "",
+     "ext": "從起點開始 → 表演者或作品第一次公開登場",
      "examples": [
       {
        "en": "The young singer made her debut at the school concert.",
        "zh": "這位年輕歌手第一次在校園演唱會登台。"
+      },
+      {
+       "en": "The young actor's debut in the movie won many fans.",
+       "zh": "這位年輕演員在電影中的首次登場贏得了許多粉絲。"
       }
      ],
      "patterns": [],
@@ -22948,6 +23272,28 @@
       {
        "en": "make one's debut",
        "zh": "首次登場"
+      }
+     ]
+    },
+    {
+     "pos": "v.",
+     "zh": "首次登場；首次推出",
+     "ext": "第一次走上舞台 → 表演者或作品第一次公開亮相",
+     "examples": [
+      {
+       "en": "The new phone will debut in stores next month.",
+       "zh": "這款新手機下個月將在店裡首度亮相。"
+      },
+      {
+       "en": "The band debuted with a song about school life.",
+       "zh": "這個樂團以一首關於校園生活的歌首度登場。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
+       "en": "debut at",
+       "zh": "在…首度登場"
       }
      ]
     }
@@ -23009,11 +23355,15 @@
     {
      "pos": "n.",
      "zh": "腐爛；衰敗",
-     "ext": "",
+     "ext": "向下掉落 → 逐漸腐爛或走向衰敗",
      "examples": [
       {
        "en": "The dentist warned that too much sugar can cause tooth decay.",
        "zh": "牙醫提醒，吃太多糖可能造成蛀牙。"
+      },
+      {
+       "en": "The old building fell into decay after nobody lived in it.",
+       "zh": "那棟舊建築在沒人居住之後逐漸破敗。"
       }
      ],
      "patterns": [],
@@ -23031,11 +23381,15 @@
     {
      "pos": "v.",
      "zh": "腐爛；衰退",
-     "ext": "",
+     "ext": "向下掉落 → 逐漸腐爛或走向衰退",
      "examples": [
       {
        "en": "Food will decay quickly if it is left outside in summer.",
        "zh": "夏天把食物放在外面，很快就會腐壞。"
+      },
+      {
+       "en": "Leaves decay and become food for the soil.",
+       "zh": "樹葉腐爛後，會變成土壤的養分。"
       }
      ],
      "patterns": [],
@@ -23098,11 +23452,15 @@
     {
      "pos": "v.",
      "zh": "欺騙；蒙騙",
-     "ext": "",
+     "ext": "設陷阱捕捉 → 用謊言讓人相信不真實的事",
      "examples": [
       {
        "en": "The advertisement deceived many buyers about the product's quality.",
        "zh": "這則廣告讓許多買家誤信產品的品質很好。"
+      },
+      {
+       "en": "Do not try to deceive your teacher about your homework.",
+       "zh": "不要想騙老師你的功課的事。"
       }
      ],
      "patterns": [
@@ -23196,18 +23554,22 @@
   },
   {
    "word": "decent",
-   "phonetic": "/ˈdiː.sənt/",
+   "phonetic": "/ˈdiːsənt/",
    "level": 5,
    "forms": "decently · decency",
    "meanings": [
     {
      "pos": "adj.",
      "zh": "像樣的；尚可的",
-     "ext": "",
+     "ext": "合乎標準 → 品質或程度還算過得去",
      "examples": [
       {
        "en": "The hotel was simple, but the rooms were decent and clean.",
        "zh": "那間旅館很簡單，不過房間還算不錯，也很乾淨。"
+      },
+      {
+       "en": "You can get a decent meal at that small restaurant for a low price.",
+       "zh": "在那家小餐廳，你可以用低價吃到一頓像樣的餐點。"
       }
      ],
      "patterns": [],
@@ -23225,11 +23587,15 @@
     {
      "pos": "adj.",
      "zh": "正派的；得體的",
-     "ext": "",
+     "ext": "適合場合 → 行為得體、端正有禮",
      "examples": [
       {
        "en": "A decent person admits a mistake and tries to fix it.",
        "zh": "正派的人會承認錯誤，並試著補救。"
+      },
+      {
+       "en": "It is not decent to laugh at people who make mistakes.",
+       "zh": "嘲笑犯錯的人是不得體的。"
       }
      ],
      "patterns": [],
@@ -23291,18 +23657,22 @@
   },
   {
    "word": "declaration",
-   "phonetic": "/ˌdek.ləˈreɪ.ʃən/",
+   "phonetic": "/ˌdekləˈreɪʃən/",
    "level": 5,
    "forms": "declare · declared · declaring",
    "meanings": [
     {
      "pos": "n.",
      "zh": "宣布；聲明",
-     "ext": "",
+     "ext": "說清楚並公開宣布 → 正式公開的聲明",
      "examples": [
       {
        "en": "The school made a declaration about its new phone policy.",
        "zh": "學校針對新的手機規定發表了聲明。"
+      },
+      {
+       "en": "The mayor's declaration of a holiday made all the students happy.",
+       "zh": "市長宣布放假，讓所有學生都很開心。"
       }
      ],
      "patterns": [],
@@ -23382,11 +23752,15 @@
     {
      "pos": "n.",
      "zh": "下降；衰退",
-     "ext": "",
+     "ext": "往下傾斜 → 數量或程度逐漸降低，出現衰退",
      "examples": [
       {
        "en": "The school saw a decline in library visits during summer.",
        "zh": "暑假期間，學校圖書館的到訪人數下降了。"
+      },
+      {
+       "en": "The company reported a sharp decline in profits last year.",
+       "zh": "公司去年公布利潤大幅下滑。"
       }
      ],
      "patterns": [
@@ -23410,11 +23784,15 @@
     {
      "pos": "v.",
      "zh": "下降；衰退",
-     "ext": "",
+     "ext": "由高處往下彎 → 數量、健康或品質逐漸變差",
      "examples": [
       {
-       "en": "Library visits declined during the summer vacation.",
-       "zh": "暑假期間，圖書館的到訪人數下降了。"
+       "en": "The number of students in the small village declined every year.",
+       "zh": "這個小村莊的學生人數逐年減少。"
+      },
+      {
+       "en": "Her health began to decline after she turned eighty.",
+       "zh": "她八十歲以後，健康開始走下坡。"
       }
      ],
      "patterns": [],
@@ -23422,17 +23800,25 @@
       {
        "en": "decline sharply",
        "zh": "急遽下降"
+      },
+      {
+       "en": "decline steadily",
+       "zh": "持續下降"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "婉拒",
-     "ext": "",
+     "ext": "把邀請偏向一旁不接 → 客氣地表示不接受",
      "examples": [
       {
        "en": "Kevin declined the invitation because he had an exam the next day.",
        "zh": "Kevin 因為隔天要考試而婉拒了邀請。"
+      },
+      {
+       "en": "The manager declined our request for a longer lunch break.",
+       "zh": "經理婉拒了我們延長午休的要求。"
       }
      ],
      "patterns": [
@@ -23495,10 +23881,30 @@
     }
    ],
    "commonErrors": [],
-   "breakdownApplicable": false,
-   "breakdown": [],
+   "breakdownApplicable": true,
+   "breakdown": [
+    {
+     "part": "de-",
+     "type": "字首",
+     "gloss": "向下"
+    },
+    {
+     "part": "-clin-",
+     "type": "字根",
+     "gloss": "傾斜；彎"
+    }
+   ],
    "origin": "源自拉丁文 declinare，意為「使偏離、彎向一側」，經古法語進入英文；由「往下或偏離」發展出下降與婉拒等意思。",
-   "related": [],
+   "related": [
+    {
+     "word": "incline",
+     "note": "使傾向；傾斜"
+    },
+    {
+     "word": "recline",
+     "note": "向後靠；斜躺"
+    }
+   ],
    "phrases": []
   },
   {
@@ -23510,11 +23916,15 @@
     {
      "pos": "v.",
      "zh": "奉獻；致力於",
-     "ext": "",
+     "ext": "鄭重地宣告獻出 → 把時間、心力全部投入某件事",
      "examples": [
       {
        "en": "Jenny dedicates an hour each day to practicing the piano.",
        "zh": "Jenny 每天投入一小時練鋼琴。"
+      },
+      {
+       "en": "The doctor dedicated his life to helping poor children.",
+       "zh": "那位醫生一生都奉獻於幫助貧困的孩子。"
       }
      ],
      "patterns": [
@@ -23625,11 +24035,15 @@
     {
      "pos": "n.",
      "zh": "被告",
-     "ext": "",
+     "ext": "需要替自己辯護的人 → 在法庭上被指控的一方",
      "examples": [
       {
        "en": "The defendant listened carefully as the judge explained the decision.",
        "zh": "法官說明判決時，被告仔細聆聽。"
+      },
+      {
+       "en": "The lawyer asked the defendant to explain what happened that night.",
+       "zh": "律師請被告說明那天晚上發生了什麼事。"
       }
      ],
      "patterns": [],
@@ -23711,11 +24125,15 @@
     {
      "pos": "n.",
      "zh": "不足；赤字",
-     "ext": "",
+     "ext": "缺少的部分 → 收入少於支出的差額，即赤字",
      "examples": [
       {
        "en": "The school faced a budget deficit after repair costs increased.",
        "zh": "維修費增加後，學校面臨預算赤字。"
+      },
+      {
+       "en": "The country has a large trade deficit with its neighbors.",
+       "zh": "這個國家對鄰國有很大的貿易逆差。"
       }
      ],
      "patterns": [
@@ -23803,18 +24221,22 @@
     {
      "pos": "v.",
      "zh": "違抗；公然反抗",
-     "ext": "",
+     "ext": "當面挑戰對方 → 公然不服從規則或權威",
      "examples": [
       {
        "en": "The student defied the school rule and used his phone during class.",
        "zh": "那位學生公然違反校規，在上課時使用手機。"
+      },
+      {
+       "en": "The crowd defied the police order and stayed in the square.",
+       "zh": "群眾不理會警方的命令，繼續留在廣場上。"
       }
      ],
      "patterns": [
       {
        "pattern": "defy + 規則 / 命令 / 權威",
-       "en": "The team refused to defy the safety rules during the trip.",
-       "zh": "旅行途中，團隊拒絕違反安全規定。"
+       "en": "Teenagers sometimes defy their parents to show they are independent.",
+       "zh": "青少年有時會違抗父母，藉此表現自己很獨立。"
       }
      ],
      "collocations": [
@@ -23862,11 +24284,11 @@
    ],
    "commonErrors": [
     {
-     "wrong": "defy to obey the rules",
-     "right": "defy the rules",
-     "note": "defy 是及物動詞，後面直接接受詞，不加 to。",
-     "exWrong": "The student defied to obey the rules.",
-     "exRight": "The student defied the rules."
+     "wrong": "defy against + N",
+     "right": "defy + N",
+     "note": "defy 是及物動詞，後面直接接受詞，不加 against 或 to。",
+     "exWrong": "The student defied against the school rule.",
+     "exRight": "The student defied the school rule."
     }
    ],
    "breakdownApplicable": false,
@@ -23893,11 +24315,15 @@
     {
      "pos": "n.",
      "zh": "代表；代表團成員",
-     "ext": "",
+     "ext": "被派出去的人 → 代表團體出席會議的人",
      "examples": [
       {
        "en": "Each delegate shared one idea at the student meeting.",
        "zh": "每位代表都在學生會議上分享了一個想法。"
+      },
+      {
+       "en": "Delegates from twenty countries met to talk about climate change.",
+       "zh": "來自二十個國家的代表聚在一起討論氣候變遷。"
       }
      ],
      "patterns": [],
@@ -23915,11 +24341,15 @@
     {
      "pos": "v.",
      "zh": "委派；授權",
-     "ext": "",
+     "ext": "把事情派給別人去做 → 委派工作或授權",
      "examples": [
       {
        "en": "The teacher delegated the poster design to two students.",
        "zh": "老師把海報設計交由兩位學生負責。"
+      },
+      {
+       "en": "A good leader learns to delegate work instead of doing everything alone.",
+       "zh": "好的領導者學會分派工作，而不是凡事自己做。"
       }
      ],
      "patterns": [
@@ -24016,11 +24446,15 @@
     {
      "pos": "n.",
      "zh": "代表團",
-     "ext": "",
+     "ext": "被派出的一群人 → 代表團體出席的代表團",
      "examples": [
       {
        "en": "A delegation from our school visited the partner school in Japan.",
        "zh": "我們學校的代表團造訪了日本的姊妹校。"
+      },
+      {
+       "en": "The delegation arrived at the airport early in the morning.",
+       "zh": "代表團一大早就抵達了機場。"
       }
      ],
      "patterns": [
@@ -24044,11 +24478,15 @@
     {
      "pos": "n.",
      "zh": "委派；授權",
-     "ext": "",
+     "ext": "把工作交給別人 → 委派或授權的行為",
      "examples": [
       {
        "en": "The delegation of tasks helped the group finish the project on time.",
        "zh": "分派工作讓小組得以準時完成專題。"
+      },
+      {
+       "en": "Good delegation lets each member focus on the task he does best.",
+       "zh": "良好的分工授權讓每位成員專注於自己最擅長的工作。"
       }
      ],
      "patterns": [
@@ -24114,11 +24552,15 @@
     {
      "pos": "adj.",
      "zh": "深思熟慮的",
-     "ext": "",
+     "ext": "反覆衡量後才行動 → 深思熟慮、不倉促的",
      "examples": [
       {
        "en": "The team made a deliberate choice to reduce plastic waste.",
        "zh": "團隊經過慎重考慮，決定減少塑膠垃圾。"
+      },
+      {
+       "en": "The mayor made a deliberate decision after listening to everyone.",
+       "zh": "市長聽取每個人的意見後，做了慎重的決定。"
       }
      ],
      "patterns": [],
@@ -24126,17 +24568,25 @@
       {
        "en": "a deliberate choice",
        "zh": "慎重的選擇"
+      },
+      {
+       "en": "a deliberate decision",
+       "zh": "慎重的決定"
       }
      ]
     },
     {
      "pos": "adj.",
      "zh": "故意的；刻意的",
-     "ext": "",
+     "ext": "想清楚才去做 → 有意為之，不是意外",
      "examples": [
       {
        "en": "Her silence was a deliberate way to avoid an argument.",
        "zh": "她故意保持沉默，避免爭吵。"
+      },
+      {
+       "en": "The broken window was a deliberate act, not an accident.",
+       "zh": "那扇破掉的窗戶是故意造成的，不是意外。"
       }
      ],
      "patterns": [],
@@ -24144,17 +24594,25 @@
       {
        "en": "a deliberate attempt",
        "zh": "刻意的嘗試"
+      },
+      {
+       "en": "a deliberate lie",
+       "zh": "故意的謊言"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "仔細考慮；商議",
-     "ext": "",
+     "ext": "把事情放在天平上衡量 → 仔細考慮並討論",
      "examples": [
       {
        "en": "The students deliberated before choosing a topic for their project.",
        "zh": "學生仔細討論後，才選定報告題目。"
+      },
+      {
+       "en": "The judges deliberated for three hours before announcing the winner.",
+       "zh": "評審討論了三個小時，才宣布優勝者。"
       }
      ],
      "patterns": [
@@ -24216,11 +24674,15 @@
     {
      "pos": "n.",
      "zh": "民主主義者",
-     "ext": "",
+     "ext": "人民 + 統治 → 支持人民當家作主的人",
      "examples": [
       {
        "en": "The article interviewed a local democrat about the community vote.",
        "zh": "這篇文章訪問了一位當地民主主義者，談社區投票。"
+      },
+      {
+       "en": "Being a democrat, she believes every citizen should have a voice.",
+       "zh": "身為民主主義者，她認為每位公民都該有發聲的機會。"
       }
      ],
      "patterns": [],
@@ -24230,6 +24692,23 @@
        "zh": "堅定的民主主義者"
       }
      ]
+    },
+    {
+     "pos": "n.",
+     "zh": "民主黨員",
+     "ext": "",
+     "examples": [
+      {
+       "en": "My uncle is a Democrat who votes in every election.",
+       "zh": "我叔叔是民主黨員，每次選舉都會投票。"
+      },
+      {
+       "en": "The new mayor is a Democrat who supports free public transportation.",
+       "zh": "新市長是民主黨員，主張公共交通免費。"
+      }
+     ],
+     "patterns": [],
+     "collocations": []
     }
    ],
    "synonyms": [
@@ -24272,7 +24751,7 @@
      "gloss": "統治"
     }
    ],
-   "origin": "",
+   "origin": "經法語 démocrate 進入英文，源自希臘文 dēmos（人民）與 kratos（權力、統治）。",
    "related": [
     {
      "word": "democracy",
@@ -24298,11 +24777,15 @@
     {
      "pos": "n.",
      "zh": "否認；拒絕承認",
-     "ext": "",
+     "ext": "說「不」把事實推開 → 不肯承認事情發生過",
      "examples": [
       {
        "en": "His denial of the mistake surprised the whole class.",
        "zh": "他否認犯錯，讓全班都很驚訝。"
+      },
+      {
+       "en": "The mayor's denial of the rumor appeared in the morning news.",
+       "zh": "市長否認謠言的說法刊登在晨間新聞上。"
       }
      ],
      "patterns": [
@@ -24355,15 +24838,7 @@
      "right": "His denial of the mistake surprised the class."
     }
    ],
-   "commonErrors": [
-    {
-     "wrong": "denial about the mistake",
-     "right": "denial of the mistake",
-     "note": "denial 後面常接 of，表示否認的內容。",
-     "exWrong": "His denial about the mistake surprised us.",
-     "exRight": "His denial of the mistake surprised us."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": true,
    "breakdown": [
     {
@@ -24425,11 +24900,15 @@
     {
      "pos": "n.",
      "zh": "密度；濃度",
-     "ext": "",
+     "ext": "東西擠得多緊 → 單位空間內含有的量",
      "examples": [
       {
        "en": "The high density of trees keeps the park cool.",
        "zh": "樹木分布密集，讓公園保持涼爽。"
+      },
+      {
+       "en": "The density of this metal is greater than that of water.",
+       "zh": "這種金屬的密度比水大。"
       }
      ],
      "patterns": [],
@@ -24499,11 +24978,15 @@
     {
      "pos": "v.",
      "zh": "描繪；描述",
-     "ext": "",
+     "ext": "用畫筆畫出來 → 用圖像或文字生動呈現",
      "examples": [
       {
        "en": "The film depicts daily life in a small town.",
        "zh": "這部電影描繪小鎮的日常生活。"
+      },
+      {
+       "en": "The novel depicts the difficult lives of farmers a hundred years ago.",
+       "zh": "這本小說描寫一百年前農民艱苦的生活。"
       }
      ],
      "patterns": [
@@ -24584,11 +25067,15 @@
     {
      "pos": "v.",
      "zh": "部署；調度",
-     "ext": "",
+     "ext": "把摺起來的東西展開 → 把人員或資源安排到位",
      "examples": [
       {
        "en": "The school deployed extra staff to guide visitors.",
        "zh": "學校調派了更多人員引導訪客。"
+      },
+      {
+       "en": "The city deployed more buses to carry fans after the concert.",
+       "zh": "演唱會結束後，市政府調派更多公車接送歌迷。"
       }
      ],
      "patterns": [
@@ -24673,11 +25160,15 @@
     {
      "pos": "v.",
      "zh": "使沮喪；使憂鬱",
-     "ext": "往下壓 → 心情低落",
+     "ext": "往下壓 → 心情被壓低而感到低落",
      "examples": [
       {
        "en": "Losing the final game depressed the whole team.",
        "zh": "輸掉決賽讓整支隊伍都很沮喪。"
+      },
+      {
+       "en": "Cold rainy weather for a whole week often depresses me.",
+       "zh": "連續一整個星期的陰雨天氣常讓我心情低落。"
       }
      ],
      "patterns": [
@@ -24701,11 +25192,15 @@
     {
      "pos": "v.",
      "zh": "降低；減少",
-     "ext": "",
+     "ext": "往下壓 → 使數值或活動降低",
      "examples": [
       {
        "en": "The cold weather depressed sales at the outdoor market.",
        "zh": "寒冷的天氣使戶外市集的銷售額下降。"
+      },
+      {
+       "en": "Poor economic news depressed the stock market for several days.",
+       "zh": "不佳的經濟消息讓股市連續下跌好幾天。"
       }
      ],
      "patterns": [],
@@ -24785,11 +25280,15 @@
     {
      "pos": "n.",
      "zh": "副手；代理人",
-     "ext": "",
+     "ext": "受委派代替他人 → 位階次於主管的副手",
      "examples": [
       {
        "en": "The deputy will lead the meeting while our teacher is away.",
        "zh": "老師不在時，由副手主持會議。"
+      },
+      {
+       "en": "The deputy mayor visited the flood area and talked with local people.",
+       "zh": "副市長前往淹水地區，和當地居民談話。"
       }
      ],
      "patterns": [],
@@ -24858,6 +25357,10 @@
       {
        "en": "Many English words derive from Latin and Greek.",
        "zh": "許多英文字源自拉丁文和希臘文。"
+      },
+      {
+       "en": "The name of this street derives from a famous local artist.",
+       "zh": "這條街的名字源自一位當地著名的藝術家。"
       }
      ],
      "patterns": [
@@ -24886,12 +25389,16 @@
       {
        "en": "She derives great pleasure from reading with her brother.",
        "zh": "她和弟弟一起閱讀時，從中得到許多樂趣。"
+      },
+      {
+       "en": "Many students derive strength from the support of their friends.",
+       "zh": "許多學生從朋友的支持中獲得力量。"
       }
      ],
      "patterns": [
       {
        "pattern": "derive + N + from + N",
-       "en": "He derives confidence from practicing every day.",
+       "en": "He derives confidence and energy from practicing every day.",
        "zh": "他從每天練習中獲得信心。"
       }
      ],
@@ -24975,6 +25482,10 @@
       {
        "en": "The hikers descended the mountain before the rain began.",
        "zh": "雨開始下之前，健行者就下山了。"
+      },
+      {
+       "en": "The plane began to descend slowly as it approached the airport.",
+       "zh": "飛機接近機場時，開始緩緩下降。"
       }
      ],
      "patterns": [],
@@ -24982,17 +25493,25 @@
       {
        "en": "descend the stairs",
        "zh": "走下樓梯"
+      },
+      {
+       "en": "begin to descend",
+       "zh": "開始下降"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "出身於；是後裔",
-     "ext": "",
+     "ext": "順著血緣往下傳 → 出身於某個家族",
      "examples": [
       {
-       "en": "Amy descends from a family of skilled farmers.",
-       "zh": "Amy 出身於一個擅長務農的家族。"
+       "en": "The tribe is descended from people who lived here a thousand years ago.",
+       "zh": "這個部落的人是一千年前住在這裡的人的後代。"
+      },
+      {
+       "en": "Tom's family descends from a long line of doctors.",
+       "zh": "Tom 的家族祖上世代都是醫生。"
       }
      ],
      "patterns": [
@@ -25006,6 +25525,10 @@
       {
        "en": "descend from a family",
        "zh": "出身於某個家族"
+      },
+      {
+       "en": "be descended from",
+       "zh": "是……的後代"
       }
      ]
     }
@@ -25078,11 +25601,15 @@
     {
      "pos": "adj.",
      "zh": "描述性的；描寫的",
-     "ext": "",
+     "ext": "把特徵寫出來 → 偏重描寫特徵的",
      "examples": [
       {
        "en": "The report gives a descriptive account of the school trip.",
        "zh": "這份報告詳細描寫了校外教學。"
+      },
+      {
+       "en": "Our teacher asked us to write a descriptive paragraph about our hometown.",
+       "zh": "老師要我們寫一段描寫家鄉的文章。"
       }
      ],
      "patterns": [],
@@ -25162,11 +25689,15 @@
     {
      "pos": "n.",
      "zh": "絕望；失望",
-     "ext": "",
+     "ext": "完全看不到希望 → 內心陷入極度無助",
      "examples": [
       {
        "en": "After several failed attempts, she felt despair about the project.",
        "zh": "幾次嘗試都失敗後，她對這項計畫感到絕望。"
+      },
+      {
+       "en": "The farmer looked at the dry fields with despair.",
+       "zh": "農夫絕望地望著乾裂的田地。"
       }
      ],
      "patterns": [
@@ -25190,11 +25721,15 @@
     {
      "pos": "v.",
      "zh": "感到絕望",
-     "ext": "",
+     "ext": "失去希望 → 感到絕望，不再抱期待",
      "examples": [
       {
        "en": "Do not despair if your first practice test goes badly.",
        "zh": "第一次模擬考考得不理想，也別因此絕望。"
+      },
+      {
+       "en": "Even after many failures, he never despaired of reaching his goal.",
+       "zh": "即使失敗很多次，他也從未對達成目標感到絕望。"
       }
      ],
      "patterns": [
@@ -25265,11 +25800,15 @@
     {
      "pos": "n.",
      "zh": "目的地；終點",
-     "ext": "",
+     "ext": "被指定要去的地方 → 旅程最後到達的地方",
      "examples": [
       {
        "en": "Our destination is a quiet town near the eastern coast.",
        "zh": "我們的目的地是東海岸附近的一座安靜小鎮。"
+      },
+      {
+       "en": "Kenting is a favorite holiday destination for many Taiwanese students.",
+       "zh": "墾丁是許多台灣學生喜愛的度假目的地。"
       }
      ],
      "patterns": [
@@ -25334,11 +25873,15 @@
     {
      "pos": "n.",
      "zh": "命運；天命",
-     "ext": "",
+     "ext": "被安排好的去處 → 一個人注定的人生走向",
      "examples": [
       {
        "en": "Amy believes hard work can shape her own destiny.",
        "zh": "Amy 相信努力能塑造自己的命運。"
+      },
+      {
+       "en": "Jenny felt it was her destiny to become a teacher.",
+       "zh": "Jenny 覺得成為老師是她的天命。"
       }
      ],
      "patterns": [
@@ -25408,11 +25951,15 @@
     {
      "pos": "adj.",
      "zh": "破壞性的；有害的",
-     "ext": "",
+     "ext": "把蓋好的東西拆掉 → 具有破壞力、會造成損害的",
      "examples": [
       {
        "en": "Too much screen time can have a destructive effect on sleep.",
        "zh": "看螢幕太久可能會嚴重影響睡眠。"
+      },
+      {
+       "en": "Strong winds can be destructive to crops and small houses.",
+       "zh": "強風可能對農作物和小房子造成破壞。"
       }
      ],
      "patterns": [
@@ -25507,11 +26054,15 @@
     {
      "pos": "n.",
      "zh": "奉獻；投入",
-     "ext": "",
+     "ext": "把心力全部獻出 → 對某件事持續付出",
      "examples": [
       {
        "en": "Her devotion to the school band inspired younger students.",
        "zh": "她對校樂隊的投入鼓舞了學弟妹。"
+      },
+      {
+       "en": "The nurse's devotion to her patients made everyone love her.",
+       "zh": "護理師對病人的奉獻，讓大家都很愛戴她。"
       }
      ],
      "patterns": [
@@ -25535,11 +26086,15 @@
     {
      "pos": "n.",
      "zh": "熱愛；忠誠",
-     "ext": "",
+     "ext": "把心交給對方 → 深深熱愛並忠於某人或某事",
      "examples": [
       {
        "en": "The fans showed their devotion to the team throughout the season.",
        "zh": "整個球季裡，球迷都展現了對球隊的支持。"
+      },
+      {
+       "en": "Dogs are famous for their devotion to their owners.",
+       "zh": "狗以對主人的忠誠而聞名。"
       }
      ],
      "patterns": [],
@@ -25623,11 +26178,15 @@
     {
      "pos": "v.",
      "zh": "診斷；判定原因",
-     "ext": "",
+     "ext": "透過檢查看穿本質 → 判定疾病或問題的原因",
      "examples": [
       {
        "en": "The doctor diagnosed the illness after checking her test results.",
        "zh": "醫生看過她的檢查結果後，診斷出疾病。"
+      },
+      {
+       "en": "The mechanic quickly diagnosed the problem with our car engine.",
+       "zh": "技師很快就診斷出我們汽車引擎的問題。"
       }
      ],
      "patterns": [
@@ -25635,6 +26194,11 @@
        "pattern": "diagnose + N + as + N",
        "en": "The doctor diagnosed his cough as a mild infection.",
        "zh": "醫生診斷他的咳嗽是輕微感染造成的。"
+      },
+      {
+       "pattern": "be diagnosed with + N",
+       "en": "Her brother was diagnosed with a stomach infection last week.",
+       "zh": "她弟弟上星期被診斷出腸胃感染。"
       }
      ],
      "collocations": [
@@ -25708,11 +26272,15 @@
     {
      "pos": "n.",
      "zh": "診斷；診斷結果",
-     "ext": "",
+     "ext": "透過檢查辨認 → 對疾病的判定與結果",
      "examples": [
       {
        "en": "The diagnosis helped the family choose the right treatment.",
        "zh": "這項診斷結果幫助家人選擇合適的治療方式。"
+      },
+      {
+       "en": "An early diagnosis can make the treatment much easier and faster.",
+       "zh": "及早診斷能讓治療變得容易許多。"
       }
      ],
      "patterns": [
@@ -25730,6 +26298,10 @@
       {
        "en": "receive a diagnosis",
        "zh": "得到診斷結果"
+      },
+      {
+       "en": "an early diagnosis",
+       "zh": "早期診斷"
       }
      ]
     }
@@ -25798,11 +26370,15 @@
     {
      "pos": "n.",
      "zh": "方言；地方語",
-     "ext": "",
+     "ext": "某地區的人說話的方式 → 有自己特色的地方語言",
      "examples": [
       {
        "en": "My grandmother speaks a dialect that is common in southern Taiwan.",
        "zh": "我奶奶會說一種在台灣南部常見的方言。"
+      },
+      {
+       "en": "Some students in my class speak a different dialect at home.",
+       "zh": "我班上有些同學在家裡說不同的方言。"
       }
      ],
      "patterns": [],
@@ -25855,11 +26431,15 @@
     {
      "pos": "n.",
      "zh": "直徑",
-     "ext": "",
+     "ext": "穿過圓心量到另一邊 → 圓的最大寬度，即直徑",
      "examples": [
       {
        "en": "The teacher asked us to measure the diameter of the circle.",
        "zh": "老師要我們量出這個圓的直徑。"
+      },
+      {
+       "en": "The diameter of the Earth is about twelve thousand kilometers.",
+       "zh": "地球的直徑大約是一萬兩千公里。"
       }
      ],
      "patterns": [
@@ -25910,7 +26490,20 @@
     }
    ],
    "origin": "經拉丁文 diameter 源自希臘文 diametros，意為「穿過圓的測量線」，由 dia（穿過）與 metron（測量）組成。",
-   "related": [],
+   "related": [
+    {
+     "word": "meter",
+     "note": "公尺"
+    },
+    {
+     "word": "perimeter",
+     "note": "周長"
+    },
+    {
+     "word": "geometry",
+     "note": "幾何學"
+    }
+   ],
    "phrases": []
   },
   {
@@ -25927,6 +26520,10 @@
       {
        "en": "My sister packed extra diapers before the family trip.",
        "zh": "我姊姊在全家出遊前多準備了幾片尿布。"
+      },
+      {
+       "en": "The baby stopped crying as soon as Dad changed his diaper.",
+       "zh": "爸爸一換好尿布，寶寶就不哭了。"
       }
      ],
      "patterns": [],
@@ -25972,11 +26569,15 @@
     {
      "pos": "n.",
      "zh": "消化；消化作用",
-     "ext": "",
+     "ext": "把食物分開再運送 → 食物在體內被分解吸收",
      "examples": [
       {
-       "en": "Walking after dinner may help with digestion.",
-       "zh": "晚餐後散步可能有助於消化。"
+       "en": "Walking for a while after dinner may help with digestion.",
+       "zh": "晚餐後散步一會兒可能有助於消化。"
+      },
+      {
+       "en": "Eating slowly and chewing well is good for digestion.",
+       "zh": "吃得慢又充分咀嚼有益消化。"
       }
      ],
      "patterns": [],
@@ -25984,6 +26585,10 @@
       {
        "en": "aid digestion",
        "zh": "幫助消化"
+      },
+      {
+       "en": "good digestion",
+       "zh": "消化良好"
       }
      ]
     }
@@ -26042,11 +26647,15 @@
     {
      "pos": "n.",
      "zh": "進退兩難；困境",
-     "ext": "",
+     "ext": "兩個選項都不好選 → 進退兩難的困境",
      "examples": [
       {
        "en": "Amy faced a dilemma when both clubs met at the same time.",
        "zh": "兩個社團同時舉辦活動時，Amy 陷入了兩難。"
+      },
+      {
+       "en": "The mayor faced a dilemma between saving money and protecting the river.",
+       "zh": "市長在省錢和保護河川之間陷入兩難。"
       }
      ],
      "patterns": [],
@@ -26108,11 +26717,15 @@
     {
      "pos": "n.",
      "zh": "尺寸；維度",
-     "ext": "",
+     "ext": "測量出來的長寬高 → 物體的尺寸；空間的維度",
      "examples": [
       {
        "en": "Please check the dimensions of the box before ordering it.",
        "zh": "訂購前請先確認盒子的尺寸。"
+      },
+      {
+       "en": "We need the exact dimensions of the window before buying curtains.",
+       "zh": "買窗簾前，我們需要窗戶的精確尺寸。"
       }
      ],
      "patterns": [
@@ -26136,11 +26749,15 @@
     {
      "pos": "n.",
      "zh": "層面；面向",
-     "ext": "",
+     "ext": "從不同方向量事物 → 看事情的不同面向",
      "examples": [
       {
        "en": "The report adds a new dimension to the climate discussion.",
        "zh": "這份報告為氣候議題的討論增添了新的面向。"
+      },
+      {
+       "en": "Traveling alone added a new dimension to her view of life.",
+       "zh": "獨自旅行為她的人生觀增添了新的面向。"
       }
      ],
      "patterns": [],
@@ -26148,6 +26765,10 @@
       {
        "en": "a new dimension",
        "zh": "新的面向"
+      },
+      {
+       "en": "add a new dimension to",
+       "zh": "為……增添新的面向"
       }
      ]
     }
@@ -26217,6 +26838,10 @@
       {
        "en": "The number of plastic bags has diminished since the school began its campaign.",
        "zh": "學校開始推動活動後，塑膠袋的數量減少了。"
+      },
+      {
+       "en": "Her interest in the game slowly diminished as the match went on.",
+       "zh": "隨著比賽進行，她對這場比賽的興趣慢慢減退。"
       }
      ],
      "patterns": [
@@ -26287,11 +26912,15 @@
     {
      "pos": "adj.",
      "zh": "外交的",
-     "ext": "",
+     "ext": "處理國與國往來的 → 與外交事務有關的",
      "examples": [
       {
        "en": "The two countries held a diplomatic meeting about student travel.",
        "zh": "兩國針對學生旅行舉行外交會談。"
+      },
+      {
+       "en": "The two countries agreed to improve their diplomatic relations.",
+       "zh": "兩國同意改善彼此的外交關係。"
       }
      ],
      "patterns": [],
@@ -26314,6 +26943,10 @@
       {
        "en": "Jenny gave a diplomatic answer when her classmates disagreed.",
        "zh": "同學意見不合時，Jenny 給了圓融的回答。"
+      },
+      {
+       "en": "It is more diplomatic to say the plan needs some changes.",
+       "zh": "說計畫需要一些修改，會比較圓融。"
       }
      ],
      "patterns": [],
@@ -26378,11 +27011,15 @@
     {
      "pos": "n.",
      "zh": "名錄；指南",
-     "ext": "",
+     "ext": "指引方向的東西 → 依類別列出資料的名錄",
      "examples": [
       {
        "en": "I found the school office number in the online directory.",
        "zh": "我在網路名錄裡找到學校辦公室的電話。"
+      },
+      {
+       "en": "The school website has a directory of all teachers and clubs.",
+       "zh": "學校網站上有所有老師和社團的名錄。"
       }
      ],
      "patterns": [
@@ -26457,6 +27094,10 @@
       {
        "en": "Her parents disapprove of staying up late before an exam.",
        "zh": "她的父母不贊成她在考試前熬夜。"
+      },
+      {
+       "en": "Many citizens disapprove of the plan to cut down the old trees.",
+       "zh": "許多市民不贊成砍掉老樹的計畫。"
       }
      ],
      "patterns": [
@@ -26562,6 +27203,10 @@
       {
        "en": "The report disclosed how the school used its activity funds.",
        "zh": "這份報告揭露了學校如何使用活動經費。"
+      },
+      {
+       "en": "The star refused to disclose her age to the reporter.",
+       "zh": "那位明星不肯向記者透露她的年齡。"
       }
      ],
      "patterns": [
@@ -26652,6 +27297,10 @@
       {
        "en": "Please disconnect the computer from the power supply before cleaning it.",
        "zh": "清理電腦前，請先拔掉電源。"
+      },
+      {
+       "en": "The storm disconnected the whole village from the phone network.",
+       "zh": "暴風雨讓整個村子的電話網路中斷了。"
       }
      ],
      "patterns": [
@@ -26737,11 +27386,15 @@
     {
      "pos": "n.",
      "zh": "論述；談話",
-     "ext": "",
+     "ext": "來回奔走地談 → 有條理的談論或論述",
      "examples": [
       {
        "en": "The article examines public discourse about online learning.",
        "zh": "這篇文章探討大眾對線上學習的討論。"
+      },
+      {
+       "en": "Their long discourse on friendship lasted the whole evening.",
+       "zh": "他們關於友誼的長篇談話持續了整個晚上。"
       }
      ],
      "patterns": [],
@@ -26792,11 +27445,15 @@
     {
      "pos": "v.",
      "zh": "歧視；不公平對待",
-     "ext": "",
+     "ext": "把人分成高低等級 → 給某些人不公平的待遇",
      "examples": [
       {
        "en": "Schools should not discriminate against students because of their family background.",
        "zh": "學校不應因學生的家庭背景而歧視他們。"
+      },
+      {
+       "en": "It is wrong to discriminate against people because of their skin color.",
+       "zh": "因為膚色而歧視他人是不對的。"
       }
      ],
      "patterns": [
@@ -26820,11 +27477,15 @@
     {
      "pos": "v.",
      "zh": "辨別；區分",
-     "ext": "",
+     "ext": "把東西分開來看 → 辨別出彼此的差異",
      "examples": [
       {
        "en": "Young children can learn to discriminate between safe and unsafe choices.",
        "zh": "年幼的孩子可以學會分辨安全與不安全的選擇。"
+      },
+      {
+       "en": "Dogs can discriminate between many smells that humans cannot notice.",
+       "zh": "狗能分辨許多人類察覺不到的氣味。"
       }
      ],
      "patterns": [
@@ -26921,11 +27582,15 @@
     {
      "pos": "n.",
      "zh": "歧視；不公平待遇",
-     "ext": "",
+     "ext": "把人區分對待 → 因身分而受到不公平的對待",
      "examples": [
       {
        "en": "The school has clear rules against discrimination in sports teams.",
        "zh": "學校有明確規定，禁止校隊中的歧視行為。"
+      },
+      {
+       "en": "Age discrimination makes it hard for older workers to find jobs.",
+       "zh": "年齡歧視讓年長的工作者很難找到工作。"
       }
      ],
      "patterns": [
