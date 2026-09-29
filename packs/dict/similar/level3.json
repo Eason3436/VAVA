@@ -11600,6 +11600,1478 @@
     "en": "The recipient of the award thanked her teachers.",
     "zh": "得獎者感謝她的老師們。"
    }
+  },
+  {
+   "a": "realize",
+   "b": "recognize",
+   "kind": "visual",
+   "score": 0.573,
+   "aZh": "v. 察覺；了解；實現",
+   "bZh": "v. 認出；承認",
+   "diff": "realize 是心裡突然明白或發現某個事實；recognize 是看到、聽到後認出原本認識的人事物，也可指正式承認。",
+   "points": [
+    "搭配：realize + that 子句；recognize + 人或物",
+    "使用情境：想通一件事用 realize；一眼認出老朋友用 recognize",
+    "詞性：兩字都是 v.，名詞分別是 realization 和 recognition"
+   ],
+   "tip": "realize 裡有 real（真實），發現真相；recognize 是再次認得。",
+   "exA": {
+    "en": "Amy realized that she had left her bag on the bus.",
+    "zh": "Amy 發現自己把包包忘在公車上了。"
+   },
+   "exB": {
+    "en": "I recognized Amy's voice as soon as she spoke.",
+    "zh": "Amy 一開口，我就認出她的聲音。"
+   }
+  },
+  {
+   "a": "acknowledge",
+   "b": "recognize",
+   "kind": "semantic",
+   "score": 0.664,
+   "aZh": "v. 承認；確認；致謝",
+   "bZh": "v. 承認；認可；認出",
+   "diff": "acknowledge 是承認事實或確認收到，語氣較正式；recognize 除了承認，還能指認出熟悉的人、肯定某人的成就。",
+   "points": [
+    "使用情境：acknowledge 常用於承認錯誤、確認收到信件；recognize 常用於認出人或肯定成就",
+    "正式程度：acknowledge 較正式",
+    "搭配：acknowledge receipt 確認收到；recognize a face 認出一張臉"
+   ],
+   "tip": "acknowledge 是開口承認，recognize 多了「認出」和「肯定」。",
+   "exA": {
+    "en": "Tom acknowledged that he had made a mistake.",
+    "zh": "Tom 承認自己犯了錯。"
+   },
+   "exB": {
+    "en": "The school recognized Tom's effort with a small award.",
+    "zh": "學校用一個小獎項肯定 Tom 的努力。"
+   }
+  },
+  {
+   "a": "pity",
+   "b": "regret",
+   "kind": "semantic",
+   "score": 0.666,
+   "aZh": "n. 遺憾；同情",
+   "bZh": "v. 後悔；遺憾",
+   "diff": "regret 是對自己做過或沒做的事感到後悔；pity 是替別人的遭遇感到可惜或同情，也可說某件事很可惜。",
+   "points": [
+    "搭配：It is a pity that + 子句 真可惜；regret + V-ing 後悔做了某事",
+    "使用情境：regret 針對自己的行為；pity 常針對別人或事情",
+    "詞性：pity 也可當 v.，表示同情"
+   ],
+   "tip": "後悔自己的事用 regret，替別人或事情覺得可惜用 pity。",
+   "exA": {
+    "en": "It is a pity that you missed the concert.",
+    "zh": "你錯過了那場演唱會，真可惜。"
+   },
+   "exB": {
+    "en": "I really regret missing the concert last night.",
+    "zh": "我真的很後悔錯過了昨晚的演唱會。"
+   }
+  },
+  {
+   "a": "loosen",
+   "b": "relax",
+   "kind": "semantic",
+   "score": 0.723,
+   "aZh": "v. 放鬆；鬆開",
+   "bZh": "v. 放鬆；使放鬆",
+   "diff": "loosen 是把綁緊、拉緊的東西弄鬆，如領帶、螺絲；relax 是讓身心或肌肉放鬆，也可指放寬規定。",
+   "points": [
+    "使用情境：loosen a tie 鬆開領帶；relax at home 在家放鬆",
+    "及物與否：loosen 通常接受詞；relax 可以不接受詞",
+    "搭配：loosen a screw 鬆開螺絲；relax your shoulders 放鬆肩膀"
+   ],
+   "tip": "loosen 是把東西弄鬆；relax 是人自己放鬆。",
+   "exA": {
+    "en": "Dad loosened his tie when he got home.",
+    "zh": "爸爸回到家就鬆開領帶。"
+   },
+   "exB": {
+    "en": "Dad relaxed on the sofa after a long day.",
+    "zh": "爸爸忙了一天後，在沙發上放鬆。"
+   }
+  },
+  {
+   "a": "credible",
+   "b": "reliable",
+   "kind": "semantic",
+   "score": 0.798,
+   "aZh": "adj. 可信的；可靠的",
+   "bZh": "adj. 可靠的；可信賴的",
+   "diff": "credible 指說法或消息讓人願意相信；reliable 指人或東西表現穩定，可以放心依靠。",
+   "points": [
+    "使用情境：credible 形容說法、證據；reliable 形容人、機器、來源",
+    "搭配：a credible reason 可信的理由；a reliable friend 可靠的朋友",
+    "詞性：兩字都是 adj.，名詞為 credibility 和 reliability"
+   ],
+   "tip": "credible 裡有 cred（相信）；reliable 裡有 rely（依靠）。",
+   "exA": {
+    "en": "Her explanation of the problem sounded credible to everyone.",
+    "zh": "她對這個問題的解釋，聽起來讓大家都相信。"
+   },
+   "exB": {
+    "en": "Her old car is cheap but very reliable.",
+    "zh": "她的舊車很便宜，但非常可靠。"
+   }
+  },
+  {
+   "a": "depend",
+   "b": "rely",
+   "kind": "semantic",
+   "score": 0.699,
+   "aZh": "v. 依靠；取決於",
+   "bZh": "v. 依靠；信賴",
+   "diff": "兩字都能接 on 表示依靠。depend on 還能表示「取決於」；rely on 則強調相信對方做得到，有信賴的意思。",
+   "points": [
+    "搭配：depend on 和 rely on 都接 on",
+    "使用情境：It depends. 表示看情況，不能換成 rely",
+    "詞性：名詞分別是 dependence 和 reliance"
+   ],
+   "tip": "depend 看「情況」，rely 看「信任」。",
+   "exA": {
+    "en": "Whether we go hiking depends on the weather.",
+    "zh": "我們要不要去健行，要看天氣。"
+   },
+   "exB": {
+    "en": "You can rely on Amy to keep a secret.",
+    "zh": "你可以放心，Amy 會保守祕密。"
+   }
+  },
+  {
+   "a": "rely",
+   "b": "reply",
+   "kind": "visual",
+   "score": 0.742,
+   "aZh": "v. 依靠；信賴",
+   "bZh": "v. 回答；回覆",
+   "diff": "rely 是依靠、信賴，後面接 on；reply 是回答、回覆，後面接 to。兩字只差中間一個 p。",
+   "points": [
+    "拼字：reply 多一個 p，rely 沒有",
+    "搭配：rely on 依靠；reply to 回覆",
+    "詞性：reply 也可當 n.；rely 只當 v."
+   ],
+   "tip": "reply 的 p 像 please 的 p，請回覆；rely 後面固定接 on。",
+   "exA": {
+    "en": "You can rely on your brother to help you.",
+    "zh": "你可以靠你哥哥幫忙。"
+   },
+   "exB": {
+    "en": "Please reply to my message before noon tomorrow.",
+    "zh": "請在明天中午前回覆我的訊息。"
+   }
+  },
+  {
+   "a": "remain",
+   "b": "retain",
+   "kind": "both",
+   "score": 0.769,
+   "aZh": "v. 留下；仍然是；保持",
+   "bZh": "v. 保留；留住；記住",
+   "diff": "remain 是自己留在原處或維持原狀，不接受詞；retain 是把某物留在手上、不失去，是及物動詞，語氣較正式。",
+   "points": [
+    "及物與否：remain 不及物；retain 及物",
+    "搭配：remain calm 保持冷靜；retain heat 保持熱度",
+    "正式程度：retain 較正式，remain 也偏正式但更常見"
+   ],
+   "tip": "retain 裡有 tain（握住），把東西握住不放；remain 是自己留在原地。",
+   "exA": {
+    "en": "Only a few students remained in the room after class.",
+    "zh": "下課後，只有幾位學生留在教室裡。"
+   },
+   "exB": {
+    "en": "This cup can retain heat for many hours.",
+    "zh": "這個杯子可以保溫很多小時。"
+   }
+  },
+  {
+   "a": "maintain",
+   "b": "remain",
+   "kind": "semantic",
+   "score": 0.47,
+   "aZh": "v. 維持；保持",
+   "bZh": "v. 仍然是；保持",
+   "diff": "maintain 是主動花力氣讓狀態持續，後面要接受詞；remain 是自己維持原狀，不接受詞，後面常接形容詞。",
+   "points": [
+    "及物與否：maintain 是及物；remain 是不及物",
+    "搭配：maintain order 維持秩序；remain calm 保持冷靜",
+    "句型：maintain + N；remain + adj."
+   ],
+   "tip": "maintain 要用手（main-）去維持；remain 是自己留在原處。",
+   "exA": {
+    "en": "The teacher tried to maintain order in the classroom.",
+    "zh": "老師努力維持教室裡的秩序。"
+   },
+   "exB": {
+    "en": "The classroom remained quiet for a long time after lunch.",
+    "zh": "午餐後，教室安靜了很長一段時間。"
+   }
+  },
+  {
+   "a": "remember",
+   "b": "remind",
+   "kind": "semantic",
+   "score": 0.439,
+   "aZh": "v. 記得；想起",
+   "bZh": "v. 提醒；使想起",
+   "diff": "remember 是自己記得或想起；remind 是提醒別人，讓別人想起，後面要接人。",
+   "points": [
+    "句型：remember to V 記得要做；remind + 人 + to V 提醒某人去做",
+    "及物與否：兩字都是及物，但 remind 一定要接人",
+    "搭配：remind A of B 使 A 想起 B；remember + V-ing 記得做過"
+   ],
+   "tip": "remember 是自己記，remind 是提醒別人記。",
+   "exA": {
+    "en": "I always remember my locker number at school.",
+    "zh": "我在學校總是記得我的置物櫃號碼。"
+   },
+   "exB": {
+    "en": "Please remind me to bring my locker key.",
+    "zh": "請提醒我帶置物櫃的鑰匙。"
+   }
+  },
+  {
+   "a": "distant",
+   "b": "remote",
+   "kind": "semantic",
+   "score": 0.672,
+   "aZh": "adj. 遙遠的；疏遠的",
+   "bZh": "adj. 偏遠的；遙遠的",
+   "diff": "distant 只是距離或時間很遠，範圍很廣；remote 強調偏僻、遠離人群或城市，也可指遠端、渺茫。",
+   "points": [
+    "使用情境：distant 可形容遙遠的星星、過去、親戚；remote 常形容偏僻的村莊、山區",
+    "搭配：a distant relative 遠親；a remote village 偏遠村莊",
+    "另一義：remote 也指遠端的、遙控的"
+   ],
+   "tip": "distant 是「隔得遠」，remote 是「偏得遠」。",
+   "exA": {
+    "en": "The stars are distant, but we can still see them.",
+    "zh": "星星很遙遠，但我們仍然看得到。"
+   },
+   "exB": {
+    "en": "Our grandparents live in a remote mountain village.",
+    "zh": "我們的祖父母住在偏遠的山村。"
+   }
+  },
+  {
+   "a": "remote",
+   "b": "remove",
+   "kind": "visual",
+   "score": 0.702,
+   "aZh": "adj. 偏遠的；遠端的",
+   "bZh": "v. 移除；拿走",
+   "diff": "remote 是形容詞，指偏遠的或遠端的；remove 是動詞，指把東西拿開、脫掉。兩字只差最後一個字母。",
+   "points": [
+    "詞性：remote 是 adj.；remove 是 v.",
+    "發音：remote /rɪˈmoʊt/ 尾音是 t；remove /rɪˈmuːv/ 讀 u 的長音",
+    "搭配：remote control 遙控器；remove a stain 去除汙漬"
+   ],
+   "tip": "remove 裡藏著 move（移動），把東西移開；remote 尾巴是 t，指遠。",
+   "exA": {
+    "en": "The remote village in the mountains has no train station.",
+    "zh": "山裡那個偏遠的村莊沒有火車站。"
+   },
+   "exB": {
+    "en": "Please remove your shoes before you enter the house.",
+    "zh": "進屋之前，請脫掉鞋子。"
+   }
+  },
+  {
+   "a": "replace",
+   "b": "substitute",
+   "kind": "semantic",
+   "score": 0.656,
+   "aZh": "v. 取代；更換",
+   "bZh": "v. 代替；取代；n. 代替者",
+   "diff": "replace A with B 是用 B 取代 A；substitute B for A 也是用 B 代替 A，介系詞不同。",
+   "points": [
+    "句型：replace old with new；substitute new for old",
+    "詞性：substitute 也可當 n.，指代替者、替代品",
+    "搭配：replace a battery 換電池；a substitute teacher 代課老師"
+   ],
+   "tip": "replace 用 with 引出新的；substitute 用 for，新的放在 for 前面。",
+   "exA": {
+    "en": "We replaced the old map with a phone app.",
+    "zh": "我們用手機 App 取代了舊地圖。"
+   },
+   "exB": {
+    "en": "We substituted a phone app for the old map.",
+    "zh": "我們用手機 App 代替了舊地圖。"
+   }
+  },
+  {
+   "a": "present",
+   "b": "represent",
+   "kind": "visual",
+   "score": 0.715,
+   "aZh": "v. 呈現；介紹；贈送",
+   "bZh": "v. 代表；象徵",
+   "diff": "present 是把東西呈現、提出或頒發給別人；represent 是代替某人或某團體出席，或象徵某個意思。",
+   "points": [
+    "使用情境：present a report 發表報告；represent our school 代表學校",
+    "詞性：present 也可當 n. 禮物或 adj. 出席的；represent 只當 v.",
+    "拼字：represent 是 re- + present，多了字首 re-"
+   ],
+   "tip": "represent 是 re-（再）+ present（出現）：再現他人的立場，就是代表。",
+   "exA": {
+    "en": "Amy will present her science project on Friday.",
+    "zh": "Amy 星期五要發表她的自然科專題。"
+   },
+   "exB": {
+    "en": "Amy will represent our class at the science fair.",
+    "zh": "Amy 要代表我們班參加科學展覽。"
+   }
+  },
+  {
+   "a": "delegate",
+   "b": "representative",
+   "kind": "semantic",
+   "score": 0.723,
+   "aZh": "n. 代表；v. 委派",
+   "bZh": "n. 代表；adj. 有代表性的",
+   "diff": "delegate 是被派去出席會議或活動的代表，任務有限；representative 是代表某個團體或地區的人，也可指業務代表。",
+   "points": [
+    "使用情境：delegate 多用於會議或大會；representative 用範圍較廣",
+    "詞性：delegate 也能當 v. 委派；representative 也能當 adj.",
+    "搭配：a delegate to the meeting 與會代表；a sales representative 業務代表"
+   ],
+   "tip": "delegate 是被「派出去」的人；representative 是「代表大家」的人。",
+   "exA": {
+    "en": "Each school sent one delegate to the youth meeting.",
+    "zh": "每所學校都派了一位代表參加青年會議。"
+   },
+   "exB": {
+    "en": "Our class representative spoke to the principal about the plan.",
+    "zh": "我們班的代表和校長談了這項計畫。"
+   }
+  },
+  {
+   "a": "ask",
+   "b": "request",
+   "kind": "semantic",
+   "score": 0.882,
+   "aZh": "v. 詢問；請求",
+   "bZh": "v. 請求；要求；n. 請求",
+   "diff": "ask 最常見，可以問問題，也可以請人幫忙，語氣日常；request 是較正式地提出請求或要求，常見於公文或服務場合。",
+   "points": [
+    "正式程度：request 較正式；ask 日常通用",
+    "句型：ask + 人 + to V；request that + 子句",
+    "搭配：ask for help 求助；request help 請求協助，request 後面不加 for"
+   ],
+   "tip": "日常開口用 ask，寫信或正式場合用 request。",
+   "exA": {
+    "en": "Amy asked her teacher for more time to finish her report.",
+    "zh": "Amy 向老師要求多一點時間完成報告。"
+   },
+   "exB": {
+    "en": "Amy requested more time to finish her report.",
+    "zh": "Amy 請求多一點時間完成報告。"
+   }
+  },
+  {
+   "a": "demand",
+   "b": "request",
+   "kind": "semantic",
+   "score": 0.794,
+   "aZh": "v./n. 要求；需求",
+   "bZh": "v./n. 請求；要求",
+   "diff": "request 是禮貌地請求，對方可以答應也可以拒絕；demand 是強硬地要求，語氣強，認為對方應該照做。",
+   "points": [
+    "語氣：demand 語氣強；request 語氣禮貌",
+    "詞性：demand 當名詞還有「需求」的意思，如 supply and demand",
+    "搭配：demand an answer 要求答覆；request help 請求協助"
+   ],
+   "tip": "request 是有禮貌的請求，demand 是硬邦邦的要求。",
+   "exA": {
+    "en": "The customer demanded his money back at once.",
+    "zh": "那位顧客立刻要求退錢。"
+   },
+   "exB": {
+    "en": "The customer requested a refund by sending an email.",
+    "zh": "那位顧客寄了一封電子郵件申請退款。"
+   }
+  },
+  {
+   "a": "request",
+   "b": "require",
+   "kind": "semantic",
+   "score": 0.66,
+   "aZh": "v. 請求；要求",
+   "bZh": "v. 需要；規定",
+   "diff": "request 是向人提出請求，對方可以拒絕；require 是規定或需要，表示必須做到。",
+   "points": [
+    "搭配：request + N / that 子句；require + N",
+    "句型：the school requires students to wear uniforms（require + 人 + to V）",
+    "使用情境：require 用於規定、條件、需要；request 用於請人幫忙"
+   ],
+   "tip": "request 是「請」，require 是「規定」。",
+   "exA": {
+    "en": "The teacher requested that we all arrive early on Monday.",
+    "zh": "老師要求我們星期一都要早點到。"
+   },
+   "exB": {
+    "en": "The school requires all students to wear uniforms every day.",
+    "zh": "學校規定所有學生每天都要穿制服。"
+   }
+  },
+  {
+   "a": "book",
+   "b": "reserve",
+   "kind": "semantic",
+   "score": 0.698,
+   "aZh": "v. 預訂；預約",
+   "bZh": "v. 預訂；保留",
+   "diff": "兩字都能表示預訂。book 較口語，常用於機票、旅館；reserve 稍正式，常用於座位、桌位，也有「保留」的意思。",
+   "points": [
+    "搭配：book a flight 訂機票；reserve a table 訂餐廳座位",
+    "使用情境：reserve 還可指把東西留給特定的人；book 較少這樣用",
+    "詞性：book 最常見是 n. 書；reserve 也可當 n. 儲備、保護區"
+   ],
+   "tip": "book 是把名字寫進名冊；reserve 是先把位子留住。",
+   "exA": {
+    "en": "Amy booked two plane tickets to Tokyo online.",
+    "zh": "Amy 在網路上訂了兩張去東京的機票。"
+   },
+   "exB": {
+    "en": "Amy reserved a table for six at the restaurant.",
+    "zh": "Amy 在餐廳訂了六個人的位子。"
+   }
+  },
+  {
+   "a": "preserve",
+   "b": "reserve",
+   "kind": "visual",
+   "score": 0.804,
+   "aZh": "v. 保存；保護；維持",
+   "bZh": "v. 預訂；保留",
+   "diff": "preserve 是保護東西不壞、讓它長久保存；reserve 是先把座位、房間或東西預留下來。兩字只差第一個字母。",
+   "points": [
+    "拼字：pre-serve 和 re-serve，差第一個字母 p",
+    "搭配：preserve food 保存食物；reserve a seat 預訂座位",
+    "使用情境：preserve 強調不讓它壞掉；reserve 強調事先留下"
+   ],
+   "tip": "preserve 的 p 想成 protect（保護）；reserve 的 re 想成桌上 reserved 的牌子。",
+   "exA": {
+    "en": "The museum works hard to preserve old books.",
+    "zh": "博物館努力保存古老的書籍。"
+   },
+   "exB": {
+    "en": "We reserved two seats near the window for the show.",
+    "zh": "我們預訂了兩個靠窗的座位，要看表演。"
+   }
+  },
+  {
+   "a": "resource",
+   "b": "source",
+   "kind": "both",
+   "score": 0.703,
+   "aZh": "n. 資源；資料",
+   "bZh": "n. 來源；出處",
+   "diff": "resource 是可以拿來利用的東西，如水、人力、資料；source 是東西或資訊的來源，指它從哪裡來。",
+   "points": [
+    "使用情境：resource 強調可以利用；source 強調出處",
+    "搭配：natural resources 天然資源；a source of information 資訊來源",
+    "拼字：resource 是 re- + source，多一個字首，也常用複數"
+   ],
+   "tip": "source 是水的源頭；resource 是一再（re-）從源頭取用的資源。",
+   "exA": {
+    "en": "Water is an important natural resource for every country.",
+    "zh": "水對每個國家來說都是重要的天然資源。"
+   },
+   "exB": {
+    "en": "The internet is a common source of news for teenagers.",
+    "zh": "網路是青少年常用的新聞來源。"
+   }
+  },
+  {
+   "a": "reply",
+   "b": "response",
+   "kind": "semantic",
+   "score": 0.916,
+   "aZh": "v. 回答；回覆；n. 回答",
+   "bZh": "n. 回答；回應",
+   "diff": "reply 常是用言語或文字直接回答某個人；response 範圍較廣，可以是對問題、事件或行動的回應，語氣較正式。",
+   "points": [
+    "詞性：reply 可當 v. 和 n.；response 只當 n.，動詞是 respond",
+    "搭配：reply to an email 回信；in response to 針對……作出回應",
+    "正式程度：response 較正式"
+   ],
+   "tip": "名詞 response 沒有自己的動詞，要說「回應」動作，用 reply 或 respond。",
+   "exA": {
+    "en": "Amy sent a quick reply to my email.",
+    "zh": "Amy 很快回了我的電子郵件。"
+   },
+   "exB": {
+    "en": "We received a quick response from the school office.",
+    "zh": "我們很快收到學校辦公室的回覆。"
+   }
+  },
+  {
+   "a": "duty",
+   "b": "responsibility",
+   "kind": "semantic",
+   "score": 0.734,
+   "aZh": "n. 責任；義務；職務",
+   "bZh": "n. 責任；職責",
+   "diff": "duty 是因身分或道德而應做的事，帶有義務感；responsibility 是被交付、要負責的事，出事時要承擔後果。",
+   "points": [
+    "搭配：do one's duty 盡本分；take responsibility 承擔責任",
+    "使用情境：duty 也可指值勤，如 on duty；responsibility 強調對結果負責",
+    "詞性：兩字都是 n.；responsible 是 responsibility 的形容詞"
+   ],
+   "tip": "duty 是「該做」，responsibility 是「要負責」。",
+   "exA": {
+    "en": "It is a teacher's duty to help every student.",
+    "zh": "幫助每位學生是老師的職責。"
+   },
+   "exB": {
+    "en": "Taking care of the class garden is our responsibility.",
+    "zh": "照顧班上的花園是我們的責任。"
+   }
+  },
+  {
+   "a": "obligation",
+   "b": "responsibility",
+   "kind": "semantic",
+   "score": 0.759,
+   "aZh": "n. 義務；責任",
+   "bZh": "n. 責任；職責",
+   "diff": "obligation 是因法律、承諾或道德而必須做的事；responsibility 是被交付、要負責的任務，或對結果負責。",
+   "points": [
+    "使用情境：obligation 常來自承諾或規定；responsibility 常來自角色或工作",
+    "搭配：be under no obligation to V 沒有義務去做；take responsibility for 對……負責",
+    "正式程度：obligation 較正式"
+   ],
+   "tip": "obligation 有 oblige（迫使），是不得不做；responsibility 有 respond（回應），要對結果有交代。",
+   "exA": {
+    "en": "You have no obligation to buy anything in the shop.",
+    "zh": "你沒有義務在這家店買任何東西。"
+   },
+   "exB": {
+    "en": "You have a responsibility to tell the truth.",
+    "zh": "你有責任說實話。"
+   }
+  },
+  {
+   "a": "limit",
+   "b": "restrict",
+   "kind": "semantic",
+   "score": 0.733,
+   "aZh": "v./n. 限制；限定",
+   "bZh": "v. 限制；約束",
+   "diff": "limit 是設定數量或範圍的上限；restrict 是用規定限制活動或使用，不讓人自由去做。restrict 語氣較正式。",
+   "points": [
+    "詞性：limit 也可當 n.；restrict 的名詞是 restriction",
+    "搭配：limit screen time 限制螢幕時間；restrict access 限制進入",
+    "句型：restrict + 人 + from + V-ing；limit A to B"
+   ],
+   "tip": "restrict 裡藏著 strict（嚴格），是用規定管住行動。",
+   "exA": {
+    "en": "Our school limits phone use to lunch time.",
+    "zh": "我們學校把使用手機限制在午餐時間。"
+   },
+   "exB": {
+    "en": "Our school restricts students from using phones in class.",
+    "zh": "我們學校禁止學生在課堂上使用手機。"
+   }
+  },
+  {
+   "a": "disclose",
+   "b": "reveal",
+   "kind": "semantic",
+   "score": 0.897,
+   "aZh": "v. 揭露；透露",
+   "bZh": "v. 揭露；透露",
+   "diff": "disclose 是正式地公開原本保密的資訊，常見於公司、機構或文件；reveal 是讓被隱藏或不知道的事被人看見或得知，用法更廣。",
+   "points": [
+    "正式程度：disclose 較正式；reveal 日常也常用",
+    "搭配：disclose information 公開資訊；reveal a secret 透露祕密",
+    "使用情境：reveal 也可指東西顯露出來；disclose 只用在資訊"
+   ],
+   "tip": "reveal 裡有 veil（面紗），拉開面紗就看見了。",
+   "exA": {
+    "en": "The company refused to disclose the details of the plan.",
+    "zh": "那家公司拒絕公開計畫的細節。"
+   },
+   "exB": {
+    "en": "The survey revealed that many students need more sleep.",
+    "zh": "調查顯示許多學生需要更多睡眠。"
+   }
+  },
+  {
+   "a": "expose",
+   "b": "reveal",
+   "kind": "semantic",
+   "score": 0.683,
+   "aZh": "v. 揭露；曝光；使暴露",
+   "bZh": "v. 揭露；透露",
+   "diff": "reveal 是讓被隱藏的事被知道，語氣中性；expose 是把不好的事或祕密公開揭發，也可指讓人暴露在危險或日曬下。",
+   "points": [
+    "語氣：expose 常帶揭發壞事的意味；reveal 較中性",
+    "搭配：expose a lie 揭穿謊言；expose skin to the sun 讓皮膚曝曬",
+    "句型：expose A to B 使 A 接觸 B"
+   ],
+   "tip": "expose 是把遮蓋拿掉，讓它暴露在外；reveal 只是讓人知道。",
+   "exA": {
+    "en": "The news exposed the company's lie about its products.",
+    "zh": "這則新聞揭穿了那家公司對產品的謊言。"
+   },
+   "exB": {
+    "en": "The company revealed the price of its new phone.",
+    "zh": "那家公司公布了新手機的價格。"
+   }
+  },
+  {
+   "a": "mature",
+   "b": "ripe",
+   "kind": "semantic",
+   "score": 0.64,
+   "aZh": "adj. 成熟的；穩重的",
+   "bZh": "adj. 成熟的；熟透的",
+   "diff": "ripe 專指水果、穀物成熟，可以採收或食用；mature 指人的心智成熟，或動植物、事物發展到完全成長的階段。",
+   "points": [
+    "使用情境：ripe fruit 成熟的水果；a mature person 成熟穩重的人",
+    "搭配：ripe for change 時機成熟；mature for one's age 比同齡人成熟",
+    "詞性：mature 也可當 v. 成熟；ripe 的動詞是 ripen"
+   ],
+   "tip": "水果熟了用 ripe，人變成熟了用 mature。",
+   "exA": {
+    "en": "Kevin is very mature for a first-year student.",
+    "zh": "以一年級學生來說，Kevin 非常成熟。"
+   },
+   "exB": {
+    "en": "These bananas are ripe and ready to eat.",
+    "zh": "這些香蕉熟了，可以吃了。"
+   }
+  },
+  {
+   "a": "danger",
+   "b": "risk",
+   "kind": "semantic",
+   "score": 0.698,
+   "aZh": "n. 危險；危害",
+   "bZh": "n. 風險；危險",
+   "diff": "danger 指可能造成傷害的危險本身；risk 指某件事可能出錯或造成損失的機率，常用來說明做某事的風險，也可當動詞。",
+   "points": [
+    "搭配：in danger 處於危險中；at risk 有風險；the risk of + N 的風險",
+    "詞性：risk 也能當 v. 冒險；danger 只當 n.",
+    "使用情境：danger 是眼前的威脅；risk 是可能出事的機率"
+   ],
+   "tip": "danger 是眼前的危險，risk 是「可能出事」的機率。",
+   "exA": {
+    "en": "The hikers were in danger when the storm came.",
+    "zh": "暴風雨來時，登山客陷入了危險。"
+   },
+   "exB": {
+    "en": "There is a risk of getting lost on this path.",
+    "zh": "走這條路有迷路的風險。"
+   }
+  },
+  {
+   "a": "bake",
+   "b": "roast",
+   "kind": "semantic",
+   "score": 0.64,
+   "aZh": "v. 烘烤；烤焙",
+   "bZh": "adj./v. 烤；烘烤",
+   "diff": "bake 是用烤箱烤麵包、蛋糕、餅乾等麵糊或麵團；roast 是用高溫乾烤肉類、蔬菜、堅果或咖啡豆。",
+   "points": [
+    "搭配：bake a cake 烤蛋糕；roast a chicken 烤雞",
+    "使用情境：bake 多用於麵粉類；roast 多用於肉類、蔬菜",
+    "詞性：roast 也可當 n. 烤肉，或 adj. 烤過的"
+   ],
+   "tip": "烤蛋糕麵包用 bake，烤雞肉蔬菜用 roast。",
+   "exA": {
+    "en": "Mom baked a chocolate cake for my birthday.",
+    "zh": "媽媽為我的生日烤了一個巧克力蛋糕。"
+   },
+   "exB": {
+    "en": "Dad roasted a chicken for our family dinner.",
+    "zh": "爸爸為我們家的晚餐烤了一隻雞。"
+   }
+  },
+  {
+   "a": "roast",
+   "b": "toast",
+   "kind": "visual",
+   "score": 0.732,
+   "aZh": "v. 烤；烘烤",
+   "bZh": "n. 烤吐司；祝酒；v. 烤",
+   "diff": "roast 是把肉或蔬菜放在烤箱裡烤熟；toast 常指把麵包烤到微焦，當名詞是烤吐司，也可指舉杯祝酒。兩字只差第一個字母。",
+   "points": [
+    "拼字：roast 和 toast 只差第一個字母 r 與 t",
+    "搭配：roast beef 烤牛肉；toast and jam 抹果醬的吐司",
+    "另一義：toast 還有「敬酒」的意思，如 raise a toast"
+   ],
+   "tip": "toast 直接音譯就是「吐司」；roast 用來烤肉。",
+   "exA": {
+    "en": "We roasted chicken and potatoes for dinner last night.",
+    "zh": "我們昨晚的晚餐烤了雞肉和馬鈴薯。"
+   },
+   "exB": {
+    "en": "I had toast and milk for breakfast this morning.",
+    "zh": "我今天早上的早餐吃了吐司和牛奶。"
+   }
+  },
+  {
+   "a": "rob",
+   "b": "steal",
+   "kind": "semantic",
+   "score": 0.385,
+   "aZh": "v. 搶劫；掠奪",
+   "bZh": "v. 偷；竊取",
+   "diff": "rob 的受詞是被搶的人或地方；steal 的受詞是被偷的東西。rob 常帶暴力或威脅，steal 是偷偷拿走。",
+   "points": [
+    "句型：rob + 人／地點 + of + 物；steal + 物 + from + 人／地點",
+    "變化：robbed 是規則變化；steal 的過去式是 stole，不規則",
+    "使用情境：rob 帶有暴力或威脅；steal 不一定當面"
+   ],
+   "tip": "rob 的後面接人或地方；steal 的後面接東西。",
+   "exA": {
+    "en": "The thief tried to rob the student of his phone.",
+    "zh": "小偷企圖搶走那位學生的手機。"
+   },
+   "exB": {
+    "en": "The thief tried to steal the phone from the student.",
+    "zh": "小偷企圖偷走那位學生的手機。"
+   }
+  },
+  {
+   "a": "robbery",
+   "b": "theft",
+   "kind": "semantic",
+   "score": 0.422,
+   "aZh": "n. 搶劫；搶案",
+   "bZh": "n. 偷竊；失竊",
+   "diff": "robbery 是當面搶奪，常使用暴力或威脅；theft 泛指所有偷竊，不一定有暴力，也不一定被人看到。",
+   "points": [
+    "使用情境：a bank robbery 是闖入搶錢；bike theft 是偷走腳踏車",
+    "動詞：robbery 對應 rob；theft 對應 steal",
+    "搭配：armed robbery 持械搶劫；report a theft 報失竊"
+   ],
+   "tip": "robbery 是當面搶，theft 是偷偷拿。",
+   "exA": {
+    "en": "There was a bank robbery in the city last week.",
+    "zh": "上週市區發生了一起銀行搶案。"
+   },
+   "exB": {
+    "en": "The theft of my bike happened while I was in class.",
+    "zh": "我的腳踏車在我上課時被偷了。"
+   }
+  },
+  {
+   "a": "gown",
+   "b": "robe",
+   "kind": "semantic",
+   "score": 0.709,
+   "aZh": "n. 長袍；禮服",
+   "bZh": "n. 長袍；浴袍",
+   "diff": "gown 多指正式場合穿的長禮服或畢業袍、手術袍；robe 泛指寬鬆的長袍，也常指浴袍。",
+   "points": [
+    "使用情境：gown 用於典禮、舞會、醫院；robe 用於居家、洗澡後或法官穿著",
+    "搭配：a graduation gown 畢業袍；a bathrobe 浴袍",
+    "正式程度：gown 較正式"
+   ],
+   "tip": "gown 是正式場合的長袍，robe 是隨意寬鬆的袍子。",
+   "exA": {
+    "en": "She wore a long gown to the school dance.",
+    "zh": "她穿著一件長禮服去參加學校舞會。"
+   },
+   "exB": {
+    "en": "She put on a warm robe after her bath.",
+    "zh": "她洗完澡後穿上一件暖和的浴袍。"
+   }
+  },
+  {
+   "a": "rob",
+   "b": "robe",
+   "kind": "visual",
+   "score": 0.687,
+   "aZh": "v. 搶劫；掠奪",
+   "bZh": "n. 長袍；浴袍",
+   "diff": "rob 是動詞，指搶劫；robe 是名詞，指長袍或浴袍。兩字只差字尾的 e，發音的母音也不同。",
+   "points": [
+    "詞性：rob 是 v.，robe 是 n.",
+    "發音：rob /rɑb/ 是短音，robe /roʊb/ 的母音和 rope 一樣",
+    "拼字：rob 加 -ed 要雙寫 b，變成 robbed"
+   ],
+   "tip": "多了 e，母音就變長：rob 短音，robe 長音，像 rope。",
+   "exA": {
+    "en": "Two men tried to rob the small bank.",
+    "zh": "兩個男人企圖搶劫那家小銀行。"
+   },
+   "exB": {
+    "en": "Dad wore a blue robe at breakfast this morning.",
+    "zh": "爸爸早餐時穿著一件藍色浴袍。"
+   }
+  },
+  {
+   "a": "decay",
+   "b": "rot",
+   "kind": "semantic",
+   "score": 0.805,
+   "aZh": "v./n. 腐爛；衰敗",
+   "bZh": "v./n. 腐爛；腐敗",
+   "diff": "rot 多指食物、木頭等有機物因細菌而爛掉，較口語；decay 較正式，可指腐爛，也可指牙齒蛀壞或事物逐漸衰敗。",
+   "points": [
+    "正式程度：decay 較正式；rot 較口語",
+    "搭配：tooth decay 蛀牙；rotting fruit 腐爛的水果",
+    "使用情境：decay 也能指城市、文化衰敗"
+   ],
+   "tip": "水果爛掉常說 rot；牙齒蛀掉說 decay。",
+   "exA": {
+    "en": "Too much sugar can cause tooth decay in children.",
+    "zh": "太多糖可能造成孩子蛀牙。"
+   },
+   "exB": {
+    "en": "The fruit began to rot in the hot kitchen.",
+    "zh": "水果在炎熱的廚房裡開始腐爛。"
+   }
+  },
+  {
+   "a": "rough",
+   "b": "tough",
+   "kind": "both",
+   "score": 0.699,
+   "aZh": "adj. 粗糙的；艱難的",
+   "bZh": "adj. 艱難的；堅韌的；嚴格的",
+   "diff": "兩字結尾都拼成 -ough，讀音都是 /ʌf/。rough 指表面粗糙、路不平或日子難過；tough 指困難、肉質硬，也指人堅強或態度強硬。",
+   "points": [
+    "拼字：rough 和 tough 都以 -ough 結尾，發音都是 /ʌf/",
+    "搭配：a rough road 崎嶇的路；a tough decision 艱難的決定",
+    "使用情境：tough 可形容堅強的人或硬的肉；rough 可形容粗糙的表面或粗略的估計"
+   ],
+   "tip": "-ough 在這兩個字都唸 /ʌf/；表面粗用 rough，意志或肉質硬用 tough。",
+   "exA": {
+    "en": "We walked along a rough path to the top of the hill.",
+    "zh": "我們沿著崎嶇的小路走到山頂。"
+   },
+   "exB": {
+    "en": "It was a tough decision to leave my old school.",
+    "zh": "離開我的舊學校是一個艱難的決定。"
+   }
+  },
+  {
+   "a": "coarse",
+   "b": "rough",
+   "kind": "semantic",
+   "score": 0.549,
+   "aZh": "adj. 粗糙的；粗俗的",
+   "bZh": "adj. 粗糙的；崎嶇的；艱難的",
+   "diff": "coarse 指質地粗、顆粒大，如粗布、粗鹽，也可指言行粗俗；rough 指表面不平滑，也可指路難走、日子難過、動作粗魯。",
+   "points": [
+    "搭配：coarse salt 粗鹽；coarse cloth 粗布",
+    "使用情境：coarse 也可形容人說話粗俗；rough 常用於路面、海面、日子",
+    "詞性：rough 也可表示粗略的，如 a rough idea"
+   ],
+   "tip": "coarse 是質地顆粒粗，rough 是表面不平順。",
+   "exA": {
+    "en": "The farmer wore a coarse cloth shirt in the field.",
+    "zh": "農夫在田裡穿著一件粗布衣。"
+   },
+   "exB": {
+    "en": "The road to the village was rough and full of stones.",
+    "zh": "通往村莊的路崎嶇不平，還有很多石頭。"
+   }
+  },
+  {
+   "a": "habit",
+   "b": "routine",
+   "kind": "semantic",
+   "score": 0.418,
+   "aZh": "n. 習慣；習性",
+   "bZh": "n. 例行公事；日常慣例",
+   "diff": "habit 是個人養成、常不自覺去做的行為；routine 是固定安排好的作息或程序，可以是個人日常，也可以是工作規定。",
+   "points": [
+    "使用情境：a bad habit 壞習慣；a morning routine 早晨的固定流程",
+    "詞性：routine 也可當 adj. 例行的，如 routine check",
+    "搭配：form a habit 養成習慣；follow a routine 遵循固定作息"
+   ],
+   "tip": "habit 是自己養成的慣性，routine 是排好順序的例行流程。",
+   "exA": {
+    "en": "Reading before bed has become a good habit for Amy.",
+    "zh": "睡前閱讀已經成為 Amy 的好習慣。"
+   },
+   "exB": {
+    "en": "Brushing teeth is part of my morning routine.",
+    "zh": "刷牙是我早晨例行事項的一部分。"
+   }
+  },
+  {
+   "a": "hurry",
+   "b": "rush",
+   "kind": "semantic",
+   "score": 0.701,
+   "aZh": "v. 趕快；催促",
+   "bZh": "v. 趕忙；急速移動；n. 匆忙",
+   "diff": "hurry 是加快動作、趕快去做，也可催促別人；rush 更強調急急忙忙、衝著去，常帶有慌亂或時間壓力。",
+   "points": [
+    "句型：hurry up 快一點；rush to + 地點或 V 匆忙趕去",
+    "使用情境：hurry 可用祈使句催促別人；rush 常指自己匆忙行動",
+    "搭配：in a hurry 和 in a rush 都是「匆忙地」"
+   ],
+   "tip": "hurry up 是叫人快一點；rush 是自己衝過去。",
+   "exA": {
+    "en": "Hurry up, or we will miss the school bus.",
+    "zh": "快一點，不然我們會錯過校車。"
+   },
+   "exB": {
+    "en": "We rushed to the station to catch the last train.",
+    "zh": "我們趕到車站，想搭上末班車。"
+   }
+  },
+  {
+   "a": "salary",
+   "b": "wage",
+   "kind": "semantic",
+   "score": 0.664,
+   "aZh": "n. 薪水；薪資",
+   "bZh": "n. 工資；薪資",
+   "diff": "salary 是按月或按年領的固定薪水，多用於上班族；wage 是按時數、天數或工作量計算的工資，常用複數。",
+   "points": [
+    "搭配：a monthly salary 月薪；hourly wages 時薪",
+    "使用情境：salary 用於辦公室或專業工作；wage 用於工廠、打工",
+    "數量：salary 常用單數；wage 常用複數 wages"
+   ],
+   "tip": "salary 是每月固定的薪；wage 是按時數算的錢。",
+   "exA": {
+    "en": "Her monthly salary is enough to pay for the rent.",
+    "zh": "她的月薪足夠支付房租。"
+   },
+   "exB": {
+    "en": "Students who work at the cafe earn hourly wages.",
+    "zh": "在咖啡店打工的學生領時薪。"
+   }
+  },
+  {
+   "a": "sauce",
+   "b": "saucer",
+   "kind": "visual",
+   "score": 0.806,
+   "aZh": "n. 醬汁；調味醬",
+   "bZh": "n. 茶碟；小碟子",
+   "diff": "sauce 是搭配食物的醬汁；saucer 是放在杯子下面的小碟子。saucer 只多了字尾 -er。",
+   "points": [
+    "拼字：saucer = sauce + -er，字尾多了 er",
+    "發音：兩字都以 /sɔs/ 開頭，saucer 尾音多了 /ɚ/",
+    "搭配：tomato sauce 番茄醬；a cup and saucer 杯子與茶碟"
+   ],
+   "tip": "sauce 淋在食物上，saucer 墊在杯子下。",
+   "exA": {
+    "en": "Amy poured hot tomato sauce over the pasta.",
+    "zh": "Amy 把番茄醬淋在義大利麵上。"
+   },
+   "exB": {
+    "en": "Amy put the tea cup on a small saucer.",
+    "zh": "Amy 把茶杯放在一個小茶碟上。"
+   }
+  },
+  {
+   "a": "rare",
+   "b": "scarce",
+   "kind": "semantic",
+   "score": 0.423,
+   "aZh": "adj. 罕見的；稀有的",
+   "bZh": "adj. 稀少的；不足的",
+   "diff": "rare 指少見、不常發生或很稀有；scarce 指需要的東西數量不夠、供應短缺，常用於水、食物、資源。",
+   "points": [
+    "使用情境：rare 是「很少見」，如 a rare bird；scarce 是「不夠用」，如 water is scarce",
+    "搭配：a rare chance 難得的機會；scarce resources 稀少的資源",
+    "詞性：scarce 的名詞是 scarcity"
+   ],
+   "tip": "rare 是難得一見，scarce 是不夠用。",
+   "exA": {
+    "en": "Giant pandas are rare, so people work hard to protect them.",
+    "zh": "大貓熊很稀有，所以人們努力保護牠們。"
+   },
+   "exB": {
+    "en": "Fresh water is scarce in many dry areas.",
+    "zh": "在許多乾燥地區，淡水很稀少。"
+   }
+  },
+  {
+   "a": "scared",
+   "b": "scary",
+   "kind": "visual",
+   "score": 0.64,
+   "aZh": "adj. 害怕的；受驚的",
+   "bZh": "adj. 可怕的；嚇人的",
+   "diff": "scared 形容感到害怕的人；scary 形容令人害怕的事物。主詞是人常用 scared，主詞是東西常用 scary。",
+   "points": [
+    "詞性：兩字都是 adj.，但一個描述感受者，一個描述引起感受的事物",
+    "搭配：be scared of 害怕……；a scary movie 恐怖片",
+    "類似對照：bored 和 boring 也是感受者與引起者的差別"
+   ],
+   "tip": "scared 是「我被嚇到」，scary 是「它會嚇人」。",
+   "exA": {
+    "en": "Tom was scared when he heard a strange noise.",
+    "zh": "Tom 聽到奇怪的聲音時很害怕。"
+   },
+   "exB": {
+    "en": "The strange noise in the dark was really scary.",
+    "zh": "黑暗中那個奇怪的聲音真的很嚇人。"
+   }
+  },
+  {
+   "a": "scatter",
+   "b": "spread",
+   "kind": "semantic",
+   "score": 0.695,
+   "aZh": "v. 使散開；散布",
+   "bZh": "v. 散布；傳播；攤開",
+   "diff": "scatter 是朝不同方向亂撒或四散，東西之間沒有規律；spread 是由一點向外展開、擴大，也可指消息傳開或塗抹。",
+   "points": [
+    "使用情境：scatter seeds 撒種子；spread butter 塗奶油；spread news 傳播消息",
+    "及物與否：兩字都可及物，也可不及物",
+    "變化：scatter 是規則動詞；spread 三態同形"
+   ],
+   "tip": "scatter 是撒得到處都是，spread 是往外攤開。",
+   "exA": {
+    "en": "The wind scattered the papers all over the floor.",
+    "zh": "風把紙張吹得滿地都是。"
+   },
+   "exB": {
+    "en": "Dad spread butter on the bread this morning.",
+    "zh": "爸爸今天早上在麵包上塗了奶油。"
+   }
+  },
+  {
+   "a": "scream",
+   "b": "shout",
+   "kind": "semantic",
+   "score": 0.648,
+   "aZh": "v./n. 尖叫；大聲喊叫",
+   "bZh": "v./n. 大喊；呼喊",
+   "diff": "scream 是高而尖的叫聲，常因恐懼、疼痛或興奮而發出；shout 是提高音量說話或喊叫，聲音不一定尖，目的常是讓人聽見。",
+   "points": [
+    "使用情境：scream with fear 嚇得尖叫；shout across the room 隔著房間喊話",
+    "音質：scream 尖而高；shout 響亮但不一定尖",
+    "句型：shout at 對……大聲說話；scream at 對……尖叫"
+   ],
+   "tip": "scream 像高音的尖叫，shout 是把聲音放大讓人聽見。",
+   "exA": {
+    "en": "Amy screamed when she saw a spider on the wall.",
+    "zh": "Amy 看到牆上有蜘蛛時尖叫了起來。"
+   },
+   "exB": {
+    "en": "Tom shouted across the field to call his friends.",
+    "zh": "Tom 隔著田野大喊，叫他的朋友過來。"
+   }
+  },
+  {
+   "a": "safety",
+   "b": "security",
+   "kind": "semantic",
+   "score": 0.661,
+   "aZh": "n. 安全；平安",
+   "bZh": "n. 安全；保安",
+   "diff": "safety 是不受傷害、不出意外的狀態；security 是防止外來威脅的保安措施或安全感，如防盜、保障。",
+   "points": [
+    "使用情境：road safety 交通安全；airport security 機場保安",
+    "搭配：a safety belt 安全帶；a security guard 保全人員",
+    "另一義：security 也可指經濟上的保障，如 financial security"
+   ],
+   "tip": "safety 是別受傷，security 是防壞人。",
+   "exA": {
+    "en": "Wearing a helmet is important for your safety.",
+    "zh": "戴安全帽對你的安全很重要。"
+   },
+   "exB": {
+    "en": "Airport security checked every bag before the flight.",
+    "zh": "登機前，機場保安檢查了每個包包。"
+   }
+  },
+  {
+   "a": "semester",
+   "b": "term",
+   "kind": "semantic",
+   "score": 0.488,
+   "aZh": "n. 學期",
+   "bZh": "n. 學期；任期；術語",
+   "diff": "semester 是一學年分成兩段的學期，美國和臺灣常用；term 範圍較廣，英式學校常分三個 term，也可指任期或術語。",
+   "points": [
+    "使用情境：semester 多見於一學年兩學期的學校；term 見於三學期制",
+    "詞性：兩字都是 n.；term 還有「術語」「任期」的意思",
+    "搭配：the fall semester 秋季學期；the spring term 春季學期"
+   ],
+   "tip": "semester 源自「六個月」，一學年剛好兩個；term 是比較廣的一段期間。",
+   "exA": {
+    "en": "Kevin will join the swimming club next semester.",
+    "zh": "Kevin 下學期要加入游泳社。"
+   },
+   "exB": {
+    "en": "Some schools divide the year into three terms instead of two.",
+    "zh": "有些學校把一年分成三個學期，而不是兩個。"
+   }
+  },
+  {
+   "a": "sensible",
+   "b": "sensitive",
+   "kind": "visual",
+   "score": 0.635,
+   "aZh": "adj. 明智的；合理的",
+   "bZh": "adj. 敏感的；體貼的",
+   "diff": "sensible 是判斷合理、有常識；sensitive 是對外界刺激或他人感受反應敏銳。兩字只差 -ble 與 -tive。",
+   "points": [
+    "拼字：sensible 以 -ible 結尾；sensitive 以 -itive 結尾",
+    "搭配：a sensible choice 明智的選擇；sensitive skin 敏感肌膚",
+    "句型：be sensitive to + N 對……敏感"
+   ],
+   "tip": "sensible 是有常識的聰明選擇；sensitive 是感覺敏銳，容易受影響。",
+   "exA": {
+    "en": "Wearing a coat in cold weather is a sensible choice.",
+    "zh": "天氣冷時穿外套是明智的選擇。"
+   },
+   "exB": {
+    "en": "My skin is sensitive, so I use a gentle soap.",
+    "zh": "我的皮膚很敏感，所以用溫和的肥皂。"
+   }
+  },
+  {
+   "a": "sensible",
+   "b": "wise",
+   "kind": "semantic",
+   "score": 0.754,
+   "aZh": "adj. 明智的；合理的",
+   "bZh": "adj. 明智的；有智慧的",
+   "diff": "sensible 指判斷合乎常理、實際可行；wise 指有智慧和豐富經驗，能看得長遠，語氣比 sensible 更強。",
+   "points": [
+    "使用情境：sensible 形容日常選擇；wise 形容有人生經驗的人或重大決定",
+    "搭配：a sensible choice 明智的選擇；a wise old man 有智慧的老人",
+    "語氣：wise 比 sensible 程度更深"
+   ],
+   "tip": "sensible 是有常識，wise 是有智慧。",
+   "exA": {
+    "en": "It is sensible to check the weather before you go out.",
+    "zh": "出門前先看天氣是明智的。"
+   },
+   "exB": {
+    "en": "My grandmother gave me some wise advice about life.",
+    "zh": "我奶奶給了我一些關於人生的智慧建議。"
+   }
+  },
+  {
+   "a": "shade",
+   "b": "shadow",
+   "kind": "semantic",
+   "score": 0.663,
+   "aZh": "n. 陰涼處；遮陽物；色調",
+   "bZh": "n. 影子；陰影",
+   "diff": "shade 是陽光被擋住後的涼爽處，也指顏色深淺；shadow 是物體擋住光線後投在地上或牆上的影子，有形狀。",
+   "points": [
+    "使用情境：sit in the shade 坐在陰涼處；cast a shadow 投下影子",
+    "形狀：shadow 有物體的輪廓；shade 是一片範圍",
+    "另一義：shade 也可指色調，如 a shade of blue"
+   ],
+   "tip": "shade 是躲太陽的涼處，shadow 是跟著你的黑影。",
+   "exA": {
+    "en": "We sat in the shade of a big tree to rest.",
+    "zh": "我們坐在大樹的樹蔭下休息。"
+   },
+   "exB": {
+    "en": "The tall tree cast a long shadow on the ground.",
+    "zh": "那棵高大的樹在地上投下一道長長的影子。"
+   }
+  },
+  {
+   "a": "shadow",
+   "b": "shallow",
+   "kind": "visual",
+   "score": 0.715,
+   "aZh": "n. 影子；陰影",
+   "bZh": "adj. 淺的；膚淺的",
+   "diff": "shadow 是名詞，指影子；shallow 是形容詞，指水不深或想法膚淺。兩字都是 sha- 開頭、-ow 結尾，中間不同。",
+   "points": [
+    "詞性：shadow 是 n.（也可當 v.）；shallow 是 adj.",
+    "拼字：shadow 中間是 d；shallow 中間是雙寫的 ll",
+    "搭配：cast a shadow 投下影子；shallow water 淺水"
+   ],
+   "tip": "shadow 的 d 想成 dark（暗），shallow 的 ll 想成水面的波紋。",
+   "exA": {
+    "en": "The old tree cast a long shadow over the yard.",
+    "zh": "那棵老樹在院子上投下長長的影子。"
+   },
+   "exB": {
+    "en": "The water is shallow near the shore of the lake.",
+    "zh": "湖邊靠岸的地方水很淺。"
+   }
+  },
+  {
+   "a": "sigh",
+   "b": "sight",
+   "kind": "visual",
+   "score": 0.773,
+   "aZh": "v./n. 嘆氣",
+   "bZh": "n. 視力；景象；景點",
+   "diff": "sigh 是嘆氣，讀成 /saɪ/；sight 是視力或看到的景象，讀成 /saɪt/。兩字只差最後的 t，gh 都不發音。",
+   "points": [
+    "拼字：sigh 沒有 t，sight 有 t，兩字的 gh 都不發音",
+    "發音：sigh /saɪ/；sight /saɪt/",
+    "搭配：sigh with relief 鬆了一口氣；a beautiful sight 美景"
+   ],
+   "tip": "sight 多了 t，想成 the sight of it（看見）；sigh 少了 t，只是吐一口氣。",
+   "exA": {
+    "en": "Grandpa sighed and sat down in his chair.",
+    "zh": "爺爺嘆了一口氣，在椅子上坐下來。"
+   },
+   "exB": {
+    "en": "The mountain at sunrise was a beautiful sight.",
+    "zh": "日出時的山是一幅美麗的景象。"
+   }
+  },
+  {
+   "a": "sign",
+   "b": "signal",
+   "kind": "both",
+   "score": 0.672,
+   "aZh": "n. 標誌；跡象；v. 簽名",
+   "bZh": "n. 訊號；v. 示意",
+   "diff": "sign 是標誌、跡象或手勢，也可指簽名；signal 是用來傳達訊息的訊號，如燈號、鈴聲、電波，動詞是「示意」。",
+   "points": [
+    "詞性：sign 也可當 v. 簽名；signal 當 v. 是示意",
+    "搭配：a road sign 路標；a traffic signal 交通號誌；a sign of spring 春天的跡象",
+    "使用情境：sign 常是靜態的標誌；signal 是發出去傳遞訊息的訊號"
+   ],
+   "tip": "sign 是掛著給人看的標誌，signal 是發出去讓人接收的訊號。",
+   "exA": {
+    "en": "A sign at the door says the library closes at six.",
+    "zh": "門上的告示寫著圖書館六點關門。"
+   },
+   "exB": {
+    "en": "The driver gave a signal before turning left.",
+    "zh": "司機在左轉前發出了訊號。"
+   }
+  },
+  {
+   "a": "important",
+   "b": "significant",
+   "kind": "semantic",
+   "score": 0.679,
+   "aZh": "adj. 重要的；有影響的",
+   "bZh": "adj. 重要的；有意義的；顯著的",
+   "diff": "important 是最常用的「重要」；significant 較正式，強調影響明顯、意義重大，常用於研究、數據或變化。",
+   "points": [
+    "正式程度：significant 較正式；important 日常通用",
+    "搭配：a significant difference 顯著差異；an important meeting 重要會議",
+    "使用情境：significant 常形容變化與差異的程度"
+   ],
+   "tip": "important 是「很要緊」，significant 是「影響大得看得出來」。",
+   "exA": {
+    "en": "Getting enough sleep is very important for students.",
+    "zh": "睡眠充足對學生非常重要。"
+   },
+   "exB": {
+    "en": "The new bus line made a significant difference to our trips.",
+    "zh": "新的公車路線讓我們的出行有了明顯的改變。"
+   }
+  },
+  {
+   "a": "crime",
+   "b": "sin",
+   "kind": "semantic",
+   "score": 0.525,
+   "aZh": "n. 犯罪；罪行",
+   "bZh": "n. 罪；過錯",
+   "diff": "crime 是違反法律的行為，會受到法律處罰；sin 是違反宗教或道德規範的罪過，不一定違法。",
+   "points": [
+    "使用情境：crime 涉及法律；sin 涉及宗教或道德",
+    "搭配：a serious crime 重罪；a sin against others 對他人的過錯",
+    "詞性：sin 也可當 v.；crime 的形容詞是 criminal"
+   ],
+   "tip": "crime 要找警察，sin 是問自己的良心。",
+   "exA": {
+    "en": "The police are working hard to reduce crime in the city.",
+    "zh": "警方正努力降低這座城市的犯罪。"
+   },
+   "exB": {
+    "en": "Many people think it is a sin to waste food.",
+    "zh": "許多人認為浪費食物是一種罪過。"
+   }
+  },
+  {
+   "a": "genuine",
+   "b": "sincere",
+   "kind": "semantic",
+   "score": 0.878,
+   "aZh": "adj. 真正的；真誠的",
+   "bZh": "adj. 真誠的；誠懇的",
+   "diff": "genuine 強調真實而非假的，可形容物品，也可形容感情；sincere 只形容人的言行或感情是真心誠意，沒有虛假。",
+   "points": [
+    "使用情境：genuine leather 真皮，genuine 也可形容物品的真偽",
+    "搭配：a sincere apology 誠懇的道歉；genuine interest 真正的興趣",
+    "詞性：sincere 的副詞 sincerely 常用於書信結尾"
+   ],
+   "tip": "genuine 是「不是假貨」，sincere 是「不是假意」。",
+   "exA": {
+    "en": "This bag is made of genuine leather from Italy.",
+    "zh": "這個包包是用義大利進口的真皮做的。"
+   },
+   "exB": {
+    "en": "She gave a sincere apology to her friend.",
+    "zh": "她誠懇地向朋友道歉。"
+   }
+  },
+  {
+   "a": "honest",
+   "b": "sincere",
+   "kind": "semantic",
+   "score": 0.578,
+   "aZh": "adj. 誠實的；坦白的",
+   "bZh": "adj. 真誠的；誠懇的",
+   "diff": "honest 強調不說謊、不欺騙，是一種品格；sincere 強調感情或態度發自內心，沒有虛假，常形容道歉、感謝。",
+   "points": [
+    "使用情境：honest 形容人的誠信；sincere 形容言語或感情是否真心",
+    "搭配：an honest answer 誠實的回答；sincere thanks 誠摯的感謝",
+    "反義：dishonest 不誠實；insincere 不真誠"
+   ],
+   "tip": "honest 是「不說謊」，sincere 是「有真心」。",
+   "exA": {
+    "en": "Please give me an honest answer to my question.",
+    "zh": "請誠實回答我的問題。"
+   },
+   "exB": {
+    "en": "Please accept my sincere thanks for your kind help.",
+    "zh": "謝謝你的幫忙，請接受我誠摯的感謝。"
+   }
+  },
+  {
+   "a": "shrink",
+   "b": "sink",
+   "kind": "visual",
+   "score": 0.623,
+   "aZh": "v. 縮小；縮水；退縮",
+   "bZh": "v. 下沉；沉沒；n. 水槽",
+   "diff": "shrink 是尺寸變小或縮水；sink 是往下沉，當名詞指廚房的水槽。shrink 比 sink 多了 h 和 r 兩個字母。",
+   "points": [
+    "拼字：shrink 比 sink 多一個 h 和 r",
+    "變化：shrink 是 shrank · shrunk；sink 是 sank · sunk",
+    "搭配：a shirt shrinks 衣服縮水；a boat sinks 船下沉"
+   ],
+   "tip": "shrink 是衣服越洗越小，sink 是東西掉進水裡往下沉。",
+   "exA": {
+    "en": "This wool sweater will shrink in hot water.",
+    "zh": "這件羊毛衣用熱水洗會縮水。"
+   },
+   "exB": {
+    "en": "The heavy box will sink if it falls into the lake.",
+    "zh": "這個沉重的箱子掉進湖裡就會下沉。"
+   }
+  },
+  {
+   "a": "circumstance",
+   "b": "situation",
+   "kind": "semantic",
+   "score": 0.898,
+   "aZh": "n. 情況；環境",
+   "bZh": "n. 情況；處境",
+   "diff": "situation 指某個時間點的整體情況；circumstance 指影響事情的外在條件或環境，常用複數 circumstances。",
+   "points": [
+    "數量：circumstance 多用複數 circumstances；situation 常用單數",
+    "搭配：under the circumstances 在這種情況下；a difficult situation 困難的情況",
+    "使用情境：circumstance 強調原因與條件；situation 強調當下整體狀況"
+   ],
+   "tip": "situation 是眼前整體的樣子，circumstances 是背後的條件。",
+   "exA": {
+    "en": "Under these circumstances, we cannot go camping this weekend.",
+    "zh": "在這種情況下，我們這個週末不能去露營。"
+   },
+   "exB": {
+    "en": "The situation became much worse after the storm.",
+    "zh": "暴風雨過後，情況變得糟糕許多。"
+   }
+  },
+  {
+   "a": "condition",
+   "b": "situation",
+   "kind": "semantic",
+   "score": 0.519,
+   "aZh": "n. 狀況；條件",
+   "bZh": "n. 情況；處境",
+   "diff": "condition 指人或物本身的狀態，如健康、機器狀況，也指條件；situation 指整體處境或局面，範圍較廣。",
+   "points": [
+    "搭配：in good condition 狀況良好；a difficult situation 困難的處境",
+    "使用情境：condition 用於檢視某物的狀態；situation 用於描述事情發展到哪裡",
+    "詞性：condition 也可指條件，或當 v. 使習慣於"
+   ],
+   "tip": "condition 是物品或人的狀態，situation 是周圍整個局面。",
+   "exA": {
+    "en": "The old bike is still in good condition.",
+    "zh": "那輛舊腳踏車狀況仍然良好。"
+   },
+   "exB": {
+    "en": "The situation at the station was calm after the accident.",
+    "zh": "事故過後，車站的情況很平靜。"
+   }
+  },
+  {
+   "a": "skate",
+   "b": "ski",
+   "kind": "semantic",
+   "score": 0.378,
+   "aZh": "v. 溜冰；滑冰",
+   "bZh": "v. 滑雪；n. 滑雪板",
+   "diff": "skate 是穿冰鞋或滑輪鞋在冰上或地面滑行；ski 是踩著滑雪板在雪地上滑行。",
+   "points": [
+    "使用情境：skate on ice 在冰上溜冰；ski on snow 在雪地滑雪",
+    "搭配：go skating 去溜冰；go skiing 去滑雪",
+    "用具：a pair of skates 冰鞋；a pair of skis 滑雪板"
+   ],
+   "tip": "skate 腳下是冰鞋，ski 腳下是兩片長長的雪板。",
+   "exA": {
+    "en": "Amy learned to skate on the ice at the city park.",
+    "zh": "Amy 在市立公園的冰上學會了溜冰。"
+   },
+   "exB": {
+    "en": "Tom learned to ski on a gentle snowy hill.",
+    "zh": "Tom 在緩緩的雪坡上學會了滑雪。"
+   }
+  },
+  {
+   "a": "skilled",
+   "b": "skillful",
+   "kind": "semantic",
+   "score": 0.812,
+   "aZh": "adj. 熟練的；有技巧的",
+   "bZh": "adj. 熟練的；有技巧的",
+   "diff": "skilled 指經過訓練、具備專業技能，常形容工人或職業；skillful 指做事動作巧妙、技巧高超，多形容表現得好。",
+   "points": [
+    "使用情境：skilled worker 有技術的工人；skillful player 技巧高超的選手",
+    "搭配：skilled 可接 in 或 at；skillful 常接 at",
+    "拼字：美式拼成 skillful，英式拼成 skilful"
+   ],
+   "tip": "skilled 是受過訓練有本事，skillful 是動作漂亮有技巧。",
+   "exA": {
+    "en": "The company hired skilled workers to fix the bridge.",
+    "zh": "那家公司雇用了技術熟練的工人來修橋。"
+   },
+   "exB": {
+    "en": "The skillful player passed the ball through three players.",
+    "zh": "那位技巧高超的球員把球傳過了三位對手。"
+   }
+  },
+  {
+   "a": "shortly",
+   "b": "soon",
+   "kind": "semantic",
+   "score": 0.948,
+   "aZh": "adv. 不久；很快；簡短地",
+   "bZh": "adv. 很快；不久",
+   "diff": "兩字都表示「不久」。shortly 較正式，常用在通知，常接 after 或 before；soon 最常用，可用於 as soon as。",
+   "points": [
+    "正式程度：shortly 較正式；soon 通用",
+    "搭配：shortly after 不久後；as soon as possible 儘快",
+    "限制：soon 可用在 as soon as，shortly 不行"
+   ],
+   "tip": "廣播通知常用 shortly，平常說話用 soon。",
+   "exA": {
+    "en": "The train will arrive at the station shortly.",
+    "zh": "火車即將進站。"
+   },
+   "exB": {
+    "en": "The train will arrive soon, so please wait here.",
+    "zh": "火車很快就到，請在這裡等候。"
+   }
   }
  ]
 }
