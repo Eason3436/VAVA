@@ -10309,8 +10309,8 @@
      "ext": "液體或肥皂膜包住空氣 → 形成圓形的透明小球",
      "examples": [
       {
-       "en": "The children blew bubbles in the park.",
-       "zh": "孩子們在公園吹泡泡。"
+       "en": "The children blew colorful bubbles in the park after lunch.",
+       "zh": "孩子們午餐後在公園吹彩色泡泡。"
       },
       {
        "en": "Small bubbles rose to the surface of the water.",
@@ -10343,6 +10343,10 @@
       {
        "en": "The water began to bubble when it reached a boil.",
        "zh": "水煮沸時開始冒泡。"
+      },
+      {
+       "en": "The soup bubbled gently on the stove while Mom set the table.",
+       "zh": "媽媽擺餐桌時，湯在爐子上輕輕冒著泡。"
       }
      ],
      "patterns": [],
@@ -10496,10 +10500,23 @@
       {
        "en": "The trees are budding after the warm rain.",
        "zh": "溫暖的雨後，樹木開始發芽。"
+      },
+      {
+       "en": "A friendship began to bud between the two new classmates.",
+       "zh": "兩位新同學之間開始萌生友誼。"
       }
      ],
      "patterns": [],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "a budding artist",
+       "zh": "初露頭角的藝術家"
+      },
+      {
+       "en": "a budding friendship",
+       "zh": "剛萌芽的友誼"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -10581,8 +10598,12 @@
      "ext": "依照可用金錢安排支出 → 控制花費或估算所需費用",
      "examples": [
       {
-       "en": "We budgeted carefully for our summer trip.",
-       "zh": "我們仔細編列了暑假旅行的預算。"
+       "en": "We budgeted carefully for our summer trip to Japan.",
+       "zh": "我們為去日本的暑假旅行仔細編列了預算。"
+      },
+      {
+       "en": "The city budgets a large amount every year for road repairs.",
+       "zh": "這座城市每年都編列一大筆預算修路。"
       }
      ],
      "patterns": [
@@ -10727,11 +10748,15 @@
     {
      "pos": "n.",
      "zh": "自助餐",
-     "ext": "",
+     "ext": "餐檯上擺滿食物 → 讓客人自己走去取用的用餐方式",
      "examples": [
       {
        "en": "The hotel serves a buffet breakfast for its guests.",
        "zh": "這間飯店提供自助早餐給房客。"
+      },
+      {
+       "en": "We had a buffet dinner at the hotel for our grandmother's birthday.",
+       "zh": "我們在飯店吃自助晚餐，慶祝奶奶的生日。"
       }
      ],
      "patterns": [],
@@ -10784,11 +10809,15 @@
     {
      "pos": "n.",
      "zh": "燈泡",
-     "ext": "",
+     "ext": "圓形的玻璃泡 → 裡面裝著燈絲、會發光的燈泡",
      "examples": [
       {
        "en": "Dad replaced the bulb in the kitchen this morning.",
        "zh": "爸爸今天早上換了廚房的燈泡。"
+      },
+      {
+       "en": "The light bulb in my room burned out last night.",
+       "zh": "我房間的燈泡昨晚壞掉了。"
       }
      ],
      "patterns": [],
@@ -10806,11 +10835,15 @@
     {
      "pos": "n.",
      "zh": "球莖",
-     "ext": "",
+     "ext": "形狀像圓球的地下莖 → 植物儲存養分的球狀莖",
      "examples": [
       {
        "en": "These flowers grow from bulbs planted in the fall.",
        "zh": "這些花是從秋天種下的球莖長出來的。"
+      },
+      {
+       "en": "Farmers plant flower bulbs in autumn so they will bloom in spring.",
+       "zh": "農夫在秋天種下花的球莖，讓它們在春天開花。"
       }
      ],
      "patterns": [],
@@ -10846,7 +10879,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自拉丁文 bulbus，來自希臘文 bolbos，原指洋蔥類的球狀根莖，後來也用來稱呼形狀相似的燈泡。",
    "related": [],
    "phrases": []
   },
@@ -10864,6 +10897,10 @@
       {
        "en": "The farmer keeps a bull in a field near the farm.",
        "zh": "農夫把一頭公牛養在農場附近的田地裡。"
+      },
+      {
+       "en": "The bull lifted its head when the children came near the fence.",
+       "zh": "孩子們靠近柵欄時，那頭公牛抬起了頭。"
       }
      ],
      "patterns": [],
@@ -10915,6 +10952,10 @@
       {
        "en": "The news report said police found a bullet near the road.",
        "zh": "新聞報導說，警方在路邊發現一顆子彈。"
+      },
+      {
+       "en": "The soldier kept a bullet from the old war as a souvenir.",
+       "zh": "那位士兵留著一顆舊戰爭時期的子彈當紀念品。"
       }
      ],
      "patterns": [],
@@ -10985,11 +11026,15 @@
     {
      "pos": "n.",
      "zh": "碰撞；腫塊",
-     "ext": "",
+     "ext": "輕輕撞到的地方 → 撞擊留下的腫塊，或路面的突起",
      "examples": [
       {
        "en": "I got a small bump on my head during the game.",
        "zh": "我在比賽時頭上撞出一個小腫包。"
+      },
+      {
+       "en": "The car hit a bump in the road, and my books fell to the floor.",
+       "zh": "車子壓過路面的突起，我的書掉到地上。"
       }
      ],
      "patterns": [],
@@ -11003,11 +11048,15 @@
     {
      "pos": "v.",
      "zh": "碰撞；撞上",
-     "ext": "",
+     "ext": "輕輕碰撞 → 撞到東西，或意外遇見某人",
      "examples": [
       {
        "en": "Be careful not to bump your head on the low door.",
        "zh": "小心別讓頭撞到低矮的門框。"
+      },
+      {
+       "en": "Amy bumped her knee against the desk while running to class.",
+       "zh": "Amy 跑去教室時，膝蓋撞到了書桌。"
       }
      ],
      "patterns": [
@@ -11092,11 +11141,15 @@
     {
      "pos": "n.",
      "zh": "一串；一束；一群",
-     "ext": "",
+     "ext": "長在一起的一串 → 聚在一起的一束或一群",
      "examples": [
       {
        "en": "Kevin brought a bunch of flowers to his mother.",
        "zh": "Kevin 帶了一束花給媽媽。"
+      },
+      {
+       "en": "Amy ate a bunch of grapes after lunch.",
+       "zh": "Amy 午餐後吃了一串葡萄。"
       }
      ],
      "patterns": [
@@ -11156,11 +11209,15 @@
     {
      "pos": "n.",
      "zh": "一捆；一批",
-     "ext": "",
+     "ext": "綁在一起的一堆東西 → 一捆或一批物品",
      "examples": [
       {
        "en": "She carried a bundle of books to the classroom.",
        "zh": "她抱了一捆書到教室。"
+      },
+      {
+       "en": "The postman handed us a bundle of letters at the door.",
+       "zh": "郵差在門口交給我們一捆信件。"
       }
      ],
      "patterns": [
@@ -11184,11 +11241,15 @@
     {
      "pos": "v.",
      "zh": "捆綁；包成一捆",
-     "ext": "",
+     "ext": "把東西綁成一堆 → 用繩子或布包成一捆",
      "examples": [
       {
        "en": "They bundled the clean clothes together before the trip.",
        "zh": "他們在旅行前把乾淨衣物包成一捆。"
+      },
+      {
+       "en": "Mom bundled the old magazines and put them out for recycling.",
+       "zh": "媽媽把舊雜誌捆好，拿出去回收。"
       }
      ],
      "patterns": [
@@ -11236,6 +11297,10 @@
       {
        "en": "The children buried a small box in the garden.",
        "zh": "孩子們在花園裡埋了一個小盒子。"
+      },
+      {
+       "en": "Heavy snow buried the small village in the mountains overnight.",
+       "zh": "大雪一夜之間把山裡的小村莊掩埋了。"
       }
      ],
      "patterns": [
@@ -11264,6 +11329,10 @@
       {
        "en": "Amy buried herself in her books before the final exam.",
        "zh": "期末考前，Amy 埋頭讀書。"
+      },
+      {
+       "en": "Kevin buried himself in work and forgot to eat lunch.",
+       "zh": "Kevin 埋頭工作，忘了吃午餐。"
       }
      ],
      "patterns": [
@@ -11338,11 +11407,15 @@
     {
      "pos": "n.",
      "zh": "灌木；矮樹叢",
-     "ext": "",
+     "ext": "枝葉叢生的矮小植物 → 指低矮、多枝的灌木叢",
      "examples": [
       {
        "en": "A small bird built its nest in the bush outside.",
        "zh": "一隻小鳥在外面的灌木叢裡築巢。"
+      },
+      {
+       "en": "The rabbit hid in a thick bush when the dog ran past.",
+       "zh": "狗跑過時，那隻兔子躲進茂密的灌木叢裡。"
       }
      ],
      "patterns": [],
@@ -11395,11 +11468,15 @@
     {
      "pos": "n.",
      "zh": "嗡嗡聲",
-     "ext": "",
+     "ext": "蜜蜂等快速拍翅的聲音 → 持續而低沉的嗡嗡聲",
      "examples": [
       {
        "en": "The buzz of bees filled the garden on a warm day.",
        "zh": "溫暖的日子裡，花園充滿蜜蜂的嗡嗡聲。"
+      },
+      {
+       "en": "The buzz of the phone woke me up early this morning.",
+       "zh": "手機的嗡嗡聲今天一大早就把我吵醒了。"
       }
      ],
      "patterns": [],
@@ -11413,11 +11490,15 @@
     {
      "pos": "v.",
      "zh": "發出嗡嗡聲",
-     "ext": "",
+     "ext": "發出連續低沉的聲音 → 蜜蜂、機器或手機的嗡嗡聲",
      "examples": [
       {
        "en": "A fly buzzed around the classroom during the lesson.",
        "zh": "上課時有一隻蒼蠅在教室裡嗡嗡飛。"
+      },
+      {
+       "en": "My phone buzzed twice during the class, so I turned it off.",
+       "zh": "上課時我的手機震動了兩次，所以我把它關掉了。"
       }
      ],
      "patterns": [
@@ -11460,11 +11541,15 @@
     {
      "pos": "n.",
      "zh": "小木屋；小屋",
-     "ext": "",
+     "ext": "簡單搭成的小屋 → 山林或湖邊供人居住的木屋",
      "examples": [
       {
        "en": "Our family stayed in a small cabin near the lake.",
        "zh": "我們一家住在湖邊的小木屋裡。"
+      },
+      {
+       "en": "The mountain cabin has a small fireplace and two wooden beds.",
+       "zh": "這間山中小木屋有一個小壁爐和兩張木床。"
       }
      ],
      "patterns": [],
@@ -11482,11 +11567,15 @@
     {
      "pos": "n.",
      "zh": "機艙；客艙",
-     "ext": "",
+     "ext": "船或飛機上分隔出的空間 → 載客的艙室",
      "examples": [
       {
        "en": "The flight attendants welcomed us into the cabin.",
        "zh": "空服員歡迎我們進入客艙。"
+      },
+      {
+       "en": "The pilot told everyone in the cabin to stay in their seats.",
+       "zh": "機長請客艙裡的每個人都留在座位上。"
       }
      ],
      "patterns": [],
@@ -11533,6 +11622,10 @@
       {
        "en": "The technician replaced the cable behind the classroom computer.",
        "zh": "技術人員更換了教室電腦後方的纜線。"
+      },
+      {
+       "en": "Tom used a long cable to connect the printer to the computer.",
+       "zh": "Tom 用一條長纜線把印表機接到電腦上。"
       }
      ],
      "patterns": [],
@@ -11544,6 +11637,32 @@
       {
        "en": "a cable connection",
        "zh": "有線連線"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "有線電視",
+     "ext": "用電纜傳送節目 → 簡稱有線電視",
+     "examples": [
+      {
+       "en": "Our hotel room has cable, so we can watch many channels at night.",
+       "zh": "我們的旅館房間有有線電視，晚上可以看很多頻道。"
+      },
+      {
+       "en": "Many families in the city pay for cable to watch sports channels.",
+       "zh": "城市裡許多家庭付費裝有線電視，好收看體育頻道。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
+       "en": "cable TV",
+       "zh": "有線電視"
+      },
+      {
+       "en": "cable channel",
+       "zh": "有線電視頻道"
       }
      ]
     }
@@ -11585,11 +11704,15 @@
     {
      "pos": "n.",
      "zh": "自助餐廳；學生餐廳",
-     "ext": "",
+     "ext": "客人自己取餐的餐廳 → 學校或機構內的自助式餐廳",
      "examples": [
       {
        "en": "We usually eat lunch in the school cafeteria together.",
        "zh": "我們通常一起在學校餐廳吃午餐。"
+      },
+      {
+       "en": "The cafeteria was so crowded at noon that we had to wait in a long line.",
+       "zh": "中午餐廳擠滿了人，我們得排很長的隊。"
       }
      ],
      "patterns": [],
@@ -11622,7 +11745,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自美式西班牙語 cafetería，原指賣咖啡的店，後來指自助式的餐廳。",
    "related": [],
    "phrases": []
   },
@@ -11640,6 +11763,10 @@
       {
        "en": "Students planted new trees across the campus last spring.",
        "zh": "學生去年春天在校園各處種了新樹。"
+      },
+      {
+       "en": "Many students ride bikes on campus to save time.",
+       "zh": "許多學生在校園裡騎腳踏車，好節省時間。"
       }
      ],
      "patterns": [],
@@ -11680,7 +11807,7 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自拉丁文 campus，意思是「田野、空地」，後來指學校裡的一片場地。",
    "related": [],
    "phrases": [
     {
@@ -11720,6 +11847,10 @@
       {
        "en": "The river flows through a deep canyon in the national park.",
        "zh": "河流流經國家公園裡一座深邃的峽谷。"
+      },
+      {
+       "en": "Hikers stopped at the edge of the canyon to take photos.",
+       "zh": "健行者在峽谷邊停下來拍照。"
       }
      ],
      "patterns": [],
@@ -11777,6 +11908,10 @@
       {
        "en": "Amy is capable of solving difficult math problems.",
        "zh": "Amy 有能力解決困難的數學問題。"
+      },
+      {
+       "en": "Jenny is a capable leader who always keeps the club organized.",
+       "zh": "Jenny 是個能幹的領導者，總是把社團管理得井然有序。"
       }
      ],
      "patterns": [
@@ -11908,6 +12043,10 @@
       {
        "en": "Our captain encouraged us before the final game.",
        "zh": "我們的隊長在決賽前鼓勵了大家。"
+      },
+      {
+       "en": "The captain of the ship told everyone to wear a life jacket.",
+       "zh": "船長要求每個人都穿上救生衣。"
       }
      ],
      "patterns": [
@@ -11929,6 +12068,38 @@
       {
        "en": "captain of a team",
        "zh": "團隊隊長"
+      }
+     ]
+    },
+    {
+     "pos": "v.",
+     "zh": "擔任隊長；帶領",
+     "ext": "站在隊伍最前面 → 擔任領導者，帶領整個團隊",
+     "examples": [
+      {
+       "en": "Amy captained the school volleyball team for two years.",
+       "zh": "Amy 擔任了兩年的校排球隊隊長。"
+      },
+      {
+       "en": "Tom will captain the team in the final match.",
+       "zh": "Tom 將在決賽中擔任隊長。"
+      }
+     ],
+     "patterns": [
+      {
+       "pattern": "captain + team",
+       "en": "Kevin was chosen to captain the swimming team.",
+       "zh": "Kevin 被選為游泳隊隊長。"
+      }
+     ],
+     "collocations": [
+      {
+       "en": "captain a team",
+       "zh": "擔任隊長"
+      },
+      {
+       "en": "captain a ship",
+       "zh": "擔任船長"
       }
      ]
     }
@@ -11959,15 +12130,7 @@
      "right": "The team chose a new captain."
     }
    ],
-   "commonErrors": [
-    {
-     "wrong": "captain of the plane",
-     "right": "captain of the aircraft",
-     "note": "指飛機駕駛時，aircraft 比 plane 更正式自然。",
-     "exWrong": "The captain of the plane welcomed us.",
-     "exRight": "The captain of the aircraft welcomed us."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
    "origin": "源自拉丁文 capitaneus，意思是「首領的」，來自 caput，意思是「頭」。",
@@ -12009,7 +12172,7 @@
    "word": "capture",
    "phonetic": "/ˈkæptʃər/",
    "level": 3,
-   "forms": "captured · capturing · capture",
+   "forms": "captures · captured · capturing",
    "meanings": [
     {
      "pos": "v.",
@@ -12021,8 +12184,8 @@
        "zh": "相機捕捉到湖面上美麗的夕陽。"
       },
       {
-       "en": "The police captured the escaped dog safely.",
-       "zh": "警方安全地抓到了逃跑的狗。"
+       "en": "The police safely captured the dog that had escaped from the zoo.",
+       "zh": "警方安全地抓到了從動物園逃出來的那隻狗。"
       }
      ],
      "patterns": [
@@ -12055,6 +12218,10 @@
       {
        "en": "The capture of the image took only a few seconds.",
        "zh": "捕捉這張影像只花了幾秒鐘。"
+      },
+      {
+       "en": "The police announced the capture of the thief on the evening news.",
+       "zh": "警方在晚間新聞中宣布小偷已被逮捕。"
       }
      ],
      "patterns": [
@@ -12186,6 +12353,10 @@
       {
        "en": "She hopes to build a career in computer science.",
        "zh": "她希望在電腦科學領域發展職業生涯。"
+      },
+      {
+       "en": "My aunt started her career as a nurse in a small town.",
+       "zh": "我阿姨在一個小鎮以護理師的身分開始了她的職業生涯。"
       }
      ],
      "patterns": [
@@ -12237,30 +12408,18 @@
      "right": "She wants a career in medicine."
     }
    ],
-   "commonErrors": [
-    {
-     "wrong": "career as a doctor",
-     "right": "career as a doctor",
-     "note": "表示從事某職業時，career as 後面接身分或職業。",
-     "exWrong": "He chose a career for a doctor.",
-     "exRight": "He chose a career as a doctor."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
    "origin": "源自法語 carrière，原意是「道路或賽道」，再由拉丁文 carrus「車」發展出職業道路的意思。",
    "related": [
     {
      "word": "carriage",
-     "note": "馬車；運輸"
+     "note": "馬車；車廂"
     },
     {
      "word": "carry",
-     "note": "攜帶"
-    },
-    {
-     "word": "career",
-     "note": "職業生涯"
+     "note": "攜帶；搬運"
     }
    ],
    "phrases": [
@@ -12301,6 +12460,10 @@
       {
        "en": "The carpenter built a strong table for our classroom.",
        "zh": "木匠為我們的教室做了一張堅固的桌子。"
+      },
+      {
+       "en": "The carpenter repaired the broken door with a few nails.",
+       "zh": "木匠用幾根釘子修好了壞掉的門。"
       }
      ],
      "patterns": [],
@@ -12393,6 +12556,10 @@
       {
        "en": "We put a soft carpet in the baby's room.",
        "zh": "我們在嬰兒房放了一張柔軟的地毯。"
+      },
+      {
+       "en": "The living room carpet needs to be cleaned after the party.",
+       "zh": "派對結束後，客廳的地毯需要清洗。"
       }
      ],
      "patterns": [
@@ -12425,6 +12592,10 @@
       {
        "en": "They carpeted the floor before moving into the room.",
        "zh": "他們搬進房間前先替地板鋪了地毯。"
+      },
+      {
+       "en": "The workers carpeted the hallway in one afternoon.",
+       "zh": "工人一個下午就把走廊鋪好了地毯。"
       }
      ],
      "patterns": [
@@ -12515,6 +12686,10 @@
       {
        "en": "The train carriage was crowded during the morning rush.",
        "zh": "早上的尖峰時段，火車車廂很擁擠。"
+      },
+      {
+       "en": "Tourists rode in a horse-drawn carriage around the old town.",
+       "zh": "遊客坐著馬車遊覽老城區。"
       }
      ],
      "patterns": [
@@ -12622,6 +12797,10 @@
       {
        "en": "The store worker pushed a cart full of boxes.",
        "zh": "店員推著一台裝滿箱子的推車。"
+      },
+      {
+       "en": "Jenny pushed the cart through the supermarket and picked up some milk.",
+       "zh": "Jenny 推著推車逛超市，拿了一些牛奶。"
       }
      ],
      "patterns": [
@@ -12654,6 +12833,10 @@
       {
        "en": "Workers carted the old desks out of the classroom.",
        "zh": "工人把舊書桌從教室搬了出去。"
+      },
+      {
+       "en": "The farmer carted the vegetables to the market every morning.",
+       "zh": "農夫每天早上用車把蔬菜運到市場。"
       }
      ],
      "patterns": [
@@ -12757,6 +12940,10 @@
       {
        "en": "The fisherman cast his line into the quiet lake.",
        "zh": "漁夫把釣線拋進平靜的湖裡。"
+      },
+      {
+       "en": "Many people cast their votes at the school gym on election day.",
+       "zh": "選舉日那天，許多人在學校體育館投票。"
       }
      ],
      "patterns": [
@@ -12789,6 +12976,10 @@
       {
        "en": "The director cast Amy as the main character.",
        "zh": "導演選 Amy 演主角。"
+      },
+      {
+       "en": "The school drama club cast Kevin as the king in the play.",
+       "zh": "學校戲劇社選 Kevin 在劇中演國王。"
       }
      ],
      "patterns": [
@@ -12811,12 +13002,16 @@
     },
     {
      "pos": "n.",
-     "zh": "演員陣容；投票",
+     "zh": "演員陣容；全體演員",
      "ext": "被安排參與演出的人 → 一部戲劇中的全體演員",
      "examples": [
       {
        "en": "The cast practiced together before the school play.",
        "zh": "演員陣容在校內戲劇演出前一起練習。"
+      },
+      {
+       "en": "The whole cast gathered on the stage to bow to the audience.",
+       "zh": "全體演員聚集在舞臺上向觀眾鞠躬。"
       }
      ],
      "patterns": [
@@ -12893,10 +13088,6 @@
     {
      "word": "forecast",
      "note": "預測"
-    },
-    {
-     "word": "contrast",
-     "note": "對比"
     }
    ],
    "phrases": [
@@ -12937,6 +13128,10 @@
       {
        "en": "The school allows casual clothes on the final Friday.",
        "zh": "學校允許在最後一個星期五穿休閒服。"
+      },
+      {
+       "en": "Amy prefers casual shoes to formal ones when she goes shopping.",
+       "zh": "Amy 逛街時比較喜歡穿休閒鞋，而不是正式的鞋子。"
       }
      ],
      "patterns": [
@@ -12969,6 +13164,10 @@
       {
        "en": "We had a casual conversation after the meeting.",
        "zh": "會議後我們進行了輕鬆的聊天。"
+      },
+      {
+       "en": "It was only a casual remark, but it made him think hard.",
+       "zh": "那只是隨口說的一句話，卻讓他想了很久。"
       }
      ],
      "patterns": [
@@ -13158,6 +13357,10 @@
       {
        "en": "The students explored a large cave during the field trip.",
        "zh": "學生在校外教學時探索了一個大洞穴。"
+      },
+      {
+       "en": "Bats sleep upside down inside the dark cave during the day.",
+       "zh": "蝙蝠白天在黑暗的洞穴裡倒掛著睡覺。"
       }
      ],
      "patterns": [
@@ -13190,6 +13393,10 @@
       {
        "en": "Part of the old roof caved in after the heavy rain.",
        "zh": "大雨後，老屋的部分屋頂塌了下來。"
+      },
+      {
+       "en": "The manager caved in to public pressure and changed the rule.",
+       "zh": "經理在輿論壓力下讓步，改了那條規定。"
       }
      ],
      "patterns": [
@@ -13228,16 +13435,7 @@
      "example": "a hollow tree"
     }
    ],
-   "antonyms": [
-    {
-     "word": "stand firm",
-     "zh": "堅持立場"
-    },
-    {
-     "word": "support",
-     "zh": "支撐"
-    }
-   ],
+   "antonyms": [],
    "confusables": [
     {
      "words": "cave vs save",
@@ -13310,6 +13508,10 @@
       {
        "en": "Our team became the national champion last year.",
        "zh": "我們的隊伍去年成為全國冠軍。"
+      },
+      {
+       "en": "The champion thanked her coach and her family after the race.",
+       "zh": "比賽結束後，冠軍感謝了她的教練和家人。"
       }
      ],
      "patterns": [
@@ -13340,8 +13542,12 @@
      "ext": "站在某一方並替它發聲 → 積極支持某個人或理念",
      "examples": [
       {
-       "en": "The group champions equal access to education.",
-       "zh": "這個團體支持人人都有平等受教的機會。"
+       "en": "The group champions equal access to education for all children.",
+       "zh": "這個團體支持讓所有孩子都有平等的受教機會。"
+      },
+      {
+       "en": "Teachers and students championed the plan to plant more trees on campus.",
+       "zh": "師生都支持在校園裡多種一些樹的計畫。"
       }
      ],
      "patterns": [
@@ -13398,15 +13604,7 @@
      "right": "The team won the championship."
     }
    ],
-   "commonErrors": [
-    {
-     "wrong": "champion of the race",
-     "right": "champion in the race",
-     "note": "表示在比賽中獲勝，常用 champion in 或 champion of 加比賽名稱。",
-     "exWrong": "He was champion at the race.",
-     "exRight": "He was champion in the race."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
    "origin": "源自古法語 champion，來自拉丁文 campio，意思是「代表某方參加戰鬥或競賽的人」。",
@@ -13462,6 +13660,10 @@
       {
        "en": "The old town has a special charm at night.",
        "zh": "那座老城鎮在夜晚有種特別的魅力。"
+      },
+      {
+       "en": "The child's shy smile had a natural charm that everyone loved.",
+       "zh": "那個孩子害羞的笑容有種天然的魅力，大家都很喜歡。"
       }
      ],
      "patterns": [
@@ -13494,6 +13696,10 @@
       {
        "en": "The friendly guide charmed everyone on the tour.",
        "zh": "親切的導遊讓旅程中的每個人都很喜歡他。"
+      },
+      {
+       "en": "The magician charmed the young audience with simple card tricks.",
+       "zh": "魔術師用簡單的紙牌戲法迷住了年輕的觀眾。"
       }
      ],
      "patterns": [
@@ -13606,6 +13812,10 @@
       {
        "en": "We had a quick chat after the English class.",
        "zh": "英文課後我們簡單聊了一下。"
+      },
+      {
+       "en": "The two friends enjoyed a long chat over cups of tea.",
+       "zh": "兩位朋友邊喝茶邊聊了很久。"
       }
      ],
      "patterns": [
@@ -13638,6 +13848,10 @@
       {
        "en": "Jenny chatted with her friend during the lunch break.",
        "zh": "Jenny 午休時和朋友聊天。"
+      },
+      {
+       "en": "The students chatted quietly while waiting for the teacher.",
+       "zh": "學生們一邊等老師，一邊輕聲聊天。"
       }
      ],
      "patterns": [
@@ -13749,6 +13963,10 @@
       {
        "en": "Amy had a small spot on her cheek after school.",
        "zh": "Amy 放學後發現臉頰上有一個小斑點。"
+      },
+      {
+       "en": "Tom kissed his little sister on the cheek before leaving.",
+       "zh": "Tom 出門前親了親妹妹的臉頰。"
       }
      ],
      "patterns": [],
@@ -13799,6 +14017,10 @@
       {
        "en": "Our cheerful teacher welcomed everyone to the new club.",
        "zh": "我們開朗的老師歡迎大家加入新社團。"
+      },
+      {
+       "en": "The cheerful waiter greeted every customer with a big smile.",
+       "zh": "那位開朗的服務生笑容燦爛地招呼每一位客人。"
       }
      ],
      "patterns": [
@@ -13885,6 +14107,10 @@
       {
        "en": "We bought fresh cherries at the market for dessert.",
        "zh": "我們在市場買了新鮮櫻桃當甜點。"
+      },
+      {
+       "en": "Amy put a red cherry on top of the ice cream.",
+       "zh": "Amy 在冰淇淋上放了一顆紅櫻桃。"
       }
      ],
      "patterns": [],
@@ -13907,6 +14133,10 @@
       {
        "en": "Kevin ordered a cherry pie for his birthday party.",
        "zh": "Kevin 為生日派對點了一個櫻桃派。"
+      },
+      {
+       "en": "Mom baked a cherry cake for the school party.",
+       "zh": "媽媽為學校派對烤了一個櫻桃蛋糕。"
       }
      ],
      "patterns": [],
@@ -13953,6 +14183,10 @@
       {
        "en": "Tom felt a little pain in his chest after the long run.",
        "zh": "長跑後，Tom 覺得胸口有點痛。"
+      },
+      {
+       "en": "Kevin exercises every morning to make his chest and arms stronger.",
+       "zh": "Kevin 每天早上運動，讓胸部和手臂更結實。"
       }
      ],
      "patterns": [
@@ -13981,6 +14215,10 @@
       {
        "en": "My brother keeps old family photos in a wooden chest.",
        "zh": "我哥哥把家裡的舊照片收在木箱裡。"
+      },
+      {
+       "en": "The old chest in the attic is full of our grandmother's letters.",
+       "zh": "閣樓裡的舊箱子裝滿了奶奶的信。"
       }
      ],
      "patterns": [],
@@ -14027,6 +14265,10 @@
       {
        "en": "A chill came through the open window during the night.",
        "zh": "夜裡寒意從開著的窗戶吹了進來。"
+      },
+      {
+       "en": "A sudden chill ran down my back when I heard the strange noise.",
+       "zh": "我聽到那個奇怪的聲音時，背脊突然一陣發涼。"
       }
      ],
      "patterns": [],
@@ -14045,6 +14287,10 @@
       {
        "en": "Please chill the juice before our family dinner tonight.",
        "zh": "今晚家庭晚餐前，請先把果汁冰一下。"
+      },
+      {
+       "en": "The waiter chilled the drinks in a bucket of ice.",
+       "zh": "服務生把飲料放在一桶冰塊裡冰鎮。"
       }
      ],
      "patterns": [
@@ -14067,19 +14313,27 @@
     },
     {
      "pos": "adj.",
-     "zh": "冷的；寒冷的",
-     "ext": "",
+     "zh": "悠閒的；放鬆的",
+     "ext": "涼涼的不燥熱 → 引申為心情放鬆、不緊張（口語）",
      "examples": [
       {
-       "en": "The early morning air felt chill near the lake.",
-       "zh": "湖邊清晨的空氣讓人覺得寒冷。"
+       "en": "We spent a chill weekend at home watching movies.",
+       "zh": "我們在家看電影，度過了悠閒的週末。"
+      },
+      {
+       "en": "Their chill attitude made the new student feel welcome.",
+       "zh": "他們輕鬆的態度讓新同學覺得受歡迎。"
       }
      ],
      "patterns": [],
      "collocations": [
       {
-       "en": "chill wind",
-       "zh": "寒風"
+       "en": "a chill weekend",
+       "zh": "悠閒的週末"
+      },
+      {
+       "en": "a chill attitude",
+       "zh": "輕鬆的態度"
       }
      ]
     }
@@ -14129,6 +14383,10 @@
       {
        "en": "It was chilly outside, so Amy wore her warm jacket.",
        "zh": "外面冷颼颼的，所以 Amy 穿上了保暖外套。"
+      },
+      {
+       "en": "The chilly wind made us zip up our jackets on the way to school.",
+       "zh": "冷颼颼的風讓我們在上學途中把外套拉鍊拉了起來。"
       }
      ],
      "patterns": [],
@@ -14215,11 +14473,15 @@
     {
      "pos": "n.",
      "zh": "煙囪",
-     "ext": "",
+     "ext": "讓煙往上走的管道 → 房屋或工廠上方排煙的煙囪",
      "examples": [
       {
        "en": "Smoke rose from the chimney of the house on the hill.",
        "zh": "山丘上那棟房子的煙囪冒出煙來。"
+      },
+      {
+       "en": "A bird built its nest on top of the old chimney.",
+       "zh": "一隻鳥在那根舊煙囪頂端築了巢。"
       }
      ],
      "patterns": [],
@@ -14270,6 +14532,10 @@
       {
        "en": "The little boy rested his chin on the table while listening.",
        "zh": "小男孩聽人說話時把下巴靠在桌上。"
+      },
+      {
+       "en": "The boy scratched his chin while he thought about the answer.",
+       "zh": "那個男孩一邊想答案，一邊摸著下巴。"
       }
      ],
      "patterns": [],
@@ -14320,6 +14586,10 @@
       {
        "en": "Jenny shared a bag of potato chips with her friends after class.",
        "zh": "Jenny 下課後和朋友分享一包洋芋片。"
+      },
+      {
+       "en": "Kevin ate a small bag of chips while watching the game.",
+       "zh": "Kevin 一邊看比賽，一邊吃了一小包洋芋片。"
       }
      ],
      "patterns": [],
@@ -14331,17 +14601,25 @@
       {
        "en": "a bag of chips",
        "zh": "一包洋芋片"
+      },
+      {
+       "en": "fish and chips",
+       "zh": "炸魚薯條"
       }
      ]
     },
     {
      "pos": "n.",
      "zh": "晶片；微型晶片",
-     "ext": "",
+     "ext": "像碎片般的薄片 → 裝有電路的微小晶片",
      "examples": [
       {
        "en": "The new computer uses a small chip to save energy.",
        "zh": "這台新電腦使用一枚小晶片來節省能源。"
+      },
+      {
+       "en": "Many electronic products need small chips to work.",
+       "zh": "許多電子產品需要小小的晶片才能運作。"
       }
      ],
      "patterns": [],
@@ -14364,6 +14642,10 @@
       {
        "en": "Be careful not to chip the cup when you wash it.",
        "zh": "洗杯子時小心別把杯口碰出缺角。"
+      },
+      {
+       "en": "The heavy plate fell and chipped at the edge.",
+       "zh": "那個厚盤子掉到地上，邊緣碰出了缺角。"
       }
      ],
      "patterns": [
@@ -14425,6 +14707,10 @@
       {
        "en": "Tom chopped the vegetables before adding them to the soup.",
        "zh": "Tom 把蔬菜切碎後放進湯裡。"
+      },
+      {
+       "en": "The chef chopped the garlic very finely before cooking.",
+       "zh": "主廚下鍋前把大蒜切得很碎。"
       }
      ],
      "patterns": [
@@ -14448,11 +14734,15 @@
     {
      "pos": "n.",
      "zh": "排骨；肉排",
-     "ext": "",
+     "ext": "連著骨頭切下的肉 → 帶骨的一塊肉排",
      "examples": [
       {
        "en": "My father cooked pork chops for our family dinner.",
        "zh": "我爸爸為家庭晚餐煎了豬排。"
+      },
+      {
+       "en": "Tom ordered a pork chop with rice at the school cafeteria.",
+       "zh": "Tom 在學校餐廳點了一份豬排飯。"
       }
      ],
      "patterns": [],
@@ -14508,6 +14798,10 @@
       {
        "en": "The sign asks people not to smoke cigarettes near the school.",
        "zh": "告示提醒大家不要在學校附近抽菸。"
+      },
+      {
+       "en": "Smoking a cigarette in public places is not allowed here.",
+       "zh": "這裡不允許在公共場所抽菸。"
       }
      ],
      "patterns": [],
@@ -14560,12 +14854,16 @@
    "meanings": [
     {
      "pos": "n.",
-     "zh": "電影院；電影院業",
+     "zh": "電影院；電影藝術",
      "ext": "",
      "examples": [
       {
        "en": "Our class went to the cinema to watch a film together.",
        "zh": "我們全班一起去電影院看電影。"
+      },
+      {
+       "en": "The old cinema in our town shows classic films every Friday.",
+       "zh": "我們鎮上的老電影院每週五都放映經典電影。"
       }
      ],
      "patterns": [
@@ -14639,11 +14937,15 @@
     {
      "pos": "n.",
      "zh": "馬戲團；馬戲表演",
-     "ext": "",
+     "ext": "圓形的表演場地 → 巡迴演出雜技與動物表演的馬戲團",
      "examples": [
       {
        "en": "The children laughed as the circus performers showed their skills.",
        "zh": "馬戲團表演者展現技巧時，孩子們笑得很開心。"
+      },
+      {
+       "en": "My little brother wants to be a circus clown when he grows up.",
+       "zh": "我弟弟長大後想當馬戲團的小丑。"
       }
      ],
      "patterns": [],
@@ -14676,7 +14978,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自拉丁文 circus，意思是「圓圈、環形場地」，原指古羅馬的圓形競技場。",
    "related": [],
    "phrases": []
   },
@@ -14694,6 +14996,10 @@
       {
        "en": "Every citizen can help keep the streets clean and safe.",
        "zh": "每位市民都能幫忙維持街道整潔與安全。"
+      },
+      {
+       "en": "As a citizen, Tom will have the right to vote when he turns eighteen.",
+       "zh": "身為公民，Tom 滿十八歲就有投票的權利。"
       }
      ],
      "patterns": [
@@ -14715,6 +15021,10 @@
       {
        "en": "good citizen",
        "zh": "守法盡責的公民"
+      },
+      {
+       "en": "senior citizen",
+       "zh": "年長者"
       }
      ]
     }
@@ -14763,11 +15073,15 @@
     {
      "pos": "adj.",
      "zh": "公民的；民事的",
-     "ext": "",
+     "ext": "與市民有關的 → 公民的權利，或私人之間的民事事務",
      "examples": [
       {
        "en": "The new civil law protects the rights of every citizen.",
        "zh": "新的民事法律保障每位公民的權利。"
+      },
+      {
+       "en": "Citizens have the civil right to speak freely in a democracy.",
+       "zh": "在民主社會裡，公民有自由發言的公民權利。"
       }
      ],
      "patterns": [
@@ -14800,6 +15114,10 @@
       {
        "en": "The two students stayed civil during their disagreement.",
        "zh": "兩位學生意見不同時仍保持客氣。"
+      },
+      {
+       "en": "The clerk stayed civil even when the customer was angry.",
+       "zh": "即使顧客很生氣，店員仍然保持客氣。"
       }
      ],
      "patterns": [
@@ -14886,6 +15204,10 @@
       {
        "en": "The students used clay to make small bowls.",
        "zh": "學生用黏土做了幾個小碗。"
+      },
+      {
+       "en": "Jenny made a small cat from clay in art class.",
+       "zh": "Jenny 在美術課用黏土捏了一隻小貓。"
       }
      ],
      "patterns": [],
@@ -15019,6 +15341,10 @@
       {
        "en": "The designer met a client to discuss a new project.",
        "zh": "設計師和一位客戶碰面討論新專案。"
+      },
+      {
+       "en": "The lawyer spent all morning talking with her new client.",
+       "zh": "那位律師整個早上都在和她的新客戶談話。"
       }
      ],
      "patterns": [
@@ -15095,6 +15421,10 @@
       {
        "en": "My brother went to the clinic because he had a fever.",
        "zh": "我弟弟發燒了，所以去診所看病。"
+      },
+      {
+       "en": "A small clinic opened on our street last year.",
+       "zh": "去年我們那條街開了一家小診所。"
       }
      ],
      "patterns": [
@@ -15258,6 +15588,10 @@
       {
        "en": "Kevin put his school uniform in the closet.",
        "zh": "Kevin 把制服放進衣櫥裡。"
+      },
+      {
+       "en": "Amy hid her mother's birthday gift in the closet.",
+       "zh": "Amy 把要送給媽媽的生日禮物藏在衣櫥裡。"
       }
      ],
      "patterns": [
@@ -15326,6 +15660,10 @@
       {
        "en": "The charity helps clothe children from low-income families.",
        "zh": "這個慈善團體協助低收入家庭的孩子添購衣物。"
+      },
+      {
+       "en": "Volunteers gathered warm coats to clothe the children in the village.",
+       "zh": "志工募集保暖外套，給村子裡的孩子穿。"
       }
      ],
      "patterns": [
@@ -15366,15 +15704,7 @@
    ],
    "antonyms": [],
    "confusables": [],
-   "commonErrors": [
-    {
-     "wrong": "clothe someone with clothes",
-     "right": "clothe someone in clothes",
-     "note": "表示讓某人穿上某種衣物時，常用 clothe someone in。",
-     "exWrong": "They clothed the child with a warm coat.",
-     "exRight": "They clothed the child in a warm coat."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
    "origin": "",
@@ -15404,6 +15734,10 @@
       {
        "en": "The clown made the children laugh at the school fair.",
        "zh": "小丑在園遊會上逗得孩子們哈哈大笑。"
+      },
+      {
+       "en": "The clown in a big red nose entered the circus tent on a tiny bike.",
+       "zh": "戴著大紅鼻子的小丑騎著小腳踏車進入馬戲團帳篷。"
       }
      ],
      "patterns": [],
@@ -15426,6 +15760,10 @@
       {
        "en": "The boys clowned around after the teacher left the room.",
        "zh": "老師離開教室後，男孩們開始胡鬧。"
+      },
+      {
+       "en": "Tom likes to clown around to make his friends laugh.",
+       "zh": "Tom 喜歡耍寶逗朋友開心。"
       }
      ],
      "patterns": [
@@ -15503,8 +15841,12 @@
      "ext": "",
      "examples": [
       {
-       "en": "The map gave us a clue about where to find the museum.",
-       "zh": "地圖提供了線索，讓我們知道博物館在哪裡。"
+       "en": "The muddy footprint was the first clue in the case.",
+       "zh": "那個沾滿泥巴的腳印是這個案子的第一條線索。"
+      },
+      {
+       "en": "The teacher gave us a clue to help us solve the puzzle.",
+       "zh": "老師給了我們一個線索，幫助我們解開謎題。"
       }
      ],
      "patterns": [
@@ -15605,6 +15947,10 @@
       {
        "en": "Amy coached the younger students for the school debate.",
        "zh": "Amy 指導低年級學生準備校內辯論。"
+      },
+      {
+       "en": "Mr. Lin coaches the school basketball team after class.",
+       "zh": "林老師下課後指導學校的籃球隊。"
       }
      ],
      "patterns": [
@@ -15673,6 +16019,10 @@
       {
        "en": "A cock called loudly before the sun came up.",
        "zh": "太陽升起前，一隻公雞大聲啼叫。"
+      },
+      {
+       "en": "The farmer heard the cock crow at five every morning.",
+       "zh": "農夫每天早上五點都聽到公雞啼叫。"
       }
      ],
      "patterns": [],
@@ -15687,12 +16037,12 @@
    "synonyms": [
     {
      "word": "cock",
-     "note": "指成年公雞，也可用於部分英式英語。",
+     "note": "指成年公雞；美式英語多用 rooster，因為 cock 另有粗俗的意思。",
      "example": "a cock crowing"
     },
     {
      "word": "rooster",
-     "note": "指公雞，是較常見且較中性的美式英語說法。",
+     "note": "指公雞，是最常見、最安全的說法。",
      "example": "a farm rooster"
     },
     {
@@ -15729,6 +16079,10 @@
       {
        "en": "The restaurant served a fruit cocktail without alcohol.",
        "zh": "這家餐廳提供不含酒精的水果調飲。"
+      },
+      {
+       "en": "The guests enjoyed a fruit cocktail at the summer party.",
+       "zh": "客人在夏季派對上喝了水果調飲。"
       }
      ],
      "patterns": [],
@@ -15784,6 +16138,10 @@
       {
        "en": "We drank fresh coconut water after walking on the beach.",
        "zh": "我們在海邊散步後喝了新鮮椰子水。"
+      },
+      {
+       "en": "Coconut trees grow well in warm places near the sea.",
+       "zh": "椰子樹在靠海的溫暖地方長得很好。"
       }
      ],
      "patterns": [],
@@ -15808,11 +16166,6 @@
      "word": "coconut",
      "note": "指椰子，也可指椰子果肉或相關食品。",
      "example": "coconut milk"
-    },
-    {
-     "word": "coco",
-     "note": "常見於食品名稱或口語中，通常指椰子。",
-     "example": "coco powder"
     }
    ],
    "antonyms": [],
@@ -15998,6 +16351,10 @@
       {
        "en": "India was once a British colony, but it became independent in 1947.",
        "zh": "印度曾是英國殖民地，後來在一九四七年獨立。"
+      },
+      {
+       "en": "Many countries in Africa were once European colonies.",
+       "zh": "非洲有許多國家過去是歐洲的殖民地。"
       }
      ],
      "patterns": [],
@@ -16015,11 +16372,15 @@
     {
      "pos": "n.",
      "zh": "群體；聚落",
-     "ext": "",
+     "ext": "一起定居的一群 → 聚集生活的動物群體或同類居民",
      "examples": [
       {
        "en": "A colony of ants built a nest under the old tree.",
        "zh": "一群螞蟻在那棵老樹下築了巢。"
+      },
+      {
+       "en": "A colony of penguins lives on the icy coast.",
+       "zh": "一群企鵝住在結冰的海岸上。"
       }
      ],
      "patterns": [
@@ -16059,7 +16420,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自拉丁文 colonia，意思是「聚居地、殖民地」，來自 colonus「農夫、移居者」。",
    "related": [],
    "phrases": []
   },
@@ -16077,6 +16438,10 @@
       {
        "en": "The students made colorful posters for the school festival.",
        "zh": "學生為校慶製作了色彩繽紛的海報。"
+      },
+      {
+       "en": "Colorful kites filled the sky at the beach festival.",
+       "zh": "海灘慶典上，五顏六色的風箏佈滿了天空。"
       }
      ],
      "patterns": [],
@@ -16094,11 +16459,15 @@
     {
      "pos": "adj.",
      "zh": "生動有趣的",
-     "ext": "",
+     "ext": "色彩豐富 → 引申為內容生動、有特色",
      "examples": [
       {
        "en": "Grandpa told us a colorful story about his first trip abroad.",
        "zh": "爺爺跟我們講了他第一次出國的生動故事。"
+      },
+      {
+       "en": "The old fisherman is a colorful person with many funny stories.",
+       "zh": "那位老漁夫是個很有特色的人，有許多有趣的故事。"
       }
      ],
      "patterns": [],
@@ -16160,12 +16529,16 @@
    "meanings": [
     {
      "pos": "n.",
-     "zh": "欄；直欄",
+     "zh": "欄；直欄；專欄",
      "ext": "文字或數字直向排列 → 形成表格中的一欄",
      "examples": [
       {
        "en": "Please write your name in the first column of the form.",
        "zh": "請在表格的第一欄寫下姓名。"
+      },
+      {
+       "en": "Draw a line under the last column of numbers in the table.",
+       "zh": "請在表格最後一欄數字的下方畫一條線。"
       }
      ],
      "patterns": [],
@@ -16183,11 +16556,15 @@
     {
      "pos": "n.",
      "zh": "柱；圓柱",
-     "ext": "",
+     "ext": "撐住上方重量的直立長條 → 建築物的圓柱",
      "examples": [
       {
        "en": "The old building has tall stone columns at its entrance.",
        "zh": "那棟老建築入口有高大的石柱。"
+      },
+      {
+       "en": "Stone columns hold up the roof of the old temple.",
+       "zh": "石柱撐起了那座古廟的屋頂。"
       }
      ],
      "patterns": [],
@@ -16239,6 +16616,10 @@
       {
        "en": "Her kind words gave me comfort before the important exam.",
        "zh": "重要考試前，她的暖心話給了我安慰。"
+      },
+      {
+       "en": "The soft sofa gives us great comfort after a long day.",
+       "zh": "忙了一天後，柔軟的沙發讓我們感到非常舒適。"
       }
      ],
      "patterns": [
@@ -16267,6 +16648,10 @@
       {
        "en": "Amy comforted her friend after she failed the math test.",
        "zh": "Amy 數學考試沒考好後，朋友安慰了她。"
+      },
+      {
+       "en": "Tom comforted the crying child until she stopped.",
+       "zh": "Tom 一直安慰那個哭泣的孩子，直到她不哭為止。"
       }
      ],
      "patterns": [
@@ -16359,6 +16744,10 @@
       {
        "en": "Put a comma between the two items in this sentence.",
        "zh": "請在這個句子的兩個項目之間加上逗號。"
+      },
+      {
+       "en": "The teacher circled the missing comma in my English essay.",
+       "zh": "老師把我英文作文裡漏掉的逗號圈了起來。"
       }
      ],
      "patterns": [
@@ -16415,6 +16804,10 @@
       {
        "en": "The school committee will discuss the new library rules on Friday.",
        "zh": "校務委員會將在星期五討論新的圖書館規定。"
+      },
+      {
+       "en": "The student committee decided to hold a book sale next month.",
+       "zh": "學生委員會決定下個月舉辦二手書義賣。"
       }
      ],
      "patterns": [
@@ -16461,11 +16854,11 @@
    "confusables": [],
    "commonErrors": [
     {
-     "wrong": "a committee are",
-     "right": "a committee is",
-     "note": "committee 作為一個整體時通常視為單數，動詞用單數形式。",
-     "exWrong": "The committee are meeting after school today.",
-     "exRight": "The committee is meeting after school today."
+     "wrong": "comittee",
+     "right": "committee",
+     "note": "committee 有 mm、tt、ee 三組雙寫字母，容易漏寫。",
+     "exWrong": "She joined the school comittee last year.",
+     "exRight": "She joined the school committee last year."
     }
    ],
    "breakdownApplicable": false,
@@ -16488,6 +16881,10 @@
       {
        "en": "Students can communicate with their teacher through the school website.",
        "zh": "學生可以透過學校網站和老師溝通。"
+      },
+      {
+       "en": "Tourists can communicate with local people by using simple English.",
+       "zh": "遊客可以用簡單的英文和當地人溝通。"
       }
      ],
      "patterns": [
@@ -16546,26 +16943,23 @@
      "exRight": "I communicate with my friend by email every week."
     }
    ],
-   "breakdownApplicable": true,
-   "breakdown": [
+   "breakdownApplicable": false,
+   "breakdown": [],
+   "origin": "源自拉丁文 communicare，意思是「分享、使共有」，來自 communis「共同的」。",
+   "related": [
     {
-     "part": "com-",
-     "type": "字首",
-     "gloss": "共同"
+     "word": "common",
+     "note": "共同的；常見的"
     },
     {
-     "part": "munic",
-     "type": "字根",
-     "gloss": "服務"
+     "word": "community",
+     "note": "社區；社群"
     },
     {
-     "part": "-ate",
-     "type": "字尾",
-     "gloss": "動詞字尾"
+     "word": "communication",
+     "note": "溝通；通訊"
     }
    ],
-   "origin": "",
-   "related": [],
    "phrases": [
     {
      "phrase": "communicate with",
@@ -16604,6 +16998,10 @@
       {
        "en": "The teacher made a comparison between the two poems in class.",
        "zh": "老師在課堂上比較了這兩首詩。"
+      },
+      {
+       "en": "A comparison of the two phones shows that the new one is cheaper.",
+       "zh": "比較這兩支手機後，可以看出新的那支比較便宜。"
       }
      ],
      "patterns": [
@@ -16697,6 +17095,10 @@
       {
        "en": "Our school team will compete against three other teams this weekend.",
        "zh": "我們的校隊這個週末將和另外三支隊伍比賽。"
+      },
+      {
+       "en": "Two young swimmers competed for first place in the final race.",
+       "zh": "兩位年輕的游泳選手在決賽中爭奪第一名。"
       }
      ],
      "patterns": [
@@ -16780,6 +17182,10 @@
       {
        "en": "Several students complained about the noise in the library.",
        "zh": "幾位學生抱怨圖書館裡太吵。"
+      },
+      {
+       "en": "Some customers complained that the soup was too cold.",
+       "zh": "有些顧客抱怨湯太冷了。"
       }
      ],
      "patterns": [
@@ -16863,6 +17269,10 @@
       {
        "en": "The school received a complaint about the noise during the exam.",
        "zh": "學校收到一件關於考試期間噪音的投訴。"
+      },
+      {
+       "en": "The manager listened to every complaint from the guests.",
+       "zh": "經理聽取了每位客人的抱怨。"
       }
      ],
      "patterns": [
@@ -16963,6 +17373,10 @@
       {
        "en": "My sister and I went to a concert at the city hall last Saturday.",
        "zh": "我和姊姊上星期六去市政廳聽了一場音樂會。"
+      },
+      {
+       "en": "The concert began at seven, and everyone clapped after each song.",
+       "zh": "音樂會在七點開始，每唱完一首歌大家都鼓掌。"
       }
      ],
      "patterns": [
@@ -17050,6 +17464,10 @@
       {
        "en": "After reading the results, the class reached the same conclusion.",
        "zh": "看完結果後，全班得出了相同的結論。"
+      },
+      {
+       "en": "The last paragraph of the essay gives a clear conclusion.",
+       "zh": "這篇文章的最後一段給了一個清楚的結尾。"
       }
      ],
      "patterns": [
@@ -17171,6 +17589,10 @@
       {
        "en": "The students used paper to make a cone for their art project.",
        "zh": "學生用紙做了一個圓錐，作為美術作業的一部分。"
+      },
+      {
+       "en": "The traffic cone warned drivers to slow down near the school gate.",
+       "zh": "交通錐提醒駕駛人在校門口附近放慢速度。"
       }
      ],
      "patterns": [],
@@ -17193,6 +17615,10 @@
       {
        "en": "Kevin bought a chocolate ice cream cone after the game.",
        "zh": "比賽後，Kevin 買了一支巧克力甜筒。"
+      },
+      {
+       "en": "The little girl dropped her ice cream cone on the ground.",
+       "zh": "小女孩把她的冰淇淋甜筒掉到地上了。"
       }
      ],
      "patterns": [],
@@ -17266,6 +17692,10 @@
       {
        "en": "Please confirm your seat before booking the train tickets online.",
        "zh": "在線上訂火車票前，請先確認座位。"
+      },
+      {
+       "en": "The hotel called to confirm our booking for Friday night.",
+       "zh": "飯店打電話來確認我們星期五晚上的訂房。"
       }
      ],
      "patterns": [
@@ -17393,6 +17823,10 @@
       {
        "en": "The similar names confused everyone in the class.",
        "zh": "相似的名字讓班上每個人都感到困惑。"
+      },
+      {
+       "en": "The long list of rules confused the new students.",
+       "zh": "那一長串規則讓新學生感到困惑。"
       }
      ],
      "patterns": [
@@ -17491,6 +17925,10 @@
       {
        "en": "This bridge connects the village to the main road.",
        "zh": "這座橋把村莊和主要道路連接起來。"
+      },
+      {
+       "en": "The new train line connects the airport with the city center.",
+       "zh": "新的火車路線把機場和市中心連接起來。"
       }
      ],
      "patterns": [
@@ -17517,8 +17955,12 @@
      "ext": "把想法或經驗接在一起 → 形成理解或情感上的關聯",
      "examples": [
       {
-       "en": "The story connected with many young readers.",
-       "zh": "這個故事引起許多年輕讀者的共鳴。"
+       "en": "The story connected with many young readers around the world.",
+       "zh": "這個故事引起世界各地許多年輕讀者的共鳴。"
+      },
+      {
+       "en": "Teenagers connect with friends around the world through social media.",
+       "zh": "青少年透過社群媒體與世界各地的朋友保持聯繫。"
       }
      ],
      "patterns": [
@@ -17635,6 +18077,10 @@
       {
        "en": "She became conscious of the noise outside the room.",
        "zh": "她察覺到房間外的噪音。"
+      },
+      {
+       "en": "Jenny made a conscious decision to walk to school every day.",
+       "zh": "Jenny 有意識地決定每天走路上學。"
       }
      ],
      "patterns": [
@@ -17733,6 +18179,10 @@
       {
        "en": "The school spent a considerable amount on new computers.",
        "zh": "學校花了相當多的錢購買新電腦。"
+      },
+      {
+       "en": "The storm caused considerable damage to the small village.",
+       "zh": "那場暴風雨對小村莊造成了相當大的損害。"
       }
      ],
      "patterns": [
@@ -17827,6 +18277,10 @@
       {
        "en": "The constant noise made it hard to study.",
        "zh": "持續的噪音讓人很難讀書。"
+      },
+      {
+       "en": "A constant flow of tourists visits the temple every weekend.",
+       "zh": "每個週末都有源源不絕的遊客來參觀這座廟。"
       }
      ],
      "patterns": [],
@@ -17853,6 +18307,10 @@
       {
        "en": "In this equation, x is a variable and five is a constant.",
        "zh": "在這個方程式中，x 是變數，而五是常數。"
+      },
+      {
+       "en": "The speed of light is a constant in many physics problems.",
+       "zh": "在許多物理問題中，光速是一個常數。"
       }
      ],
      "patterns": [],
@@ -17929,6 +18387,10 @@
       {
        "en": "Asia is the largest continent in the world.",
        "zh": "亞洲是世界上最大的洲。"
+      },
+      {
+       "en": "Africa is the second largest continent in the world.",
+       "zh": "非洲是世界上第二大的洲。"
       }
      ],
      "patterns": [],
@@ -18000,6 +18462,10 @@
       {
        "en": "Kevin used a game controller to play with his brother.",
        "zh": "Kevin 用遊戲控制器和弟弟一起玩。"
+      },
+      {
+       "en": "Please use the remote controller to change the channel.",
+       "zh": "請用遙控器轉換頻道。"
       }
      ],
      "patterns": [],
@@ -18026,6 +18492,10 @@
       {
        "en": "The air traffic controller guided the plane safely.",
        "zh": "航空交通管制員引導飛機安全飛行。"
+      },
+      {
+       "en": "A controller at the airport tells pilots when to take off.",
+       "zh": "機場的管制員會告訴飛行員何時起飛。"
       }
      ],
      "patterns": [],
@@ -18090,6 +18560,10 @@
       {
        "en": "My mother bought a rice cooker for the new kitchen.",
        "zh": "媽媽為新廚房買了一台電子鍋。"
+      },
+      {
+       "en": "We cooked soup in a slow cooker while we were at school.",
+       "zh": "我們去上學時，用慢燉鍋煮了一鍋湯。"
       }
      ],
      "patterns": [],
@@ -18169,6 +18643,10 @@
       {
        "en": "Repairing the old machine was costly for the small company.",
        "zh": "修理那台舊機器對小公司來說代價很高。"
+      },
+      {
+       "en": "Losing the game because of a careless mistake was very costly.",
+       "zh": "因為粗心的失誤而輸掉比賽，代價非常大。"
       }
      ],
      "patterns": [],
@@ -18242,6 +18720,10 @@
       {
        "en": "This shirt is made of soft cotton and feels comfortable.",
        "zh": "這件襯衫是柔軟的棉製成的，穿起來很舒服。"
+      },
+      {
+       "en": "Farmers in warm countries grow cotton in large fields.",
+       "zh": "溫暖國家的農夫在大片田地上種棉花。"
       }
      ],
      "patterns": [
@@ -18312,6 +18794,10 @@
       {
        "en": "Tom had a bad cough after catching a cold.",
        "zh": "Tom 感冒後咳得很嚴重。"
+      },
+      {
+       "en": "A dry cough kept me awake all night.",
+       "zh": "乾咳讓我整晚睡不著。"
       }
      ],
      "patterns": [
@@ -18344,6 +18830,10 @@
       {
        "en": "The child coughed after breathing in the dust.",
        "zh": "那個孩子吸入灰塵後咳嗽了。"
+      },
+      {
+       "en": "Please cover your mouth when you cough in class.",
+       "zh": "在教室裡咳嗽時，請摀住嘴巴。"
       }
      ],
      "patterns": [
@@ -18421,6 +18911,10 @@
       {
        "en": "Apple is a countable noun because we can say three apples.",
        "zh": "apple 是可數名詞，因為可以說 three apples。"
+      },
+      {
+       "en": "Chairs are countable nouns, but furniture is not.",
+       "zh": "椅子是可數名詞，但家具不是。"
       }
      ],
      "patterns": [
@@ -18515,6 +19009,10 @@
       {
        "en": "Her family lives in a quiet county near the coast.",
        "zh": "她的家人住在海岸附近一個安靜的郡。"
+      },
+      {
+       "en": "Each county in the state has its own local government.",
+       "zh": "州裡的每個郡都有自己的地方政府。"
       }
      ],
      "patterns": [],
@@ -18586,6 +19084,10 @@
       {
        "en": "We saw a small crab walking across the beach.",
        "zh": "我們看見一隻小螃蟹橫越沙灘。"
+      },
+      {
+       "en": "The chef cooked fresh crab with garlic and butter.",
+       "zh": "主廚用大蒜和奶油煮了新鮮的螃蟹。"
       }
      ],
      "patterns": [],
@@ -18610,8 +19112,12 @@
      "ext": "尋找並捕捉螃蟹 → 以螃蟹作為海邊活動或食物來源",
      "examples": [
       {
-       "en": "The children went crabbing with their grandfather.",
-       "zh": "孩子們和祖父一起去抓螃蟹。"
+       "en": "The children went crabbing with their grandfather at the beach.",
+       "zh": "孩子們和祖父一起到海邊抓螃蟹。"
+      },
+      {
+       "en": "We went crabbing at low tide and caught six crabs.",
+       "zh": "我們趁退潮去抓螃蟹，抓到了六隻。"
       }
      ],
      "patterns": [
@@ -18678,6 +19184,10 @@
       {
        "en": "The baby slept peacefully in her wooden cradle.",
        "zh": "嬰兒在木製搖籃裡安穩地睡著。"
+      },
+      {
+       "en": "Grandpa made a wooden cradle for his first grandson.",
+       "zh": "爺爺為他的第一個孫子做了一張木搖籃。"
       }
      ],
      "patterns": [],
@@ -18704,6 +19214,10 @@
       {
        "en": "She cradled the sleeping baby in her arms.",
        "zh": "她把熟睡的嬰兒輕輕抱在懷裡。"
+      },
+      {
+       "en": "The little girl cradled the kitten gently in her arms.",
+       "zh": "小女孩把小貓輕輕抱在懷裡。"
       }
      ],
      "patterns": [
@@ -18717,6 +19231,34 @@
       {
        "en": "cradle a baby",
        "zh": "輕抱嬰兒"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "發源地；搖籃",
+     "ext": "孕育嬰兒的搖籃 → 比喻文明或事物最早興起的地方",
+     "examples": [
+      {
+       "en": "Ancient Greece is often called the cradle of Western culture.",
+       "zh": "古希臘常被稱為西方文化的發源地。"
+      },
+      {
+       "en": "The river valley was the cradle of an early civilization.",
+       "zh": "這處河谷是早期文明的發源地。"
+      }
+     ],
+     "patterns": [
+      {
+       "pattern": "the cradle of + N",
+       "en": "This small town is the cradle of the country's music.",
+       "zh": "這座小鎮是這個國家音樂的發源地。"
+      }
+     ],
+     "collocations": [
+      {
+       "en": "the cradle of civilization",
+       "zh": "文明的發源地"
       }
      ]
     }
@@ -18793,8 +19335,8 @@
      "ext": "",
      "examples": [
       {
-       "en": "A crane stood quietly beside the river.",
-       "zh": "一隻鶴靜靜地站在河邊。"
+       "en": "A white crane stood quietly beside the river at dawn.",
+       "zh": "一隻白鶴在黎明時靜靜地站在河邊。"
       },
       {
        "en": "The crane lifted heavy boxes onto the truck.",
@@ -18817,6 +19359,10 @@
       {
        "en": "She craned her neck to see the stage.",
        "zh": "她伸長脖子想看清楚舞台。"
+      },
+      {
+       "en": "Tom craned forward to read the small words on the screen.",
+       "zh": "Tom 把身體往前探，想看清楚螢幕上的小字。"
       }
      ],
      "patterns": [
@@ -18891,6 +19437,10 @@
       {
        "en": "The crash blocked the road for an hour.",
        "zh": "這場車禍讓道路阻塞了一個小時。"
+      },
+      {
+       "en": "The crash happened at a busy crossing in the city center.",
+       "zh": "車禍發生在市中心一處繁忙的路口。"
       }
      ],
      "patterns": [],
@@ -18915,8 +19465,8 @@
        "zh": "我寫報告時電腦當機了。"
       },
       {
-       "en": "The small plane crashed near the airport.",
-       "zh": "那架小飛機在機場附近墜毀。"
+       "en": "The small plane crashed near the airport last night.",
+       "zh": "那架小飛機昨晚在機場附近墜毀。"
       }
      ],
      "patterns": [
@@ -19025,6 +19575,10 @@
       {
        "en": "Amy learned the crawl during her swimming lessons.",
        "zh": "Amy 在游泳課學會了自由式。"
+      },
+      {
+       "en": "The swimmer used the crawl to win the fifty-meter race.",
+       "zh": "那位游泳選手用自由式贏得了五十公尺的比賽。"
       }
      ],
      "patterns": [],
@@ -19076,6 +19630,10 @@
       {
        "en": "Our teacher gave us a creative way to review vocabulary.",
        "zh": "老師用有創意的方法帶我們複習單字。"
+      },
+      {
+       "en": "Amy is a creative student who always finds new ways to solve problems.",
+       "zh": "Amy 是個有創意的學生，總能找到解決問題的新方法。"
       }
      ],
      "patterns": [
@@ -19167,6 +19725,10 @@
       {
        "en": "The creator of the website added a new reading game.",
        "zh": "這個網站的創作者新增了一款閱讀遊戲。"
+      },
+      {
+       "en": "The creator of the game answered questions from young fans online.",
+       "zh": "那款遊戲的創作者在線上回答年輕粉絲的問題。"
       }
      ],
      "patterns": [
