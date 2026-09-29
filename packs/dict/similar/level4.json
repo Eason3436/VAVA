@@ -16724,6 +16724,1455 @@
     "en": "The water sparkled brightly in the morning sun.",
     "zh": "水面在晨光中閃閃發亮。"
    }
+  },
+  {
+   "a": "magnificent",
+   "b": "splendid",
+   "kind": "semantic",
+   "score": 0.723,
+   "aZh": "adj. 壯麗的；宏偉的",
+   "bZh": "adj. 極好的；壯麗的",
+   "diff": "magnificent 多形容外觀或景象宏偉、令人驚嘆；splendid 範圍較廣，可以表示極好、精彩，也可形容壯麗的景色。",
+   "points": [
+    "對象：magnificent 常形容建築、風景；splendid 也可形容表現、主意",
+    "語氣：兩者都較正式，magnificent 更強調宏大",
+    "搭配：a magnificent castle；a splendid idea、a splendid performance"
+   ],
+   "tip": "magnificent 是大而壯觀；splendid 是好得閃閃發亮。",
+   "exA": {
+    "en": "The magnificent castle stood on top of the hill.",
+    "zh": "那座壯麗的城堡矗立在山丘頂上。"
+   },
+   "exB": {
+    "en": "Jenny had a splendid idea for the class party.",
+    "zh": "Jenny 為班上的派對想到了一個絕妙的主意。"
+   }
+  },
+  {
+   "a": "divide",
+   "b": "split",
+   "kind": "semantic",
+   "score": 0.732,
+   "aZh": "v. 分開；分配；除",
+   "bZh": "v. 分開；拆分；n. 分歧",
+   "diff": "divide 是把整體按份或按類分成幾部分，也指數學的除法；split 是分開、裂開，常用於分攤費用，或團體出現分歧。",
+   "points": [
+    "用法：divide 常接 into；split 也接 into，並可指裂開",
+    "搭配：divide by two、divide into groups；split the bill、a split in the team",
+    "變化：split 的過去式和過去分詞都是 split；divide 是規則動詞"
+   ],
+   "tip": "divide 是分得整齊；split 是一刀分開。",
+   "exA": {
+    "en": "Please divide the class into four small groups.",
+    "zh": "請把全班分成四個小組。"
+   },
+   "exB": {
+    "en": "The friends split the bill equally after dinner.",
+    "zh": "朋友們在晚餐後平均分攤了帳單。"
+   }
+  },
+  {
+   "a": "steam",
+   "b": "stem",
+   "kind": "visual",
+   "score": 0.724,
+   "aZh": "n. 蒸氣；v. 蒸",
+   "bZh": "n. 莖；v. 源自",
+   "diff": "steam 是水蒸氣；stem 是植物的莖，也可作動詞表示源自。兩個字只差 a 和 m，發音也不同。",
+   "points": [
+    "意思：steam 是蒸氣；stem 是莖",
+    "發音：steam 是 /stiːm/；stem 是 /stɛm/",
+    "搭配：a steam engine、steam rice；stem from"
+   ],
+   "tip": "steam 有 ea，是長音 /iː/；stem 的 e 是短音。",
+   "exA": {
+    "en": "Steam rose from the hot soup on the table.",
+    "zh": "桌上熱湯冒出蒸氣。"
+   },
+   "exB": {
+    "en": "The stem of the flower was long and green.",
+    "zh": "那朵花的莖又長又綠。"
+   }
+  },
+  {
+   "a": "sock",
+   "b": "stocking",
+   "kind": "semantic",
+   "score": 0.42,
+   "aZh": "n. 短襪",
+   "bZh": "n. 長襪；女用長襪",
+   "diff": "sock 是較短的襪子，通常到腳踝或小腿；stocking 是較長、能包住小腿甚至大腿的長襪，多為女生穿。",
+   "points": [
+    "長度：sock 較短；stocking 較長",
+    "穿著：sock 男女都穿；stocking 多為女生",
+    "數量：兩者常用複數，說一雙用 a pair of"
+   ],
+   "tip": "sock 短短的；stocking 長長的。",
+   "exA": {
+    "en": "Tom wore two different socks to school by mistake.",
+    "zh": "Tom 不小心穿了兩隻不一樣的襪子去上學。"
+   },
+   "exB": {
+    "en": "Amy put on warm stockings before she went out.",
+    "zh": "Amy 出門前穿上了保暖的長襪。"
+   }
+  },
+  {
+   "a": "reinforce",
+   "b": "strengthen",
+   "kind": "semantic",
+   "score": 0.804,
+   "aZh": "v. 加強；強化",
+   "bZh": "v. 加強；使更堅強",
+   "diff": "strengthen 是使力量、關係、制度變強，適用範圍廣；reinforce 是在原有基礎上加固或再加強，如加固結構、加強論點。",
+   "points": [
+    "重點：reinforce 是加固、補強；strengthen 是變得更強",
+    "搭配：reinforce a wall、reinforce a message；strengthen muscles、strengthen a relationship",
+    "語氣：reinforce 較正式"
+   ],
+   "tip": "reinforce 是再加一層；strengthen 是把力量變大。",
+   "exA": {
+    "en": "Workers reinforced the old bridge with steel bars.",
+    "zh": "工人們用鋼筋加固了那座舊橋。"
+   },
+   "exB": {
+    "en": "Swimming can strengthen the muscles in your back.",
+    "zh": "游泳可以強化背部的肌肉。"
+   }
+  },
+  {
+   "a": "strive",
+   "b": "struggle",
+   "kind": "semantic",
+   "score": 0.703,
+   "aZh": "v. 努力；力求",
+   "bZh": "v. 努力；奮鬥；掙扎",
+   "diff": "strive 是朝著目標持續努力，語氣正面；struggle 強調在困難或阻力下費力奮鬥，也可指掙扎。",
+   "points": [
+    "語氣：strive 偏積極；struggle 強調艱難",
+    "句型：strive to V / strive for N；struggle to V / struggle with N",
+    "延伸：struggle 也是名詞，指奮鬥或掙扎"
+   ],
+   "tip": "strive 是往前追；struggle 是和困難搏鬥。",
+   "exA": {
+    "en": "Good teachers strive to make every lesson interesting.",
+    "zh": "好老師努力讓每堂課都有趣。"
+   },
+   "exB": {
+    "en": "Many students struggle with difficult math problems at home.",
+    "zh": "許多學生在家裡寫困難的數學題時很吃力。"
+   }
+  },
+  {
+   "a": "pat",
+   "b": "stroke",
+   "kind": "semantic",
+   "score": 0.514,
+   "aZh": "v./n. 輕拍",
+   "bZh": "v. 輕撫；撫摸",
+   "diff": "pat 是用手掌輕輕拍一下；stroke 是用手緩慢地來回輕撫。",
+   "points": [
+    "動作：pat 是拍；stroke 是撫",
+    "次數：pat 通常一下或幾下；stroke 是連續滑動",
+    "搭配：pat someone on the back；stroke a cat"
+   ],
+   "tip": "pat 是拍拍；stroke 是順著摸。",
+   "exA": {
+    "en": "The teacher patted Tom on the shoulder and smiled.",
+    "zh": "老師拍拍 Tom 的肩膀，笑了笑。"
+   },
+   "exB": {
+    "en": "Amy stroked the cat until it fell asleep.",
+    "zh": "Amy 一直輕撫那隻貓，直到牠睡著。"
+   }
+  },
+  {
+   "a": "marine",
+   "b": "submarine",
+   "kind": "semantic",
+   "score": 0.684,
+   "aZh": "adj. 海洋的；海事的",
+   "bZh": "n. 潛水艇；adj. 海底的",
+   "diff": "marine 是與海洋有關的，如海洋生物；submarine 是在海面下的，可指潛水艇或海底的事物。sub- 表示在下面。",
+   "points": [
+    "意思：marine 是海洋的；submarine 是海面下的",
+    "詞性：submarine 常作名詞（潛水艇）；marine 主要作形容詞",
+    "搭配：marine life；submarine cable"
+   ],
+   "tip": "sub- 是「在下面」；submarine 就是在海面下。",
+   "exA": {
+    "en": "Marine life is rich near the coral reef.",
+    "zh": "珊瑚礁附近的海洋生物很豐富。"
+   },
+   "exB": {
+    "en": "The submarine stayed under the sea for two weeks.",
+    "zh": "那艘潛水艇在海面下待了兩週。"
+   }
+  },
+  {
+   "a": "accuse",
+   "b": "sue",
+   "kind": "semantic",
+   "score": 0.389,
+   "aZh": "v. 指控；指責",
+   "bZh": "v. 控告；提起訴訟",
+   "diff": "accuse 是指責某人做了錯事，不一定進入法律程序；sue 是正式向法院提起民事訴訟，通常為了求償。",
+   "points": [
+    "程序：accuse 只是指責；sue 要上法院",
+    "句型：accuse + 人 + of + N / V-ing；sue + 人 + for + N",
+    "搭配：accuse him of lying；sue for damages"
+   ],
+   "tip": "accuse 用嘴指責；sue 用法律告人。",
+   "exA": {
+    "en": "The teacher accused Tom of copying the answers.",
+    "zh": "老師指控 Tom 抄答案。"
+   },
+   "exB": {
+    "en": "The customer sued the store for the injury.",
+    "zh": "那位顧客因為受傷而控告那家商店。"
+   }
+  },
+  {
+   "a": "advice",
+   "b": "suggestion",
+   "kind": "semantic",
+   "score": 0.76,
+   "aZh": "n. 建議；忠告",
+   "bZh": "n. 建議；提議",
+   "diff": "advice 是不可數名詞，指根據經驗給的忠告；suggestion 是可數名詞，指一個個提出供人考慮的想法。",
+   "points": [
+    "可數性：advice 不可數，不能說 an advice；suggestion 可數",
+    "語氣：advice 較有分量；suggestion 較輕、供參考",
+    "搭配：give advice、a piece of advice；make a suggestion"
+   ],
+   "tip": "說 an advice 是錯的；要說 a suggestion 或 a piece of advice。",
+   "exA": {
+    "en": "My teacher gave me some good advice about studying.",
+    "zh": "老師給了我一些關於讀書的好建議。"
+   },
+   "exB": {
+    "en": "Amy made a helpful suggestion about the class trip.",
+    "zh": "Amy 對班級旅行提出了一項有用的建議。"
+   }
+  },
+  {
+   "a": "surgeon",
+   "b": "surgery",
+   "kind": "visual",
+   "score": 0.696,
+   "aZh": "n. 外科醫師",
+   "bZh": "n. 外科手術",
+   "diff": "surgeon 是動手術的外科醫師；surgery 是外科手術，也指外科這個領域。兩個字前面相同，一個指人，一個指事。",
+   "points": [
+    "意思：surgeon 是人；surgery 是手術",
+    "字尾：-eon 結尾是人；-ery 結尾是手術這件事",
+    "搭配：a heart surgeon；have surgery"
+   ],
+   "tip": "surgeon 結尾的 on 像 person（人）；surgery 是這個人做的事。",
+   "exA": {
+    "en": "The surgeon explained the plan to the patient's family.",
+    "zh": "外科醫師向病人的家屬說明了手術計畫。"
+   },
+   "exB": {
+    "en": "Her grandfather will have surgery on his knee next month.",
+    "zh": "她爺爺下個月要動膝蓋的手術。"
+   }
+  },
+  {
+   "a": "environment",
+   "b": "surroundings",
+   "kind": "semantic",
+   "score": 0.727,
+   "aZh": "n. 環境",
+   "bZh": "n. 周遭環境",
+   "diff": "environment 指影響生活的整體環境，包括自然環境；surroundings 是某人或某地周圍看得到的實際環境，通常用複數。",
+   "points": [
+    "範圍：environment 可指自然、工作、學習環境；surroundings 指四周的景物",
+    "可數性：environment 可數也可不可數；surroundings 只用複數",
+    "搭配：protect the environment；in quiet surroundings"
+   ],
+   "tip": "surround 是包圍；surroundings 就是包圍你的東西。",
+   "exA": {
+    "en": "Plastic waste is harming the environment in the ocean.",
+    "zh": "塑膠垃圾正在傷害海洋的環境。"
+   },
+   "exB": {
+    "en": "She felt calm in the quiet surroundings of her grandmother's house.",
+    "zh": "在奶奶家安靜的環境裡，她覺得很平靜。"
+   }
+  },
+  {
+   "a": "influence",
+   "b": "sway",
+   "kind": "semantic",
+   "score": 0.779,
+   "aZh": "v./n. 影響",
+   "bZh": "v. 影響；左右；n. 影響力",
+   "diff": "influence 泛指對人事物產生影響，最常用；sway 常指左右別人的想法、決定，也可指搖擺。",
+   "points": [
+    "範圍：influence 範圍廣；sway 偏向左右意見",
+    "詞性：influence 可作名詞和動詞；sway 也可作名詞（影響力）",
+    "搭配：influence a decision、a good influence；sway public opinion"
+   ],
+   "tip": "influence 是一般的影響；sway 是把人往某一邊拉。",
+   "exA": {
+    "en": "Good friends can influence how you think and act.",
+    "zh": "好朋友會影響你的想法和行為。"
+   },
+   "exB": {
+    "en": "The speech swayed many voters to change their minds.",
+    "zh": "那場演講讓許多選民改變了想法。"
+   }
+  },
+  {
+   "a": "compassionate",
+   "b": "sympathetic",
+   "kind": "semantic",
+   "score": 0.799,
+   "aZh": "adj. 有同情心的；慈悲的",
+   "bZh": "adj. 有同情心的；體諒的；贊同的",
+   "diff": "compassionate 強調有深切的同情，並願意伸出援手；sympathetic 是能理解並體諒別人的感受，也可表示贊同某個想法。",
+   "points": [
+    "程度：compassionate 更深，會想幫助；sympathetic 是理解、體諒",
+    "延伸：sympathetic 也可指贊同，如 be sympathetic to an idea",
+    "搭配：a compassionate nurse；a sympathetic listener"
+   ],
+   "tip": "compassionate 會伸手幫忙；sympathetic 是先聽懂你的感受。",
+   "exA": {
+    "en": "The compassionate nurse stayed with the patient all night.",
+    "zh": "那位有愛心的護理師整晚陪著病人。"
+   },
+   "exB": {
+    "en": "Our teacher was sympathetic when I explained why I was late.",
+    "zh": "我說明遲到的原因時，老師很體諒我。"
+   }
+  },
+  {
+   "a": "pathetic",
+   "b": "sympathetic",
+   "kind": "visual",
+   "score": 0.75,
+   "aZh": "adj. 可憐的；差勁的",
+   "bZh": "adj. 有同情心的；體諒的",
+   "diff": "pathetic 形容令人同情或很差勁的事物；sympathetic 形容有同情心的人。兩個字都和 pathos（感受）有關，但一個是被同情的，一個是去同情的。",
+   "points": [
+    "方向：pathetic 是令人同情的；sympathetic 是有同情心的",
+    "語氣：pathetic 有時帶輕蔑，表示差勁",
+    "拼字：sympathetic 比 pathetic 多了 sym-"
+   ],
+   "tip": "多了 sym-（共同），sympathetic 就是能感同身受的人。",
+   "exA": {
+    "en": "The pathetic little puppy shook in the cold rain.",
+    "zh": "那隻可憐的小狗在冷雨中發抖。"
+   },
+   "exB": {
+    "en": "A sympathetic friend listened patiently to Amy's problem.",
+    "zh": "一位體諒她的朋友耐心地聽 Amy 說她的煩惱。"
+   }
+  },
+  {
+   "a": "mechanic",
+   "b": "technician",
+   "kind": "semantic",
+   "score": 0.544,
+   "aZh": "n. 修車技師；機械技師",
+   "bZh": "n. 技術人員；技師",
+   "diff": "mechanic 專指修理車輛或機械的人；technician 泛指操作、維修專業設備的技術人員，如實驗室、電腦、醫療設備。",
+   "points": [
+    "範圍：mechanic 偏機械與車；technician 範圍較廣",
+    "搭配：a car mechanic；a lab technician、a computer technician",
+    "背景：technician 常受過專業訓練"
+   ],
+   "tip": "mechanic 修機器；technician 管設備。",
+   "exA": {
+    "en": "The mechanic changed the tires on our car.",
+    "zh": "技師替我們的車換了輪胎。"
+   },
+   "exB": {
+    "en": "The lab technician cleaned the equipment after class.",
+    "zh": "實驗室技術人員在下課後清理了設備。"
+   }
+  },
+  {
+   "a": "microscope",
+   "b": "telescope",
+   "kind": "both",
+   "score": 0.5,
+   "aZh": "n. 顯微鏡",
+   "bZh": "n. 望遠鏡",
+   "diff": "microscope 用來看很小的東西，如細胞；telescope 用來看很遠的東西，如星星。兩個字結尾都是 -scope，表示觀看的器具。",
+   "points": [
+    "用途：microscope 看小；telescope 看遠",
+    "字首：micro- 是微小；tele- 是遠",
+    "字尾：-scope 表示觀看的器具"
+   ],
+   "tip": "micro 是小，tele 是遠：一個看小，一個看遠。",
+   "exA": {
+    "en": "We used a microscope to look at onion cells in science class.",
+    "zh": "上自然課時，我們用顯微鏡觀察洋蔥細胞。"
+   },
+   "exB": {
+    "en": "Amy looked at the moon through a telescope.",
+    "zh": "Amy 透過望遠鏡看月亮。"
+   }
+  },
+  {
+   "a": "tense",
+   "b": "tension",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "adj. 緊張的；n. 時態",
+   "bZh": "n. 緊張；張力",
+   "diff": "tense 是形容詞，表示緊張的、繃緊的，也是文法的時態；tension 是名詞，表示緊張狀態或拉力。",
+   "points": [
+    "詞性：tense 是形容詞（也可作動詞、名詞）；tension 是名詞",
+    "搭配：feel tense；reduce tension、tension between groups",
+    "字尾：-ion 結尾的 tension 是名詞"
+   ],
+   "tip": "tension 有 -ion，是名詞；tense 是描述狀態。",
+   "exA": {
+    "en": "Jenny felt tense before the English speech contest.",
+    "zh": "英語演講比賽前，Jenny 覺得很緊張。"
+   },
+   "exB": {
+    "en": "There was tension in the room before the results came out.",
+    "zh": "結果公布前，房間裡氣氛緊繃。"
+   }
+  },
+  {
+   "a": "stress",
+   "b": "tension",
+   "kind": "semantic",
+   "score": 0.74,
+   "aZh": "n. 壓力；緊張；v. 強調",
+   "bZh": "n. 緊張；張力",
+   "diff": "stress 指心理或身體承受的壓力，也可作動詞，表示強調；tension 指人際關係、氣氛或情緒上的緊繃，也指物理的拉力。",
+   "points": [
+    "來源：stress 是承受的壓力；tension 是繃緊的狀態",
+    "搭配：exam stress、reduce stress；tension between friends、ease the tension",
+    "延伸：stress 也是動詞，表示強調或重讀"
+   ],
+   "tip": "stress 是壓在身上的重量；tension 是被拉緊的線。",
+   "exA": {
+    "en": "Exam stress can make it hard to sleep.",
+    "zh": "考試壓力可能讓人難以入睡。"
+   },
+   "exB": {
+    "en": "There was some tension between the two teams before the game.",
+    "zh": "比賽前，兩支球隊之間有些緊張。"
+   }
+  },
+  {
+   "a": "fear",
+   "b": "terror",
+   "kind": "semantic",
+   "score": 0.671,
+   "aZh": "n. 害怕；恐懼；v. 害怕",
+   "bZh": "n. 恐懼；驚恐",
+   "diff": "fear 是最常見的害怕，程度可強可弱，也可以是擔心；terror 是強烈到令人驚慌的恐懼，多來自突然或可怕的事。",
+   "points": [
+    "程度：fear 輕重都可；terror 是極度恐懼",
+    "詞性：fear 也可作動詞；terror 只作名詞",
+    "搭配：fear of failure；in terror、a scream of terror"
+   ],
+   "tip": "fear 是一般的怕；terror 是怕到發抖。",
+   "exA": {
+    "en": "Tom has a fear of speaking in front of many people.",
+    "zh": "Tom 很怕在很多人面前說話。"
+   },
+   "exB": {
+    "en": "The child screamed in terror when the thunder cracked.",
+    "zh": "雷聲炸開時，那個孩子驚恐地尖叫。"
+   }
+  },
+  {
+   "a": "theme",
+   "b": "topic",
+   "kind": "semantic",
+   "score": 0.774,
+   "aZh": "n. 主題；題旨",
+   "bZh": "n. 主題；話題",
+   "diff": "topic 是談話或文章的題目、話題；theme 是作品或活動要表達的中心思想或主軸。",
+   "points": [
+    "層次：topic 是談什麼；theme 是想表達什麼",
+    "搭配：a topic for discussion；the theme of a story、a party theme",
+    "延伸：theme 也指活動的主題設定"
+   ],
+   "tip": "topic 是題目；theme 是題目背後的中心思想。",
+   "exA": {
+    "en": "The theme of the story is friendship and courage.",
+    "zh": "這個故事的主題是友情與勇氣。"
+   },
+   "exB": {
+    "en": "Today's topic in our English class is healthy eating.",
+    "zh": "今天英文課的話題是健康飲食。"
+   }
+  },
+  {
+   "a": "thorough",
+   "b": "through",
+   "kind": "visual",
+   "score": 0.777,
+   "aZh": "adj. 徹底的；仔細的",
+   "bZh": "prep. 穿過；經由",
+   "diff": "thorough 是形容詞，表示徹底、仔細的；through 是介系詞，表示穿過或經由。thorough 是 through 的早期變體，兩個字拼法很像。",
+   "points": [
+    "詞性：thorough 是形容詞；through 是介系詞或副詞",
+    "發音：thorough 是 /ˈθɜroʊ/；through 是 /θruː/",
+    "搭配：a thorough check；walk through the park"
+   ],
+   "tip": "thorough 比 through 多一個 o，多一份仔細。",
+   "exA": {
+    "en": "The doctor gave Grandpa a thorough check-up last week.",
+    "zh": "醫師上週替爺爺做了徹底的健康檢查。"
+   },
+   "exB": {
+    "en": "We walked through the park on our way home after school.",
+    "zh": "放學回家的路上，我們穿過公園。"
+   }
+  },
+  {
+   "a": "considerate",
+   "b": "thoughtful",
+   "kind": "semantic",
+   "score": 0.714,
+   "aZh": "adj. 體貼的；替人著想的",
+   "bZh": "adj. 體貼的；深思熟慮的",
+   "diff": "considerate 專指替別人著想、顧慮他人感受；thoughtful 也可以體貼，還可以指經過仔細思考的。",
+   "points": [
+    "範圍：considerate 只指體貼；thoughtful 還指深思",
+    "搭配：a considerate neighbor；a thoughtful gift、a thoughtful answer",
+    "句型：It is considerate / thoughtful of + 人 + to V"
+   ],
+   "tip": "considerate 想到別人；thoughtful 想得周到。",
+   "exA": {
+    "en": "It was considerate of Amy to keep her voice down in the library.",
+    "zh": "Amy 在圖書館裡壓低音量，真是體貼。"
+   },
+   "exB": {
+    "en": "Tom gave his mother a thoughtful gift for her birthday.",
+    "zh": "Tom 送了媽媽一份貼心的生日禮物。"
+   }
+  },
+  {
+   "a": "pickle",
+   "b": "tickle",
+   "kind": "visual",
+   "score": 0.769,
+   "aZh": "n. 醃黃瓜；困境",
+   "bZh": "v. 搔癢；n. 癢感",
+   "diff": "pickle 是醃黃瓜，也比喻困境；tickle 是搔癢。兩個字只差第一個字母，但意思完全不同。",
+   "points": [
+    "意思：pickle 是醃漬物；tickle 是搔癢",
+    "拼字：只差 p 和 t",
+    "搭配：a jar of pickles、in a pickle；tickle someone's feet"
+   ],
+   "tip": "tickle 裡有 tick（輕點）；pickle 是罐子裡的醃菜。",
+   "exA": {
+    "en": "There were pickles and onions on the plate next to my sandwich.",
+    "zh": "我的三明治旁邊的盤子上有醃黃瓜和洋蔥。"
+   },
+   "exB": {
+    "en": "The feather tickled my nose and made me sneeze.",
+    "zh": "羽毛搔得我鼻子癢，讓我打了噴嚏。"
+   }
+  },
+  {
+   "a": "schedule",
+   "b": "timetable",
+   "kind": "semantic",
+   "score": 0.671,
+   "aZh": "n. 時間表；行程表；v. 安排",
+   "bZh": "n. 時間表；課表",
+   "diff": "schedule 是美式常用，指預定要做的事和時間安排，也可作動詞；timetable 是英式常用，指列出課程或交通時間的表格。",
+   "points": [
+    "用法：schedule 也可作動詞；timetable 主要作名詞",
+    "英美：timetable 較常見於英式英文，schedule 較常見於美式",
+    "搭配：a busy schedule；a train timetable、a school timetable"
+   ],
+   "tip": "timetable 就是把時間（time）排在表（table）上。",
+   "exA": {
+    "en": "My schedule is full this week, so I cannot join you.",
+    "zh": "我這週的行程滿了，所以不能跟你們一起去。"
+   },
+   "exB": {
+    "en": "The train timetable shows the last train leaves at eleven.",
+    "zh": "火車時刻表顯示末班車十一點開。"
+   }
+  },
+  {
+   "a": "shy",
+   "b": "timid",
+   "kind": "semantic",
+   "score": 0.576,
+   "aZh": "adj. 害羞的；怕生的",
+   "bZh": "adj. 膽怯的；害羞的",
+   "diff": "shy 是不習慣與人互動、怕生害羞，很常用；timid 是缺乏勇氣、膽小，不敢冒險或面對事情。",
+   "points": [
+    "原因：shy 是怕與人接觸；timid 是怕冒險",
+    "語氣：shy 較中性；timid 較帶有膽怯",
+    "搭配：a shy smile；a timid animal"
+   ],
+   "tip": "shy 是怕生；timid 是膽小。",
+   "exA": {
+    "en": "Amy is shy, so she rarely speaks in front of new people.",
+    "zh": "Amy 很害羞，所以很少在陌生人面前說話。"
+   },
+   "exB": {
+    "en": "The timid boy was afraid to try the high slide at the playground.",
+    "zh": "那個膽小的男孩不敢玩遊樂場的高溜滑梯。"
+   }
+  },
+  {
+   "a": "tolerable",
+   "b": "tolerant",
+   "kind": "visual",
+   "score": 0.668,
+   "aZh": "adj. 可忍受的；尚可接受的",
+   "bZh": "adj. 寬容的；容忍的",
+   "diff": "tolerable 形容事物還可以忍受；tolerant 形容人能容忍不同的意見或行為。兩個字都來自 tolerate，只是字尾不同。",
+   "points": [
+    "對象：tolerable 形容情況、痛苦；tolerant 形容人",
+    "字尾：-able 是可以被容忍的；-ant 是能容忍別人的",
+    "搭配：a tolerable level；be tolerant of differences"
+   ],
+   "tip": "-able 是「可被容忍」，-ant 是「會容忍別人」。",
+   "exA": {
+    "en": "After he took some medicine, the pain became tolerable.",
+    "zh": "他吃了藥之後，疼痛變得可以忍受了。"
+   },
+   "exB": {
+    "en": "A tolerant person listens to opinions that are different from his own.",
+    "zh": "寬容的人會聽取和自己不同的意見。"
+   }
+  },
+  {
+   "a": "bear",
+   "b": "tolerate",
+   "kind": "semantic",
+   "score": 0.695,
+   "aZh": "v. 忍受；承受；n. 熊",
+   "bZh": "v. 容忍；忍受",
+   "diff": "bear 是承受痛苦、重量或責任，常用在否定句；tolerate 是容許不喜歡的事持續存在，不加阻止。",
+   "points": [
+    "重點：bear 是忍受、承受；tolerate 是容許存在",
+    "搭配：can't bear the noise；won't tolerate cheating",
+    "延伸：bear 還可指負擔、生育，也是名詞「熊」"
+   ],
+   "tip": "bear 是扛住；tolerate 是不阻止。",
+   "exA": {
+    "en": "I cannot bear the loud noise from the construction site.",
+    "zh": "我受不了工地傳來的巨大噪音。"
+   },
+   "exB": {
+    "en": "Our school will not tolerate cheating on exams.",
+    "zh": "我們學校不容許考試作弊。"
+   }
+  },
+  {
+   "a": "tortoise",
+   "b": "turtle",
+   "kind": "semantic",
+   "score": 0.437,
+   "aZh": "n. 陸龜",
+   "bZh": "n. 烏龜；海龜",
+   "diff": "tortoise 指住在陸地上的龜，殼厚而高，走得慢；turtle 泛指龜類，尤其是住在水中或海裡的種類。",
+   "points": [
+    "環境：tortoise 住陸地；turtle 多住水中",
+    "外形：tortoise 腳粗、殼高；turtle 腳像鰭或蹼",
+    "用法：turtle 範圍更廣，美式英文常用來泛稱各種龜"
+   ],
+   "tip": "tortoise 在陸地慢慢爬；turtle 會游泳。",
+   "exA": {
+    "en": "A tortoise can live on land and eats grass and leaves.",
+    "zh": "陸龜生活在陸地上，吃草和樹葉。"
+   },
+   "exB": {
+    "en": "A sea turtle swims thousands of kilometers each year.",
+    "zh": "海龜每年游數千公里。"
+   }
+  },
+  {
+   "a": "torment",
+   "b": "torture",
+   "kind": "semantic",
+   "score": 0.974,
+   "aZh": "n./v. 痛苦；折磨",
+   "bZh": "n./v. 折磨；痛苦",
+   "diff": "兩個字都是折磨；torture 強調造成極大身心痛苦，可指肉體上的折磨，也可誇張說很難熬的事；torment 多指持續的精神煎熬，語氣較正式。",
+   "points": [
+    "重點：torment 偏精神煎熬；torture 也可指肉體折磨",
+    "語氣：torment 較正式；torture 較口語，也能誇張",
+    "搭配：the torment of guilt；waiting was torture"
+   ],
+   "tip": "torture 是身心都難熬；torment 是心裡一直煎熬。",
+   "exA": {
+    "en": "Guilt tormented him for weeks after the mistake.",
+    "zh": "犯錯之後，罪惡感折磨了他好幾個星期。"
+   },
+   "exB": {
+    "en": "The long wait in the heat was pure torture.",
+    "zh": "在大太陽下久等，簡直是折磨。"
+   }
+  },
+  {
+   "a": "disaster",
+   "b": "tragedy",
+   "kind": "semantic",
+   "score": 0.446,
+   "aZh": "n. 災難；大失敗",
+   "bZh": "n. 悲劇；不幸事件",
+   "diff": "disaster 強調造成嚴重破壞或損失的災難，也可指大失敗；tragedy 強調帶來深切悲傷的不幸事件，也指悲劇作品。",
+   "points": [
+    "重點：disaster 是破壞與損失；tragedy 是悲傷與不幸",
+    "延伸：disaster 也可口語指糟糕的結果；tragedy 也指戲劇",
+    "搭配：a natural disaster；a family tragedy"
+   ],
+   "tip": "disaster 看損失多大；tragedy 看多令人悲傷。",
+   "exA": {
+    "en": "The typhoon was a disaster for the small fishing village.",
+    "zh": "那場颱風對這個小漁村來說是一場災難。"
+   },
+   "exB": {
+    "en": "The sudden death of the young singer was a tragedy.",
+    "zh": "這位年輕歌手的猝逝是一場悲劇。"
+   }
+  },
+  {
+   "a": "transfer",
+   "b": "transform",
+   "kind": "visual",
+   "score": 0.712,
+   "aZh": "v. 轉移；轉交；轉學",
+   "bZh": "v. 使改變；使轉變",
+   "diff": "transfer 是把人或物從一處移到另一處；transform 是改變形狀、性質或狀態。兩個字字首都是 trans-，容易看錯。",
+   "points": [
+    "重點：transfer 是換位置；transform 是換樣子",
+    "搭配：transfer money、transfer to a new school；transform A into B",
+    "字根：-fer- 是搬運；-form 是形狀"
+   ],
+   "tip": "transfer 有 fer（搬運）；transform 有 form（形狀）。",
+   "exA": {
+    "en": "Amy transferred all the photos from her phone to her laptop.",
+    "zh": "Amy 把手機裡所有的照片轉到她的筆電。"
+   },
+   "exB": {
+    "en": "The artist transformed old bottles into colorful lamps.",
+    "zh": "藝術家把舊瓶子改造成彩色的燈。"
+   }
+  },
+  {
+   "a": "transfer",
+   "b": "translate",
+   "kind": "visual",
+   "score": 0.59,
+   "aZh": "v. 轉移；轉交；轉學",
+   "bZh": "v. 翻譯；轉化",
+   "diff": "transfer 是把人或物移到別處；translate 是把一種語言譯成另一種，也可指把想法轉化成行動。",
+   "points": [
+    "重點：transfer 是移動；translate 是翻譯",
+    "句型：transfer A to B；translate A into B",
+    "介系詞：transfer 用 to；translate 用 into"
+   ],
+   "tip": "轉到（to）別處用 transfer；譯成（into）別種語言用 translate。",
+   "exA": {
+    "en": "Tom transferred to a new school last year.",
+    "zh": "Tom 去年轉到了一所新學校。"
+   },
+   "exB": {
+    "en": "Jenny translated the poem into English for her friend.",
+    "zh": "Jenny 把那首詩翻成英文給她的朋友看。"
+   }
+  },
+  {
+   "a": "convert",
+   "b": "transform",
+   "kind": "semantic",
+   "score": 0.75,
+   "aZh": "v. 轉換；改變；兌換",
+   "bZh": "v. 使改變；使轉變",
+   "diff": "convert 是把用途、形式、單位轉成另一種，過程通常有方法；transform 強調外觀或性質徹底改變，幅度較大。",
+   "points": [
+    "程度：convert 是轉換形式；transform 是徹底改變",
+    "搭配：convert a file、convert dollars；transform a city",
+    "用法：convert 也可指改變信仰或用途"
+   ],
+   "tip": "convert 換形式；transform 換面貌。",
+   "exA": {
+    "en": "This app can convert a photo file into a PDF.",
+    "zh": "這個應用程式可以把照片檔轉成 PDF。"
+   },
+   "exB": {
+    "en": "The new park transformed the empty lot into a lively place.",
+    "zh": "新公園把那塊空地變成了一個熱鬧的地方。"
+   }
+  },
+  {
+   "a": "transition",
+   "b": "translation",
+   "kind": "visual",
+   "score": 0.809,
+   "aZh": "n. 轉變；過渡",
+   "bZh": "n. 翻譯；譯文",
+   "diff": "transition 是從一個階段或狀態轉到另一個的過程；translation 是把一種語言譯成另一種。兩個字都以 trans- 開頭、-tion 結尾，容易看錯。",
+   "points": [
+    "意思：transition 是過渡；translation 是翻譯",
+    "字源：transition 是「走過去」；translation 是「搬過去」",
+    "搭配：a smooth transition；a translation of a book"
+   ],
+   "tip": "transi- 是走過去；transla- 是搬過去。",
+   "exA": {
+    "en": "The move to high school was a big transition for Kevin.",
+    "zh": "升上高中對 Kevin 來說是很大的轉變。"
+   },
+   "exB": {
+    "en": "This English translation of the poem is very beautiful.",
+    "zh": "這首詩的英文翻譯非常優美。"
+   }
+  },
+  {
+   "a": "transport",
+   "b": "transportation",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "n. 運輸；交通工具；v. 運送",
+   "bZh": "n. 交通；運輸",
+   "diff": "兩個字都指運輸；transportation 是美式常用名詞，指交通系統或運輸方式；transport 是英式常用名詞，也常作動詞，表示運送。",
+   "points": [
+    "詞性：transport 可作動詞；transportation 只作名詞",
+    "英美：transportation 多見於美式；transport 多見於英式",
+    "搭配：public transportation、public transport；transport goods"
+   ],
+   "tip": "要說運送用 transport；說交通系統用 transportation。",
+   "exA": {
+    "en": "Trucks transport fresh vegetables to the city every morning.",
+    "zh": "卡車每天早上把新鮮蔬菜運到城市裡。"
+   },
+   "exB": {
+    "en": "Public transportation in Taipei is fast and convenient.",
+    "zh": "台北的大眾運輸又快又方便。"
+   }
+  },
+  {
+   "a": "shiver",
+   "b": "tremble",
+   "kind": "semantic",
+   "score": 0.88,
+   "aZh": "v./n. 發抖；顫抖",
+   "bZh": "v./n. 顫抖；發抖",
+   "diff": "shiver 多指因寒冷或害怕而短暫發抖；tremble 範圍更廣，可因害怕、生氣、興奮、緊張而不自主顫動，也可形容聲音或大地。",
+   "points": [
+    "原因：shiver 常因寒冷；tremble 原因較多",
+    "程度：tremble 可指較明顯、持續的顫動",
+    "搭配：shiver in the cold；tremble with fear、a voice trembles"
+   ],
+   "tip": "冷到抖用 shiver；心情激動而抖用 tremble。",
+   "exA": {
+    "en": "We shivered in the cold wind while waiting for the bus.",
+    "zh": "我們在寒風中等公車，冷得發抖。"
+   },
+   "exB": {
+    "en": "Her hands trembled with excitement when she opened the letter.",
+    "zh": "她打開信時，雙手興奮得發抖。"
+   }
+  },
+  {
+   "a": "enormous",
+   "b": "tremendous",
+   "kind": "semantic",
+   "score": 0.781,
+   "aZh": "adj. 巨大的；極大的",
+   "bZh": "adj. 極大的；驚人的",
+   "diff": "enormous 強調尺寸或數量非常大；tremendous 強調程度、規模或成果驚人，語氣更有力，常形容努力、成功、進步。",
+   "points": [
+    "重點：enormous 是大；tremendous 是驚人的大",
+    "搭配：an enormous amount of money；tremendous effort、tremendous success",
+    "語氣：tremendous 較主觀、強烈"
+   ],
+   "tip": "enormous 看大小；tremendous 看令人驚訝的程度。",
+   "exA": {
+    "en": "The whale is an enormous animal that lives in the ocean.",
+    "zh": "鯨魚是生活在海洋裡的巨大動物。"
+   },
+   "exB": {
+    "en": "Amy made tremendous progress in math this term.",
+    "zh": "Amy 這學期的數學進步非常多。"
+   }
+  },
+  {
+   "a": "triumph",
+   "b": "victory",
+   "kind": "semantic",
+   "score": 0.943,
+   "aZh": "n. 勝利；成功；v. 獲勝",
+   "bZh": "n. 勝利；成功",
+   "diff": "victory 是在比賽、戰爭或競爭中獲勝，最常用；triumph 強調克服困難後獲得的重大成功，帶有喜悅與成就感，也可作動詞。",
+   "points": [
+    "範圍：victory 常指比賽勝負；triumph 常指克服困難的成功",
+    "語氣：triumph 更強調成就與喜悅",
+    "詞性：triumph 也可作動詞（triumph over）；victory 只作名詞"
+   ],
+   "tip": "victory 看勝負；triumph 看成就感。",
+   "exA": {
+    "en": "Finishing the marathon was a personal triumph for Amy.",
+    "zh": "跑完馬拉松，對 Amy 來說是個人的一大成就。"
+   },
+   "exB": {
+    "en": "Our team celebrated its victory in the basketball final.",
+    "zh": "我們的球隊慶祝籃球決賽的勝利。"
+   }
+  },
+  {
+   "a": "stumble",
+   "b": "tumble",
+   "kind": "semantic",
+   "score": 0.849,
+   "aZh": "v. 絆倒；踉蹌；結巴",
+   "bZh": "v. 跌倒；翻滾；暴跌",
+   "diff": "stumble 是腳被絆到而失去平衡，通常沒有真正倒下；tumble 是跌倒、翻滾，或價格快速下降。",
+   "points": [
+    "程度：stumble 是踉蹌；tumble 是跌落、翻滾",
+    "延伸：stumble 也指說話結巴；tumble 也指價格暴跌",
+    "搭配：stumble over a rock；tumble down the stairs"
+   ],
+   "tip": "stumble 是絆一下；tumble 是滾下去。",
+   "exA": {
+    "en": "Tom stumbled over a rock but did not fall.",
+    "zh": "Tom 被石頭絆了一下，但沒有跌倒。"
+   },
+   "exB": {
+    "en": "The little boy tumbled down the grassy hill and laughed.",
+    "zh": "那個小男孩從長滿草的小山坡滾下去，還笑了起來。"
+   }
+  },
+  {
+   "a": "branch",
+   "b": "twig",
+   "kind": "semantic",
+   "score": 0.548,
+   "aZh": "n. 樹枝；分店；v. 分岔",
+   "bZh": "n. 細枝；小樹枝",
+   "diff": "branch 是從樹幹長出的較大枝條，也可指分店、分支；twig 是更細小的樹枝。",
+   "points": [
+    "粗細：branch 較粗；twig 很細",
+    "延伸：branch 也指分店、分部、分支",
+    "搭配：a tree branch、a branch of a bank；dry twigs"
+   ],
+   "tip": "twig 是 branch 上更細的小枝。",
+   "exA": {
+    "en": "A big branch fell from the tree during the storm.",
+    "zh": "暴風雨時，樹上掉下一根大樹枝。"
+   },
+   "exB": {
+    "en": "The bird carried a twig to its nest.",
+    "zh": "那隻鳥叼著一根小樹枝飛回牠的巢。"
+   }
+  },
+  {
+   "a": "urge",
+   "b": "urgent",
+   "kind": "visual",
+   "score": 0.672,
+   "aZh": "v. 力勸；n. 強烈慾望",
+   "bZh": "adj. 緊急的；急迫的",
+   "diff": "urge 是動詞或名詞，表示強烈勸人做某事，或心裡的衝動；urgent 是形容詞，表示事情緊急。兩個字同源，都有「催促」的意思。",
+   "points": [
+    "詞性：urge 是動詞、名詞；urgent 是形容詞",
+    "句型：urge + 人 + to V；an urgent message",
+    "名詞：urgent 的名詞是 urgency"
+   ],
+   "tip": "urgent 的 -ent 是形容詞；urge 是動詞。",
+   "exA": {
+    "en": "The teacher urged us to hand in our homework on time.",
+    "zh": "老師催促我們準時交作業。"
+   },
+   "exB": {
+    "en": "The school sent an urgent message about the typhoon.",
+    "zh": "學校發出一則關於颱風的緊急通知。"
+   }
+  },
+  {
+   "a": "usage",
+   "b": "use",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "n. 用法；使用方式",
+   "bZh": "n. 使用；用途；v. 使用",
+   "diff": "use 是最常用的「使用、用途」，也可作動詞；usage 是名詞，指使用的方式或某個字的用法，也可指使用量。",
+   "points": [
+    "詞性：use 可作動詞和名詞；usage 只作名詞",
+    "重點：use 是使用的行為或用途；usage 是使用的方式、習慣",
+    "搭配：the use of a computer；word usage、water usage"
+   ],
+   "tip": "usage 多了 -age，指使用的方式和用量。",
+   "exA": {
+    "en": "Good dictionaries explain the usage of each word with examples.",
+    "zh": "好的字典會用例句說明每個字的用法。"
+   },
+   "exB": {
+    "en": "The use of phones in class is not allowed.",
+    "zh": "上課時不可以使用手機。"
+   }
+  },
+  {
+   "a": "vacancy",
+   "b": "vacant",
+   "kind": "visual",
+   "score": 0.718,
+   "aZh": "n. 空缺；空房",
+   "bZh": "adj. 空著的；空缺的",
+   "diff": "vacancy 是名詞，指空缺的職位或空房；vacant 是形容詞，表示空著的、沒人使用。",
+   "points": [
+    "詞性：vacancy 是名詞；vacant 是形容詞",
+    "搭配：a job vacancy、no vacancy；a vacant seat",
+    "句型：a vacancy for + 職位"
+   ],
+   "tip": "-cy 結尾的 vacancy 是名詞；-t 結尾的 vacant 是形容詞。",
+   "exA": {
+    "en": "There is a vacancy for a cashier at the bookstore.",
+    "zh": "這家書店有一個收銀員的職缺。"
+   },
+   "exB": {
+    "en": "Is this seat vacant, or is someone sitting here?",
+    "zh": "這個位子是空的，還是有人坐？"
+   }
+  },
+  {
+   "a": "vacancy",
+   "b": "vacation",
+   "kind": "visual",
+   "score": 0.554,
+   "aZh": "n. 空缺；空房",
+   "bZh": "n. 假期；休假",
+   "diff": "vacancy 是空缺的職位或空房；vacation 是假期。兩個字開頭都是 vaca-，都來自「空著」的意思，但用法不同。",
+   "points": [
+    "意思：vacancy 是空缺；vacation 是假期",
+    "拼字：vacancy 結尾是 -ancy；vacation 結尾是 -ation",
+    "搭配：a job vacancy；summer vacation"
+   ],
+   "tip": "vacation 是把工作放空的假期；vacancy 是空出來的位子。",
+   "exA": {
+    "en": "The company advertised a vacancy for a designer.",
+    "zh": "那家公司刊登了一個設計師的職缺。"
+   },
+   "exB": {
+    "en": "We went to the beach for our summer vacation.",
+    "zh": "我們暑假去了海邊。"
+   }
+  },
+  {
+   "a": "vain",
+   "b": "vein",
+   "kind": "visual",
+   "score": 0.678,
+   "aZh": "adj. 徒勞的；自負的",
+   "bZh": "n. 靜脈；葉脈；礦脈",
+   "diff": "vain 和 vein 發音相同，都是 /veɪn/。vain 是徒勞的或愛慕虛榮的；vein 是靜脈、葉脈或礦脈。",
+   "points": [
+    "意思：vain 是徒勞、自負；vein 是血管、葉脈",
+    "發音：兩個字讀音相同",
+    "搭配：in vain；a blood vein、the veins of a leaf"
+   ],
+   "tip": "in vain（徒勞）常一起出現；vein 和血管、葉脈有關。",
+   "exA": {
+    "en": "They searched in vain for the lost key.",
+    "zh": "他們白白找了很久，還是找不到那把遺失的鑰匙。"
+   },
+   "exB": {
+    "en": "The nurse found a vein in his arm.",
+    "zh": "護理師在他的手臂上找到一條靜脈。"
+   }
+  },
+  {
+   "a": "vegetable",
+   "b": "vegetarian",
+   "kind": "visual",
+   "score": 0.606,
+   "aZh": "n. 蔬菜",
+   "bZh": "n. 素食者；adj. 素食的",
+   "diff": "vegetable 是蔬菜；vegetarian 是不吃肉的人，或素食的。vegetarian 和 vegetable 有關，但結尾不同。",
+   "points": [
+    "意思：vegetable 是蔬菜；vegetarian 是素食者",
+    "拼字：vegetable 結尾是 -able；vegetarian 結尾是 -arian",
+    "搭配：fresh vegetables；a vegetarian meal"
+   ],
+   "tip": "vegetarian 是以蔬菜為主要食物的人。",
+   "exA": {
+    "en": "Amy eats a lot of vegetables every day.",
+    "zh": "Amy 每天吃很多蔬菜。"
+   },
+   "exB": {
+    "en": "My cousin is a vegetarian and does not eat meat.",
+    "zh": "我表哥是素食者，不吃肉。"
+   }
+  },
+  {
+   "a": "ship",
+   "b": "vessel",
+   "kind": "semantic",
+   "score": 0.608,
+   "aZh": "n. 船；v. 運送",
+   "bZh": "n. 船；容器；血管",
+   "diff": "ship 是最常用的「船」，通常指大船；vessel 是較正式的字，可泛指各種船隻，也可指容器或血管。",
+   "points": [
+    "語氣：ship 較日常；vessel 較正式",
+    "範圍：vessel 也指容器和血管",
+    "搭配：a cruise ship；a fishing vessel、blood vessels"
+   ],
+   "tip": "說船兩個字都可以，但血管只能用 vessel。",
+   "exA": {
+    "en": "The ship left the port early in the morning.",
+    "zh": "那艘船一大早就離開了港口。"
+   },
+   "exB": {
+    "en": "Blood vessels carry blood to every part of the body.",
+    "zh": "血管把血液送到身體的每個部位。"
+   }
+  },
+  {
+   "a": "violate",
+   "b": "violent",
+   "kind": "visual",
+   "score": 0.631,
+   "aZh": "v. 違反；侵犯",
+   "bZh": "adj. 暴力的；猛烈的",
+   "diff": "violate 是動詞，表示違反規則或侵犯權利；violent 是形容詞，表示暴力的、猛烈的。兩個字都和 violence 有關，拼字只差字尾。",
+   "points": [
+    "詞性：violate 是動詞；violent 是形容詞",
+    "搭配：violate the law；a violent storm、violent behavior",
+    "名詞：violate 對應 violation；violent 對應 violence"
+   ],
+   "tip": "violate（-ate）是動詞，違反；violent（-ent）是形容詞，暴力的。",
+   "exA": {
+    "en": "Drivers who violate traffic laws may pay a fine.",
+    "zh": "違反交通規則的駕駛人可能要繳罰款。"
+   },
+   "exB": {
+    "en": "A violent storm hit the coast last night.",
+    "zh": "昨晚一場猛烈的暴風雨襲擊了海岸。"
+   }
+  },
+  {
+   "a": "offense",
+   "b": "violation",
+   "kind": "semantic",
+   "score": 0.524,
+   "aZh": "n. 違規；罪行；冒犯",
+   "bZh": "n. 違反；侵犯",
+   "diff": "violation 是違反規則、法律或權利這個行為；offense 是被視為犯法或違規的行為，也可指冒犯。",
+   "points": [
+    "重點：violation 強調違反某條規定；offense 強調構成過錯或犯罪",
+    "句型：a violation of + 規定；an offense against + 法律",
+    "搭配：a traffic violation、a serious offense"
+   ],
+   "tip": "violation 是「違反了什麼」；offense 是「犯了什麼過錯」。",
+   "exA": {
+    "en": "Stealing from a shop is a criminal offense.",
+    "zh": "在商店偷東西是犯罪行為。"
+   },
+   "exB": {
+    "en": "Driving through a red light is a traffic violation.",
+    "zh": "闖紅燈是交通違規。"
+   }
+  },
+  {
+   "a": "essential",
+   "b": "vital",
+   "kind": "semantic",
+   "score": 0.384,
+   "aZh": "adj. 必要的；不可或缺的",
+   "bZh": "adj. 至關重要的；維持生命的",
+   "diff": "essential 指必須具備、不可少的，常用於條件、物品；vital 語氣更強，指關係重大，甚至攸關生命。",
+   "points": [
+    "程度：vital 比 essential 更強",
+    "對象：essential 常接 skills、items；vital 常接 role、information",
+    "搭配：essential for success；vital to health"
+   ],
+   "tip": "vital 來自 vita（生命），是生死攸關的。",
+   "exA": {
+    "en": "A good dictionary is essential for learning English.",
+    "zh": "要學好英文，一本好字典是必備的。"
+   },
+   "exB": {
+    "en": "Clean water is vital for all living things.",
+    "zh": "乾淨的水對所有生物都至關重要。"
+   }
+  },
+  {
+   "a": "voluntary",
+   "b": "volunteer",
+   "kind": "visual",
+   "score": 0.695,
+   "aZh": "adj. 自願的；義務的",
+   "bZh": "n. 志工；v. 自願做",
+   "diff": "voluntary 是形容詞，表示出於自願的；volunteer 是名詞，指志工，也可作動詞，表示自願去做。",
+   "points": [
+    "詞性：voluntary 是形容詞；volunteer 是名詞和動詞",
+    "句型：volunteer to V；voluntary work",
+    "搭配：voluntary service；a volunteer at the library"
+   ],
+   "tip": "-ary 結尾是形容詞；-eer 結尾是人或動作（像 engineer）。",
+   "exA": {
+    "en": "She did voluntary work at the animal shelter every Saturday.",
+    "zh": "她每個星期六都在動物收容所做志工。"
+   },
+   "exB": {
+    "en": "Kevin volunteered to clean the classroom after school.",
+    "zh": "Kevin 自願在放學後打掃教室。"
+   }
+  },
+  {
+   "a": "offer",
+   "b": "volunteer",
+   "kind": "semantic",
+   "score": 0.519,
+   "aZh": "v. 提供；主動給予；n. 提議",
+   "bZh": "v. 自願做；n. 志工",
+   "diff": "offer 是提出願意做某事或提供某物，對象是別人，不一定無償；volunteer 是自願去做，通常是沒有報酬的協助。",
+   "points": [
+    "重點：offer 是提議提供；volunteer 是自願承擔",
+    "句型：offer to V、offer + 人 + N；volunteer to V、volunteer for + N",
+    "詞性：volunteer 也是名詞（志工）"
+   ],
+   "tip": "offer 是「我來給你」；volunteer 是「我自願去做」。",
+   "exA": {
+    "en": "My neighbor offered to drive us to the station.",
+    "zh": "我的鄰居主動說要開車送我們去車站。"
+   },
+   "exB": {
+    "en": "Jenny volunteered to help at the book sale.",
+    "zh": "Jenny 自願到舊書義賣幫忙。"
+   }
+  },
+  {
+   "a": "journey",
+   "b": "voyage",
+   "kind": "semantic",
+   "score": 0.578,
+   "aZh": "n. 旅程；行程；v. 旅行",
+   "bZh": "n. 航行；航程",
+   "diff": "journey 泛指從一地到另一地的旅程，可搭任何交通工具；voyage 通常指長途的海上或太空航行。",
+   "points": [
+    "範圍：journey 範圍廣；voyage 多指海上、太空",
+    "距離：voyage 通常較長",
+    "搭配：a long journey；a sea voyage"
+   ],
+   "tip": "voyage 有「出海」的味道；journey 是一般旅程。",
+   "exA": {
+    "en": "The journey from Taipei to Kaohsiung takes about two hours by train.",
+    "zh": "從台北到高雄，搭火車的行程大約要兩小時。"
+   },
+   "exB": {
+    "en": "The old ship began its voyage across the Pacific Ocean.",
+    "zh": "那艘老船展開了橫越太平洋的航程。"
+   }
+  },
+  {
+   "a": "waken",
+   "b": "weaken",
+   "kind": "visual",
+   "score": 0.716,
+   "aZh": "v. 醒來；喚醒",
+   "bZh": "v. 削弱；變弱",
+   "diff": "waken 是醒來或叫醒，和 wake 同源；weaken 是使變弱或變弱。兩個字只差 a 和 e 的位置。",
+   "points": [
+    "意思：waken 是醒；weaken 是變弱",
+    "字根：waken 來自 wake；weaken 來自 weak",
+    "拼字：wa-ken 和 we-aken 不要弄混"
+   ],
+   "tip": "weaken 裡有 weak（弱）；waken 裡有 wake（醒）。",
+   "exA": {
+    "en": "The noise wakened the whole family at midnight.",
+    "zh": "半夜的噪音把全家人都吵醒了。"
+   },
+   "exB": {
+    "en": "A long illness can weaken a person's body.",
+    "zh": "長期生病會讓人的身體變虛弱。"
+   }
+  },
+  {
+   "a": "awaken",
+   "b": "waken",
+   "kind": "visual",
+   "score": 0.801,
+   "aZh": "v. 喚醒；使意識到",
+   "bZh": "v. 醒來；喚醒",
+   "diff": "waken 和 awaken 都可以指醒來或叫醒；awaken 語氣較正式，常用於比喻，如喚起興趣、意識；waken 較少見，多指真的睡醒或叫醒。",
+   "points": [
+    "語氣：awaken 較正式；waken 較少見",
+    "比喻：awaken 常指喚起感情、意識；waken 較少這樣用",
+    "日常：最常說的是 wake up"
+   ],
+   "tip": "日常說 wake up；比喻喚起感受才用 awaken。",
+   "exA": {
+    "en": "The book awakened her interest in science and space.",
+    "zh": "這本書喚起了她對科學和太空的興趣。"
+   },
+   "exB": {
+    "en": "A gentle voice wakened the baby from her nap.",
+    "zh": "一個溫柔的聲音把寶寶從午睡中叫醒。"
+   }
+  },
+  {
+   "a": "site",
+   "b": "website",
+   "kind": "semantic",
+   "score": 0.439,
+   "aZh": "n. 地點；場所",
+   "bZh": "n. 網站",
+   "diff": "site 是地點或場所，也可以當 website 的簡稱；website 專指由網頁組成的網站。",
+   "points": [
+    "範圍：site 可指工地、遺址；website 只指網站",
+    "簡稱：site 有時等於 website",
+    "搭配：a building site；the school website"
+   ],
+   "tip": "website = web + site，是網路上的地點。",
+   "exA": {
+    "en": "Workers wore helmets and boots at the building site.",
+    "zh": "工人們在工地上戴著安全帽、穿著靴子。"
+   },
+   "exB": {
+    "en": "The school website lists all the club activities.",
+    "zh": "學校網站列出了所有社團活動。"
+   }
+  },
+  {
+   "a": "benefit",
+   "b": "welfare",
+   "kind": "semantic",
+   "score": 0.624,
+   "aZh": "n. 好處；福利；v. 使受益",
+   "bZh": "n. 福利；福祉",
+   "diff": "benefit 是具體的好處或福利，如健康、保險；welfare 是個人或群體整體的健康與幸福，也指社會福利。",
+   "points": [
+    "範圍：benefit 是具體好處；welfare 是整體福祉",
+    "搭配：health benefits；child welfare、public welfare",
+    "詞性：benefit 也可作動詞；welfare 只作名詞"
+   ],
+   "tip": "benefit 是一項好處；welfare 是整體過得好。",
+   "exA": {
+    "en": "Regular exercise has many health benefits for teenagers.",
+    "zh": "規律運動對青少年的健康有許多好處。"
+   },
+   "exB": {
+    "en": "The school cares about the welfare of every student.",
+    "zh": "學校關心每位學生的福祉。"
+   }
+  },
+  {
+   "a": "humor",
+   "b": "wit",
+   "kind": "semantic",
+   "score": 0.433,
+   "aZh": "n. 幽默；幽默感",
+   "bZh": "n. 機智；風趣",
+   "diff": "humor 是讓人發笑的幽默感或逗趣特質；wit 強調反應快、說話巧妙有趣的能力，帶有聰明的味道。",
+   "points": [
+    "重點：humor 是有趣；wit 是聰明又有趣",
+    "搭配：a sense of humor；a quick wit",
+    "形容詞：humorous 是幽默的；witty 是機智風趣的"
+   ],
+   "tip": "humor 讓人笑；wit 讓人佩服地笑。",
+   "exA": {
+    "en": "Our teacher has a great sense of humor.",
+    "zh": "我們老師很有幽默感。"
+   },
+   "exB": {
+    "en": "Her quick wit helped her answer every difficult question.",
+    "zh": "她反應敏捷，回答了每個困難的問題。"
+   }
+  },
+  {
+   "a": "retreat",
+   "b": "withdraw",
+   "kind": "semantic",
+   "score": 0.483,
+   "aZh": "v. 退回；撤退；n. 休憩處",
+   "bZh": "v. 撤回；取回；退出",
+   "diff": "retreat 多指人或軍隊從某處往後退；withdraw 可指撤回申請、提出錢、退出活動，用法更廣。",
+   "points": [
+    "對象：retreat 是人的移動；withdraw 可接申請、提議、款項",
+    "搭配：retreat from the area；withdraw an application、withdraw money",
+    "句型：withdraw from + 活動 表示退出"
+   ],
+   "tip": "retreat 是退後幾步；withdraw 是抽回。",
+   "exA": {
+    "en": "The crowd retreated when the fire alarm rang.",
+    "zh": "火警鈴響時，人群往後退。"
+   },
+   "exB": {
+    "en": "She withdrew her application to the club before the deadline.",
+    "zh": "她在截止日前撤回了加入社團的申請。"
+   }
+  },
+  {
+   "a": "exercise",
+   "b": "workout",
+   "kind": "semantic",
+   "score": 0.632,
+   "aZh": "n. 運動；練習；v. 運動",
+   "bZh": "n. 健身；運動訓練",
+   "diff": "exercise 可指運動這件事，也可指一項練習；workout 是一段有安排的運動訓練，通常是可數名詞。",
+   "points": [
+    "可數性：exercise 指運動時不可數；workout 可數",
+    "範圍：exercise 也可指習題；workout 只指運動",
+    "搭配：do exercise、a math exercise；do a workout"
+   ],
+   "tip": "說「做運動」用 exercise；說「一次運動訓練」用 a workout。",
+   "exA": {
+    "en": "Regular exercise keeps your heart strong and healthy.",
+    "zh": "規律運動能讓心臟強壯又健康。"
+   },
+   "exB": {
+    "en": "Tom does a short workout every day before breakfast.",
+    "zh": "Tom 每天早餐前都會做一小段運動訓練。"
+   }
+  },
+  {
+   "a": "ruin",
+   "b": "wreck",
+   "kind": "semantic",
+   "score": 0.556,
+   "aZh": "v. 毀壞；n. 廢墟",
+   "bZh": "v. 摧毀；n. 殘骸",
+   "diff": "ruin 是讓計畫、事物失去價值或完全失敗，也指廢墟；wreck 是嚴重撞毀、毀壞，多用於車輛、船隻、建築，名詞指殘骸。",
+   "points": [
+    "對象：ruin 常接計畫、心情；wreck 常接車、船",
+    "名詞：ruin 是廢墟；wreck 是失事船、殘骸",
+    "語氣：wreck 更強調撞毀或破壞的力道"
+   ],
+   "tip": "ruin 是搞砸；wreck 是撞毀。",
+   "exA": {
+    "en": "One bad word can ruin a long friendship.",
+    "zh": "一句壞話就可能毀掉長久的友誼。"
+   },
+   "exB": {
+    "en": "The car crash wrecked the front of Dad's truck.",
+    "zh": "那場車禍把爸爸卡車的車頭撞毀了。"
+   }
+  },
+  {
+   "a": "young",
+   "b": "youthful",
+   "kind": "semantic",
+   "score": 0.662,
+   "aZh": "adj. 年輕的；幼小的",
+   "bZh": "adj. 年輕的；有朝氣的",
+   "diff": "young 指年紀小，最常用；youthful 形容外表、活力、態度像年輕人，不一定真的年輕。",
+   "points": [
+    "重點：young 是年齡小；youthful 是有年輕的特質",
+    "對象：youthful 也可形容年長者有活力",
+    "搭配：a young child；a youthful smile、youthful energy"
+   ],
+   "tip": "youthful 是像年輕人；young 是真的年輕。",
+   "exA": {
+    "en": "The young girl waved goodbye at the gate.",
+    "zh": "那個小女孩在門口揮手道別。"
+   },
+   "exB": {
+    "en": "My grandmother is seventy, but she still has a youthful spirit.",
+    "zh": "我奶奶七十歲了，但仍有一顆年輕的心。"
+   }
   }
  ]
 }
