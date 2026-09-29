@@ -9378,11 +9378,15 @@
     {
      "pos": "n.",
      "zh": "界線；範圍",
-     "ext": "",
+     "ext": "土地的邊界線 → 引申為行為或範圍的限度",
      "examples": [
       {
        "en": "A fence marks the boundary between our school and the park.",
        "zh": "一道圍籬標示出我們學校和公園之間的界線。"
+      },
+      {
+       "en": "Parents should set clear boundaries for their children's screen time.",
+       "zh": "父母應該為孩子使用螢幕的時間訂下明確的界線。"
       }
      ],
      "patterns": [
@@ -9450,11 +9454,15 @@
     {
      "pos": "n.",
      "zh": "拳擊手",
-     "ext": "",
+     "ext": "從事拳擊(box)的人(-er) → 拳擊選手",
      "examples": [
       {
        "en": "The young boxer trains at the gym after school every day.",
        "zh": "這位年輕拳擊手每天放學後都在健身房訓練。"
+      },
+      {
+       "en": "The boxer waved to the crowd before the match started.",
+       "zh": "比賽開始前，拳擊手向群眾揮手致意。"
       }
      ],
      "patterns": [],
@@ -9507,11 +9515,15 @@
     {
      "pos": "n.",
      "zh": "重大突破；突破性進展",
-     "ext": "",
+     "ext": "突破(break through)阻礙 → 克服困難後的重大進展",
      "examples": [
       {
        "en": "The students made a breakthrough in their science project after weeks of work.",
        "zh": "經過幾週努力，學生的科學專題有了重大突破。"
+      },
+      {
+       "en": "This new battery is a breakthrough for electric cars.",
+       "zh": "這種新電池是電動車的一大突破。"
       }
      ],
      "patterns": [
@@ -9574,11 +9586,15 @@
     {
      "pos": "n.",
      "zh": "公事包；手提文件箱",
-     "ext": "",
+     "ext": "裝文件的箱子 → 上班用的手提公事包",
      "examples": [
       {
        "en": "Dad carried his briefcase to the office on the train.",
        "zh": "爸爸搭火車上班時帶著公事包。"
+      },
+      {
+       "en": "The manager opened his briefcase and took out the report.",
+       "zh": "經理打開公事包，拿出了報告。"
       }
      ],
      "patterns": [],
@@ -9631,11 +9647,15 @@
     {
      "pos": "n.",
      "zh": "青銅；銅牌",
-     "ext": "",
+     "ext": "銅與錫混合的合金 → 用它做的獎牌代表第三名",
      "examples": [
       {
        "en": "She won bronze in the swimming competition at school.",
        "zh": "她在學校的游泳比賽中贏得銅牌。"
+      },
+      {
+       "en": "Bronze is a hard metal made mostly of copper.",
+       "zh": "青銅是一種主要由銅製成的堅硬金屬。"
       }
      ],
      "patterns": [],
@@ -9653,11 +9673,15 @@
     {
      "pos": "adj.",
      "zh": "青銅製的；古銅色的",
-     "ext": "",
+     "ext": "由青銅製成 → 也指像青銅般的褐黃色",
      "examples": [
       {
        "en": "The museum displayed a bronze statue from an old temple.",
        "zh": "博物館展示了一尊來自古老寺廟的青銅雕像。"
+      },
+      {
+       "en": "The surfers had bronze skin after a summer at the beach.",
+       "zh": "衝浪的人在海邊過完夏天後，皮膚變成古銅色。"
       }
      ],
      "patterns": [],
@@ -9689,11 +9713,15 @@
     {
      "pos": "v.",
      "zh": "瀏覽；翻閱",
-     "ext": "",
+     "ext": "動物隨意啃食嫩葉 → 人隨意翻看書、網頁或商品",
      "examples": [
       {
        "en": "Amy browsed the school library for books about space.",
        "zh": "Amy 在學校圖書館翻找太空相關的書。"
+      },
+      {
+       "en": "We browsed the shops in the night market without buying anything.",
+       "zh": "我們在夜市逛了各家店，卻什麼也沒買。"
       }
      ],
      "patterns": [
@@ -9737,7 +9765,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自法語 brouster（啃食嫩芽），原指牛羊隨意吃嫩葉；後來引申為人隨意翻看書或網頁。",
    "related": [],
    "phrases": []
   },
@@ -9750,11 +9778,15 @@
     {
      "pos": "n.",
      "zh": "瘀青；挫傷",
-     "ext": "",
+     "ext": "皮下出血 → 被撞後留下的青紫色痕跡",
      "examples": [
       {
        "en": "The fall left a small bruise on Kevin's arm.",
        "zh": "Kevin 跌倒後，手臂上留下了一小塊瘀青。"
+      },
+      {
+       "en": "The doctor said the bruise on her leg would fade in a few days.",
+       "zh": "醫生說她腿上的瘀青幾天後就會消退。"
       }
      ],
      "patterns": [],
@@ -9768,11 +9800,15 @@
     {
      "pos": "v.",
      "zh": "使瘀青；碰傷",
-     "ext": "",
+     "ext": "撞到皮下出血 → 使身體或水果出現瘀傷",
      "examples": [
       {
        "en": "She bruised her knee while playing basketball at school.",
        "zh": "她在學校打籃球時撞傷了膝蓋。"
+      },
+      {
+       "en": "Be careful with the peaches, because they bruise easily.",
+       "zh": "處理這些桃子要小心，因為它們很容易碰傷。"
       }
      ],
      "patterns": [
@@ -9833,11 +9869,15 @@
     {
      "pos": "n.",
      "zh": "大部分；大量",
-     "ext": "",
+     "ext": "龐大的體積 → 整體中最大的部分，或大量",
      "examples": [
       {
        "en": "The bulk of the work was finished before the school holiday.",
        "zh": "大部分工作在學校放假前就完成了。"
+      },
+      {
+       "en": "Buying rice in bulk is cheaper than buying small bags.",
+       "zh": "大量買米比買小包裝便宜。"
       }
      ],
      "patterns": [
@@ -9916,11 +9956,15 @@
     {
      "pos": "n.",
      "zh": "霸凌者；惡霸",
-     "ext": "",
+     "ext": "以強欺弱的人 → 反覆欺負較弱同學的人",
      "examples": [
       {
        "en": "The teacher helped the new student report the bully.",
        "zh": "老師協助新同學通報那名霸凌者。"
+      },
+      {
+       "en": "No student should be afraid of a bully on the way to school.",
+       "zh": "沒有學生應該在上學途中害怕霸凌者。"
       }
      ],
      "patterns": [],
@@ -9934,11 +9978,15 @@
     {
      "pos": "v.",
      "zh": "霸凌；欺負",
-     "ext": "",
+     "ext": "以強欺弱 → 反覆威嚇、欺負別人",
      "examples": [
       {
        "en": "Some students bullied him because he was new at school.",
        "zh": "有些學生因為他剛轉來學校而欺負他。"
+      },
+      {
+       "en": "It is wrong to bully others because of the way they look.",
+       "zh": "因為別人的外表而欺負他們是不對的。"
       }
      ],
      "patterns": [
@@ -9991,11 +10039,15 @@
     {
      "pos": "n.",
      "zh": "局；辦公處",
-     "ext": "",
+     "ext": "辦公用的書桌 → 辦公處，再指政府的辦事機構",
      "examples": [
       {
        "en": "The travel bureau gave us a map of the city.",
        "zh": "旅遊局給了我們一張城市地圖。"
+      },
+      {
+       "en": "The weather bureau said heavy rain would arrive this evening.",
+       "zh": "氣象局說今天傍晚會有大雨。"
       }
      ],
      "patterns": [],
@@ -10033,7 +10085,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自法語 bureau，原指覆蓋書桌的粗布，後來指書桌、辦公室，再引申為辦事機構。",
    "related": [],
    "phrases": []
   },
@@ -10046,11 +10098,15 @@
     {
      "pos": "n.",
      "zh": "官僚制度；繁瑣行政程序",
-     "ext": "",
+     "ext": "辦公室(bureau)的統治(-cracy) → 靠公文與規章運作的官僚制度",
      "examples": [
       {
        "en": "The permit was delayed by the city's bureaucracy.",
        "zh": "許可證因市府繁瑣的行政程序而延誤。"
+      },
+      {
+       "en": "Too much bureaucracy makes it hard to start a small business.",
+       "zh": "過多的官僚程序讓人很難開一家小店。"
       }
      ],
      "patterns": [],
@@ -10088,7 +10144,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自法語 bureaucratie，由 bureau（辦公室）與希臘文字尾 -kratia（統治）組成。",
    "related": [],
    "phrases": []
   },
@@ -10101,11 +10157,15 @@
     {
      "pos": "n.",
      "zh": "埋葬；葬禮",
-     "ext": "",
+     "ext": "把遺體放入土中 → 埋葬，也指葬禮儀式",
      "examples": [
       {
        "en": "The family held a quiet burial near their hometown.",
        "zh": "這家人在家鄉附近舉行了簡單的葬禮。"
+      },
+      {
+       "en": "The museum shows objects that were found in an ancient burial.",
+       "zh": "博物館展示了從古代墓葬中發現的物品。"
       }
      ],
      "patterns": [],
@@ -10167,11 +10227,15 @@
     {
      "pos": "n.",
      "zh": "肉販；屠夫",
-     "ext": "",
+     "ext": "宰殺牲畜並把肉賣給顧客的人 → 肉販",
      "examples": [
       {
        "en": "The butcher prepared fresh meat for the neighborhood market.",
        "zh": "肉販為附近的市場準備新鮮肉品。"
+      },
+      {
+       "en": "My mother buys chicken and pork from the butcher every Saturday.",
+       "zh": "我媽媽每個星期六都向肉販買雞肉和豬肉。"
       }
      ],
      "patterns": [],
@@ -10189,11 +10253,15 @@
     {
      "pos": "v.",
      "zh": "笨拙處理；弄糟",
-     "ext": "",
+     "ext": "像屠夫粗魯砍割 → 把事情搞得很糟",
      "examples": [
       {
        "en": "I butchered the song because I forgot the words.",
        "zh": "我忘了歌詞，把那首歌唱得一團糟。"
+      },
+      {
+       "en": "The actor butchered his lines because he was too nervous.",
+       "zh": "那位演員太緊張，把台詞搞砸了。"
       }
      ],
      "patterns": [
@@ -10240,12 +10308,16 @@
    "meanings": [
     {
      "pos": "n.",
-     "zh": "鈣",
-     "ext": "",
+     "zh": "鈣；鈣質",
+     "ext": "石灰(calx) → 用來指石灰中含有的金屬元素",
      "examples": [
       {
        "en": "Milk provides calcium that helps keep our bones strong.",
        "zh": "牛奶提供鈣質，有助於保持骨骼強健。"
+      },
+      {
+       "en": "Doctors say teenagers need enough calcium to grow strong bones and teeth.",
+       "zh": "醫生說青少年需要足夠的鈣，才能長出強壯的骨骼和牙齒。"
       }
      ],
      "patterns": [],
@@ -10278,7 +10350,7 @@
      "gloss": "化學元素"
     }
    ],
-   "origin": "",
+   "origin": "由拉丁文 calx「石灰」加上元素字尾 -ium 而成，1808 年由英國化學家戴維命名。",
    "related": [],
    "phrases": []
   },
@@ -10291,11 +10363,15 @@
     {
      "pos": "n.",
      "zh": "運河；水道",
-     "ext": "",
+     "ext": "人工開鑿的水道 → 供船隻通行或引水的運河",
      "examples": [
       {
        "en": "The boat carried fruit along the canal to the town.",
        "zh": "船沿著運河把水果運到鎮上。"
+      },
+      {
+       "en": "Long ago, farmers built a canal to bring river water to their fields.",
+       "zh": "很久以前，農夫開鑿了運河，把河水引到田裡。"
       }
      ],
      "patterns": [],
@@ -10333,7 +10409,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自拉丁文 canalis，意思是「管子、水道」。",
    "related": [],
    "phrases": []
   },
@@ -10346,11 +10422,15 @@
     {
      "pos": "n.",
      "zh": "帆布；畫布",
-     "ext": "",
+     "ext": "粗厚的布 → 用來做帳篷、包包或作畫的布",
      "examples": [
       {
        "en": "Jenny painted a sunset on a large canvas for art class.",
        "zh": "Jenny 在美術課的大畫布上畫了一幅夕陽。"
+      },
+      {
+       "en": "He carries a canvas bag whenever he goes shopping.",
+       "zh": "他每次去購物都帶著帆布袋。"
       }
      ],
      "patterns": [],
@@ -10390,7 +10470,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古法語 canevas，來自拉丁文 cannabis「大麻」，因為帆布原本由大麻纖維織成。",
    "related": [],
    "phrases": []
   },
@@ -10403,11 +10483,15 @@
     {
      "pos": "n.",
      "zh": "能力；本領",
-     "ext": "",
+     "ext": "有能力(capable)的狀態 → 具備完成某事的能力或功能",
      "examples": [
       {
        "en": "The new app has the capability to translate short messages.",
        "zh": "這款新 App 能翻譯簡短訊息。"
+      },
+      {
+       "en": "This machine has the capability to clean the whole room in an hour.",
+       "zh": "這台機器有在一小時內清潔整間房間的能力。"
       }
      ],
      "patterns": [
@@ -10487,12 +10571,16 @@
    "meanings": [
     {
      "pos": "n.",
-     "zh": "碳",
-     "ext": "",
+     "zh": "碳；碳元素",
+     "ext": "木炭與煤的主要成分 → 指構成生命的碳元素",
      "examples": [
       {
        "en": "Carbon is an element found in all living things.",
        "zh": "碳是所有生物體內都有的元素。"
+      },
+      {
+       "en": "Cars and factories send more carbon into the air every year.",
+       "zh": "汽車和工廠每年都向空氣中排放更多的碳。"
       }
      ],
      "patterns": [],
@@ -10514,7 +10602,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自法語 carbone，來自拉丁文 carbo，意思是「木炭、煤」。",
    "related": [],
    "phrases": []
   },
@@ -10527,11 +10615,15 @@
     {
      "pos": "n.",
      "zh": "嘉年華；園遊會",
-     "ext": "",
+     "ext": "四旬期前的狂歡慶典 → 泛指有表演遊行的熱鬧活動",
      "examples": [
       {
        "en": "Our school held a carnival to raise money for the library.",
        "zh": "我們學校舉辦園遊會，為圖書館募款。"
+      },
+      {
+       "en": "Thousands of visitors enjoyed the parade at the summer carnival.",
+       "zh": "數千名遊客在夏季嘉年華欣賞了遊行。"
       }
      ],
      "patterns": [],
@@ -10582,11 +10674,15 @@
     {
      "pos": "n.",
      "zh": "賭場",
-     "ext": "",
+     "ext": "供人聚會娛樂的小房子 → 提供賭博遊戲的場所",
      "examples": [
       {
        "en": "The travel report described how a casino affected the nearby town.",
        "zh": "這篇旅遊報告描述賭場如何影響附近的城鎮。"
+      },
+      {
+       "en": "Young people under eighteen are not allowed to enter a casino.",
+       "zh": "未滿十八歲的年輕人不得進入賭場。"
       }
      ],
      "patterns": [],
@@ -10619,7 +10715,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自義大利文 casino，原指「小房子」，是 casa（房子）的指小形，後來指供人娛樂、賭博的場所。",
    "related": [],
    "phrases": []
   },
@@ -10632,11 +10728,15 @@
     {
      "pos": "n.",
      "zh": "大教堂",
-     "ext": "",
+     "ext": "設有主教座位的教堂 → 規模宏大的主教座堂",
      "examples": [
       {
        "en": "The old cathedral attracts many visitors each year.",
        "zh": "這座古老的大教堂每年吸引許多遊客。"
+      },
+      {
+       "en": "The cathedral is famous for its beautiful colored windows.",
+       "zh": "這座大教堂以美麗的彩色玻璃窗聞名。"
       }
      ],
      "patterns": [],
@@ -10665,7 +10765,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自拉丁文 cathedra，意思是「座椅」，指主教的座位；cathedral 就是設有主教座位的大教堂。",
    "related": [],
    "phrases": []
   },
@@ -10678,11 +10778,15 @@
     {
      "pos": "n.",
      "zh": "小心；謹慎",
-     "ext": "",
+     "ext": "提醒自己注意 → 小心謹慎的態度",
      "examples": [
       {
        "en": "The sign urged drivers to use caution near the school.",
        "zh": "這個標誌提醒駕駛人經過學校附近時要小心。"
+      },
+      {
+       "en": "The teacher spoke with caution because the topic was sensitive.",
+       "zh": "因為這個話題很敏感，老師說話很謹慎。"
       }
      ],
      "patterns": [
@@ -10706,11 +10810,15 @@
     {
      "pos": "v.",
      "zh": "警告；提醒",
-     "ext": "",
+     "ext": "提出警告 → 提醒別人小心某事",
      "examples": [
       {
        "en": "The teacher cautioned us against sharing personal information online.",
        "zh": "老師提醒我們不要在網路上分享個人資料。"
+      },
+      {
+       "en": "Doctors caution people to drink more water in hot weather.",
+       "zh": "醫生提醒大家在炎熱的天氣要多喝水。"
       }
      ],
      "patterns": [
@@ -10750,7 +10858,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自拉丁文 cautio，意思是「小心、防備」，由 cavere（提防）衍生而來。",
    "related": [],
    "phrases": []
   },
@@ -10763,11 +10871,15 @@
     {
      "pos": "adj.",
      "zh": "謹慎的；小心的",
-     "ext": "",
+     "ext": "事先想到危險 → 行動前小心衡量風險的",
      "examples": [
       {
        "en": "Amy is cautious when she crosses the busy street.",
        "zh": "Amy 穿越繁忙街道時很小心。"
+      },
+      {
+       "en": "The bank is cautious about lending money to new companies.",
+       "zh": "銀行對貸款給新公司很謹慎。"
       }
      ],
      "patterns": [
@@ -10848,11 +10960,15 @@
     {
      "pos": "n.",
      "zh": "名人",
-     "ext": "",
+     "ext": "名聲響亮 → 受到大眾關注的知名人物",
      "examples": [
       {
        "en": "The young singer became a celebrity after the show.",
        "zh": "那位年輕歌手在節目後成了名人。"
+      },
+      {
+       "en": "Many fans waited outside the hotel to see the celebrity.",
+       "zh": "許多粉絲在飯店外等著看那位名人。"
       }
      ],
      "patterns": [],
@@ -10893,7 +11009,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自拉丁文 celebritas，意思是「盛大、著名」，與 celebrate 同源。",
    "related": [],
    "phrases": []
   },
@@ -10906,11 +11022,15 @@
     {
      "pos": "n.",
      "zh": "墓園；公墓",
-     "ext": "",
+     "ext": "安睡的地方 → 集中埋葬死者的墓園",
      "examples": [
       {
        "en": "The family visits the cemetery on the holiday each year.",
        "zh": "這家人每年假日都會去墓園。"
+      },
+      {
+       "en": "An old cemetery lies behind the small village church.",
+       "zh": "小村莊教堂的後面有一座古老的墓園。"
       }
      ],
      "patterns": [],
@@ -10943,7 +11063,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自希臘文 koimētērion，意思是「睡覺的地方」，經拉丁文進入英文。",
    "related": [],
    "phrases": []
   },
@@ -10956,11 +11076,15 @@
     {
      "pos": "n.",
      "zh": "典禮；儀式",
-     "ext": "",
+     "ext": "神聖的宗教儀式 → 依正式程序舉行的典禮",
      "examples": [
       {
        "en": "The school held a ceremony for its new library.",
        "zh": "學校為新圖書館舉行了典禮。"
+      },
+      {
+       "en": "Parents took many photos at the graduation ceremony.",
+       "zh": "家長們在畢業典禮上拍了很多照片。"
       }
      ],
      "patterns": [
@@ -11021,11 +11145,15 @@
     {
      "pos": "n.",
      "zh": "確定；確信",
-     "ext": "",
+     "ext": "沒有疑問 → 確定無疑的狀態或把握",
      "examples": [
       {
        "en": "There is no certainty that the weather will stay sunny.",
        "zh": "天氣是否會一直晴朗還不確定。"
+      },
+      {
+       "en": "No one can say with certainty who will win the game.",
+       "zh": "沒有人能確定地說出誰會贏得比賽。"
       }
      ],
      "patterns": [
@@ -11094,11 +11222,15 @@
     {
      "pos": "n.",
      "zh": "證書；證明文件",
-     "ext": "",
+     "ext": "用文件加以證明 → 證明資格或事實的正式文件",
      "examples": [
       {
        "en": "Amy received a certificate after completing the computer course.",
        "zh": "Amy 完成電腦課程後拿到了證書。"
+      },
+      {
+       "en": "You need a birth certificate to apply for a passport.",
+       "zh": "申請護照需要出生證明。"
       }
      ],
      "patterns": [
@@ -11166,11 +11298,15 @@
     {
      "pos": "n.",
      "zh": "混亂；無秩序",
-     "ext": "",
+     "ext": "宇宙形成前的混沌 → 缺乏秩序的混亂狀態",
      "examples": [
       {
        "en": "The sudden rain caused chaos at the outdoor school event.",
        "zh": "突如其來的雨讓戶外校園活動一片混亂。"
+      },
+      {
+       "en": "After the power failed, the train station was in complete chaos.",
+       "zh": "停電之後，火車站陷入一片混亂。"
       }
      ],
      "patterns": [],
@@ -11217,7 +11353,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自希臘文 khaos，原指宇宙形成前的空虛混沌狀態，後來泛指混亂。",
    "related": [],
    "phrases": []
   },
@@ -11230,11 +11366,15 @@
     {
      "pos": "n.",
      "zh": "小教堂；禮拜堂",
-     "ext": "",
+     "ext": "小型聖堂 → 附設在學校或醫院內的禮拜堂",
      "examples": [
       {
        "en": "The students visited a small chapel during their trip.",
        "zh": "學生旅行時參觀了一間小教堂。"
+      },
+      {
+       "en": "The wedding took place in a small chapel near the beach.",
+       "zh": "婚禮在海邊附近的一間小禮拜堂舉行。"
       }
      ],
      "patterns": [],
@@ -11267,7 +11407,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自中世紀拉丁文 cappella，原指存放聖馬丁斗篷的小聖堂，後來泛指小型禮拜堂。",
    "related": [],
    "phrases": []
   },
@@ -11280,11 +11420,15 @@
     {
      "pos": "v.",
      "zh": "以……為特色；描述……特徵",
-     "ext": "",
+     "ext": "找出人或事物的特徵 → 描述其特色，或成為其特色",
      "examples": [
       {
        "en": "Kindness and teamwork characterize our school's volunteer club.",
        "zh": "親切和團隊合作是我們學校志工社的特色。"
+      },
+      {
+       "en": "Teachers often characterize Amy as a quiet but hard-working student.",
+       "zh": "老師常把 Amy 形容成安靜但很認真的學生。"
       }
      ],
      "patterns": [
@@ -11361,11 +11505,15 @@
     {
      "pos": "n.",
      "zh": "主廚；廚師",
-     "ext": "",
+     "ext": "廚房裡的首領 → 負責烹調的專業廚師",
      "examples": [
       {
        "en": "The chef prepared a healthy meal for the school event.",
        "zh": "主廚為學校活動準備了一頓健康餐點。"
+      },
+      {
+       "en": "The famous chef opened a new restaurant in Taipei last year.",
+       "zh": "那位知名的主廚去年在臺北開了一家新餐廳。"
       }
      ],
      "patterns": [],
@@ -11398,7 +11546,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自法語 chef，意思是「首領」，原為 chef de cuisine（廚房主管）的簡稱。",
    "related": [],
    "phrases": []
   },
@@ -11411,11 +11559,15 @@
     {
      "pos": "n.",
      "zh": "合唱團",
-     "ext": "",
+     "ext": "一起圍著唱的隊伍 → 集體演唱的合唱團",
      "examples": [
       {
        "en": "Our school choir will sing at the graduation ceremony.",
        "zh": "我們學校的合唱團將在畢業典禮上演唱。"
+      },
+      {
+       "en": "She has sung in the church choir since she was eight.",
+       "zh": "她從八歲起就在教會的合唱團唱歌。"
       }
      ],
      "patterns": [],
@@ -11459,7 +11611,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古法語 quer，來自拉丁文 chorus，意思是「舞蹈隊、合唱隊」。",
    "related": [],
    "phrases": []
   },
@@ -11472,11 +11624,15 @@
     {
      "pos": "n.",
      "zh": "和弦",
-     "ext": "",
+     "ext": "同時響起的音 → 三個以上音一起發出的和弦",
      "examples": [
       {
        "en": "Tom learned three guitar chords for the school concert.",
        "zh": "Tom 為了學校音樂會學了三個吉他和弦。"
+      },
+      {
+       "en": "The pianist played a soft chord to begin the song.",
+       "zh": "鋼琴家彈了一個輕柔的和弦來開始這首歌。"
       }
      ],
      "patterns": [],
@@ -11546,11 +11702,15 @@
     {
      "pos": "n.",
      "zh": "家事；例行工作",
-     "ext": "",
+     "ext": "零碎的日常工作 → 例行而常令人厭煩的家事",
      "examples": [
       {
        "en": "Tom does his chores before he starts his homework.",
        "zh": "Tom 先做完家事再開始寫作業。"
+      },
+      {
+       "en": "Washing the dishes is my daily chore after dinner.",
+       "zh": "洗碗是我晚餐後每天要做的家事。"
       }
      ],
      "patterns": [],
@@ -11612,11 +11772,15 @@
     {
      "pos": "adj.",
      "zh": "慢性的；長期的",
-     "ext": "",
+     "ext": "與時間有關 → 持續很久、反覆發生的",
      "examples": [
       {
        "en": "Her chronic back pain makes sitting through class difficult.",
        "zh": "她長期背痛，很難整堂課坐著上課。"
+      },
+      {
+       "en": "The country has a chronic shortage of nurses.",
+       "zh": "這個國家長期缺少護理師。"
       }
      ],
      "patterns": [
@@ -11682,11 +11846,15 @@
     {
      "pos": "adj.",
      "zh": "圓胖的；豐滿的",
-     "ext": "",
+     "ext": "圓圓鼓起 → 帶有可愛意味的圓胖",
      "examples": [
       {
        "en": "The baby has chubby cheeks and a cheerful smile.",
        "zh": "寶寶臉頰圓圓的，笑容很開朗。"
+      },
+      {
+       "en": "My little cousin has chubby hands and loves to laugh.",
+       "zh": "我的小表弟有一雙圓圓胖胖的小手，而且很愛笑。"
       }
      ],
      "patterns": [],
@@ -11733,11 +11901,15 @@
     {
      "pos": "n.",
      "zh": "厚塊；大塊",
-     "ext": "",
+     "ext": "厚實而不規則的一大塊 → 切下或分出來的大塊東西",
      "examples": [
       {
        "en": "Amy added a chunk of cheese to her lunch salad.",
        "zh": "Amy 在午餐沙拉裡加了一大塊起司。"
+      },
+      {
+       "en": "She cut the watermelon into big chunks for the picnic.",
+       "zh": "她把西瓜切成大塊，帶去野餐。"
       }
      ],
      "patterns": [
@@ -11761,11 +11933,15 @@
     {
      "pos": "n.",
      "zh": "大量；大部分",
-     "ext": "",
+     "ext": "整體中的一大塊 → 大量、大部分",
      "examples": [
       {
        "en": "A large chunk of the class joined the school trip.",
        "zh": "班上有很大一部分人參加了校外教學。"
+      },
+      {
+       "en": "A large chunk of my allowance goes to books.",
+       "zh": "我的零用錢有很大一部分花在書上。"
       }
      ],
      "patterns": [
@@ -11813,11 +11989,15 @@
     {
      "pos": "n.",
      "zh": "電路；迴路",
-     "ext": "",
+     "ext": "環繞一圈 → 電流走完一圈的完整路徑",
      "examples": [
       {
        "en": "The students built a simple circuit with a battery and wires.",
        "zh": "學生用電池和電線組成簡單電路。"
+      },
+      {
+       "en": "Electricity can only flow when the circuit is closed.",
+       "zh": "電路必須是封閉的，電流才能通過。"
       }
      ],
      "patterns": [],
@@ -11835,11 +12015,15 @@
     {
      "pos": "n.",
      "zh": "環形路線；巡迴",
-     "ext": "",
+     "ext": "繞一圈 → 環形路線或一圈的巡迴",
      "examples": [
       {
        "en": "The runners completed one circuit around the school field.",
        "zh": "跑者繞著學校操場跑完一圈。"
+      },
+      {
+       "en": "The bus makes a full circuit of the town every forty minutes.",
+       "zh": "公車每四十分鐘繞小鎮一圈。"
       }
      ],
      "patterns": [],
@@ -11886,11 +12070,15 @@
     {
      "pos": "v.",
      "zh": "引用；舉出",
-     "ext": "",
+     "ext": "召喚證人到場 → 把資料或例子拿出來作證，即引用",
      "examples": [
       {
        "en": "Please cite one source to support your answer in the report.",
        "zh": "請在報告中引用一個資料來源來支持你的答案。"
+      },
+      {
+       "en": "Scientists often cite this research when they talk about climate change.",
+       "zh": "科學家談到氣候變遷時，常引用這項研究。"
       }
      ],
      "patterns": [
@@ -11963,11 +12151,15 @@
     {
      "pos": "n.",
      "zh": "公民身分；公民權",
-     "ext": "",
+     "ext": "成為城市的居民 → 屬於某國的正式公民身分",
      "examples": [
       {
        "en": "She applied for citizenship after living there for many years.",
        "zh": "她在當地住了多年後申請公民身分。"
+      },
+      {
+       "en": "Children born in this country automatically receive citizenship.",
+       "zh": "在這個國家出生的孩子會自動取得公民身分。"
       }
      ],
      "patterns": [
@@ -11991,11 +12183,15 @@
     {
      "pos": "n.",
      "zh": "公民責任；公民素養",
-     "ext": "",
+     "ext": "身為公民應盡的本分 → 公民責任與素養",
      "examples": [
       {
        "en": "The class discussed citizenship and ways to help the community.",
        "zh": "全班討論公民素養，以及協助社區的方法。"
+      },
+      {
+       "en": "Voting in elections is a part of good citizenship.",
+       "zh": "參加選舉投票是良好公民素養的一部分。"
       }
      ],
      "patterns": [],
@@ -12061,11 +12257,15 @@
     {
      "pos": "adj.",
      "zh": "公民的；城市的",
-     "ext": "",
+     "ext": "與城市公民有關 → 形容公民身分或城市公共事務",
      "examples": [
       {
        "en": "Our teacher encouraged civic participation in the local community.",
        "zh": "老師鼓勵大家參與地方社區事務。"
+      },
+      {
+       "en": "The mayor gave a speech at the new civic center.",
+       "zh": "市長在新的市民活動中心發表了演說。"
       }
      ],
      "patterns": [],
@@ -12140,11 +12340,15 @@
     {
      "pos": "n.",
      "zh": "清楚；清晰",
-     "ext": "",
+     "ext": "光線明亮 → 表達或思路清楚明白",
      "examples": [
       {
        "en": "The chart gives readers clarity about the survey results.",
        "zh": "這張圖表讓讀者清楚了解調查結果。"
+      },
+      {
+       "en": "The teacher explained the rule with great clarity.",
+       "zh": "老師把規則解釋得非常清楚。"
       }
      ],
      "patterns": [
@@ -12168,11 +12372,15 @@
     {
      "pos": "n.",
      "zh": "清澈；透明",
-     "ext": "",
+     "ext": "光線通透 → 水或空氣清澈透明",
      "examples": [
       {
        "en": "The lake's clarity improved after the town reduced waste.",
        "zh": "鎮上減少廢棄物後，湖水變得清澈許多。"
+      },
+      {
+       "en": "We could see the fish clearly because of the clarity of the water.",
+       "zh": "因為水很清澈，我們可以清楚地看見魚。"
       }
      ],
      "patterns": [],
@@ -12236,11 +12444,15 @@
     {
      "pos": "n.",
      "zh": "子句",
-     "ext": "",
+     "ext": "句子裡的一小段 → 有主詞和動詞的句子成分",
      "examples": [
       {
        "en": "The teacher asked us to find the main clause in the sentence.",
        "zh": "老師要我們找出句子的主要子句。"
+      },
+      {
+       "en": "A relative clause gives more information about a person or a thing.",
+       "zh": "關係子句提供關於某個人或事物的更多資訊。"
       }
      ],
      "patterns": [],
@@ -12258,11 +12470,15 @@
     {
      "pos": "n.",
      "zh": "條款",
-     "ext": "",
+     "ext": "文件裡的一小段 → 法律或合約中的一項條款",
      "examples": [
       {
        "en": "This clause in the contract explains the payment rules.",
        "zh": "合約中的這項條款說明付款規定。"
+      },
+      {
+       "en": "One clause in the rules says students cannot use phones in class.",
+       "zh": "規則裡有一項條款說，學生不能在課堂上使用手機。"
       }
      ],
      "patterns": [],
@@ -12309,11 +12525,15 @@
     {
      "pos": "v.",
      "zh": "緊抓；依附",
-     "ext": "",
+     "ext": "黏在一起不放 → 緊抓不放、依附不離",
      "examples": [
       {
        "en": "The child clung to her mother's hand in the busy station.",
        "zh": "那個孩子在熱鬧的車站緊緊牽著媽媽的手。"
+      },
+      {
+       "en": "Baby monkeys cling to their mothers while they move through the trees.",
+       "zh": "小猴子在樹間移動時，緊緊抓著媽媽。"
       }
      ],
      "patterns": [
@@ -12387,11 +12607,15 @@
     {
      "pos": "adj.",
      "zh": "臨床的；診療的",
-     "ext": "",
+     "ext": "在病床邊 → 直接對病人進行診療的",
      "examples": [
       {
        "en": "The new treatment is still being studied in clinical trials.",
        "zh": "這項新療法仍在臨床試驗中接受研究。"
+      },
+      {
+       "en": "Young doctors gain clinical experience by working in the hospital.",
+       "zh": "年輕的醫生透過在醫院工作來累積臨床經驗。"
       }
      ],
      "patterns": [],
@@ -12413,11 +12637,15 @@
     {
      "pos": "adj.",
      "zh": "冷靜客觀的；不帶感情的",
-     "ext": "",
+     "ext": "像醫生檢查般不帶感情 → 冷靜客觀、缺乏感情的",
      "examples": [
       {
        "en": "Her clinical account of the event helped the class understand what happened.",
        "zh": "她冷靜客觀地描述事件，讓全班了解發生了什麼事。"
+      },
+      {
+       "en": "The judge gave a clinical description of the event without showing any feeling.",
+       "zh": "法官不帶任何感情地客觀描述了這起事件。"
       }
      ],
      "patterns": [],
@@ -12479,11 +12707,15 @@
     {
      "pos": "n.",
      "zh": "群；串；簇",
-     "ext": "",
+     "ext": "聚在一起的一小群 → 成串或成簇的東西",
      "examples": [
       {
        "en": "A cluster of stars appeared above the mountains after sunset.",
        "zh": "日落後，山上方出現一群星星。"
+      },
+      {
+       "en": "She picked a cluster of grapes from the bowl.",
+       "zh": "她從碗裡拿了一串葡萄。"
       }
      ],
      "patterns": [
@@ -12507,11 +12739,15 @@
     {
      "pos": "v.",
      "zh": "聚集；成群",
-     "ext": "",
+     "ext": "聚成一小群 → 人或物緊密地聚在一起",
      "examples": [
       {
        "en": "Students clustered around the poster to read the event details.",
        "zh": "學生聚在海報旁閱讀活動資訊。"
+      },
+      {
+       "en": "The tourists clustered around the guide to hear the story.",
+       "zh": "遊客們圍在導遊身邊聽故事。"
       }
      ],
      "patterns": [
@@ -12559,11 +12795,15 @@
     {
      "pos": "n.",
      "zh": "古柯鹼",
-     "ext": "",
+     "ext": "從古柯葉提煉出的物質 → 一種會使人上癮的非法毒品",
      "examples": [
       {
        "en": "The health class discussed the serious risks of cocaine use.",
        "zh": "健康課討論了使用古柯鹼的嚴重風險。"
+      },
+      {
+       "en": "Cocaine is an illegal drug that can seriously damage the heart.",
+       "zh": "古柯鹼是一種非法毒品，會嚴重傷害心臟。"
       }
      ],
      "patterns": [],
@@ -12598,11 +12838,15 @@
     {
      "pos": "n.",
      "zh": "棺材",
-     "ext": "",
+     "ext": "小箱子 → 用來安放遺體的棺材",
      "examples": [
       {
        "en": "The museum displayed an ancient coffin from Egypt.",
        "zh": "博物館展出一具來自埃及的古代棺木。"
+      },
+      {
+       "en": "Six men carried the coffin slowly out of the church.",
+       "zh": "六個人把棺材慢慢地抬出教堂。"
       }
      ],
      "patterns": [],
@@ -12633,11 +12877,15 @@
     {
      "pos": "adj.",
      "zh": "認知的；思考的",
-     "ext": "",
+     "ext": "認識、知道 → 與思考、理解等心智活動有關的",
      "examples": [
       {
        "en": "Reading every day can support children's cognitive development.",
        "zh": "每天閱讀有助於兒童的認知發展。"
+      },
+      {
+       "en": "Cognitive skills such as memory and attention grow as children learn.",
+       "zh": "記憶和注意力等認知能力會隨著孩子的學習而成長。"
       }
      ],
      "patterns": [],
@@ -12721,6 +12969,10 @@
       {
        "en": "Amy gave a coherent answer during the class discussion.",
        "zh": "Amy 在課堂討論中給了有條理的回答。"
+      },
+      {
+       "en": "The essay was coherent, so every paragraph led naturally to the next.",
+       "zh": "這篇作文很連貫，所以每一段都自然地接到下一段。"
       }
      ],
      "patterns": [
@@ -12820,6 +13072,10 @@
       {
        "en": "It was a coincidence that Amy and I chose the same book.",
        "zh": "我和 Amy 選了同一本書，真是巧合。"
+      },
+      {
+       "en": "What a coincidence! We met again at the same bookstore.",
+       "zh": "真巧！我們又在同一家書店遇到了。"
       }
      ],
      "patterns": [
@@ -12937,6 +13193,10 @@
       {
        "en": "The science project required collaboration between two classes.",
        "zh": "這項科學專題需要兩個班級合作完成。"
+      },
+      {
+       "en": "The song was created in collaboration with a young student band.",
+       "zh": "這首歌是與一個年輕的學生樂團合作創作的。"
       }
      ],
      "patterns": [
@@ -13027,6 +13287,10 @@
       {
        "en": "The class made a collective decision to clean the park.",
        "zh": "全班共同決定去整理公園。"
+      },
+      {
+       "en": "The collective effort of the whole team led to victory.",
+       "zh": "全隊共同的努力帶來了勝利。"
       }
      ],
      "patterns": [
@@ -13122,6 +13386,10 @@
       {
        "en": "My brother is a stamp collector who visits local fairs.",
        "zh": "我哥哥是集郵愛好者，常去逛當地市集。"
+      },
+      {
+       "en": "The museum bought the old painting from a private collector.",
+       "zh": "博物館向一位私人收藏家買下了那幅舊畫。"
       }
      ],
      "patterns": [
@@ -13197,11 +13465,15 @@
     {
      "pos": "adj.",
      "zh": "殖民地的；殖民時期的",
-     "ext": "",
+     "ext": "殖民地(colony)的 → 與殖民統治或殖民時期有關的",
      "examples": [
       {
        "en": "The museum displays photos of colonial buildings from the island's past.",
        "zh": "博物館展示了島上殖民時期建築的照片。"
+      },
+      {
+       "en": "Colonial rule ended on the island many years ago.",
+       "zh": "殖民統治在這座島上很多年前就結束了。"
       }
      ],
      "patterns": [
@@ -13277,6 +13549,10 @@
       {
        "en": "The columnist writes about school life for the local newspaper.",
        "zh": "這位專欄作家為地方報紙撰寫校園生活文章。"
+      },
+      {
+       "en": "The columnist wrote about the changes in the eating habits of young people.",
+       "zh": "那位專欄作家寫了年輕人飲食習慣的變化。"
       }
      ],
      "patterns": [
@@ -13354,6 +13630,10 @@
       {
        "en": "The school planted trees to combat summer heat.",
        "zh": "學校種樹來對抗夏季高溫。"
+      },
+      {
+       "en": "Doctors around the world work together to combat new diseases.",
+       "zh": "世界各地的醫生合作對抗新的疾病。"
       }
      ],
      "patterns": [
@@ -13446,11 +13726,15 @@
     {
      "pos": "n.",
      "zh": "喜劇演員；諧星",
-     "ext": "",
+     "ext": "演出喜劇的人 → 專門逗觀眾發笑的表演者",
      "examples": [
       {
        "en": "The comedian made the audience laugh with a story about school.",
        "zh": "這位喜劇演員講了一個校園故事，逗得觀眾大笑。"
+      },
+      {
+       "en": "Our class invited a comedian to perform at the school party.",
+       "zh": "我們班邀請了一位喜劇演員來校園派對表演。"
       }
      ],
      "patterns": [],
@@ -13510,11 +13794,15 @@
     {
      "pos": "n.",
      "zh": "評論；實況報導",
-     "ext": "",
+     "ext": "對事物寫下的筆記 → 對事件的評論或賽事的實況播報",
      "examples": [
       {
        "en": "The teacher gave a short commentary on the news report.",
        "zh": "老師簡短評論了這則新聞報導。"
+      },
+      {
+       "en": "The radio commentary of the baseball game was full of excitement.",
+       "zh": "那場棒球賽的廣播實況報導充滿了興奮的氣氛。"
       }
      ],
      "patterns": [
@@ -13600,6 +13888,10 @@
       {
        "en": "The commentator explained each play during the school game.",
        "zh": "校隊比賽期間，評論員逐一解說每次攻防。"
+      },
+      {
+       "en": "The sports commentator became excited when our team scored.",
+       "zh": "我們的球隊得分時，體育評論員變得很興奮。"
       }
      ],
      "patterns": [
@@ -13669,11 +13961,15 @@
     {
      "pos": "n.",
      "zh": "委託；佣金；委員會",
-     "ext": "",
+     "ext": "交付出去的任務 → 受託的工作，也指抽成與委員會",
      "examples": [
       {
        "en": "The artist received a commission to paint the new school library.",
        "zh": "這位藝術家受委託為新圖書館作畫。"
+      },
+      {
+       "en": "The company pays its sales staff a commission on every product they sell.",
+       "zh": "公司對業務人員賣出的每一件產品支付佣金。"
       }
      ],
      "patterns": [
@@ -13702,6 +13998,10 @@
       {
        "en": "The school commissioned a local artist to paint a mural.",
        "zh": "學校委託當地藝術家畫一幅壁畫。"
+      },
+      {
+       "en": "The city commissioned a famous architect to design the new museum.",
+       "zh": "市政府委託一位知名的建築師設計新的博物館。"
       }
      ],
      "patterns": [
@@ -13800,6 +14100,10 @@
       {
        "en": "Her commitment to daily practice helped her improve.",
        "zh": "她每天練習的投入讓她進步不少。"
+      },
+      {
+       "en": "Joining the team requires a strong commitment of time and energy.",
+       "zh": "加入這支隊伍需要投入大量的時間和精力。"
       }
      ],
      "patterns": [
@@ -13902,6 +14206,10 @@
       {
        "en": "Rice is an important commodity in many countries.",
        "zh": "稻米是許多國家的重要商品。"
+      },
+      {
+       "en": "Oil and wheat are important commodities traded around the world.",
+       "zh": "石油和小麥是全世界都在交易的重要商品。"
       }
      ],
      "patterns": [],
@@ -13952,11 +14260,15 @@
     {
      "pos": "n.",
      "zh": "共產主義",
-     "ext": "",
+     "ext": "共同(commun-)所有的主張 → 主張生產資源歸社會共同擁有的制度",
      "examples": [
       {
        "en": "The history class compared communism with other economic systems.",
        "zh": "歷史課比較了共產主義和其他經濟制度。"
+      },
+      {
+       "en": "The museum has an exhibition about life under communism.",
+       "zh": "博物館有一個關於共產主義下生活的展覽。"
       }
      ],
      "patterns": [],
@@ -14014,18 +14326,22 @@
   },
   {
    "word": "communist",
-   "phonetic": "/ˈkɑː.mjə.nɪst/",
+   "phonetic": "/ˈkɑːmjənɪst/",
    "level": 5,
    "forms": "communists · communism · communist",
    "meanings": [
     {
      "pos": "adj.",
      "zh": "共產主義的",
-     "ext": "",
+     "ext": "主張共同所有 → 形容和共產主義有關的",
      "examples": [
       {
        "en": "The book explains how communist ideas influenced the country's history.",
        "zh": "這本書說明共產主義思想如何影響該國的歷史。"
+      },
+      {
+       "en": "The communist party controlled the government for many years.",
+       "zh": "共產黨掌握政府多年。"
       }
      ],
      "patterns": [],
@@ -14043,11 +14359,15 @@
     {
      "pos": "n.",
      "zh": "共產主義者",
-     "ext": "",
+     "ext": "共同所有主張的支持者 → 支持共產主義的人",
      "examples": [
       {
        "en": "The student interviewed a communist who supported equal access to education.",
        "zh": "那名學生訪問了一位支持教育平等的共產主義者。"
+      },
+      {
+       "en": "She wrote a report about a famous communist who lived long ago.",
+       "zh": "她寫了一篇關於很久以前一位有名的共產主義者的報告。"
       }
      ],
      "patterns": [],
@@ -14104,11 +14424,15 @@
     {
      "pos": "v.",
      "zh": "通勤；往返",
-     "ext": "",
+     "ext": "在兩地之間來回 → 在住處與工作或學校間往返",
      "examples": [
       {
        "en": "Amy commutes by train because driving to work takes too long.",
        "zh": "Amy 搭火車通勤，因為開車上班要花太多時間。"
+      },
+      {
+       "en": "It takes me an hour to commute between home and school.",
+       "zh": "我從家裡通勤到學校要花一個小時。"
       }
      ],
      "patterns": [
@@ -14181,18 +14505,22 @@
   },
   {
    "word": "commuter",
-   "phonetic": "/kəˈmjuː.t̬ɚ/",
+   "phonetic": "/kəˈmjuːtɚ/",
    "level": 5,
    "forms": "commuters · commute",
    "meanings": [
     {
      "pos": "n.",
      "zh": "通勤者",
-     "ext": "",
+     "ext": "通勤(commute)的人(-er) → 固定往返住處與工作地的人",
      "examples": [
       {
        "en": "Commuters often read the news while riding the train to work.",
        "zh": "通勤者常在搭火車上班時閱讀新聞。"
+      },
+      {
+       "en": "Thousands of commuters use this station every morning.",
+       "zh": "每天早上有數千名通勤者使用這個車站。"
       }
      ],
      "patterns": [],
@@ -14258,11 +14586,15 @@
     {
      "pos": "adj.",
      "zh": "小巧的；緊密的",
-     "ext": "",
+     "ext": "壓緊在一起 → 體積小巧、排列緊密的",
      "examples": [
       {
        "en": "This compact camera fits easily into Amy's school bag.",
        "zh": "這台小巧的相機很容易放進 Amy 的書包。"
+      },
+      {
+       "en": "The apartment is compact, but it has everything a student needs.",
+       "zh": "這間公寓很小巧，但學生需要的東西都有。"
       }
      ],
      "patterns": [],
@@ -14280,11 +14612,15 @@
     {
      "pos": "v.",
      "zh": "壓緊；壓實",
-     "ext": "",
+     "ext": "把東西壓緊 → 使變得緊實、體積變小",
      "examples": [
       {
        "en": "The workers compact the soil before building the new school path.",
        "zh": "工人先把土壤壓實，再修建新的校園步道。"
+      },
+      {
+       "en": "Please compact the trash so that it takes up less space in the bag.",
+       "zh": "請把垃圾壓緊，讓它在袋子裡佔的空間小一點。"
       }
      ],
      "patterns": [
@@ -14350,18 +14686,22 @@
   },
   {
    "word": "comparable",
-   "phonetic": "/ˈkɑːm.pɚ.ə.bəl/",
+   "phonetic": "/ˈkɑːmpɚəbəl/",
    "level": 5,
    "forms": "comparably · compare · comparison",
    "meanings": [
     {
      "pos": "adj.",
      "zh": "可相比的；相當的",
-     "ext": "",
+     "ext": "可以放在一起比 → 程度相當、能相提並論的",
      "examples": [
       {
        "en": "The two schools have comparable results in this year's English test.",
        "zh": "這兩所學校今年的英文考試成績相近。"
+      },
+      {
+       "en": "The prices in these two night market shops are comparable.",
+       "zh": "這兩間夜市攤位的價格差不多。"
       }
      ],
      "patterns": [
@@ -14455,18 +14795,22 @@
   },
   {
    "word": "compassion",
-   "phonetic": "/kəmˈpæʃ.ən/",
+   "phonetic": "/kəmˈpæʃən/",
    "level": 5,
    "forms": "compassionate · compassionately",
    "meanings": [
     {
      "pos": "n.",
      "zh": "同情；憐憫",
-     "ext": "",
+     "ext": "與他人一同受苦 → 對他人的苦難感到同情",
      "examples": [
       {
        "en": "The nurse showed compassion to patients who felt afraid before surgery.",
        "zh": "那位護理師對手術前感到害怕的病人展現同情心。"
+      },
+      {
+       "en": "Her compassion for the poor made her volunteer at a food bank.",
+       "zh": "她對窮人的同情，讓她到食物銀行當志工。"
       }
      ],
      "patterns": [
@@ -14546,18 +14890,22 @@
   },
   {
    "word": "compassionate",
-   "phonetic": "/kəmˈpæʃ.ən.ət/",
+   "phonetic": "/kəmˈpæʃənət/",
    "level": 5,
    "forms": "compassionately · compassion",
    "meanings": [
     {
      "pos": "adj.",
      "zh": "有同情心的；慈悲的",
-     "ext": "",
+     "ext": "能與別人一同承受痛苦 → 對受苦的人有同情心",
      "examples": [
       {
        "en": "Our teacher gave compassionate support to students facing family problems.",
        "zh": "老師對面臨家庭問題的學生給予體諒與支持。"
+      },
+      {
+       "en": "The doctor was compassionate and listened carefully to every patient.",
+       "zh": "那位醫生很有同情心，仔細聆聽每位病人說話。"
       }
      ],
      "patterns": [],
@@ -14626,18 +14974,22 @@
   },
   {
    "word": "compatible",
-   "phonetic": "/kəmˈpæt̬.ə.bəl/",
+   "phonetic": "/kəmˈpætəbəl/",
    "level": 5,
    "forms": "compatibly · compatibility · incompatible",
    "meanings": [
     {
      "pos": "adj.",
      "zh": "相容的；合得來的",
-     "ext": "",
+     "ext": "能一同承受、共存 → 能配合、相容的",
      "examples": [
       {
        "en": "This learning app is compatible with most phones used by students.",
        "zh": "這款學習 App 和學生常用的大多數手機都相容。"
+      },
+      {
+       "en": "Their personalities are compatible, so they work well together.",
+       "zh": "他們的個性很合得來，所以合作得很好。"
       }
      ],
      "patterns": [
@@ -14743,11 +15095,15 @@
     {
      "pos": "v.",
      "zh": "迫使；強制",
-     "ext": "",
+     "ext": "從各方向推動 → 以壓力或情勢迫使做某事",
      "examples": [
       {
        "en": "The heavy rain compelled the school to cancel the outdoor activity.",
        "zh": "大雨迫使學校取消戶外活動。"
+      },
+      {
+       "en": "Rising prices compelled many families to spend less on entertainment.",
+       "zh": "物價上漲迫使許多家庭減少娛樂支出。"
       }
      ],
      "patterns": [
@@ -14829,18 +15185,22 @@
   },
   {
    "word": "compensate",
-   "phonetic": "/ˈkɑːm.pən.seɪt/",
+   "phonetic": "/ˈkɑːmpənseɪt/",
    "level": 5,
    "forms": "compensated · compensating · compensation",
    "meanings": [
     {
      "pos": "v.",
      "zh": "補償；彌補",
-     "ext": "",
+     "ext": "把兩邊放上天平衡量 → 用補償使損失得到平衡",
      "examples": [
       {
        "en": "The company compensated passengers for the long delay with meal vouchers.",
        "zh": "公司用餐券補償因長時間延誤受影響的乘客。"
+      },
+      {
+       "en": "The bank agreed to compensate customers who lost money because of the mistake.",
+       "zh": "銀行同意補償因這個錯誤而損失金錢的客戶。"
       }
      ],
      "patterns": [
@@ -14932,18 +15292,22 @@
   },
   {
    "word": "compensation",
-   "phonetic": "/ˌkɑːm.pənˈseɪ.ʃən/",
+   "phonetic": "/ˌkɑːmpənˈseɪʃən/",
    "level": 5,
    "forms": "compensate · compensatory",
    "meanings": [
     {
      "pos": "n.",
      "zh": "補償；賠償",
-     "ext": "",
+     "ext": "把損失放上天平抵消 → 對損失的補償或賠償",
      "examples": [
       {
        "en": "The airline offered compensation to passengers after the flight was canceled.",
        "zh": "班機取消後，航空公司提供乘客補償。"
+      },
+      {
+       "en": "The company paid compensation to workers who were hurt in the accident.",
+       "zh": "公司對在意外中受傷的員工支付賠償。"
       }
      ],
      "patterns": [
@@ -14967,11 +15331,15 @@
     {
      "pos": "n.",
      "zh": "薪酬；報酬",
-     "ext": "",
+     "ext": "用金錢抵消付出的勞力 → 工作所得的薪酬",
      "examples": [
       {
        "en": "The position offers fair compensation for the hours required each week.",
        "zh": "這個職位依每週所需工時提供合理的薪酬。"
+      },
+      {
+       "en": "Nurses in this hospital receive good compensation, including a yearly bonus.",
+       "zh": "這家醫院的護理師薪酬不錯，包含年度獎金。"
       }
      ],
      "patterns": [],
@@ -15040,18 +15408,22 @@
   },
   {
    "word": "competence",
-   "phonetic": "/ˈkɑːm.pə.t̬əns/",
+   "phonetic": "/ˈkɑːmpətəns/",
    "level": 5,
    "forms": "competent · competently",
    "meanings": [
     {
      "pos": "n.",
      "zh": "能力；勝任程度",
-     "ext": "",
+     "ext": "適合並能勝任 → 完成工作所需的能力",
      "examples": [
       {
        "en": "The interview tested her competence in planning school events and managing time.",
        "zh": "面試測試她規劃校園活動與管理時間的能力。"
+      },
+      {
+       "en": "The manager praised her competence in solving customer problems.",
+       "zh": "經理稱讚她解決客戶問題的能力。"
       }
      ],
      "patterns": [
@@ -15137,18 +15509,22 @@
   },
   {
    "word": "competent",
-   "phonetic": "/ˈkɑːm.pə.t̬ənt/",
+   "phonetic": "/ˈkɑːmpətənt/",
    "level": 5,
    "forms": "competently · competence · incompetent",
    "meanings": [
     {
      "pos": "adj.",
      "zh": "有能力的；能勝任的",
-     "ext": "",
+     "ext": "適合並能勝任 → 有能力完成所需工作的",
      "examples": [
       {
        "en": "Kevin is competent enough to lead the science club's weekly meetings.",
        "zh": "Kevin 有能力主持科學社每週的社團活動。"
+      },
+      {
+       "en": "A competent driver always checks the mirrors before turning.",
+       "zh": "稱職的駕駛在轉彎前一定會檢查後照鏡。"
       }
      ],
      "patterns": [
@@ -15240,18 +15616,22 @@
   },
   {
    "word": "complexity",
-   "phonetic": "/kəmˈplɛk.sə.t̬i/",
+   "phonetic": "/kəmˈplɛksəti/",
    "level": 5,
    "forms": "complexities · complex",
    "meanings": [
     {
      "pos": "n.",
      "zh": "複雜性；複雜之處",
-     "ext": "",
+     "ext": "編織在一起的多個部分 → 事物因素繁多而難懂的程度",
      "examples": [
       {
        "en": "The teacher explained the complexity of climate change with simple charts.",
        "zh": "老師用簡單的圖表說明氣候變遷的複雜性。"
+      },
+      {
+       "en": "The complexity of the rules confused many new players.",
+       "zh": "規則的複雜讓許多新手感到困惑。"
       }
      ],
      "patterns": [
@@ -15335,18 +15715,22 @@
   },
   {
    "word": "compliance",
-   "phonetic": "/kəmˈplaɪ.əns/",
+   "phonetic": "/kəmˈplaɪəns/",
    "level": 5,
    "forms": "comply · compliant · noncompliance",
    "meanings": [
     {
      "pos": "n.",
      "zh": "遵守；服從",
-     "ext": "",
+     "ext": "把事情做到完滿 → 依照規則或要求辦理",
      "examples": [
       {
        "en": "The school checks compliance with safety rules during every science activity.",
        "zh": "學校每次進行自然科活動時，都會檢查大家是否遵守安全規定。"
+      },
+      {
+       "en": "The factory was closed for failing to show compliance with fire safety laws.",
+       "zh": "那家工廠因為沒有遵守消防安全法規而被勒令關閉。"
       }
      ],
      "patterns": [
@@ -15440,11 +15824,15 @@
     {
      "pos": "n.",
      "zh": "複雜情況；難題",
-     "ext": "",
+     "ext": "折疊在一起的東西 → 使事情更難處理的新問題",
      "examples": [
       {
        "en": "A sudden complication delayed the school trip by two hours.",
        "zh": "突發狀況讓校外教學延後了兩個小時。"
+      },
+      {
+       "en": "The bad weather added a complication to our travel plans.",
+       "zh": "壞天氣為我們的旅行計畫增添了麻煩。"
       }
      ],
      "patterns": [],
@@ -15453,11 +15841,15 @@
     {
      "pos": "n.",
      "zh": "併發症",
-     "ext": "",
+     "ext": "疾病中多出的麻煩 → 疾病或治療引起的併發症",
      "examples": [
       {
        "en": "The doctor explained the possible complications of the treatment.",
        "zh": "醫師說明了這項治療可能引起的併發症。"
+      },
+      {
+       "en": "After the operation, the patient developed a serious complication.",
+       "zh": "手術後，病人出現了嚴重的併發症。"
       }
      ],
      "patterns": [],
@@ -15528,11 +15920,15 @@
     {
      "pos": "n.",
      "zh": "稱讚；恭維",
-     "ext": "",
+     "ext": "禮貌的客氣話 → 稱讚別人時說的話",
      "examples": [
       {
        "en": "Amy gave our teacher a compliment about her clear explanation.",
        "zh": "Amy 稱讚老師解說得很清楚。"
+      },
+      {
+       "en": "Thank you for the compliment, but I did not do anything special.",
+       "zh": "謝謝你的稱讚，不過我並沒有做什麼特別的事。"
       }
      ],
      "patterns": [
@@ -15556,11 +15952,15 @@
     {
      "pos": "v.",
      "zh": "稱讚；恭維",
-     "ext": "",
+     "ext": "說出禮貌好聽的話 → 稱讚別人",
      "examples": [
       {
        "en": "Jenny complimented Tom on his careful work.",
        "zh": "Jenny 稱讚 Tom 做事仔細。"
+      },
+      {
+       "en": "Everyone complimented the chef on the delicious meal.",
+       "zh": "每個人都稱讚主廚的餐點很美味。"
       }
      ],
      "patterns": [
@@ -15625,11 +16025,15 @@
     {
      "pos": "v.",
      "zh": "遵守；依從",
-     "ext": "",
+     "ext": "完成應盡的事 → 依照規定或要求行事",
      "examples": [
       {
        "en": "All students must comply with the safety rules during the trip.",
        "zh": "校外教學期間，所有學生都必須遵守安全規定。"
+      },
+      {
+       "en": "Drivers who do not comply with traffic laws may lose their licenses.",
+       "zh": "不遵守交通法規的駕駛可能會被吊銷駕照。"
       }
      ],
      "patterns": [
@@ -15708,11 +16112,15 @@
     {
      "pos": "n.",
      "zh": "組成部分；零件",
-     "ext": "",
+     "ext": "放在一起的各部分之一 → 構成整體的成分或零件",
      "examples": [
       {
        "en": "Trust is an important component of a strong friendship.",
        "zh": "信任是穩固友誼的重要組成部分。"
+      },
+      {
+       "en": "The battery is the most costly component of this phone.",
+       "zh": "電池是這支手機最貴的零件。"
       }
      ],
      "patterns": [
@@ -15736,11 +16144,15 @@
     {
      "pos": "adj.",
      "zh": "組成的；構成的",
-     "ext": "",
+     "ext": "作為組成部分的 → 形容構成整體的各個部分",
      "examples": [
       {
        "en": "The students studied the component parts of a simple machine.",
        "zh": "學生研究了一台簡單機器的組成零件。"
+      },
+      {
+       "en": "The component parts of the machine are made in different countries.",
+       "zh": "這台機器的組成零件是在不同國家製造的。"
       }
      ],
      "patterns": [],
@@ -15816,11 +16228,15 @@
     {
      "pos": "n.",
      "zh": "化合物；複合物",
-     "ext": "",
+     "ext": "放在一起的東西 → 由多個部分組成的化合物",
      "examples": [
       {
        "en": "Water is a compound made from hydrogen and oxygen.",
        "zh": "水是由氫和氧構成的化合物。"
+      },
+      {
+       "en": "Table salt is a common chemical compound found in every kitchen.",
+       "zh": "食鹽是廚房裡都有的常見化合物。"
       }
      ],
      "patterns": [
@@ -15844,11 +16260,15 @@
     {
      "pos": "v.",
      "zh": "使加重；使惡化",
-     "ext": "",
+     "ext": "把壞事疊在一起 → 使問題更嚴重",
      "examples": [
       {
        "en": "Heavy rain compounded the delays on our school trip.",
        "zh": "大雨讓校外教學的延誤更加嚴重。"
+      },
+      {
+       "en": "The delay was compounded by a sudden storm that closed the road.",
+       "zh": "突如其來的暴風雨封閉了道路，使延誤更加嚴重。"
       }
      ],
      "patterns": [
@@ -15872,11 +16292,15 @@
     {
      "pos": "adj.",
      "zh": "複合的；混合的",
-     "ext": "",
+     "ext": "由多個部分組成 → 形容複合而成的",
      "examples": [
       {
        "en": "Our class made a compound sentence using two short ideas.",
        "zh": "我們班用兩個簡短的想法寫成複合句。"
+      },
+      {
+       "en": "Blackboard is a compound word made from black and board.",
+       "zh": "Blackboard 是由 black 和 board 組成的複合字。"
       }
      ],
      "patterns": [],
@@ -15940,11 +16364,15 @@
     {
      "pos": "v.",
      "zh": "理解；了解",
-     "ext": "",
+     "ext": "把意思完全抓在手裡 → 掌握並理解內容",
      "examples": [
       {
        "en": "Tom could not comprehend the instructions until the teacher explained them.",
        "zh": "老師解釋後，Tom 才看懂那些指示。"
+      },
+      {
+       "en": "Young children cannot always comprehend why adults make certain rules.",
+       "zh": "年幼的孩子不見得能理解大人為什麼訂某些規則。"
       }
      ],
      "patterns": [
@@ -16021,11 +16449,15 @@
     {
      "pos": "n.",
      "zh": "理解；理解力",
-     "ext": "",
+     "ext": "把內容抓在手裡 → 理解內容的能力或程度",
      "examples": [
       {
        "en": "The reading test checks students' comprehension of the story.",
        "zh": "閱讀測驗會檢查學生對故事的理解程度。"
+      },
+      {
+       "en": "Reading comprehension is an important part of the English exam.",
+       "zh": "閱讀理解是英文考試的重要部分。"
       }
      ],
      "patterns": [
@@ -16102,11 +16534,15 @@
     {
      "pos": "v.",
      "zh": "由……組成；包含",
-     "ext": "",
+     "ext": "把各部分抓在一起 → 由各部分組成整體",
      "examples": [
       {
        "en": "The school band comprises students from five different classes.",
        "zh": "學校樂團由五個不同班級的學生組成。"
+      },
+      {
+       "en": "The exam comprises two parts: listening and reading.",
+       "zh": "這場考試由兩個部分組成：聽力和閱讀。"
       }
      ],
      "patterns": [
@@ -16183,11 +16619,15 @@
     {
      "pos": "n.",
      "zh": "妥協；折衷方案",
-     "ext": "",
+     "ext": "共同承諾接受仲裁 → 雙方各讓一步達成的辦法",
      "examples": [
       {
        "en": "After a long discussion, both groups reached a compromise.",
        "zh": "經過長時間討論，兩組人終於達成妥協。"
+      },
+      {
+       "en": "A compromise between the two plans made everyone happy enough.",
+       "zh": "兩個計畫之間的折衷方案讓每個人都算滿意。"
       }
      ],
      "patterns": [
@@ -16211,11 +16651,15 @@
     {
      "pos": "v.",
      "zh": "妥協",
-     "ext": "",
+     "ext": "雙方各自退讓一步 → 彼此讓步以取得共識",
      "examples": [
       {
        "en": "Both teams compromised to share the gym after school.",
        "zh": "兩支隊伍都願意妥協，放學後共用體育館。"
+      },
+      {
+       "en": "Parents and teenagers often need to compromise on what time to come home.",
+       "zh": "父母和青少年常常需要在幾點回家這件事上互相讓步。"
       }
      ],
      "patterns": [
@@ -16235,11 +16679,15 @@
     {
      "pos": "v.",
      "zh": "危及；損害",
-     "ext": "",
+     "ext": "因讓步而受損 → 使安全或品質陷入危險",
      "examples": [
       {
        "en": "Sharing her password could compromise her online safety.",
        "zh": "分享密碼可能危及她的網路安全。"
+      },
+      {
+       "en": "The company will not compromise the quality of its food.",
+       "zh": "這家公司不會讓食物的品質打折扣。"
       }
      ],
      "patterns": [
@@ -16305,11 +16753,15 @@
     {
      "pos": "adj.",
      "zh": "強制的；必修的",
-     "ext": "",
+     "ext": "被強力驅使 → 由規定強制要求的",
      "examples": [
       {
        "en": "English is a compulsory subject for every student at this school.",
        "zh": "這所學校的每位學生都必須修英文。"
+      },
+      {
+       "en": "Wearing a seat belt is compulsory for everyone in the car.",
+       "zh": "車上每個人都必須繫安全帶。"
       }
      ],
      "patterns": [
@@ -16400,7 +16852,7 @@
     {
      "pos": "v.",
      "zh": "隱藏；隱瞞",
-     "ext": "",
+     "ext": "完全(con-)藏起來(celare) → 刻意不讓人看見或知道",
      "examples": [
       {
        "en": "He tried to conceal his disappointment after the team lost.",
@@ -16490,7 +16942,7 @@
     {
      "pos": "v.",
      "zh": "承認；讓步",
-     "ext": "",
+     "ext": "走開讓出 → 承認事實或在爭論中讓步",
      "examples": [
       {
        "en": "After checking the results, the coach conceded that the other team played better.",
@@ -16584,7 +17036,7 @@
     {
      "pos": "v.",
      "zh": "構想；想像",
-     "ext": "",
+     "ext": "在腦中接住 → 形成想法或構想",
      "examples": [
       {
        "en": "The students conceived a plan to reduce waste in the school cafeteria.",
@@ -16681,11 +17133,15 @@
     {
      "pos": "n.",
      "zh": "觀念；構想",
-     "ext": "",
+     "ext": "在心中接住 → 對事物形成的觀念或想法",
      "examples": [
       {
        "en": "Her conception of a good school includes kindness and respect.",
        "zh": "她心中理想學校的樣貌包含友善與尊重。"
+      },
+      {
+       "en": "People from different cultures often have different conceptions of time.",
+       "zh": "來自不同文化的人對時間常有不同的觀念。"
       }
      ],
      "patterns": [
@@ -16771,7 +17227,7 @@
     {
      "pos": "v.",
      "zh": "譴責；判刑",
-     "ext": "",
+     "ext": "完全定罪 → 公開強烈譴責，或依法判刑",
      "examples": [
       {
        "en": "The school condemned the act of copying answers during the exam.",
@@ -16882,11 +17338,15 @@
     {
      "pos": "v.",
      "zh": "進行；執行",
-     "ext": "",
+     "ext": "引導著進行 → 有計畫地進行活動或研究",
      "examples": [
       {
        "en": "The students conducted a survey about school lunches.",
        "zh": "學生進行了一項關於學校午餐的調查。"
+      },
+      {
+       "en": "Our teacher conducted the meeting in a calm and friendly way.",
+       "zh": "我們老師以冷靜又友善的方式主持了會議。"
       }
      ],
      "patterns": [
@@ -16914,11 +17374,15 @@
     {
      "pos": "v.",
      "zh": "指揮；帶領",
-     "ext": "",
+     "ext": "帶領大家演奏 → 指揮樂團或合唱團",
      "examples": [
       {
        "en": "Amy conducted the school choir at the concert.",
        "zh": "艾美在音樂會上指揮學校合唱團。"
+      },
+      {
+       "en": "A famous musician will conduct the orchestra tonight.",
+       "zh": "一位著名的音樂家今晚將指揮這個管弦樂團。"
       }
      ],
      "patterns": [],
@@ -16932,11 +17396,15 @@
     {
      "pos": "n.",
      "zh": "行為；舉止",
-     "ext": "",
+     "ext": "個人帶領自己的方式 → 一個人的行為舉止",
      "examples": [
       {
        "en": "The teacher praised Tom for his good conduct.",
        "zh": "老師稱讚湯姆表現良好。"
+      },
+      {
+       "en": "The school has strict rules about student conduct.",
+       "zh": "學校對學生的行為有嚴格的規定。"
       }
      ],
      "patterns": [],
@@ -17002,11 +17470,15 @@
     {
      "pos": "n.",
      "zh": "坦白；認罪",
-     "ext": "",
+     "ext": "說出自己的過錯 → 坦白承認的話或行為",
      "examples": [
       {
        "en": "His confession helped the teacher understand what happened.",
        "zh": "他的坦白讓老師了解事情的經過。"
+      },
+      {
+       "en": "The thief's confession helped the police solve the case.",
+       "zh": "小偷的坦白幫助警方破了案。"
       }
      ],
      "patterns": [
@@ -17113,11 +17585,15 @@
     {
      "pos": "adj.",
      "zh": "機密的；保密的",
-     "ext": "",
+     "ext": "帶著信任交付 → 只讓特定的人知道的",
      "examples": [
       {
        "en": "The counselor kept Amy's personal information confidential.",
        "zh": "輔導老師替艾美保守個人資料。"
+      },
+      {
+       "en": "The lawyer said their talk was confidential and could not be shared.",
+       "zh": "律師說他們的談話是機密，不能公開。"
       }
      ],
      "patterns": [
@@ -17237,11 +17713,15 @@
     {
      "pos": "v.",
      "zh": "限制；局限",
-     "ext": "",
+     "ext": "把範圍劃在界線內 → 限制在某個範圍或程度",
      "examples": [
       {
        "en": "The project confines its study to local schools.",
        "zh": "這項計畫的研究範圍限於當地學校。"
+      },
+      {
+       "en": "Please confine your answers to the space below.",
+       "zh": "請把你的答案寫在下面的空格內。"
       }
      ],
      "patterns": [
@@ -17270,11 +17750,15 @@
     {
      "pos": "v.",
      "zh": "禁閉；限制行動",
-     "ext": "",
+     "ext": "把人關在界線內 → 限制行動、關在某處",
      "examples": [
       {
        "en": "The injury confined Kevin to bed for a week.",
        "zh": "凱文受傷後臥床休養了一週。"
+      },
+      {
+       "en": "The storm confined the tourists to their hotel for two days.",
+       "zh": "暴風雨使遊客兩天都只能待在飯店裡。"
       }
      ],
      "patterns": [
@@ -17357,11 +17841,15 @@
     {
      "pos": "v.",
      "zh": "遵守；符合",
-     "ext": "",
+     "ext": "使形狀相同 → 符合規則或標準",
      "examples": [
       {
        "en": "All science projects must conform to the school rules.",
        "zh": "所有科學作品都必須符合校規。"
+      },
+      {
+       "en": "Buildings in this area must conform to the safety standards.",
+       "zh": "這個地區的建築物必須符合安全標準。"
       }
      ],
      "patterns": [
@@ -17389,11 +17877,15 @@
     {
      "pos": "v.",
      "zh": "順從；隨大流",
-     "ext": "",
+     "ext": "跟著群體的樣子 → 順從多數人的做法",
      "examples": [
       {
        "en": "Jenny refused to conform just because her friends did.",
        "zh": "珍妮不願只因朋友都這麼做就跟著做。"
+      },
+      {
+       "en": "Some teenagers conform to fashion trends because they want to fit in.",
+       "zh": "有些青少年為了融入團體而跟隨流行。"
       }
      ],
      "patterns": [
