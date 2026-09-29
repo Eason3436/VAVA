@@ -1,0 +1,163 @@
+{
+ "level": 3,
+ "words": [
+  {
+   "word": "aboard",
+   "phonetic": "/əˈbɔːrd/",
+   "level": 3,
+   "forms": "",
+   "meanings": [
+    {
+     "pos": "prep.",
+     "zh": "在船上；在飛機上",
+     "ext": "「在船板上」→ 泛指人在船、飛機、火車等交通工具裡",
+     "examples": [
+      {
+       "en": "All the students were aboard the bus before eight.",
+       "zh": "八點前，所有學生都上了公車。"
+      },
+      {
+       "en": "There were about two hundred passengers aboard the plane.",
+       "zh": "飛機上大約有兩百名乘客。"
+      }
+     ],
+     "patterns": [
+      {
+       "pattern": "aboard + N",
+       "en": "The family climbed aboard the train at the next stop.",
+       "zh": "這家人在下一站上了火車。"
+      }
+     ],
+     "collocations": [
+      {
+       "en": "go aboard",
+       "zh": "上船；上飛機"
+      },
+      {
+       "en": "all aboard",
+       "zh": "全體上船；全體上車"
+      }
+     ]
+    },
+    {
+     "pos": "adv.",
+     "zh": "在船上；在飛機上",
+     "ext": "人登上船板 → 當副詞表示上了交通工具",
+     "examples": [
+      {
+       "en": "The passengers went aboard and found their seats.",
+       "zh": "乘客上了飛機，並找到自己的座位。"
+      },
+      {
+       "en": "We waited on the platform until the conductor told us to come aboard.",
+       "zh": "我們在月台上等，直到列車長叫我們上車。"
+      }
+     ],
+     "patterns": [
+      {
+       "pattern": "go / come / climb aboard",
+       "en": "The tourists climbed aboard as soon as the boat arrived.",
+       "zh": "船一到，遊客就爬上船。"
+      }
+     ],
+     "collocations": [
+      {
+       "en": "come aboard",
+       "zh": "上船；加入"
+      }
+     ]
+    }
+   ],
+   "synonyms": [
+    {
+     "word": "aboard",
+     "note": "表示登上或在交通工具上，常用於船、飛機和火車。",
+     "example": "come aboard"
+    },
+    {
+     "word": "on board",
+     "note": "意思相近，常用來表示人在船、飛機或火車上。",
+     "example": "on board the plane"
+    },
+    {
+     "word": "on",
+     "note": "可表示人在交通工具上，常用於公車、火車和飛機。",
+     "example": "on the bus"
+    }
+   ],
+   "antonyms": [],
+   "confusables": [
+    {
+     "words": "aboard vs abroad",
+     "note": "aboard 表示在交通工具上；abroad 表示在國外。",
+     "wrong": "Amy is aboard in Japan for a school trip.",
+     "right": "Amy is abroad in Japan for a school trip."
+    }
+   ],
+   "commonErrors": [
+    {
+     "wrong": "aboard on the plane",
+     "right": "aboard the plane",
+     "note": "aboard 本身就是介系詞，後面直接接交通工具，不再加 on。",
+     "exWrong": "All the passengers were aboard on the plane.",
+     "exRight": "All the passengers were aboard the plane."
+    }
+   ],
+   "breakdownApplicable": false,
+   "breakdown": [],
+   "origin": "aboard 源自中古英語 a bord，原指「在船上」，其中 bord 與古英語 bord「船舷、船側」有關。",
+   "related": [],
+   "phrases": [
+    {
+     "phrase": "all aboard",
+     "zh": "全體上船；全體上車",
+     "example": "The driver called all aboard, and the students got on the bus.",
+     "exampleZh": "司機喊了全體上車，學生們便上了公車。",
+     "cloze": false,
+     "answer": "all aboard",
+     "distractors": [
+      "all abroad",
+      "all around",
+      "all along"
+     ],
+     "whys": [
+      "all abroad 是「全在國外」，不表示準備上車。",
+      "all around 是「在四周」，不表示準備上車。",
+      "all along 是「一直以來」，不表示準備上車。"
+     ],
+     "notes": [
+      "常用作交通工具出發前的招呼語。"
+     ]
+    }
+   ]
+  }
+ ],
+ "pairs": [
+  {
+   "a": "aboard",
+   "b": "abroad",
+   "kind": "visual",
+   "score": 0.85,
+   "aZh": "prep./adv. 在船上；在飛機上",
+   "bZh": "adv. 在國外；到國外",
+   "diff": "aboard 是在交通工具上；abroad 是在國外。兩個字只差 o 和 r 的位置。",
+   "points": [
+    "拼字：ab-oard 裡有 board（船板），ab-road 裡有 road（路）",
+    "用法：aboard 後面可以直接接交通工具；abroad 是副詞，後面不接名詞",
+    "搭配：go aboard 上船／上機，go abroad 出國"
+   ],
+   "tip": "aboard 藏著 board（登機 boarding）；abroad 藏著 road，走上遠方的路就出國了。",
+   "exA": {
+    "en": "Everyone must be aboard the ship by six o'clock.",
+    "zh": "所有人六點前都必須上船。"
+   },
+   "exB": {
+    "en": "My sister plans to study abroad after high school.",
+    "zh": "我姊姊打算高中畢業後出國留學。"
+   }
+  }
+ ],
+ "reviewed": [
+  "aboard"
+ ]
+}
