@@ -92058,6 +92058,10 @@
       {
        "en": "The theory explains why some plants grow faster.",
        "zh": "這個理論解釋了為什麼有些植物長得比較快。"
+      },
+      {
+       "en": "Scientists use a new theory to explain how stars are born.",
+       "zh": "科學家用一個新理論解釋恆星如何誕生。"
       }
      ],
      "patterns": [
@@ -92084,6 +92088,10 @@
       {
        "en": "develop a theory",
        "zh": "建立理論"
+      },
+      {
+       "en": "in theory",
+       "zh": "理論上"
       }
      ]
     },
@@ -92095,6 +92103,10 @@
       {
        "en": "Her theory about the missing book was reasonable.",
        "zh": "她對那本遺失書籍的推測很合理。"
+      },
+      {
+       "en": "My theory is that the cat opened the door by itself.",
+       "zh": "我的推測是貓自己把門打開了。"
       }
      ],
      "patterns": [
@@ -92235,6 +92247,10 @@
       {
        "en": "Grandma used blue thread to repair my shirt.",
        "zh": "奶奶用藍線修補我的襯衫。"
+      },
+      {
+       "en": "Tom pulled the loose thread from his sleeve.",
+       "zh": "Tom 把袖子上鬆掉的線頭扯了下來。"
       }
      ],
      "patterns": [
@@ -92267,6 +92283,10 @@
       {
        "en": "The main thread of the story is friendship.",
        "zh": "這個故事的主軸是友誼。"
+      },
+      {
+       "en": "A common thread runs through all of her stories.",
+       "zh": "一個共同的主題貫穿她所有的故事。"
       }
      ],
      "patterns": [
@@ -92295,6 +92315,10 @@
       {
        "en": "Please thread the string through the hole carefully.",
        "zh": "請小心把繩子穿過那個洞。"
+      },
+      {
+       "en": "Amy threaded the needle and started to sew.",
+       "zh": "Amy 穿好針，開始縫紉。"
       }
      ],
      "patterns": [
@@ -92436,6 +92460,10 @@
       {
        "en": "The angry customer threatened to call the manager.",
        "zh": "那位生氣的顧客威脅要打電話給經理。"
+      },
+      {
+       "en": "The neighbor threatened to call the police if we kept playing loud music.",
+       "zh": "如果我們繼續大聲放音樂，鄰居就威脅要報警。"
       }
      ],
      "patterns": [
@@ -92473,6 +92501,10 @@
       {
        "en": "Heavy rain threatened to cancel the outdoor event.",
        "zh": "大雨可能導致戶外活動取消。"
+      },
+      {
+       "en": "Air pollution threatens the health of people in big cities.",
+       "zh": "空氣汙染危害大城市居民的健康。"
       }
      ],
      "patterns": [
@@ -92557,8 +92589,12 @@
      "ext": "手掌旁能與其他手指相對的手指 → 用來抓握或按壓物品",
      "examples": [
       {
-       "en": "She pressed the button with her thumb.",
-       "zh": "她用拇指按下按鈕。"
+       "en": "She pressed the red button with her thumb.",
+       "zh": "她用拇指按下紅色按鈕。"
+      },
+      {
+       "en": "The baby sucked her thumb and fell asleep.",
+       "zh": "小嬰兒吸著大拇指睡著了。"
       }
      ],
      "patterns": [],
@@ -92581,6 +92617,10 @@
       {
        "en": "He thumbed through the magazine on the train.",
        "zh": "他在火車上快速翻閱那本雜誌。"
+      },
+      {
+       "en": "Amy thumbed through the menu before ordering her lunch.",
+       "zh": "Amy 點餐前快速翻了翻菜單。"
       }
      ],
      "patterns": [
@@ -92638,6 +92678,10 @@
       {
        "en": "The tide was high when we reached the beach.",
        "zh": "我們到海灘時正值漲潮。"
+      },
+      {
+       "en": "We collected shell pieces on the beach at low tide.",
+       "zh": "退潮時，我們在海灘上撿貝殼碎片。"
       }
      ],
      "patterns": [
@@ -92670,6 +92714,10 @@
       {
        "en": "The tide of public opinion is turning against the new plan.",
        "zh": "輿論的潮流正轉而反對這項新計畫。"
+      },
+      {
+       "en": "The tide of online shopping keeps rising every year.",
+       "zh": "網路購物的潮流每年都在上升。"
       }
      ],
      "patterns": [
@@ -92753,6 +92801,10 @@
       {
        "en": "These shoes are too tight for my feet.",
        "zh": "這雙鞋對我的腳來說太緊了。"
+      },
+      {
+       "en": "The lid on the jar is so tight that I cannot open it.",
+       "zh": "罐子的蓋子太緊，我打不開。"
       }
      ],
      "patterns": [
@@ -92787,8 +92839,8 @@
        "zh": "校慶前我們的行程很緊湊。"
       },
       {
-       "en": "The two friends have a tight relationship.",
-       "zh": "這兩位朋友的關係很親密。"
+       "en": "The two old friends have a very tight relationship.",
+       "zh": "這兩位老朋友的關係非常親密。"
       }
      ],
      "patterns": [],
@@ -92815,6 +92867,10 @@
       {
        "en": "Please hold the rope tight during the climb.",
        "zh": "爬的時候請緊緊抓住繩子。"
+      },
+      {
+       "en": "Close the window tight before you leave the house.",
+       "zh": "離開家前，把窗戶關緊。"
       }
      ],
      "patterns": [],
@@ -92982,6 +93038,10 @@
       {
        "en": "The workers used local timber to build the house.",
        "zh": "工人使用當地木材蓋房子。"
+      },
+      {
+       "en": "Timber from the forest is sold to furniture makers.",
+       "zh": "這片森林的木材賣給家具製造商。"
       }
      ],
      "patterns": [
@@ -93043,6 +93103,10 @@
       {
        "en": "The school teaches students about the dangers of tobacco.",
        "zh": "學校教導學生菸草的危害。"
+      },
+      {
+       "en": "Many countries have raised taxes on tobacco to reduce smoking.",
+       "zh": "許多國家提高菸草稅，以減少吸菸。"
       }
      ],
      "patterns": [
@@ -93180,6 +93244,10 @@
       {
        "en": "Kevin tossed the ball to his younger brother.",
        "zh": "Kevin 把球丟給弟弟。"
+      },
+      {
+       "en": "Tom tossed his bag onto the sofa and ran outside.",
+       "zh": "Tom 把包包往沙發上一丟，就跑到外面去了。"
       }
      ],
      "patterns": [
@@ -93210,8 +93278,12 @@
      "ext": "把食物輕輕翻動或混合 → 使調味料均勻分布",
      "examples": [
       {
-       "en": "Toss the salad with some lemon juice.",
-       "zh": "把沙拉和一些檸檬汁拌勻。"
+       "en": "Toss the salad with some lemon juice and salt.",
+       "zh": "把沙拉和一些檸檬汁與鹽拌勻。"
+      },
+      {
+       "en": "Toss the noodles with the sauce before serving.",
+       "zh": "上菜前，把麵條和醬汁拌一拌。"
       }
      ],
      "patterns": [
@@ -93240,6 +93312,10 @@
       {
        "en": "The captain won the toss and chose to bat first.",
        "zh": "隊長擲硬幣獲勝，選擇先攻。"
+      },
+      {
+       "en": "The teacher used a coin toss to decide who would go first.",
+       "zh": "老師用擲硬幣決定誰先開始。"
       }
      ],
      "patterns": [
@@ -93306,8 +93382,12 @@
      "ext": "需要很大力氣或耐心才能完成 → 使人感到困難或壓力大",
      "examples": [
       {
-       "en": "The final math problem was really tough.",
-       "zh": "最後一道數學題真的很難。"
+       "en": "The final math problem on the test was really tough.",
+       "zh": "考卷上最後一道數學題真的很難。"
+      },
+      {
+       "en": "It was a tough week because we had three tests.",
+       "zh": "那個星期很難熬，因為我們有三場考試。"
       }
      ],
      "patterns": [
@@ -93340,6 +93420,10 @@
       {
        "en": "This material is tough enough for outdoor use.",
        "zh": "這種材料夠堅韌，適合戶外使用。"
+      },
+      {
+       "en": "Tough shoes protect our feet on the mountain trail.",
+       "zh": "耐磨的鞋子在山路上保護我們的腳。"
       }
      ],
      "patterns": [
@@ -93372,6 +93456,10 @@
       {
        "en": "The coach is tough but fair with every player.",
        "zh": "教練對每位球員都很嚴格但公平。"
+      },
+      {
+       "en": "The new principal is tough on students who break the rules.",
+       "zh": "新校長對違反規定的學生很嚴格。"
       }
      ],
      "patterns": [],
@@ -93452,6 +93540,10 @@
       {
        "en": "Tourism provides many jobs in this coastal town.",
        "zh": "觀光業在這座沿海小鎮提供許多工作。"
+      },
+      {
+       "en": "Tourism makes up a large part of the island's income.",
+       "zh": "觀光業占這座島收入的一大部分。"
       }
      ],
      "patterns": [
@@ -93553,6 +93645,10 @@
       {
        "en": "The tourist asked our teacher how to reach the museum.",
        "zh": "那位觀光客問我們的老師要怎麼去博物館。"
+      },
+      {
+       "en": "Many tourists take photos in front of the old temple.",
+       "zh": "許多觀光客在古老的寺廟前拍照。"
       }
      ],
      "patterns": [],
@@ -93618,11 +93714,15 @@
     {
      "pos": "n.",
      "zh": "拖曳；拖行",
-     "ext": "",
+     "ext": "用車輛把另一輛車拉走 → 指拖吊的動作",
      "examples": [
       {
        "en": "The car needed a tow after it stopped on the road.",
        "zh": "車子在路上故障後需要拖吊。"
+      },
+      {
+       "en": "We waited two hours for a tow after the accident.",
+       "zh": "事故後我們等了兩小時才等到拖吊。"
       }
      ],
      "patterns": [],
@@ -93636,11 +93736,15 @@
     {
      "pos": "v.",
      "zh": "拖；牽引",
-     "ext": "",
+     "ext": "用繩索或車輛拉著移動 → 拖動故障的車或船",
      "examples": [
       {
        "en": "A truck towed our car to the repair shop.",
        "zh": "一輛卡車把我們的車拖到修車廠。"
+      },
+      {
+       "en": "The small boat was towed back to the harbor.",
+       "zh": "那艘小船被拖回了港口。"
       }
      ],
      "patterns": [
@@ -93693,6 +93797,10 @@
       {
        "en": "We climbed the tower to see the whole town.",
        "zh": "我們爬上塔，欣賞整座城鎮的景色。"
+      },
+      {
+       "en": "The radio tower can be seen from every part of the city.",
+       "zh": "從城市的每個角落都能看到那座廣播塔。"
       }
      ],
      "patterns": [],
@@ -93713,8 +93821,12 @@
      "ext": "",
      "examples": [
       {
-       "en": "The mountain towers above the small village.",
-       "zh": "那座山高聳於小村莊上方。"
+       "en": "The mountain towers above the small fishing village.",
+       "zh": "那座山高聳在小漁村的上方。"
+      },
+      {
+       "en": "The tall trees tower over the little house.",
+       "zh": "高大的樹木高聳在小屋上方。"
       }
      ],
      "patterns": [
@@ -93762,6 +93874,10 @@
       {
        "en": "The police found no trace of the missing bag.",
        "zh": "警方沒有找到那個遺失背包的蹤跡。"
+      },
+      {
+       "en": "There was not a trace of fear on her face.",
+       "zh": "她臉上沒有一絲恐懼。"
       }
      ],
      "patterns": [],
@@ -93780,6 +93896,10 @@
       {
        "en": "The students traced the source of the false news.",
        "zh": "學生追查了假消息的來源。"
+      },
+      {
+       "en": "The doctor traced the cause of the illness to bad water.",
+       "zh": "醫生追查出病因是不乾淨的水。"
       }
      ],
      "patterns": [
@@ -93804,6 +93924,10 @@
       {
        "en": "Amy traced the map onto a clean sheet of paper.",
        "zh": "Amy 把地圖描到一張乾淨的紙上。"
+      },
+      {
+       "en": "The child traced the outline of her hand on the paper.",
+       "zh": "小孩在紙上描出她手的輪廓。"
       }
      ],
      "patterns": [
@@ -93869,6 +93993,10 @@
       {
        "en": "The trader sells fresh fruit at the morning market.",
        "zh": "那位商人在早市販售新鮮水果。"
+      },
+      {
+       "en": "The trader bought silk from farmers and sold it in the city.",
+       "zh": "那位商人向農民買絲，再到城裡賣。"
       }
      ],
      "patterns": [],
@@ -93939,6 +94067,10 @@
       {
        "en": "Our class followed a trail through the forest.",
        "zh": "我們班沿著森林裡的小徑前進。"
+      },
+      {
+       "en": "The hiking trail was narrow, so we walked in a line.",
+       "zh": "這條健行步道很窄，所以我們排成一列前進。"
       }
      ],
      "patterns": [],
@@ -93961,6 +94093,10 @@
       {
        "en": "The dog followed the trail left by the lost child.",
        "zh": "狗沿著走失孩子留下的蹤跡前進。"
+      },
+      {
+       "en": "Muddy shoes left a trail across the clean floor.",
+       "zh": "沾滿泥巴的鞋子在乾淨的地板上留下一串腳印。"
       }
      ],
      "patterns": [],
@@ -93979,6 +94115,10 @@
       {
        "en": "Our team trailed by two points at halftime.",
        "zh": "中場休息時，我們隊落後兩分。"
+      },
+      {
+       "en": "Our team was trailing by five points at the end of the game.",
+       "zh": "比賽快結束時，我們隊落後五分。"
       }
      ],
      "patterns": [
@@ -94031,6 +94171,10 @@
       {
        "en": "Public transport makes it easier to travel around the city.",
        "zh": "搭乘大眾運輸工具能讓人在市區移動更方便。"
+      },
+      {
+       "en": "Cars are a common means of transport in the suburbs.",
+       "zh": "在郊區，汽車是常見的交通工具。"
       }
      ],
      "patterns": [],
@@ -94053,6 +94197,10 @@
       {
        "en": "The company transports food to small towns every week.",
        "zh": "這家公司每週把食物運送到小城鎮。"
+      },
+      {
+       "en": "Large ships transport goods across the ocean every day.",
+       "zh": "大型船隻每天把貨物運過海洋。"
       }
      ],
      "patterns": [
@@ -94134,6 +94282,10 @@
       {
        "en": "The traveler checked the bus schedule before leaving.",
        "zh": "那位旅客出發前先確認了公車時刻表。"
+      },
+      {
+       "en": "A tired traveler asked for a room at the small hotel.",
+       "zh": "一位疲倦的旅客在那間小旅館詢問有沒有房間。"
       }
      ],
      "patterns": [],
@@ -94208,6 +94360,10 @@
       {
        "en": "Kevin carried the cups on a tray to the table.",
        "zh": "Kevin 把杯子放在托盤上端到桌邊。"
+      },
+      {
+       "en": "The waiter carried a tray of hot drinks to our table.",
+       "zh": "服務生把一托盤熱飲端到我們的桌子。"
       }
      ],
      "patterns": [],
@@ -94258,6 +94414,10 @@
       {
        "en": "The report shows a growing trend toward online learning.",
        "zh": "這份報告顯示線上學習日益普遍的趨勢。"
+      },
+      {
+       "en": "Wearing large sweaters has become a popular trend this winter.",
+       "zh": "穿寬大的毛衣成了今年冬天的流行潮流。"
       }
      ],
      "patterns": [
@@ -94286,6 +94446,10 @@
       {
        "en": "The number of visitors has trended upward this year.",
        "zh": "今年的訪客人數呈上升趨勢。"
+      },
+      {
+       "en": "Prices are trending downward as more shops open in the area.",
+       "zh": "隨著這一帶開了更多店，物價呈下降趨勢。"
       }
      ],
      "patterns": [
@@ -94360,6 +94524,10 @@
       {
        "en": "The museum exhibit teaches visitors about a local tribe.",
        "zh": "博物館的展覽讓參觀者認識當地的一個部落。"
+      },
+      {
+       "en": "Members of the tribe still make baskets by hand.",
+       "zh": "部落裡的人仍然用手編織籃子。"
       }
      ],
      "patterns": [],
@@ -94414,7 +94582,11 @@
      "examples": [
       {
        "en": "The final question was tricky, so Amy checked her work twice.",
-       "zh": "最後一題很棘手，所以Amy檢查了兩遍答案。"
+       "zh": "最後一題很棘手，所以 Amy 檢查了兩遍答案。"
+      },
+      {
+       "en": "Parking in the narrow street can be tricky for new drivers.",
+       "zh": "在狹窄的街道停車，對新手駕駛來說可能很棘手。"
       }
      ],
      "patterns": [],
@@ -94437,6 +94609,10 @@
       {
        "en": "The tricky salesman hid the extra cost in the agreement.",
        "zh": "那名狡猾的銷售員把額外費用藏在合約裡。"
+      },
+      {
+       "en": "The tricky fox in the story fooled all the other animals.",
+       "zh": "故事裡那隻狡猾的狐狸騙過了所有其他動物。"
       }
      ],
      "patterns": [],
@@ -94512,6 +94688,10 @@
       {
        "en": "A troop of scouts cleaned the park after the school event.",
        "zh": "一隊童軍在學校活動後清理公園。"
+      },
+      {
+       "en": "A troop of monkeys ran across the road in front of us.",
+       "zh": "一群猴子在我們面前跑過馬路。"
       }
      ],
      "patterns": [
@@ -94536,6 +94716,10 @@
       {
        "en": "The news reported that troops had arrived to help after the storm.",
        "zh": "新聞報導說，風災後有部隊前來協助。"
+      },
+      {
+       "en": "The government sent troops to help people after the flood.",
+       "zh": "政府在水災後派出部隊協助民眾。"
       }
      ],
      "patterns": [],
@@ -94587,6 +94771,10 @@
       {
        "en": "Many tropical plants need warm weather and plenty of rain.",
        "zh": "許多熱帶植物需要溫暖的天氣和充足的雨水。"
+      },
+      {
+       "en": "Bananas and mangoes grow well in tropical countries.",
+       "zh": "香蕉和芒果在熱帶國家長得很好。"
       }
      ],
      "patterns": [],
@@ -94665,7 +94853,11 @@
      "examples": [
       {
        "en": "Jenny practices the trumpet after school in the music room.",
-       "zh": "Jenny放學後在音樂教室練習小號。"
+       "zh": "Jenny 放學後在音樂教室練習小號。"
+      },
+      {
+       "en": "The trumpet sounded loudly at the start of the parade.",
+       "zh": "遊行開始時，小號聲響亮地響起。"
       }
      ],
      "patterns": [],
@@ -94688,6 +94880,10 @@
       {
        "en": "The company trumpeted its new plan in a public report.",
        "zh": "那家公司在公開報告中大肆宣揚新計畫。"
+      },
+      {
+       "en": "Newspapers trumpeted the team's victory the next morning.",
+       "zh": "第二天早上，報紙大肆宣揚了球隊的勝利。"
       }
      ],
      "patterns": [
@@ -94745,6 +94941,10 @@
       {
        "en": "The bird built its nest in the trunk of the old tree.",
        "zh": "那隻鳥在老樹的樹幹上築巢。"
+      },
+      {
+       "en": "The children could not put their arms around the huge trunk.",
+       "zh": "孩子們的手臂圈不住那根巨大的樹幹。"
       }
      ],
      "patterns": [],
@@ -94763,6 +94963,10 @@
       {
        "en": "We put our bags in the trunk before leaving for the airport.",
        "zh": "出發去機場前，我們把行李放進後車廂。"
+      },
+      {
+       "en": "Dad opened the trunk and took out a big umbrella.",
+       "zh": "爸爸打開後車廂，拿出一把大雨傘。"
       }
      ],
      "patterns": [],
@@ -94770,6 +94974,28 @@
       {
        "en": "car trunk",
        "zh": "汽車後車廂"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "象鼻",
+     "ext": "像樹幹一樣粗長的部分 → 大象用來取水和抓東西的鼻子",
+     "examples": [
+      {
+       "en": "The elephant lifted water with its long trunk.",
+       "zh": "大象用長長的鼻子吸起水。"
+      },
+      {
+       "en": "The baby elephant held its mother's tail with its trunk.",
+       "zh": "小象用鼻子抓著媽媽的尾巴。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
+       "en": "an elephant's trunk",
+       "zh": "大象的鼻子"
       }
      ]
     }
@@ -94809,6 +95035,10 @@
       {
        "en": "Please be truthful when you answer the teacher's questions.",
        "zh": "回答老師的問題時請誠實。"
+      },
+      {
+       "en": "The truthful student told the teacher exactly what happened.",
+       "zh": "誠實的學生把事情經過原原本本告訴老師。"
       }
      ],
      "patterns": [
@@ -94903,6 +95133,10 @@
       {
        "en": "She filled the tub with warm water before taking a bath.",
        "zh": "她洗澡前先在浴缸裡放滿溫水。"
+      },
+      {
+       "en": "The little girl played with toy boats in the tub.",
+       "zh": "小女孩在浴缸裡玩玩具船。"
       }
      ],
      "patterns": [],
@@ -94954,6 +95188,10 @@
       {
        "en": "The little boy tugged at his father's sleeve to get attention.",
        "zh": "小男孩拉了拉爸爸的袖子，想引起他的注意。"
+      },
+      {
+       "en": "The wind tugged at the flag on the roof.",
+       "zh": "風用力扯動屋頂上的旗子。"
       }
      ],
      "patterns": [
@@ -94982,6 +95220,10 @@
       {
        "en": "She gave the door a gentle tug, but it would not open.",
        "zh": "她輕輕拉了一下門，但門沒有打開。"
+      },
+      {
+       "en": "He felt a tug on the fishing line and pulled it up.",
+       "zh": "他感覺魚線被猛拉了一下，就把它拉了起來。"
       }
      ],
      "patterns": [],
@@ -95038,6 +95280,10 @@
       {
        "en": "The band played a familiar tune at the school festival.",
        "zh": "樂團在校慶演奏了一首熟悉的曲調。"
+      },
+      {
+       "en": "Amy hummed a happy tune while she washed the dishes.",
+       "zh": "Amy 邊洗碗邊哼著快樂的曲調。"
       }
      ],
      "patterns": [],
@@ -95060,6 +95306,10 @@
       {
        "en": "Kevin tuned his guitar before the music class began.",
        "zh": "音樂課開始前，Kevin 替吉他調音。"
+      },
+      {
+       "en": "Please tune the piano before the concert tonight.",
+       "zh": "請在今晚音樂會前替鋼琴調音。"
       }
      ],
      "patterns": [
@@ -95143,6 +95393,10 @@
       {
        "en": "The train passed through a long tunnel under the mountain.",
        "zh": "火車通過山下的一條長隧道。"
+      },
+      {
+       "en": "The tunnel is closed at night for cleaning.",
+       "zh": "這條隧道晚上會關閉進行清潔。"
       }
      ],
      "patterns": [],
@@ -95165,6 +95419,10 @@
       {
        "en": "Workers tunneled through the hill to build a road.",
        "zh": "工人挖穿山丘來修建道路。"
+      },
+      {
+       "en": "Small animals tunnel under the ground to find food.",
+       "zh": "小動物在地底挖隧道尋找食物。"
       }
      ],
      "patterns": [
@@ -95212,6 +95470,10 @@
       {
        "en": "Jenny meets her tutor twice a week to review math.",
        "zh": "Jenny 每週和家教見面兩次，複習數學。"
+      },
+      {
+       "en": "Kevin found an online tutor to help with his English.",
+       "zh": "Kevin 找了一位線上家教幫他學英文。"
       }
      ],
      "patterns": [],
@@ -95234,6 +95496,10 @@
       {
        "en": "My sister tutors younger students in English after school.",
        "zh": "我姊姊放學後輔導年紀較小的學生學英文。"
+      },
+      {
+       "en": "She tutored two neighbors in math every weekend.",
+       "zh": "她每個週末輔導兩位鄰居的數學。"
       }
      ],
      "patterns": [
@@ -95286,6 +95552,10 @@
       {
        "en": "My twin and I enjoy reading different kinds of books.",
        "zh": "我的雙胞胎手足和我喜歡讀不同種類的書。"
+      },
+      {
+       "en": "The twin sisters wear the same dress on special days.",
+       "zh": "那對雙胞胎姊妹在特別的日子會穿一樣的洋裝。"
       }
      ],
      "patterns": [
@@ -95303,6 +95573,32 @@
       {
        "en": "twin brother",
        "zh": "雙胞胎兄弟"
+      }
+     ]
+    },
+    {
+     "pos": "adj.",
+     "zh": "成雙的；孿生的",
+     "ext": "像雙胞胎一樣成對 → 兩個一組、一模一樣的",
+     "examples": [
+      {
+       "en": "The hotel room has twin beds instead of one big bed.",
+       "zh": "這間旅館房間是兩張單人床，不是一張大床。"
+      },
+      {
+       "en": "The two cities became twin towns many years ago.",
+       "zh": "這兩座城市多年前就成了姊妹市。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
+       "en": "twin beds",
+       "zh": "兩張單人床"
+      },
+      {
+       "en": "twin towns",
+       "zh": "姊妹市"
       }
      ]
     }
@@ -95342,6 +95638,10 @@
       {
        "en": "She twisted the cap off the bottle and poured some water.",
        "zh": "她轉開瓶蓋，倒了一些水。"
+      },
+      {
+       "en": "Do not twist the truth to make yourself look better.",
+       "zh": "不要為了讓自己看起來更好而扭曲事實。"
       }
      ],
      "patterns": [
@@ -95365,11 +95665,15 @@
     {
      "pos": "n.",
      "zh": "轉折；扭轉",
-     "ext": "",
+     "ext": "故事像被扭了一下而改變方向 → 情節出現意想不到的轉變",
      "examples": [
       {
        "en": "The story has an unexpected twist near the end.",
        "zh": "故事接近結尾時出現意想不到的轉折。"
+      },
+      {
+       "en": "The movie ends with a surprising twist that shocked the audience.",
+       "zh": "這部電影以令觀眾震驚的意外轉折作結。"
       }
      ],
      "patterns": [],
@@ -95443,6 +95747,10 @@
       {
        "en": "The teacher helped us find the underlying reason for the mistake.",
        "zh": "老師協助我們找出這個錯誤背後的根本原因。"
+      },
+      {
+       "en": "The underlying idea of the game is teamwork.",
+       "zh": "這個遊戲背後的基本概念是團隊合作。"
       }
      ],
      "patterns": [
@@ -95469,8 +95777,12 @@
      "ext": "位在某物之下 → 成為它的基礎或支撐",
      "examples": [
       {
-       "en": "Trust underlies a strong friendship between classmates.",
+       "en": "Trust underlies a strong friendship between classmates at school.",
        "zh": "信任是同學之間深厚友誼的基礎。"
+      },
+      {
+       "en": "A love of learning underlies all of her hard work.",
+       "zh": "對學習的熱愛是她所有努力背後的基礎。"
       }
      ],
      "patterns": [
@@ -95541,6 +95853,10 @@
       {
        "en": "She packed clean underwear for the weekend trip with her family.",
        "zh": "她為和家人的週末旅行準備了乾淨的內衣。"
+      },
+      {
+       "en": "Please pack enough underwear and socks for three days.",
+       "zh": "請帶足夠三天穿的內衣褲和襪子。"
       }
      ],
      "patterns": [],
@@ -95606,6 +95922,10 @@
       {
        "en": "The union of the two school clubs created a larger team.",
        "zh": "兩個學校社團合併後，組成了更大的團隊。"
+      },
+      {
+       "en": "The union of the two towns made a bigger city.",
+       "zh": "兩個城鎮合併後形成一座更大的城市。"
       }
      ],
      "patterns": [
@@ -95625,11 +95945,15 @@
     {
      "pos": "n.",
      "zh": "工會",
-     "ext": "",
+     "ext": "勞工聯合起來的組織 → 為爭取權益而成立的團體",
      "examples": [
       {
        "en": "The workers joined a union to discuss their working conditions.",
        "zh": "工人加入工會，討論工作條件。"
+      },
+      {
+       "en": "The union asked the company to raise workers' pay.",
+       "zh": "工會要求公司提高員工的薪水。"
       }
      ],
      "patterns": [],
@@ -95710,6 +96034,10 @@
       {
        "en": "Each student designed a unique cover for the class magazine.",
        "zh": "每位學生都為班級刊物設計了獨特的封面。"
+      },
+      {
+       "en": "Every snowflake has a unique shape of its own.",
+       "zh": "每片雪花都有自己獨特的形狀。"
       }
      ],
      "patterns": [
@@ -95812,6 +96140,10 @@
       {
        "en": "The students united to clean the beach after the school trip.",
        "zh": "校外教學後，學生們一起清理海灘。"
+      },
+      {
+       "en": "The whole town united after the flood to rebuild the school.",
+       "zh": "水災後，整個小鎮團結起來重建學校。"
       }
      ],
      "patterns": [
@@ -95911,6 +96243,10 @@
       {
        "en": "The team showed unity by supporting every member during practice.",
        "zh": "練習時，團隊互相支持，展現了團結。"
+      },
+      {
+       "en": "Music can bring a sense of unity to a large group.",
+       "zh": "音樂能為一大群人帶來團結感。"
       }
      ],
      "patterns": [
@@ -96000,11 +96336,15 @@
     {
      "pos": "adj.",
      "zh": "城市的；都市的",
-     "ext": "",
+     "ext": "與城市有關的 → 指市區或都市的生活與環境",
      "examples": [
       {
        "en": "Urban parks give families a place to relax after school.",
        "zh": "城市公園讓家庭放學後有地方休息。"
+      },
+      {
+       "en": "Urban life is busy, but there are many things to do.",
+       "zh": "都市生活很忙碌，但有很多事可以做。"
       }
      ],
      "patterns": [],
@@ -96069,11 +96409,15 @@
     {
      "pos": "adj.",
      "zh": "空著的；空缺的",
-     "ext": "",
+     "ext": "原本可以有人使用，現在空著 → 座位、房間或職位沒有人",
      "examples": [
       {
        "en": "The seat next to Jenny was vacant during the bus ride.",
        "zh": "搭公車時，Jenny 旁邊的座位是空的。"
+      },
+      {
+       "en": "The vacant house at the corner has been empty for years.",
+       "zh": "轉角那棟空屋已經空了好幾年。"
       }
      ],
      "patterns": [
@@ -96149,6 +96493,10 @@
       {
        "en": "Our school hired a van to carry the team to the game.",
        "zh": "學校租了一輛廂型車載隊員去比賽。"
+      },
+      {
+       "en": "The band traveled by van to the concert.",
+       "zh": "樂團搭廂型車去演唱會。"
       }
      ],
      "patterns": [],
@@ -96204,6 +96552,10 @@
       {
        "en": "The sun vanished behind the clouds before the game began.",
        "zh": "比賽開始前，太陽消失在雲層後方。"
+      },
+      {
+       "en": "The magician made the coin vanish with a wave of his hand.",
+       "zh": "魔術師揮了一下手，硬幣就消失了。"
       }
      ],
      "patterns": [
@@ -96287,6 +96639,10 @@
       {
        "en": "The school offers a variety of clubs for new students.",
        "zh": "學校為新生提供各種社團。"
+      },
+      {
+       "en": "The market sells a wide variety of fresh fruit.",
+       "zh": "市場賣各式各樣的新鮮水果。"
       }
      ],
      "patterns": [
@@ -96388,6 +96744,10 @@
       {
        "en": "Students from various countries shared their favorite foods at the school festival.",
        "zh": "來自不同國家的學生在校慶分享自己最喜歡的食物。"
+      },
+      {
+       "en": "Various people gave different opinions about the new rule.",
+       "zh": "許多人對新規定提出了不同的意見。"
       }
      ],
      "patterns": [
@@ -96477,6 +96837,10 @@
       {
        "en": "The time needed to finish the project may vary between students.",
        "zh": "每位學生完成專題所需的時間可能不同。"
+      },
+      {
+       "en": "Prices vary from shop to shop, so compare before you buy.",
+       "zh": "各家店的價格不同，買之前先比較。"
       }
      ],
      "patterns": [
@@ -96564,6 +96928,10 @@
       {
        "en": "Amy placed fresh flowers in a vase on the kitchen table.",
        "zh": "Amy 把新鮮的花插在廚房桌上的花瓶裡。"
+      },
+      {
+       "en": "The glass vase on the table fell and broke into pieces.",
+       "zh": "桌上的玻璃花瓶掉下來，摔成了碎片。"
       }
      ],
      "patterns": [],
@@ -96619,6 +96987,10 @@
       {
        "en": "Bicycles are a popular vehicle for students who live nearby.",
        "zh": "腳踏車是住在附近的學生常用的交通工具。"
+      },
+      {
+       "en": "The city bans large vehicles from the old street.",
+       "zh": "這座城市禁止大型車輛進入那條老街。"
       }
      ],
      "patterns": [],
@@ -96626,6 +96998,10 @@
       {
        "en": "motor vehicle",
        "zh": "機動車輛"
+      },
+      {
+       "en": "an electric vehicle",
+       "zh": "電動車"
       }
      ]
     }
@@ -96679,6 +97055,10 @@
       {
        "en": "Our teacher asked us to read one verse aloud during class.",
        "zh": "老師要我們在課堂上大聲朗讀一節詩。"
+      },
+      {
+       "en": "She likes to write verse in her free time.",
+       "zh": "她閒暇時喜歡寫詩。"
       }
      ],
      "patterns": [],
@@ -96746,6 +97126,10 @@
       {
        "en": "Kevin wore a warm vest over his shirt on the cold morning.",
        "zh": "寒冷的早晨，Kevin 在襯衫外穿了一件保暖背心。"
+      },
+      {
+       "en": "The workers wear bright vests to stay safe on the road.",
+       "zh": "工人穿著鮮豔的背心，在路上保持安全。"
       }
      ],
      "patterns": [],
@@ -96801,6 +97185,10 @@
       {
        "en": "The victim of the online scam reported it to the police.",
        "zh": "那名網路詐騙受害者向警方報案。"
+      },
+      {
+       "en": "Many victims of the flood are staying in the school hall.",
+       "zh": "許多水災的受害者暫時住在學校的禮堂。"
       }
      ],
      "patterns": [
@@ -96875,6 +97263,10 @@
       {
        "en": "The school teaches students how to solve problems without violence.",
        "zh": "學校教學生如何不用暴力解決問題。"
+      },
+      {
+       "en": "Violence in video games is a topic that parents often discuss.",
+       "zh": "電玩中的暴力是家長常討論的話題。"
       }
      ],
      "patterns": [
@@ -96958,6 +97350,10 @@
       {
        "en": "The news reported a violent storm that damaged several roads.",
        "zh": "新聞報導了一場猛烈的暴風雨，造成幾條道路受損。"
+      },
+      {
+       "en": "Violent crime has dropped in our city this year.",
+       "zh": "今年我們城市的暴力犯罪減少了。"
       }
      ],
      "patterns": [
@@ -97037,6 +97433,10 @@
       {
        "en": "Jenny chose a violet notebook to match her new school bag.",
        "zh": "Jenny 選了一本紫色筆記本，搭配她的新書包。"
+      },
+      {
+       "en": "The garden was full of violet flowers in spring.",
+       "zh": "春天時，花園裡開滿了紫色的花。"
       }
      ],
      "patterns": [],
@@ -97059,6 +97459,10 @@
       {
        "en": "Amy planted violets beside the path in the school garden.",
        "zh": "Amy 在校園花園的小徑旁種了紫羅蘭。"
+      },
+      {
+       "en": "Violet is a color between blue and purple.",
+       "zh": "紫羅蘭色是介於藍色和紫色之間的顏色。"
       }
      ],
      "patterns": [],
@@ -97121,6 +97525,10 @@
       {
        "en": "The moon was clearly visible above the school.",
        "zh": "月亮清楚地出現在學校上方。"
+      },
+      {
+       "en": "The mountain became visible after the fog cleared.",
+       "zh": "霧散去後，那座山變得看得見了。"
       }
      ],
      "patterns": [
@@ -97244,6 +97652,10 @@
       {
        "en": "Reading in poor light may harm your vision.",
        "zh": "在光線不好的地方閱讀可能傷害視力。"
+      },
+      {
+       "en": "Tom went to the doctor because his vision was getting worse.",
+       "zh": "Tom 因為視力越來越差而去看醫生。"
       }
      ],
      "patterns": [],
@@ -97266,6 +97678,10 @@
       {
        "en": "The club shared its vision for a greener school.",
        "zh": "社團分享了打造更環保學校的願景。"
+      },
+      {
+       "en": "The new principal has a clear vision for the school.",
+       "zh": "新校長對學校有清楚的願景。"
       }
      ],
      "patterns": [
@@ -97388,6 +97804,10 @@
       {
        "en": "Fresh fruit provides vitamins for a healthy body.",
        "zh": "新鮮水果提供維持身體健康所需的維生素。"
+      },
+      {
+       "en": "Oranges are rich in vitamin C, so they help keep us healthy.",
+       "zh": "柳橙富含維生素 C，有助於保持健康。"
       }
      ],
      "patterns": [
@@ -97456,6 +97876,10 @@
       {
        "en": "The book gave a vivid picture of village life.",
        "zh": "這本書生動描寫了鄉村生活。"
+      },
+      {
+       "en": "Amy gave a vivid description of her trip to the mountains.",
+       "zh": "Amy 生動地描述了她去山上的旅行。"
       }
      ],
      "patterns": [
@@ -97539,6 +97963,10 @@
       {
        "en": "Reading widely can improve your English vocabulary.",
        "zh": "廣泛閱讀可以增進你的英文詞彙。"
+      },
+      {
+       "en": "Kevin keeps a small notebook to record new vocabulary.",
+       "zh": "Kevin 用一本小筆記本記錄新的單字。"
       }
      ],
      "patterns": [
@@ -97650,6 +98078,10 @@
       {
        "en": "Our class plays volleyball after school on Fridays.",
        "zh": "我們班每週五放學後打排球。"
+      },
+      {
+       "en": "The school team won the volleyball match last Saturday.",
+       "zh": "學校的排球隊上週六贏得了比賽。"
       }
      ],
      "patterns": [
@@ -97743,6 +98175,10 @@
       {
        "en": "Please turn down the volume during the movie.",
        "zh": "看電影時請把音量調小。"
+      },
+      {
+       "en": "The music was too loud, so Mom lowered the volume.",
+       "zh": "音樂太吵，所以媽媽把音量調低了。"
       }
      ],
      "patterns": [
@@ -97771,6 +98207,10 @@
       {
        "en": "I borrowed the first volume of the history book.",
        "zh": "我借了那套歷史書的第一冊。"
+      },
+      {
+       "en": "This long story is divided into three separate volumes.",
+       "zh": "這個長篇故事分成三個獨立的分冊。"
       }
      ],
      "patterns": [],
@@ -97782,6 +98222,38 @@
       {
        "en": "a three-volume set",
        "zh": "三冊一套"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "體積；容量",
+     "ext": "物體所占空間的大小 → 用來計算容器能裝多少",
+     "examples": [
+      {
+       "en": "Please measure the volume of water in the bottle.",
+       "zh": "請測量瓶子裡水的體積。"
+      },
+      {
+       "en": "The volume of a box is length times width times height.",
+       "zh": "箱子的體積是長乘以寬乘以高。"
+      }
+     ],
+     "patterns": [
+      {
+       "pattern": "the volume of + N",
+       "en": "The volume of the tank is about two hundred liters.",
+       "zh": "這個水槽的容量大約是兩百公升。"
+      }
+     ],
+     "collocations": [
+      {
+       "en": "the volume of",
+       "zh": "……的體積"
+      },
+      {
+       "en": "a large volume of",
+       "zh": "大量的"
       }
      ]
     }
@@ -97846,8 +98318,12 @@
      "ext": "參加投票的人 → 以選票表達選擇或意見",
      "examples": [
       {
-       "en": "Every voter should learn about the candidates.",
-       "zh": "每位選民都應該了解候選人。"
+       "en": "Every voter should learn about the candidates before voting.",
+       "zh": "每位選民投票前都應該了解候選人。"
+      },
+      {
+       "en": "The voters lined up outside the school to cast their votes.",
+       "zh": "選民在學校外排隊投票。"
       }
      ],
      "patterns": [
@@ -97970,6 +98446,10 @@
       {
        "en": "The workers asked for higher wages this year.",
        "zh": "工人今年要求提高薪資。"
+      },
+      {
+       "en": "Many students earn a small wage from part-time jobs.",
+       "zh": "許多學生從兼職工作賺取微薄的工資。"
       }
      ],
      "patterns": [
@@ -98002,6 +98482,10 @@
       {
        "en": "The group waged a campaign to protect the river.",
        "zh": "這個團體發起活動來保護河川。"
+      },
+      {
+       "en": "Doctors around the world wage a daily battle against disease.",
+       "zh": "世界各地的醫生每天都在與疾病奮戰。"
       }
      ],
      "patterns": [
@@ -98093,6 +98577,10 @@
       {
        "en": "The farmer used a wagon to carry the boxes.",
        "zh": "農夫用推車搬運箱子。"
+      },
+      {
+       "en": "The children pulled their toys in a red wagon.",
+       "zh": "孩子們用一輛紅色的推車拉著他們的玩具。"
       }
      ],
      "patterns": [
@@ -98154,6 +98642,10 @@
       {
        "en": "We wandered around the old town after lunch.",
        "zh": "午餐後我們在老街附近閒逛。"
+      },
+      {
+       "en": "Do not wander away from the group when we visit the museum.",
+       "zh": "參觀博物館時，不要離開團體到處亂走。"
       }
      ],
      "patterns": [
@@ -98182,6 +98674,10 @@
       {
        "en": "A quiet wander helped me relax after the test.",
        "zh": "考試後安靜地散步讓我放鬆下來。"
+      },
+      {
+       "en": "We went for a wander along the river after dinner.",
+       "zh": "晚餐後，我們沿著河邊閒逛了一會兒。"
       }
      ],
      "patterns": [],
@@ -98271,6 +98767,10 @@
       {
        "en": "The sunlight brought warmth to the cold room.",
        "zh": "陽光為寒冷的房間帶來暖意。"
+      },
+      {
+       "en": "We sat by the fire and enjoyed its warmth.",
+       "zh": "我們坐在火堆旁，享受它的暖意。"
       }
      ],
      "patterns": [],
@@ -98293,6 +98793,10 @@
       {
        "en": "The teacher welcomed the new student with warmth.",
        "zh": "老師親切地歡迎新同學。"
+      },
+      {
+       "en": "Her smile and warmth made everyone feel welcome.",
+       "zh": "她的微笑和親切讓每個人都覺得受到歡迎。"
       }
      ],
      "patterns": [
@@ -98387,6 +98891,10 @@
       {
        "en": "The weather report warned us about heavy rain.",
        "zh": "氣象報告提醒我們會有大雨。"
+      },
+      {
+       "en": "The sign warns visitors not to feed the animals.",
+       "zh": "告示牌提醒遊客不要餵動物。"
       }
      ],
      "patterns": [
@@ -98497,8 +99005,12 @@
      "ext": "水流從高處向下落 → 形成自然的垂直水景",
      "examples": [
       {
-       "en": "We took photos beside the beautiful waterfall.",
-       "zh": "我們在美麗的瀑布旁拍照。"
+       "en": "We took many photos beside the beautiful waterfall.",
+       "zh": "我們在美麗的瀑布旁拍了很多照片。"
+      },
+      {
+       "en": "The sound of the waterfall could be heard from far away.",
+       "zh": "從很遠的地方就能聽到瀑布的聲音。"
       }
      ],
      "patterns": [
@@ -98569,8 +99081,12 @@
      "ext": "可熔化又能凝固的物質 → 用來製作蠟燭或保護表面",
      "examples": [
       {
-       "en": "The museum displayed candles made from beeswax.",
-       "zh": "博物館展示了蜂蠟製成的蠟燭。"
+       "en": "The museum displayed old candles made from beeswax.",
+       "zh": "博物館展示了蜂蠟製成的舊蠟燭。"
+      },
+      {
+       "en": "Wax melts when it gets hot in the summer sun.",
+       "zh": "蠟在夏天的陽光下遇熱就會融化。"
       }
      ],
      "patterns": [
@@ -98599,6 +99115,10 @@
       {
        "en": "Dad waxed the car before our family trip.",
        "zh": "爸爸在全家旅行前替車子上蠟。"
+      },
+      {
+       "en": "The workers waxed the gym floor before the game.",
+       "zh": "工人在比賽前替體育館的地板上蠟。"
       }
      ],
      "patterns": [
@@ -98680,8 +99200,12 @@
      "ext": "使力量或程度降低 → 變得不再強大",
      "examples": [
       {
-       "en": "The long illness weakened his body.",
-       "zh": "長期生病讓他的身體變得虛弱。"
+       "en": "The long illness weakened his body a great deal.",
+       "zh": "長期生病使他的身體虛弱了許多。"
+      },
+      {
+       "en": "Bad weather weakened the team's chance of winning the game.",
+       "zh": "壞天氣削弱了球隊獲勝的機會。"
       }
      ],
      "patterns": [
@@ -98748,6 +99272,10 @@
       {
        "en": "The wealthy family donated books to the local school.",
        "zh": "那個富裕的家庭捐書給當地學校。"
+      },
+      {
+       "en": "The wealthy man gave money to build a new library.",
+       "zh": "那位富有的男士捐錢蓋了一座新圖書館。"
       }
      ],
      "patterns": [],
@@ -98828,6 +99356,10 @@
       {
        "en": "The museum displayed an old weapon from the past.",
        "zh": "博物館展示了一件古代武器。"
+      },
+      {
+       "en": "The police found a weapon hidden under the car seat.",
+       "zh": "警方在車子座椅下發現了一件藏起來的武器。"
       }
      ],
      "patterns": [],
@@ -98862,15 +99394,7 @@
    ],
    "antonyms": [],
    "confusables": [],
-   "commonErrors": [
-    {
-     "wrong": "He used a weapon to protect himselfs.",
-     "right": "He used a weapon to protect himself.",
-     "note": "反身代名詞 himself 不加 s。",
-     "exWrong": "He used a weapon to protect himselfs.",
-     "exRight": "He used a weapon to protect himself."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
    "origin": "",
@@ -98913,6 +99437,10 @@
       {
        "en": "My grandmother taught me to weave a basket.",
        "zh": "奶奶教我編籃子。"
+      },
+      {
+       "en": "She wove a small basket from thin wire.",
+       "zh": "她用細鐵絲編了一個小籃子。"
       }
      ],
      "patterns": [
@@ -98941,6 +99469,10 @@
       {
        "en": "This fabric has a simple weave and feels comfortable.",
        "zh": "這種布料的織法簡單，摸起來很舒服。"
+      },
+      {
+       "en": "The tight weave of the cloth keeps out the rain.",
+       "zh": "這塊布料織得很密，可以擋雨。"
       }
      ],
      "patterns": [],
@@ -99079,6 +99611,10 @@
       {
        "en": "Amy and Tom will wed in a small garden next spring.",
        "zh": "Amy 和 Tom 明年春天會在一座小花園結婚。"
+      },
+      {
+       "en": "The couple wed in a small church near the sea last summer.",
+       "zh": "這對情侶去年夏天在海邊的一間小教堂結婚。"
       }
      ],
      "patterns": [
@@ -99144,6 +99680,10 @@
       {
        "en": "We pulled weeds from the school garden after class.",
        "zh": "下課後我們拔掉校園花園裡的雜草。"
+      },
+      {
+       "en": "Weeds grew quickly in the garden after several days of rain.",
+       "zh": "連續下了幾天雨後，花園裡的雜草長得很快。"
       }
      ],
      "patterns": [],
@@ -99166,6 +99706,10 @@
       {
        "en": "The students weeded the garden before planting flowers.",
        "zh": "學生在種花前先為花園除草。"
+      },
+      {
+       "en": "We need to weed the garden before the flowers can grow.",
+       "zh": "我們得先替花園除草，花才能長好。"
       }
      ],
      "patterns": [
@@ -99223,6 +99767,10 @@
       {
        "en": "Our class has a weekly meeting every Friday afternoon.",
        "zh": "我們班每週五下午都會開一次週會。"
+      },
+      {
+       "en": "Jenny writes a weekly report about the science club.",
+       "zh": "Jenny 每週都會寫一份科學社的報告。"
       }
      ],
      "patterns": [],
@@ -99245,6 +99793,10 @@
       {
        "en": "The school newspaper comes out weekly during the term.",
        "zh": "學校報紙在學期中每週出版一次。"
+      },
+      {
+       "en": "The team practices weekly, usually on Wednesday after school.",
+       "zh": "球隊每週練習一次，通常在星期三放學後。"
       }
      ],
      "patterns": [],
@@ -99258,6 +99810,10 @@
       {
        "en": "Amy reads a weekly about science and technology.",
        "zh": "Amy 會閱讀一本科技週刊。"
+      },
+      {
+       "en": "My uncle buys a weekly that reports sports news.",
+       "zh": "我叔叔會買一本報導運動新聞的週刊。"
       }
      ],
      "patterns": [],
@@ -99332,6 +99888,10 @@
       {
        "en": "The film was so touching that Jenny began to weep.",
        "zh": "那部電影太感人了，Jenny 忍不住哭了。"
+      },
+      {
+       "en": "Many people began to weep when they heard the sad news about the fire.",
+       "zh": "許多人聽到那場火災的悲傷消息時都哭了起來。"
       }
      ],
      "patterns": [],
@@ -99395,6 +99955,10 @@
       {
        "en": "Farmers grow wheat in the fields near our town.",
        "zh": "農民在我們鎮附近的田裡種小麥。"
+      },
+      {
+       "en": "The bakery uses wheat flour to make fresh bread every morning.",
+       "zh": "這家麵包店每天早上用小麥粉做新鮮麵包。"
       }
      ],
      "patterns": [],
@@ -99458,6 +100022,10 @@
       {
        "en": "The old photo showed a horse beside a whip.",
        "zh": "那張舊照片裡有一匹馬和一條鞭子。"
+      },
+      {
+       "en": "The horse ran faster when the rider raised her whip.",
+       "zh": "騎士一舉起鞭子，馬就跑得更快了。"
       }
      ],
      "patterns": [],
@@ -99571,6 +100139,10 @@
       {
        "en": "The coach blew a whistle to end the practice.",
        "zh": "教練吹哨示意練習結束。"
+      },
+      {
+       "en": "The referee blew the whistle, and the game began.",
+       "zh": "裁判吹響哨子，比賽就開始了。"
       }
      ],
      "patterns": [],
@@ -99581,7 +100153,7 @@
       },
       {
        "en": "a police whistle",
-       "zh": "警笛聲"
+       "zh": "警哨"
       }
      ]
     },
@@ -99593,6 +100165,10 @@
       {
        "en": "Tom whistled a happy tune while walking home.",
        "zh": "Tom 回家時吹著愉快的曲子。"
+      },
+      {
+       "en": "Do not whistle in the library because others are reading.",
+       "zh": "不要在圖書館吹口哨，因為別人正在看書。"
       }
      ],
      "patterns": [
@@ -99654,6 +100230,10 @@
       {
        "en": "The story is about a wicked ruler who mistreats the people.",
        "zh": "這個故事描述一位苛待人民的邪惡統治者。"
+      },
+      {
+       "en": "In the fairy tale, a wicked queen sends the young girl away.",
+       "zh": "在童話故事裡，邪惡的皇后把年輕女孩趕走了。"
       }
      ],
      "patterns": [],
@@ -99676,6 +100256,10 @@
       {
        "en": "The puppy gave Jenny a wicked look before stealing her sock.",
        "zh": "小狗偷走 Jenny 的襪子前，調皮地看了她一眼。"
+      },
+      {
+       "en": "The wicked little boy hid his sister's shoes as a joke.",
+       "zh": "那個頑皮的小男孩為了開玩笑把姊姊的鞋子藏了起來。"
       }
      ],
      "patterns": [],
@@ -99881,6 +100465,10 @@
       {
        "en": "Keep a cleaning wipe in your bag for the trip.",
        "zh": "旅行時在包包裡放一張清潔濕紙巾。"
+      },
+      {
+       "en": "Mom gave me a wipe to clean my hands before lunch.",
+       "zh": "午餐前，媽媽給我一張濕紙巾擦手。"
       }
      ],
      "patterns": [],
@@ -99962,6 +100550,10 @@
       {
        "en": "Grandparents often share wisdom with younger family members.",
        "zh": "祖父母常和家中年輕人分享智慧。"
+      },
+      {
+       "en": "It takes time and experience to gain real wisdom in life.",
+       "zh": "要獲得真正的人生智慧，需要時間和經驗。"
       }
      ],
      "patterns": [
@@ -100093,6 +100685,10 @@
       {
        "en": "Amy wrapped the gift before taking it to school.",
        "zh": "Amy 在把禮物帶到學校前先把它包好。"
+      },
+      {
+       "en": "Please wrap the sandwich in paper so it stays fresh.",
+       "zh": "請用紙把三明治包起來，這樣才能保持新鮮。"
       }
      ],
      "patterns": [
@@ -100178,6 +100774,10 @@
       {
        "en": "Kevin hurt his wrist during basketball practice yesterday.",
        "zh": "Kevin 昨天籃球練習時弄傷了手腕。"
+      },
+      {
+       "en": "She wears a red watch on her left wrist every day.",
+       "zh": "她每天都在左手腕上戴一支紅色手錶。"
       }
      ],
      "patterns": [
@@ -100245,6 +100845,10 @@
       {
        "en": "The school holds a yearly sports event in spring.",
        "zh": "學校每年春天舉辦運動會。"
+      },
+      {
+       "en": "Our family makes a yearly trip to the beach in July.",
+       "zh": "我們家每年七月都會去海邊旅行一次。"
       }
      ],
      "patterns": [],
@@ -100271,6 +100875,10 @@
       {
        "en": "Our family travels abroad yearly during the summer vacation.",
        "zh": "我們家每年暑假都會出國旅行。"
+      },
+      {
+       "en": "The company checks all its machines yearly to keep workers safe.",
+       "zh": "公司每年檢查所有機器，以確保工人的安全。"
       }
      ],
      "patterns": [],
@@ -100369,6 +100977,10 @@
       {
        "en": "The coach yelled instructions during the school game.",
        "zh": "教練在校內比賽時大聲下指示。"
+      },
+      {
+       "en": "Do not yell in the hallway because other classes are studying.",
+       "zh": "不要在走廊大吼，因為其他班級正在上課。"
       }
      ],
      "patterns": [
@@ -100406,6 +101018,10 @@
       {
        "en": "We heard a loud yell from the playground.",
        "zh": "我們聽到操場傳來一聲大喊。"
+      },
+      {
+       "en": "The boy let out a yell when the ball hit the window.",
+       "zh": "球打到窗戶時，那個男孩大叫了一聲。"
       }
      ],
      "patterns": [],
@@ -100503,6 +101119,10 @@
       {
        "en": "The recipe uses one egg yolk to make the sauce.",
        "zh": "這份食譜用一個蛋黃製作醬汁。"
+      },
+      {
+       "en": "Kevin separated the yolk from the white before mixing the cake.",
+       "zh": "Kevin 在攪拌蛋糕材料前先把蛋黃和蛋白分開。"
       }
      ],
      "patterns": [
@@ -100583,6 +101203,10 @@
       {
        "en": "The community center offers free classes for local youngsters.",
        "zh": "社區中心為當地年輕人提供免費課程。"
+      },
+      {
+       "en": "Every youngster in the village enjoys playing soccer on the field.",
+       "zh": "村裡的每個年輕人都喜歡在球場上踢足球。"
       }
      ],
      "patterns": [
@@ -100688,6 +101312,10 @@
       {
        "en": "The zipper on my school bag is broken.",
        "zh": "我書包上的拉鍊壞了。"
+      },
+      {
+       "en": "Jenny pulled the zipper up and put on her warm jacket.",
+       "zh": "Jenny 把拉鍊拉上，穿好她暖和的外套。"
       }
      ],
      "patterns": [
@@ -100810,6 +101438,10 @@
       {
        "en": "This area is a quiet zone near the school library.",
        "zh": "這個區域是學校圖書館附近的安靜區。"
+      },
+      {
+       "en": "Drivers must slow down when they enter a school zone.",
+       "zh": "駕駛進入學校區域時必須減速。"
       }
      ],
      "patterns": [
@@ -100846,6 +101478,10 @@
       {
        "en": "The city zoned the land for parks and public buildings.",
        "zh": "市政府將這片土地劃為公園和公共建築用地。"
+      },
+      {
+       "en": "The government zoned this area for factories, not for houses.",
+       "zh": "政府把這個地區劃為工業用地，而不是住宅用地。"
       }
      ],
      "patterns": [

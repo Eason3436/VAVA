@@ -14636,6 +14636,1800 @@
     "en": "We were thankful that nobody was hurt in the accident.",
     "zh": "我們很慶幸沒有人在意外中受傷。"
    }
+  },
+  {
+   "a": "hypothesis",
+   "b": "theory",
+   "kind": "semantic",
+   "score": 0.471,
+   "aZh": "n. 假設；假說",
+   "bZh": "n. 理論；學說；推測",
+   "diff": "hypothesis 是研究前提出、等待實驗檢驗的假說；theory 是經過大量證據支持、能解釋現象的理論。",
+   "points": [
+    "證據：hypothesis 尚待驗證；theory 已有許多證據",
+    "搭配：test a hypothesis 驗證假說；develop a theory 建立理論",
+    "口語：theory 也可指個人的推測"
+   ],
+   "tip": "hypothesis 是先猜猜看，theory 是證據撐起來的解釋。",
+   "exA": {
+    "en": "The scientist tested her hypothesis with a simple experiment.",
+    "zh": "那位科學家用一個簡單的實驗驗證她的假說。"
+   },
+   "exB": {
+    "en": "The theory explains why the Earth has seasons.",
+    "zh": "這個理論解釋了為什麼地球有四季。"
+   }
+  },
+  {
+   "a": "thread",
+   "b": "threat",
+   "kind": "visual",
+   "score": 0.773,
+   "aZh": "n. 線；主題；v. 穿線",
+   "bZh": "n. 威脅；危險",
+   "diff": "thread 是線，也可指貫穿文章的主題；threat 是威脅或危險。兩字只差最後一個字母 d 與 t。",
+   "points": [
+    "拼字：thread 以 d 結尾；threat 以 t 結尾",
+    "發音：thread /θrɛd/；threat /θrɛt/，母音相同，結尾一濁一清",
+    "搭配：a thread of light 一縷光；a threat to safety 對安全的威脅"
+   ],
+   "tip": "thread 裡有 read，順著線索讀；threat 裡有 eat，像危險要吃掉你。",
+   "exA": {
+    "en": "Grandma used blue thread to repair my shirt.",
+    "zh": "奶奶用藍線修補我的襯衫。"
+   },
+   "exB": {
+    "en": "Pollution is a serious threat to ocean life.",
+    "zh": "汙染是海洋生物面臨的嚴重威脅。"
+   }
+  },
+  {
+   "a": "danger",
+   "b": "threat",
+   "kind": "semantic",
+   "score": 0.766,
+   "aZh": "n. 危險；危害",
+   "bZh": "n. 威脅；危險",
+   "diff": "danger 是危險的狀態；threat 是可能造成傷害的威脅，指危險的來源，或一句帶有恐嚇的話。",
+   "points": [
+    "使用情境：in danger 處於危險中；a threat to 對……的威脅",
+    "來源：threat 有具體對象；danger 較廣",
+    "搭配：pose a threat 構成威脅；out of danger 脫離危險"
+   ],
+   "tip": "danger 是身處的險境，threat 是逼近的威脅。",
+   "exA": {
+    "en": "The children are in danger near the busy road.",
+    "zh": "孩子們在車多的路邊很危險。"
+   },
+   "exB": {
+    "en": "Pollution is a threat to the health of the river.",
+    "zh": "汙染對河川的健康構成威脅。"
+   }
+  },
+  {
+   "a": "threaten",
+   "b": "warn",
+   "kind": "semantic",
+   "score": 0.518,
+   "aZh": "v. 威脅；恐嚇；危及",
+   "bZh": "v. 警告；提醒",
+   "diff": "threaten 是說要傷害對方，或某事可能造成危害；warn 是提醒對方注意危險或後果，出發點是善意提醒。",
+   "points": [
+    "語氣：threaten 帶威脅；warn 是提醒",
+    "句型：threaten to V；warn + 人 + about 或 that",
+    "搭配：warn someone of danger 警告某人有危險"
+   ],
+   "tip": "threaten 是嚇你，warn 是提醒你。",
+   "exA": {
+    "en": "The angry customer threatened to leave the shop.",
+    "zh": "那位生氣的顧客威脅要離開這家店。"
+   },
+   "exB": {
+    "en": "The doctor warned me about the side effects.",
+    "zh": "醫生提醒我藥物的副作用。"
+   }
+  },
+  {
+   "a": "endanger",
+   "b": "threaten",
+   "kind": "semantic",
+   "score": 0.653,
+   "aZh": "v. 危及；使遭受危險",
+   "bZh": "v. 威脅；危及",
+   "diff": "endanger 是使人或事物陷入危險；threaten 是威脅，也可指某事可能造成危害，還可指口頭恐嚇。",
+   "points": [
+    "受詞：endanger 直接接受詞；threaten 也可接 to V",
+    "使用情境：threaten 可指口頭威脅；endanger 沒有這個用法",
+    "搭配：endanger wildlife 危害野生動物；threaten to leave 威脅要離開"
+   ],
+   "tip": "endanger 是把人放進 danger（危險）裡。",
+   "exA": {
+    "en": "Cutting down forests endangers many kinds of wild animals.",
+    "zh": "砍伐森林使許多種野生動物陷入危險。"
+   },
+   "exB": {
+    "en": "Rising sea levels threaten many coastal villages around the world.",
+    "zh": "海平面上升威脅世界各地的許多沿海村落。"
+   }
+  },
+  {
+   "a": "tide",
+   "b": "trend",
+   "kind": "semantic",
+   "score": 0.721,
+   "aZh": "n. 潮汐；趨勢；潮流",
+   "bZh": "n. 趨勢；潮流",
+   "diff": "tide 原指海水漲退，比喻時強調一股力量推著事情走；trend 指事情發展的方向或流行趨勢，是一般用語。",
+   "points": [
+    "使用情境：high tide 漲潮；a fashion trend 流行趨勢",
+    "搭配：turn the tide 扭轉局勢；follow a trend 跟隨潮流",
+    "詞性：trend 也可當 v. 趨向"
+   ],
+   "tip": "tide 有水的比喻，trend 是一般的趨勢。",
+   "exA": {
+    "en": "The beach is much wider at low tide.",
+    "zh": "退潮時，海灘寬得多。"
+   },
+   "exB": {
+    "en": "A new trend in school fashion started this year.",
+    "zh": "今年校園裡出現了一種新的穿著潮流。"
+   }
+  },
+  {
+   "a": "strict",
+   "b": "tight",
+   "kind": "semantic",
+   "score": 0.603,
+   "aZh": "adj. 嚴格的；嚴謹的",
+   "bZh": "adj. 緊的；嚴格的；緊湊的",
+   "diff": "strict 形容人或規定嚴格，要求別人遵守；tight 形容控制、預算或行程很緊，沒有多少空間，也指衣物太緊。",
+   "points": [
+    "使用情境：a strict teacher 嚴格的老師；tight control 嚴格的管控",
+    "搭配：strict rules 嚴格的規定；a tight schedule 緊湊的行程",
+    "另一義：tight 可指東西緊、牢固"
+   ],
+   "tip": "strict 是要求嚴，tight 是空間或時間很緊。",
+   "exA": {
+    "en": "Our coach is strict about being on time.",
+    "zh": "我們的教練對準時非常嚴格。"
+   },
+   "exB": {
+    "en": "We have a tight budget for the class party.",
+    "zh": "我們班的派對預算很緊。"
+   }
+  },
+  {
+   "a": "fasten",
+   "b": "tighten",
+   "kind": "semantic",
+   "score": 0.551,
+   "aZh": "v. 繫緊；扣牢",
+   "bZh": "v. 使變緊；變緊",
+   "diff": "fasten 是把東西扣上、繫好、固定住；tighten 是把已經有的東西弄得更緊，如螺絲、繩子。",
+   "points": [
+    "使用情境：fasten a seat belt 繫安全帶；tighten a screw 鎖緊螺絲",
+    "重點：fasten 是固定；tighten 是使更緊",
+    "另一義：tighten 也可指收緊規定"
+   ],
+   "tip": "fasten 是扣上，tighten 是再轉緊。",
+   "exA": {
+    "en": "Please fasten your seat belt before the bus starts.",
+    "zh": "公車開動前，請繫好安全帶。"
+   },
+   "exB": {
+    "en": "Dad tightened the screws on the old chair.",
+    "zh": "爸爸把舊椅子上的螺絲鎖緊。"
+   }
+  },
+  {
+   "a": "timber",
+   "b": "wood",
+   "kind": "semantic",
+   "score": 0.805,
+   "aZh": "n. 木材；木料",
+   "bZh": "n. 木頭；木材",
+   "diff": "wood 是最常用的木頭、木材；timber 專指已砍下、供建築或製作使用的木材，英式用法較常見。",
+   "points": [
+    "範圍：wood 也可指樹林；timber 只指木料",
+    "美英差異：美式常用 lumber；英式常用 timber",
+    "搭配：a timber house 木造房屋；a piece of wood 一塊木頭"
+   ],
+   "tip": "wood 是木頭本身，timber 是切好備用的木料。",
+   "exA": {
+    "en": "The workers used timber from the forest to build a bridge.",
+    "zh": "工人用森林裡的木材蓋了一座橋。"
+   },
+   "exB": {
+    "en": "This chair is made of wood from an old tree.",
+    "zh": "這張椅子是用一棵老樹的木頭做成的。"
+   }
+  },
+  {
+   "a": "throw",
+   "b": "toss",
+   "kind": "semantic",
+   "score": 0.608,
+   "aZh": "v./n. 丟；投；拋",
+   "bZh": "v./n. 拋；丟；擲",
+   "diff": "throw 是一般的丟、投，力道可大可小；toss 是輕輕地拋或隨手丟，力道較小，也可指擲硬幣、拌沙拉。",
+   "points": [
+    "力道：throw 可用力；toss 較輕",
+    "搭配：throw a stone 丟石頭；toss a coin 擲硬幣",
+    "另一義：toss 也可指把食物拌勻"
+   ],
+   "tip": "throw 是用力丟，toss 是輕輕拋。",
+   "exA": {
+    "en": "Kevin threw the ball as hard as he could.",
+    "zh": "Kevin 用盡力氣把球丟了出去。"
+   },
+   "exB": {
+    "en": "Kevin tossed the ball gently to his little brother.",
+    "zh": "Kevin 輕輕把球拋給他的弟弟。"
+   }
+  },
+  {
+   "a": "hard",
+   "b": "tough",
+   "kind": "semantic",
+   "score": 0.657,
+   "aZh": "adj. 困難的；堅硬的",
+   "bZh": "adj. 艱難的；堅韌的；嚴格的",
+   "diff": "hard 是最常用的「難」或「硬」；tough 除了艱難，還強調堅韌、經得起考驗，也可指對人嚴格。",
+   "points": [
+    "使用情境：a hard test 難的考試；tough meat 咬不動的肉",
+    "另一義：tough 可形容人堅強或對人嚴格；hard 常形容物體堅硬",
+    "詞性：hard 也可當 adv. 努力地"
+   ],
+   "tip": "hard 是硬和難，tough 是難之外還「撐得住」。",
+   "exA": {
+    "en": "The math test was hard, but I finished it.",
+    "zh": "數學考試很難，但我還是寫完了。"
+   },
+   "exB": {
+    "en": "The road to the top was tough for the young hikers.",
+    "zh": "通往山頂的路對年輕的登山客來說很艱難。"
+   }
+  },
+  {
+   "a": "tourism",
+   "b": "tourist",
+   "kind": "visual",
+   "score": 0.761,
+   "aZh": "n. 觀光業；旅遊",
+   "bZh": "n. 觀光客；旅客",
+   "diff": "tourism 是觀光活動或觀光產業；tourist 是去觀光的人。tourism 不可數，tourist 可數。",
+   "points": [
+    "詞性：tourism 不可數；tourist 可數，可加 s",
+    "拼字：-ism 表示活動；-ist 表示人",
+    "搭配：the tourism industry 觀光產業；a group of tourists 一群觀光客"
+   ],
+   "tip": "-ist 是人（tourist），-ism 是活動或產業（tourism）。",
+   "exA": {
+    "en": "Tourism provides many jobs in this coastal town.",
+    "zh": "觀光業在這座沿海小鎮提供許多工作。"
+   },
+   "exB": {
+    "en": "Many tourists take photos in front of the old temple.",
+    "zh": "許多觀光客在古老的寺廟前拍照。"
+   }
+  },
+  {
+   "a": "tourist",
+   "b": "traveler",
+   "kind": "semantic",
+   "score": 0.756,
+   "aZh": "n. 觀光客；旅客",
+   "bZh": "n. 旅行者；旅客",
+   "diff": "tourist 是為了觀光休閒而旅行的人；traveler 泛指旅行的人，不一定為觀光，可能是長途或出差。",
+   "points": [
+    "範圍：traveler 較廣；tourist 專指觀光",
+    "搭配：a tourist attraction 觀光景點；a frequent traveler 常出遠門的人",
+    "語氣：tourist 有時暗示走馬看花"
+   ],
+   "tip": "tourist 是去玩的人，traveler 是在旅途上的人。",
+   "exA": {
+    "en": "The tourist asked our teacher how to reach the museum.",
+    "zh": "那位觀光客問我們的老師怎麼去博物館。"
+   },
+   "exB": {
+    "en": "The traveler carried a small bag on the long trip.",
+    "zh": "那位旅行者在長途旅行中只帶了一個小包。"
+   }
+  },
+  {
+   "a": "merchant",
+   "b": "trader",
+   "kind": "semantic",
+   "score": 0.938,
+   "aZh": "n. 商人",
+   "bZh": "n. 商人；交易者",
+   "diff": "merchant 指從事貿易或批發的商人，語氣較正式，常見於歷史；trader 指買賣商品或金融商品的人，也常指股票交易者。",
+   "points": [
+    "使用情境：a wine merchant 酒商；a stock trader 股票交易員",
+    "正式程度：merchant 較文雅、較舊式",
+    "搭配：street trader 街頭商販"
+   ],
+   "tip": "merchant 是做生意的商人，trader 是負責買進賣出的人。",
+   "exA": {
+    "en": "The merchant sold silk to buyers from many countries.",
+    "zh": "那位商人把絲綢賣給許多國家的買家。"
+   },
+   "exB": {
+    "en": "The trader buys fresh fruit at the morning market.",
+    "zh": "那位商人在早市買進新鮮水果。"
+   }
+  },
+  {
+   "a": "trace",
+   "b": "track",
+   "kind": "semantic",
+   "score": 0.51,
+   "aZh": "v. 追查；描摹；n. 痕跡",
+   "bZh": "v. 追蹤；記錄；n. 小徑；跑道",
+   "diff": "trace 是沿著線索追查來源，或指留下的細微痕跡；track 是沿著足跡或路線持續追蹤，也可指記錄進度。",
+   "points": [
+    "使用情境：trace the source 追查來源；track a package 追蹤包裹",
+    "名詞：trace 是痕跡；track 是小徑、跑道",
+    "另一義：trace 也可指描摹圖案"
+   ],
+   "tip": "trace 是找出來源，track 是一路跟著走。",
+   "exA": {
+    "en": "The police traced the phone call to a public phone.",
+    "zh": "警方查出那通電話來自一支公共電話。"
+   },
+   "exB": {
+    "en": "You can track your package on the website.",
+    "zh": "你可以在網站上追蹤你的包裹。"
+   }
+  },
+  {
+   "a": "path",
+   "b": "trail",
+   "kind": "semantic",
+   "score": 0.73,
+   "aZh": "n. 小徑；道路",
+   "bZh": "n. 小徑；步道；痕跡",
+   "diff": "path 泛指人走出來的小路，範圍廣；trail 多指山野間的步道，或人與動物留下的蹤跡，也可當動詞表示落後。",
+   "points": [
+    "使用情境：a garden path 花園小徑；a hiking trail 健行步道",
+    "另一義：trail 也指痕跡、蹤跡；path 沒有這個意思",
+    "詞性：trail 也可當 v. 落後"
+   ],
+   "tip": "path 是一般的小路，trail 是野外步道或留下的痕跡。",
+   "exA": {
+    "en": "A narrow path led to the small garden.",
+    "zh": "一條窄窄的小徑通往那座小花園。"
+   },
+   "exB": {
+    "en": "Our class followed a trail through the forest.",
+    "zh": "我們班沿著森林裡的步道前進。"
+   }
+  },
+  {
+   "a": "trace",
+   "b": "trail",
+   "kind": "semantic",
+   "score": 0.518,
+   "aZh": "n. 痕跡；v. 追查",
+   "bZh": "n. 痕跡；蹤跡；小徑",
+   "diff": "trace 是少量、細微的痕跡，或動詞的追查；trail 是連續留下的一串蹤跡，或是走出來的小徑。",
+   "points": [
+    "程度：trace 是一點點；trail 是一路留下的一串",
+    "搭配：a trace of fear 一絲恐懼；a trail of footprints 一串腳印",
+    "詞性：trace 常當 v. 追查；trail 也可當 v. 落後"
+   ],
+   "tip": "trace 是一絲痕跡，trail 是一長串蹤跡。",
+   "exA": {
+    "en": "There was not a trace of fear on her face.",
+    "zh": "她臉上沒有一絲恐懼。"
+   },
+   "exB": {
+    "en": "Muddy shoes left a trail across the clean floor.",
+    "zh": "沾滿泥巴的鞋子在乾淨的地板上留下一串腳印。"
+   }
+  },
+  {
+   "a": "transport",
+   "b": "vehicle",
+   "kind": "semantic",
+   "score": 0.723,
+   "aZh": "n. 運輸；交通工具；v. 運送",
+   "bZh": "n. 交通工具；車輛",
+   "diff": "transport 指運輸這件事或整體交通系統，也可當動詞運送；vehicle 指一輛一輛具體的交通工具，如車、船。",
+   "points": [
+    "詞性：transport 也可當 v. 運送；vehicle 只當 n.",
+    "搭配：public transport 大眾運輸；a motor vehicle 機動車輛",
+    "可數性：transport 常不可數；vehicle 可數"
+   ],
+   "tip": "transport 是運輸這件事，vehicle 是運輸用的車輛。",
+   "exA": {
+    "en": "Public transport makes it easier to travel around the city.",
+    "zh": "大眾運輸讓人在市區移動更方便。"
+   },
+   "exB": {
+    "en": "A vehicle stopped at the school gate to pick up students.",
+    "zh": "一輛車停在校門口接學生。"
+   }
+  },
+  {
+   "a": "tendency",
+   "b": "trend",
+   "kind": "semantic",
+   "score": 0.65,
+   "aZh": "n. 傾向；趨勢",
+   "bZh": "n. 趨勢；潮流",
+   "diff": "tendency 是人或事物自然出現的傾向；trend 是一段時間內逐漸形成的整體變化方向，常指流行。",
+   "points": [
+    "對象：tendency 常指個人或個別事物；trend 常指社會或市場整體",
+    "搭配：a tendency to worry 愛擔心的傾向；a growing trend 日益增加的趨勢",
+    "句型：tendency to + V；trend toward + N"
+   ],
+   "tip": "tendency 是個人的習慣傾向，trend 是大家一起走的方向。",
+   "exA": {
+    "en": "Amy has a tendency to forget her keys.",
+    "zh": "Amy 常常會忘記帶鑰匙。"
+   },
+   "exB": {
+    "en": "There is a growing trend toward online learning.",
+    "zh": "線上學習有越來越普遍的趨勢。"
+   }
+  },
+  {
+   "a": "tropical",
+   "b": "typical",
+   "kind": "visual",
+   "score": 0.71,
+   "aZh": "adj. 熱帶的",
+   "bZh": "adj. 典型的；有代表性的",
+   "diff": "tropical 是熱帶的，與熱帶地區的氣候、植物有關；typical 是典型的，具有某類事物的一般特徵。兩字拼法相近。",
+   "points": [
+    "拼字：tropical 開頭是 tro-；typical 開頭是 ty-",
+    "搭配：a tropical climate 熱帶氣候；a typical day 典型的一天",
+    "發音：tropical /ˈtrɑpɪkəl/；typical /ˈtɪpɪkəl/"
+   ],
+   "tip": "typical 裡有 type（類型）；tropical 有 trop，和熱帶有關。",
+   "exA": {
+    "en": "Bananas and mangoes grow well in tropical countries.",
+    "zh": "香蕉和芒果在熱帶國家長得很好。"
+   },
+   "exB": {
+    "en": "A typical school day starts at eight o'clock.",
+    "zh": "典型的上課日八點開始。"
+   }
+  },
+  {
+   "a": "truck",
+   "b": "trunk",
+   "kind": "visual",
+   "score": 0.709,
+   "aZh": "n. 卡車；貨車",
+   "bZh": "n. 樹幹；後車廂；象鼻",
+   "diff": "truck 是載貨的卡車；trunk 是樹幹，也指汽車的後車廂和象鼻。兩字只差 c 和 n。",
+   "points": [
+    "拼字：truck 結尾是 ck；trunk 結尾是 nk",
+    "搭配：a delivery truck 貨運卡車；the trunk of a car 汽車後車廂",
+    "另一義：trunk 也指樹幹、象鼻"
+   ],
+   "tip": "truck 唸起來像「卡」車，結尾是 ck；trunk 結尾是 nk。",
+   "exA": {
+    "en": "A truck delivered fresh vegetables to the market.",
+    "zh": "一輛卡車把新鮮蔬菜送到市場。"
+   },
+   "exB": {
+    "en": "Dad put our bags in the trunk of the car.",
+    "zh": "爸爸把我們的行李放進車子的後車廂。"
+   }
+  },
+  {
+   "a": "honest",
+   "b": "truthful",
+   "kind": "semantic",
+   "score": 0.829,
+   "aZh": "adj. 誠實的；坦白的",
+   "bZh": "adj. 誠實的；真實的",
+   "diff": "honest 形容人正直、不欺騙，是整體品格；truthful 強調說出的話符合事實，多形容某次回答或說法。",
+   "points": [
+    "範圍：honest 形容整個人；truthful 形容說出的話",
+    "搭配：an honest person 誠實的人；a truthful answer 誠實的回答",
+    "詞性：兩字的名詞是 honesty 與 truthfulness"
+   ],
+   "tip": "honest 是為人老實，truthful 是這句話是真的。",
+   "exA": {
+    "en": "Tom is an honest boy who always returns lost money.",
+    "zh": "Tom 是個誠實的男孩，總是把撿到的錢還給人。"
+   },
+   "exB": {
+    "en": "Please give a truthful answer to the teacher's question.",
+    "zh": "請誠實回答老師的問題。"
+   }
+  },
+  {
+   "a": "bath",
+   "b": "tub",
+   "kind": "semantic",
+   "score": 0.837,
+   "aZh": "n. 洗澡；浴缸",
+   "bZh": "n. 桶；浴缸",
+   "diff": "bath 是洗澡這件事，也可指浴缸；tub 是大型容器，也指浴缸，重點在那個盛水的容器。",
+   "points": [
+    "使用情境：take a bath 洗澡；a tub of ice cream 一大桶冰淇淋",
+    "可數性：bath 指洗澡時常用 take a bath；tub 指容器",
+    "搭配：a hot bath 泡熱水澡；a bath tub 浴缸"
+   ],
+   "tip": "bath 是洗澡的動作，tub 是裝水的桶子。",
+   "exA": {
+    "en": "She took a hot bath after the long walk.",
+    "zh": "走了很長的路後，她泡了個熱水澡。"
+   },
+   "exB": {
+    "en": "The little girl played with toy boats in the tub.",
+    "zh": "小女孩在浴缸裡玩玩具船。"
+   }
+  },
+  {
+   "a": "pull",
+   "b": "tug",
+   "kind": "semantic",
+   "score": 0.532,
+   "aZh": "v. 拉；拖；n. 拉",
+   "bZh": "v. 用力拉；n. 猛拉",
+   "diff": "pull 是一般的拉，力道可大可小；tug 是短而用力地拉扯，常是反覆輕拉，用來引起注意或試探。",
+   "points": [
+    "力道：pull 是持續地拉；tug 是短促用力地拉",
+    "句型：tug at 或 tug on + N",
+    "搭配：pull a cart 拉推車；tug at a sleeve 扯袖子"
+   ],
+   "tip": "pull 是拉過來，tug 是一下一下地扯。",
+   "exA": {
+    "en": "Please pull the door open before you go in.",
+    "zh": "進去之前，請把門拉開。"
+   },
+   "exB": {
+    "en": "The little boy tugged at his father's sleeve.",
+    "zh": "小男孩拉了拉爸爸的袖子。"
+   }
+  },
+  {
+   "a": "melody",
+   "b": "tune",
+   "kind": "semantic",
+   "score": 0.884,
+   "aZh": "n. 旋律；曲調",
+   "bZh": "n. 曲調；旋律；v. 調音",
+   "diff": "melody 指音符依序組成、容易記住的旋律；tune 是曲調，較口語，也可指簡單的歌，還能當動詞調音。",
+   "points": [
+    "使用情境：a sweet melody 悅耳的旋律；hum a tune 哼一段曲調",
+    "詞性：tune 也可當 v. 調音；melody 只當 n.",
+    "正式程度：melody 較正式，tune 較口語"
+   ],
+   "tip": "melody 是旋律的名稱，tune 是哼得出來的調子。",
+   "exA": {
+    "en": "The song has a simple melody that children can learn easily.",
+    "zh": "這首歌的旋律很簡單，孩子很容易學會。"
+   },
+   "exB": {
+    "en": "Amy hummed a happy tune while washing the dishes.",
+    "zh": "Amy 邊洗碗邊哼著快樂的曲調。"
+   }
+  },
+  {
+   "a": "mentor",
+   "b": "tutor",
+   "kind": "semantic",
+   "score": 0.588,
+   "aZh": "n. 導師；指導者",
+   "bZh": "n. 家教；導師",
+   "diff": "tutor 是教特定科目的家教或輔導老師；mentor 是長期指導、給建議的前輩，關心的是成長與方向。",
+   "points": [
+    "重點：tutor 教科目；mentor 指導人生或職涯",
+    "搭配：a math tutor 數學家教；a mentor at work 職場導師",
+    "詞性：兩字都可當 v."
+   ],
+   "tip": "tutor 補功課，mentor 指路。",
+   "exA": {
+    "en": "Her mentor gave her advice about choosing a career.",
+    "zh": "她的導師給了她選擇職業的建議。"
+   },
+   "exB": {
+    "en": "Jenny meets her tutor twice a week to review math.",
+    "zh": "Jenny 每週和家教見面兩次，複習數學。"
+   }
+  },
+  {
+   "a": "teacher",
+   "b": "tutor",
+   "kind": "semantic",
+   "score": 0.499,
+   "aZh": "n. 老師；教師",
+   "bZh": "n. 家教；導師",
+   "diff": "teacher 泛指教書的人，多在學校；tutor 是個別或小組輔導學生的人，常在課後或私下進行。",
+   "points": [
+    "場合：teacher 多在學校；tutor 多在課後個別教學",
+    "規模：tutor 常是一對一或小組",
+    "搭配：a private tutor 私人家教；an English teacher 英文老師"
+   ],
+   "tip": "teacher 站在講台前，tutor 坐在你旁邊。",
+   "exA": {
+    "en": "Our English teacher gave us a quiz today.",
+    "zh": "我們的英文老師今天給了我們一個小考。"
+   },
+   "exB": {
+    "en": "My sister works as a tutor for younger students.",
+    "zh": "我姊姊擔任年紀較小學生的家教。"
+   }
+  },
+  {
+   "a": "turn",
+   "b": "twist",
+   "kind": "semantic",
+   "score": 0.457,
+   "aZh": "v. 轉動；轉向；變成",
+   "bZh": "v. 扭轉；扭曲；n. 轉折",
+   "diff": "turn 是一般的轉動或改變方向；twist 是用力扭轉，使物體轉曲或扭傷，也指故事的轉折。",
+   "points": [
+    "力道：twist 比 turn 用力，常帶扭曲",
+    "搭配：turn the handle 轉把手；twist an ankle 扭傷腳踝",
+    "另一義：twist 也可指劇情轉折"
+   ],
+   "tip": "turn 是輕鬆轉一下，twist 是用力扭。",
+   "exA": {
+    "en": "Please turn the handle slowly to open the door.",
+    "zh": "請慢慢轉動把手來開門。"
+   },
+   "exB": {
+    "en": "She twisted the cap off the bottle and poured some water.",
+    "zh": "她扭開瓶蓋，倒了一些水。"
+   }
+  },
+  {
+   "a": "unit",
+   "b": "unite",
+   "kind": "visual",
+   "score": 0.794,
+   "aZh": "n. 單元；單位",
+   "bZh": "v. 團結；聯合",
+   "diff": "unit 是名詞，指單元或單位；unite 是動詞，指聯合、團結。兩字只差字尾的 e，發音也不同。",
+   "points": [
+    "詞性：unit 是 n.；unite 是 v.",
+    "發音：unit /ˈjuːnɪt/ 重音在前；unite /juˈnaɪt/ 重音在後",
+    "搭配：a unit of time 時間單位；unite to help 團結起來幫忙"
+   ],
+   "tip": "unite 多了 e，母音變長，像 kite 的音。",
+   "exA": {
+    "en": "A kilometer is a common unit of length.",
+    "zh": "公里是常見的長度單位。"
+   },
+   "exB": {
+    "en": "The students united to clean the beach after school.",
+    "zh": "放學後，學生們團結起來清理海灘。"
+   }
+  },
+  {
+   "a": "special",
+   "b": "unique",
+   "kind": "semantic",
+   "score": 0.505,
+   "aZh": "adj. 特別的；特殊的",
+   "bZh": "adj. 獨特的；唯一的",
+   "diff": "special 是特別、與眾不同，可以有很多個；unique 是獨一無二，只有一個，前面通常不加 very。",
+   "points": [
+    "數量：special 可以不只一個；unique 是唯一",
+    "搭配：a special gift 特別的禮物；a unique chance 難得的機會",
+    "用法：unique 前面通常不加 very"
+   ],
+   "tip": "unique 裡有 uni（一），只有一個。",
+   "exA": {
+    "en": "Today is a special day for our whole family.",
+    "zh": "今天對我們全家來說是特別的日子。"
+   },
+   "exB": {
+    "en": "Each snowflake has a unique shape of its own.",
+    "zh": "每片雪花都有自己獨特的形狀。"
+   }
+  },
+  {
+   "a": "harmony",
+   "b": "unity",
+   "kind": "semantic",
+   "score": 0.44,
+   "aZh": "n. 和諧；協調",
+   "bZh": "n. 團結；一致",
+   "diff": "harmony 是彼此和睦、沒有衝突的狀態，也指音樂的和聲；unity 是成員或部分結合成一個整體、行動一致。",
+   "points": [
+    "重點：harmony 看關係和諧；unity 看合為一體",
+    "搭配：live in harmony 和睦相處；a sense of unity 團結感",
+    "另一義：harmony 也指音樂和聲"
+   ],
+   "tip": "harmony 是和睦，unity 是合一（uni- 是「一」）。",
+   "exA": {
+    "en": "The neighbors live in harmony with each other.",
+    "zh": "鄰居們彼此和睦相處。"
+   },
+   "exB": {
+    "en": "The trip created a stronger sense of unity among classmates.",
+    "zh": "這趟旅行讓同學之間更有團結感。"
+   }
+  },
+  {
+   "a": "suburban",
+   "b": "urban",
+   "kind": "semantic",
+   "score": 0.622,
+   "aZh": "adj. 郊區的",
+   "bZh": "adj. 城市的；都市的",
+   "diff": "urban 指城市、市區；suburban 指城市周邊多是住宅區的郊區，是 urban 加上 sub-。",
+   "points": [
+    "使用情境：urban life 都市生活；suburban homes 郊區住宅",
+    "拼字：suburban = sub- + urban",
+    "對比：urban 對 rural 鄉村；suburban 介於城鄉之間"
+   ],
+   "tip": "sub- 是「在下面、附近」，suburban 就是在城市附近。",
+   "exA": {
+    "en": "Many families prefer suburban homes with large gardens.",
+    "zh": "許多家庭偏好有大花園的郊區住宅。"
+   },
+   "exB": {
+    "en": "Urban parks give families a place to relax after school.",
+    "zh": "城市公園讓家庭放學後有地方休息。"
+   }
+  },
+  {
+   "a": "empty",
+   "b": "vacant",
+   "kind": "semantic",
+   "score": 0.562,
+   "aZh": "adj. 空的；空無一物的",
+   "bZh": "adj. 空著的；空缺的",
+   "diff": "empty 是裡面什麼也沒有；vacant 是原本可被占用、現在沒人使用，如空位、空房、職缺。",
+   "points": [
+    "使用情境：an empty box 空盒子；a vacant seat 沒人坐的座位",
+    "搭配：a vacant position 職缺；an empty bottle 空瓶",
+    "詞性：empty 也可當 v. 倒空"
+   ],
+   "tip": "empty 是裡面沒東西，vacant 是位子沒人坐。",
+   "exA": {
+    "en": "The refrigerator was empty, so we went shopping.",
+    "zh": "冰箱空了，所以我們去買東西。"
+   },
+   "exB": {
+    "en": "The seat next to Jenny was vacant during the bus ride.",
+    "zh": "搭公車時，Jenny 旁邊的座位是空的。"
+   }
+  },
+  {
+   "a": "truck",
+   "b": "van",
+   "kind": "semantic",
+   "score": 0.714,
+   "aZh": "n. 卡車；貨車",
+   "bZh": "n. 廂型車；貨車",
+   "diff": "truck 是較大型、多用來載貨的卡車，車斗常是開放的；van 是有封閉車身的廂型車，可載貨也可載人，比較小。",
+   "points": [
+    "車身：truck 多有開放貨斗；van 是封閉車廂",
+    "搭配：a delivery van 送貨廂型車；a truck driver 卡車司機",
+    "使用情境：van 也常用來載小團體"
+   ],
+   "tip": "truck 載重貨，van 裝進廂裡。",
+   "exA": {
+    "en": "A big truck carried sand to the building site.",
+    "zh": "一輛大卡車把沙子運到工地。"
+   },
+   "exB": {
+    "en": "The band traveled by van to the concert.",
+    "zh": "樂團搭廂型車去演唱會。"
+   }
+  },
+  {
+   "a": "disappear",
+   "b": "vanish",
+   "kind": "semantic",
+   "score": 0.917,
+   "aZh": "v. 消失；不見",
+   "bZh": "v. 消失；突然不見",
+   "diff": "disappear 是一般的消失、看不見；vanish 強調突然、完全不見，常帶驚訝的感覺。",
+   "points": [
+    "語氣：vanish 較突然；disappear 較中性",
+    "搭配：disappear from view 從視野消失；vanish into thin air 憑空消失",
+    "用法：兩字都是不及物動詞，後面不加 away"
+   ],
+   "tip": "disappear 慢慢不見也可以，vanish 是一下子不見。",
+   "exA": {
+    "en": "The cat quietly disappeared under the sofa this morning.",
+    "zh": "那隻貓今天早上悄悄消失在沙發底下。"
+   },
+   "exB": {
+    "en": "The magician made the coin vanish with a wave of his hand.",
+    "zh": "魔術師揮了一下手，硬幣就消失了。"
+   }
+  },
+  {
+   "a": "diversity",
+   "b": "variety",
+   "kind": "semantic",
+   "score": 0.853,
+   "aZh": "n. 多樣性；差異",
+   "bZh": "n. 多樣性；種類",
+   "diff": "variety 指種類多、選擇多，是一般用語；diversity 強調彼此差異與多元，常用於文化、生態或社會。",
+   "points": [
+    "使用情境：a variety of foods 多種食物；cultural diversity 文化多元",
+    "正式程度：diversity 較正式",
+    "句型：a variety of + 複數名詞"
+   ],
+   "tip": "variety 是東西種類多，diversity 是彼此不同的多元。",
+   "exA": {
+    "en": "Cultural diversity makes our school more interesting and lively.",
+    "zh": "文化多元讓我們學校更有趣、更有活力。"
+   },
+   "exB": {
+    "en": "The market sells a wide variety of fresh fruit.",
+    "zh": "市場賣各式各樣的新鮮水果。"
+   }
+  },
+  {
+   "a": "variety",
+   "b": "various",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 多樣性；種類",
+   "bZh": "adj. 各種各樣的",
+   "diff": "variety 是名詞，常用 a variety of；various 是形容詞，直接放在複數名詞前。兩字意思相近，詞性不同。",
+   "points": [
+    "詞性：variety 是 n.；various 是 adj.",
+    "句型：a variety of activities；various activities",
+    "拼字：variety 是 -ety；various 是 -ious"
+   ],
+   "tip": "a variety of 後面接名詞，various 本身就修飾名詞。",
+   "exA": {
+    "en": "The school offers a variety of clubs for new students.",
+    "zh": "學校為新生提供各種社團。"
+   },
+   "exB": {
+    "en": "Students from various countries shared their favorite foods.",
+    "zh": "來自不同國家的學生分享了他們最喜歡的食物。"
+   }
+  },
+  {
+   "a": "change",
+   "b": "vary",
+   "kind": "semantic",
+   "score": 0.644,
+   "aZh": "v./n. 改變；變化；零錢",
+   "bZh": "v. 改變；不同",
+   "diff": "change 是變成另一種狀態；vary 是在不同時間、地方或人之間有所不同，或在某個範圍內變動。",
+   "points": [
+    "句型：change into 變成；vary from A to B 從 A 到 B 各不相同",
+    "重點：change 是變；vary 是不同或有幅度地變",
+    "搭配：change plans 改變計畫；vary from person to person 因人而異"
+   ],
+   "tip": "change 是「變成別的」，vary 是「各不相同」。",
+   "exA": {
+    "en": "Amy changed her plan after she heard the news.",
+    "zh": "Amy 聽到消息後改變了她的計畫。"
+   },
+   "exB": {
+    "en": "Prices vary from shop to shop, so compare before you buy.",
+    "zh": "各家店的價格不同，買之前先比較。"
+   }
+  },
+  {
+   "a": "poem",
+   "b": "verse",
+   "kind": "semantic",
+   "score": 0.689,
+   "aZh": "n. 詩；詩篇",
+   "bZh": "n. 詩句；詩節",
+   "diff": "poem 是完整的一首詩；verse 是詩或歌曲中的一節，也可泛指詩的形式，不特指一首。",
+   "points": [
+    "範圍：poem 是一首；verse 是一節或詩的形式",
+    "搭配：write a poem 寫一首詩；the first verse 第一節",
+    "另一義：verse 不可數時泛指詩歌"
+   ],
+   "tip": "poem 是整首詩，verse 是其中的一節。",
+   "exA": {
+    "en": "Amy wrote a short poem for her mother.",
+    "zh": "Amy 為她的媽媽寫了一首短詩。"
+   },
+   "exB": {
+    "en": "The teacher asked us to read one verse aloud.",
+    "zh": "老師要我們大聲朗讀一節詩。"
+   }
+  },
+  {
+   "a": "force",
+   "b": "violence",
+   "kind": "semantic",
+   "score": 0.45,
+   "aZh": "n. 力量；武力；v. 強迫",
+   "bZh": "n. 暴力；暴力行為",
+   "diff": "force 是力量，或用力量強迫別人，不一定造成傷害；violence 是使用暴力造成傷害的行為，本身帶有負面意思。",
+   "points": [
+    "語氣：violence 是負面；force 較中性",
+    "搭配：the force of the wind 風力；domestic violence 家庭暴力",
+    "詞性：force 也可當 v. 強迫"
+   ],
+   "tip": "force 是力量，violence 是用力量傷人。",
+   "exA": {
+    "en": "The force of the wind blew the umbrella away.",
+    "zh": "風的力量把雨傘吹走了。"
+   },
+   "exB": {
+    "en": "The school teaches students to solve problems without violence.",
+    "zh": "學校教導學生不用暴力解決問題。"
+   }
+  },
+  {
+   "a": "violent",
+   "b": "violet",
+   "kind": "visual",
+   "score": 0.823,
+   "aZh": "adj. 暴力的；猛烈的",
+   "bZh": "adj. 紫色的；n. 紫羅蘭",
+   "diff": "violent 是暴力的、猛烈的；violet 是紫羅蘭或紫色。兩字只差最後一個字母 n 與 t。",
+   "points": [
+    "拼字：violent 結尾是 -ent；violet 結尾是 -et",
+    "發音：violent /ˈvaɪələnt/；violet /ˈvaɪələt/",
+    "搭配：a violent storm 猛烈的暴風雨；violet flowers 紫羅蘭花"
+   ],
+   "tip": "violent 比 violet 多一個 n，想成 no violence（不要暴力）。",
+   "exA": {
+    "en": "A violent storm damaged several roads last night.",
+    "zh": "昨晚一場猛烈的暴風雨損壞了幾條道路。"
+   },
+   "exB": {
+    "en": "Jenny chose a violet notebook to match her new bag.",
+    "zh": "Jenny 選了一本紫色筆記本來搭配她的新書包。"
+   }
+  },
+  {
+   "a": "aggressive",
+   "b": "violent",
+   "kind": "semantic",
+   "score": 0.461,
+   "aZh": "adj. 好鬥的；具攻擊性的",
+   "bZh": "adj. 暴力的；猛烈的",
+   "diff": "aggressive 指有攻擊性、好鬥，或積極進取，不一定已動手；violent 指真的使用暴力，或形容風暴、變化猛烈。",
+   "points": [
+    "行為：aggressive 是態度傾向；violent 是實際使用暴力",
+    "另一義：aggressive 也可指積極的做法",
+    "搭配：aggressive behavior 攻擊性行為；violent crime 暴力犯罪"
+   ],
+   "tip": "aggressive 是愛衝撞，violent 是真的傷人。",
+   "exA": {
+    "en": "The aggressive dog barked at everyone who passed by.",
+    "zh": "那隻好鬥的狗對每個路過的人吠叫。"
+   },
+   "exB": {
+    "en": "Violent crime has dropped in our city this year.",
+    "zh": "今年我們城市的暴力犯罪減少了。"
+   }
+  },
+  {
+   "a": "purple",
+   "b": "violet",
+   "kind": "semantic",
+   "score": 0.75,
+   "aZh": "adj. 紫色的；n. 紫色",
+   "bZh": "adj. 紫羅蘭色的；n. 紫羅蘭",
+   "diff": "purple 是最常用的紫色，偏紅；violet 是偏藍的紫色，也指紫羅蘭這種花。",
+   "points": [
+    "色調：purple 偏紅；violet 偏藍",
+    "詞性：violet 也指花；purple 主要指顏色",
+    "搭配：a purple shirt 紫色襯衫；violet flowers 紫羅蘭花"
+   ],
+   "tip": "violet 是花名也是顏色，purple 是一般的紫色。",
+   "exA": {
+    "en": "Kevin wore a purple shirt to the school party.",
+    "zh": "Kevin 穿了一件紫色襯衫去參加學校派對。"
+   },
+   "exB": {
+    "en": "Amy planted violets beside the path in the school garden.",
+    "zh": "Amy 在校園花園的小徑旁種了紫羅蘭。"
+   }
+  },
+  {
+   "a": "visible",
+   "b": "visual",
+   "kind": "semantic",
+   "score": 0.767,
+   "aZh": "adj. 看得見的；明顯的",
+   "bZh": "adj. 視覺的；看得見的",
+   "diff": "visible 指能被看見；visual 指與視覺、影像有關，如視覺效果、圖像。兩字的字尾不同：-ible 與 -ual。",
+   "points": [
+    "搭配：visible damage 明顯的損害；visual effects 視覺效果",
+    "詞性：兩字都是 adj.",
+    "拼字：visible 是 -ible；visual 是 -ual"
+   ],
+   "tip": "visible 是「看得見」，visual 是「和視覺有關」。",
+   "exA": {
+    "en": "The moon was clearly visible above the school.",
+    "zh": "月亮清楚地出現在學校上方。"
+   },
+   "exB": {
+    "en": "The teacher used pictures as a visual help in class.",
+    "zh": "老師在課堂上用圖片當作視覺輔助。"
+   }
+  },
+  {
+   "a": "sight",
+   "b": "vision",
+   "kind": "semantic",
+   "score": 0.635,
+   "aZh": "n. 視力；景象",
+   "bZh": "n. 視力；願景；遠見",
+   "diff": "sight 指看見的能力，也指看到的景象，較口語；vision 是視力，較正式，也指對未來的願景。",
+   "points": [
+    "使用情境：lose one's sight 失去視力；poor vision 視力不佳",
+    "另一義：sight 可指景象；vision 可指願景",
+    "正式程度：vision 較正式"
+   ],
+   "tip": "sight 是眼前所見，vision 也能是心裡看見的未來。",
+   "exA": {
+    "en": "The old man lost his sight when he was young.",
+    "zh": "那位老先生年輕時就失明了。"
+   },
+   "exB": {
+    "en": "The doctor checked my vision with a chart.",
+    "zh": "醫生用視力表檢查我的視力。"
+   }
+  },
+  {
+   "a": "cart",
+   "b": "wagon",
+   "kind": "semantic",
+   "score": 0.525,
+   "aZh": "n. 手推車；購物車",
+   "bZh": "n. 四輪馬車；推車",
+   "diff": "cart 通常是較小的手推車或購物車；wagon 是四輪、較大的載物車，可用馬拉或人拉。",
+   "points": [
+    "大小：cart 較小；wagon 較大",
+    "搭配：a shopping cart 購物車；a covered wagon 有篷馬車",
+    "使用情境：小孩拉著玩的小車常叫 wagon"
+   ],
+   "tip": "cart 是推的小車，wagon 是有四個輪子的大車。",
+   "exA": {
+    "en": "Mom pushed the shopping cart through the market.",
+    "zh": "媽媽推著購物車走過市場。"
+   },
+   "exB": {
+    "en": "The children pulled their toys in a red wagon.",
+    "zh": "孩子們用一輛紅色的推車拉著他們的玩具。"
+   }
+  },
+  {
+   "a": "wander",
+   "b": "wonder",
+   "kind": "visual",
+   "score": 0.748,
+   "aZh": "v. 漫步；閒逛",
+   "bZh": "v. 想知道；納悶；n. 驚奇",
+   "diff": "wander 是漫無目的地走；wonder 是想知道、感到好奇。兩字只差第二個母音 a 與 o，發音也不同。",
+   "points": [
+    "詞性：wander 是 v.；wonder 也可當 n. 驚奇",
+    "發音：wander /ˈwɑːndər/；wonder /ˈwʌndər/",
+    "搭配：wander around 四處閒逛；wonder if 想知道是否"
+   ],
+   "tip": "wander 的 a 想成 away（走開）；wonder 的 o 想成好奇睜大的眼睛。",
+   "exA": {
+    "en": "We wandered around the old town after lunch.",
+    "zh": "午餐後，我們在老街附近閒逛。"
+   },
+   "exB": {
+    "en": "I wonder why the bus is late today.",
+    "zh": "我想知道今天公車為什麼晚了。"
+   }
+  },
+  {
+   "a": "stroll",
+   "b": "wander",
+   "kind": "semantic",
+   "score": 0.752,
+   "aZh": "v./n. 散步；閒逛",
+   "bZh": "v./n. 漫步；閒逛",
+   "diff": "stroll 是悠閒地散步，有享受的意味；wander 是沒有固定方向地走，隨意四處逛，也可能走失。",
+   "points": [
+    "目的：stroll 是為了悠閒享受；wander 是沒有目的",
+    "搭配：stroll along the river 沿河散步；wander around the city 在城裡閒逛",
+    "另一義：wander 也可指思緒飄走"
+   ],
+   "tip": "stroll 是悠閒地走，wander 是隨便亂走。",
+   "exA": {
+    "en": "We strolled along the river after dinner tonight.",
+    "zh": "今晚晚餐後，我們沿著河邊散步。"
+   },
+   "exB": {
+    "en": "Do not wander away from the group in the museum.",
+    "zh": "在博物館裡，不要離開團體到處亂走。"
+   }
+  },
+  {
+   "a": "caution",
+   "b": "warn",
+   "kind": "semantic",
+   "score": 0.824,
+   "aZh": "n. 小心；謹慎；v. 警告",
+   "bZh": "v. 警告；提醒",
+   "diff": "warn 是事先告知危險，讓對方提防；caution 當名詞是謹慎小心，當動詞是較正式的警告或提醒。",
+   "points": [
+    "詞性：caution 多為 n.；warn 是 v.",
+    "搭配：proceed with caution 小心前進；warn someone about danger 警告某人有危險",
+    "正式程度：caution 當動詞較正式"
+   ],
+   "tip": "warn 是動詞，caution 多是「小心」這個名詞。",
+   "exA": {
+    "en": "Please walk with caution on the wet floor.",
+    "zh": "濕地板上請小心行走。"
+   },
+   "exB": {
+    "en": "The teacher warned us about the slippery floor.",
+    "zh": "老師提醒我們地板很滑。"
+   }
+  },
+  {
+   "a": "remind",
+   "b": "warn",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "v. 提醒；使想起",
+   "bZh": "v. 警告；提醒",
+   "diff": "remind 是提醒你別忘了某件事；warn 是提醒你注意危險或不好的後果。",
+   "points": [
+    "重點：remind 是不要忘記；warn 是小心危險",
+    "句型：remind + 人 + to V；warn + 人 + not to V",
+    "搭配：remind me to call 提醒我打電話；warn me about the storm 警告我暴風雨"
+   ],
+   "tip": "remind 是「別忘了」，warn 是「小心！」",
+   "exA": {
+    "en": "Please remind me to bring my homework tomorrow.",
+    "zh": "請提醒我明天帶作業。"
+   },
+   "exB": {
+    "en": "The guide warned us about the strong wind.",
+    "zh": "導遊警告我們要注意強風。"
+   }
+  },
+  {
+   "a": "undermine",
+   "b": "weaken",
+   "kind": "semantic",
+   "score": 0.687,
+   "aZh": "v. 削弱；損害",
+   "bZh": "v. 削弱；變弱",
+   "diff": "weaken 是使力量、程度變弱，也可指自己變弱；undermine 是暗中一點一點破壞根基，如信心、權威，帶負面意味。",
+   "points": [
+    "方式：undermine 是暗中逐步破壞；weaken 是一般變弱",
+    "搭配：undermine confidence 破壞信心；weaken the body 使身體虛弱",
+    "及物與否：weaken 可及物也可不及物；undermine 是及物"
+   ],
+   "tip": "undermine 是從底下挖空，weaken 是變得不夠強。",
+   "exA": {
+    "en": "Rumors can undermine the trust between good friends.",
+    "zh": "謠言會破壞好朋友之間的信任。"
+   },
+   "exB": {
+    "en": "The long illness weakened his body a great deal.",
+    "zh": "長期生病讓他的身體虛弱了許多。"
+   }
+  },
+  {
+   "a": "rich",
+   "b": "wealthy",
+   "kind": "semantic",
+   "score": 0.801,
+   "aZh": "adj. 富有的；豐富的；濃郁的",
+   "bZh": "adj. 富有的；富裕的",
+   "diff": "rich 是最常用的「有錢」，也可指豐富、濃郁；wealthy 較正式，指擁有大量財產，只用來形容有錢。",
+   "points": [
+    "範圍：rich 也可形容內容豐富、味道濃；wealthy 只指有錢",
+    "正式程度：wealthy 較正式",
+    "搭配：a rich soup 濃郁的湯；a wealthy family 富裕的家庭"
+   ],
+   "tip": "rich 什麼都可以豐富，wealthy 只說錢多。",
+   "exA": {
+    "en": "The soup was rich and tasted like fresh cream.",
+    "zh": "這碗湯很濃郁，嚐起來像新鮮鮮奶油。"
+   },
+   "exB": {
+    "en": "The wealthy man gave money to build a new library.",
+    "zh": "那位富有的男士捐錢蓋了一座新圖書館。"
+   }
+  },
+  {
+   "a": "arms",
+   "b": "weapon",
+   "kind": "semantic",
+   "score": 0.897,
+   "aZh": "n. 武器；軍備；手臂",
+   "bZh": "n. 武器；兵器",
+   "diff": "weapon 是單一的武器，可數；arms 是武器的總稱，多指軍備，只用複數，另一義是手臂。",
+   "points": [
+    "數量：weapon 可數；arms 只用複數表示武器",
+    "搭配：a dangerous weapon 危險的武器；arms sales 軍火買賣",
+    "另一義：arms 也是手臂"
+   ],
+   "tip": "一件是 weapon，一批軍備是 arms。",
+   "exA": {
+    "en": "The country stopped its arms sales last year.",
+    "zh": "那個國家去年停止了軍火買賣。"
+   },
+   "exB": {
+    "en": "The police found a weapon hidden under the car seat.",
+    "zh": "警方在車子座椅下發現了一件藏起來的武器。"
+   }
+  },
+  {
+   "a": "wave",
+   "b": "weave",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 波浪；v. 揮手",
+   "bZh": "v. 編織；交織",
+   "diff": "wave 是波浪或揮手；weave 是編織。兩字只差一個字母 e，發音也不同。",
+   "points": [
+    "拼字：weave 比 wave 多一個 e",
+    "發音：wave /weɪv/；weave /wiːv/",
+    "變化：wave 是規則變化；weave 過去式是 wove"
+   ],
+   "tip": "weave 有兩個 e，像交錯的線；wave 是揮動的波浪。",
+   "exA": {
+    "en": "The children waved to the bus as it left.",
+    "zh": "公車開走時，孩子們向它揮手。"
+   },
+   "exB": {
+    "en": "She likes to weave a small basket from thin wire.",
+    "zh": "她喜歡用細鐵絲編小籃子。"
+   }
+  },
+  {
+   "a": "net",
+   "b": "web",
+   "kind": "semantic",
+   "score": 0.65,
+   "aZh": "n. 網；網路",
+   "bZh": "n. 網；蜘蛛網；網路",
+   "diff": "net 是用線編成的網，如魚網、球網，也指網路；web 多指蜘蛛網，或彼此連結的網狀系統，如 the Web。",
+   "points": [
+    "使用情境：a fishing net 魚網；a spider web 蜘蛛網",
+    "搭配：a web page 網頁；the Net 網際網路",
+    "範圍：web 也比喻錯綜複雜的關係"
+   ],
+   "tip": "net 是人編的網，web 是蜘蛛織的網。",
+   "exA": {
+    "en": "The fisherman pulled the net out of the water.",
+    "zh": "漁夫把網從水裡拉了上來。"
+   },
+   "exB": {
+    "en": "A spider built a web near the garden gate.",
+    "zh": "蜘蛛在花園門邊結了一張網。"
+   }
+  },
+  {
+   "a": "marry",
+   "b": "wed",
+   "kind": "semantic",
+   "score": 0.755,
+   "aZh": "v. 與……結婚；嫁娶",
+   "bZh": "v. 與…結婚",
+   "diff": "marry 是最常用的結婚動詞，口語書面都可以；wed 意思相同，但較正式，常見於新聞和書面語。",
+   "points": [
+    "正式程度：wed 較正式；marry 日常通用",
+    "句型：兩字都可直接接受詞，不加 with",
+    "搭配：marry 常見於 get married；wed 常見於 newlyweds"
+   ],
+   "tip": "日常說 marry，新聞標題常見 wed。",
+   "exA": {
+    "en": "Tom will marry his childhood friend next month.",
+    "zh": "Tom 下個月要和他的青梅竹馬結婚。"
+   },
+   "exB": {
+    "en": "Amy and Tom will wed in a small garden next spring.",
+    "zh": "Amy 和 Tom 明年春天會在一座小花園結婚。"
+   }
+  },
+  {
+   "a": "annual",
+   "b": "yearly",
+   "kind": "semantic",
+   "score": 1.0,
+   "aZh": "adj. 每年的；一年一次的",
+   "bZh": "adj. 每年的；一年一次的",
+   "diff": "兩字都指每年一次；annual 較正式，常用於報告、會議和費用，yearly 較口語，也可當副詞用。",
+   "points": [
+    "正式程度：annual 較正式；yearly 較日常",
+    "詞性：yearly 可當 adj. 和 adv.；annual 多為 adj.",
+    "搭配：annual report 年度報告；yearly income 年收入"
+   ],
+   "tip": "報告和會議多用 annual，日常說法用 yearly。",
+   "exA": {
+    "en": "The school holds an annual sports day every October.",
+    "zh": "學校每年十月都會舉辦一次運動會。"
+   },
+   "exB": {
+    "en": "The club sends yearly reports to all its members.",
+    "zh": "社團每年會寄年度報告給所有成員。"
+   }
+  },
+  {
+   "a": "cry",
+   "b": "weep",
+   "kind": "semantic",
+   "score": 0.856,
+   "aZh": "v. 哭泣；流淚；n. 哭聲",
+   "bZh": "v. 哭泣；流淚",
+   "diff": "cry 是最常用的哭，也可指大叫；weep 較書面，常指靜靜地流淚，語氣較有文學色彩。",
+   "points": [
+    "範圍：cry 也可指喊叫；weep 只指流淚",
+    "正式程度：weep 較書面",
+    "變化：cry 過去式 cried；weep 過去式 wept"
+   ],
+   "tip": "日常說 cry，故事裡的靜靜流淚常用 weep。",
+   "exA": {
+    "en": "Babies often cry when they are hungry or tired.",
+    "zh": "嬰兒餓了或累了常會哭。"
+   },
+   "exB": {
+    "en": "Some people weep with joy when they win a prize.",
+    "zh": "有些人得獎時會喜極而泣。"
+   }
+  },
+  {
+   "a": "shout",
+   "b": "yell",
+   "kind": "semantic",
+   "score": 0.75,
+   "aZh": "v. 大喊；呼喊；n. 喊聲",
+   "bZh": "v. 大喊；吼叫；n. 喊叫聲",
+   "diff": "shout 泛指大聲說話或喊叫，語氣中性；yell 常帶有生氣、激動或急迫的語氣。",
+   "points": [
+    "語氣：shout 中性；yell 常帶怒氣或急迫",
+    "句型：yell at 某人常表示責備；shout at 也可，但不一定生氣",
+    "搭配：shout for help 大聲求助；yell at someone 對某人大吼"
+   ],
+   "tip": "shout 是提高音量，yell 是帶著情緒喊。",
+   "exA": {
+    "en": "Please do not shout in the library while others study.",
+    "zh": "別人在念書時，請不要在圖書館大聲喊叫。"
+   },
+   "exB": {
+    "en": "Do not yell at your little brother for a small mistake.",
+    "zh": "不要因為一個小錯誤就對你弟弟大吼。"
+   }
+  },
+  {
+   "a": "evil",
+   "b": "wicked",
+   "kind": "semantic",
+   "score": 0.665,
+   "aZh": "adj. 邪惡的；有害的；n. 邪惡",
+   "bZh": "adj. 邪惡的；壞的",
+   "diff": "evil 強調道德上的邪惡，語氣嚴肅；wicked 也指邪惡，但常見於童話故事，也可形容調皮。",
+   "points": [
+    "語氣：evil 更嚴肅；wicked 較有故事色彩",
+    "詞性：evil 也可當 n.；wicked 只當 adj.",
+    "另一義：wicked 可指頑皮"
+   ],
+   "tip": "evil 是真正的壞，wicked 常出現在童話裡。",
+   "exA": {
+    "en": "The hero stopped an evil king in the movie.",
+    "zh": "英雄在電影裡阻止了一位邪惡的國王。"
+   },
+   "exB": {
+    "en": "In the fairy tale, a wicked queen sends the young girl away.",
+    "zh": "在童話故事裡，邪惡的皇后把年輕女孩趕走了。"
+   }
+  },
+  {
+   "a": "naughty",
+   "b": "wicked",
+   "kind": "semantic",
+   "score": 0.629,
+   "aZh": "adj. 頑皮的；不守規矩的",
+   "bZh": "adj. 邪惡的；淘氣的",
+   "diff": "naughty 指小孩或動物不聽話、調皮；wicked 主要指邪惡，只有在開玩笑的語氣時才指淘氣。",
+   "points": [
+    "主要意思：naughty 是頑皮；wicked 主要是邪惡",
+    "對象：naughty 常形容小孩或寵物",
+    "語氣：wicked 的邪惡義比 naughty 嚴重許多"
+   ],
+   "tip": "naughty 只是頑皮，wicked 通常是壞。",
+   "exA": {
+    "en": "The naughty puppy chewed on my new shoes again.",
+    "zh": "那隻頑皮的小狗又咬了我的新鞋。"
+   },
+   "exB": {
+    "en": "The wicked little boy hid his sister's shoes as a joke.",
+    "zh": "那個頑皮的小男孩為了開玩笑把姊姊的鞋子藏了起來。"
+   }
+  },
+  {
+   "a": "expand",
+   "b": "widen",
+   "kind": "semantic",
+   "score": 0.815,
+   "aZh": "v. 擴大；擴展",
+   "bZh": "v. 使變寬；擴大",
+   "diff": "expand 泛指規模、數量或範圍變大；widen 是寬度或範圍變大，常用於道路、差距或知識。",
+   "points": [
+    "範圍：expand 不限於寬度；widen 著重寬度",
+    "搭配：expand the business 擴展事業；widen the road 拓寬道路",
+    "搭配：widen the gap 擴大差距"
+   ],
+   "tip": "expand 是變大，widen 是變寬。",
+   "exA": {
+    "en": "The company plans to expand its business to other cities.",
+    "zh": "公司計畫把事業擴展到其他城市。"
+   },
+   "exB": {
+    "en": "The city plans to widen the road near the school.",
+    "zh": "市府計畫拓寬學校附近的道路。"
+   }
+  },
+  {
+   "a": "broaden",
+   "b": "widen",
+   "kind": "semantic",
+   "score": 0.781,
+   "aZh": "v. 拓寬；擴大",
+   "bZh": "v. 使變寬；擴大",
+   "diff": "broaden 較正式，常指擴大知識、視野或經驗；widen 更常用於實際的道路、河流，也可用於差距。",
+   "points": [
+    "搭配：broaden your view 拓展視野；widen the road 拓寬道路",
+    "正式程度：broaden 較正式（L6）",
+    "使用情境：抽象的知識和視野多用 broaden"
+   ],
+   "tip": "視野用 broaden，道路用 widen。",
+   "exA": {
+    "en": "Traveling can broaden your view of the world.",
+    "zh": "旅行能拓展你對世界的視野。"
+   },
+   "exB": {
+    "en": "Reading different books can widen your knowledge of history.",
+    "zh": "閱讀不同的書能拓展歷史知識。"
+   }
+  },
+  {
+   "a": "erase",
+   "b": "wipe",
+   "kind": "semantic",
+   "score": 0.473,
+   "aZh": "v. 擦掉；刪除",
+   "bZh": "v. 擦；抹去",
+   "diff": "erase 是把字跡或資料擦掉、刪除；wipe 是用布或手擦拭表面，重點是擦的動作。",
+   "points": [
+    "使用情境：erase the board 擦黑板字跡；wipe the table 擦桌子",
+    "對象：erase 多指文字或資料；wipe 多指表面",
+    "搭配：wipe away tears 擦掉眼淚"
+   ],
+   "tip": "erase 擦掉字，wipe 擦乾淨表面。",
+   "exA": {
+    "en": "Please erase the words on the board before class ends.",
+    "zh": "下課前請把黑板上的字擦掉。"
+   },
+   "exB": {
+    "en": "Please wipe the table after finishing your lunch.",
+    "zh": "午餐吃完後，請把桌子擦乾淨。"
+   }
+  },
+  {
+   "a": "mop",
+   "b": "wipe",
+   "kind": "semantic",
+   "score": 0.686,
+   "aZh": "n. 拖把；v. 拖地；擦拭",
+   "bZh": "v. 擦；抹去",
+   "diff": "mop 是用拖把拖地，也是指拖把；wipe 是用布或手擦拭，範圍更廣，不限於地板。",
+   "points": [
+    "工具：mop 用拖把；wipe 用布或手",
+    "對象：mop 多指地板；wipe 可擦桌子、手",
+    "詞性：mop 也可當 n. 表示拖把"
+   ],
+   "tip": "mop 是拖地，wipe 是擦拭。",
+   "exA": {
+    "en": "Dad mopped the kitchen floor after the party.",
+    "zh": "派對結束後，爸爸拖了廚房的地板。"
+   },
+   "exB": {
+    "en": "He wiped the water off the kitchen floor.",
+    "zh": "他把廚房地板上的水擦掉。"
+   }
+  },
+  {
+   "a": "rap",
+   "b": "wrap",
+   "kind": "visual",
+   "score": 0.778,
+   "aZh": "n. 饒舌音樂；v. 輕敲",
+   "bZh": "v. 包；裹",
+   "diff": "wrap 是包裹，開頭的 w 不發音；rap 是輕敲或饒舌音樂。兩字唸法相同，但拼法和意思不同。",
+   "points": [
+    "拼字：wrap 開頭多一個 w",
+    "發音：兩字都唸 /ræp/",
+    "搭配：wrap a gift 包禮物；give a rap on the door 輕敲門"
+   ],
+   "tip": "wrap 的 w 不發音，記成 write、wrist 那一類。",
+   "exA": {
+    "en": "Someone gave a quick rap on the classroom door.",
+    "zh": "有人在教室門上快速敲了一下。"
+   },
+   "exB": {
+    "en": "Amy wrapped the gift before taking it to school.",
+    "zh": "Amy 在把禮物帶到學校前先把它包好。"
+   }
+  },
+  {
+   "a": "waist",
+   "b": "wrist",
+   "kind": "visual",
+   "score": 0.65,
+   "aZh": "n. 腰；腰部",
+   "bZh": "n. 手腕",
+   "diff": "waist 是腰部，wrist 是手腕。兩字都是身體部位且拼法相近，wrist 開頭的 w 不發音。",
+   "points": [
+    "部位：waist 在腹部附近；wrist 在手掌與手臂之間",
+    "發音：waist /weɪst/；wrist /rɪst/",
+    "搭配：a belt around the waist 腰間的皮帶；a watch on the wrist 手腕上的手錶"
+   ],
+   "tip": "wrist 的 r 前面有 w；手表戴在 wrist。",
+   "exA": {
+    "en": "She tied a soft belt around her waist.",
+    "zh": "她在腰上繫了一條柔軟的腰帶。"
+   },
+   "exB": {
+    "en": "Kevin hurt his wrist during basketball practice yesterday.",
+    "zh": "Kevin 昨天籃球練習時弄傷了手腕。"
+   }
+  },
+  {
+   "a": "wed",
+   "b": "weed",
+   "kind": "visual",
+   "score": 0.767,
+   "aZh": "v. 與…結婚",
+   "bZh": "n. 雜草；v. 除草",
+   "diff": "wed 是結婚，weed 是雜草或除草。兩字只差一個 e，發音也不同。",
+   "points": [
+    "拼字：weed 比 wed 多一個 e",
+    "發音：wed /wɛd/；weed /wiːd/",
+    "詞性：wed 是 v.；weed 可當 n. 和 v."
+   ],
+   "tip": "weed 有兩個 e，像草叢裡長得很多的雜草。",
+   "exA": {
+    "en": "Amy and Tom will wed in a small garden next spring.",
+    "zh": "Amy 和 Tom 明年春天會在一座小花園結婚。"
+   },
+   "exB": {
+    "en": "We pulled weeds from the school garden after class.",
+    "zh": "下課後我們拔掉校園花園裡的雜草。"
+   }
+  },
+  {
+   "a": "sweep",
+   "b": "weep",
+   "kind": "visual",
+   "score": 0.764,
+   "aZh": "v. 打掃；清掃；席捲",
+   "bZh": "v. 哭泣；流淚",
+   "diff": "sweep 是用掃帚掃地，也可指席捲；weep 是哭泣。兩字只差開頭的 s。",
+   "points": [
+    "拼字：sweep 比 weep 多一個 s",
+    "變化：sweep 過去式 swept；weep 過去式 wept",
+    "搭配：sweep the floor 掃地；weep with joy 喜極而泣"
+   ],
+   "tip": "sweep 有 s，像掃帚；weep 沒有 s，是流眼淚。",
+   "exA": {
+    "en": "Kevin will sweep the classroom floor after lunch today.",
+    "zh": "Kevin 今天午餐後要掃教室的地板。"
+   },
+   "exB": {
+    "en": "Some people weep with joy when they win a prize.",
+    "zh": "有些人得獎時會喜極而泣。"
+   }
+  },
+  {
+   "a": "tell",
+   "b": "yell",
+   "kind": "visual",
+   "score": 0.646,
+   "aZh": "v. 告訴；說出",
+   "bZh": "v. 大喊；吼叫",
+   "diff": "tell 是告訴，yell 是大喊。兩字拼法只差第一個字母，都可接 at 或 to，但用法不同。",
+   "points": [
+    "拼字：只差開頭 t 與 y",
+    "句型：tell + 人 + 事；yell at + 人",
+    "變化：tell 過去式 told；yell 是規則變化 yelled"
+   ],
+   "tip": "tell 說出資訊，yell 是提高聲音。",
+   "exA": {
+    "en": "Please tell me the answer to this question.",
+    "zh": "請告訴我這個問題的答案。"
+   },
+   "exB": {
+    "en": "The coach yelled at us for arriving late.",
+    "zh": "教練因我們遲到而對我們大吼。"
+   }
+  },
+  {
+   "a": "region",
+   "b": "zone",
+   "kind": "semantic",
+   "score": 0.823,
+   "aZh": "n. 地區；區域",
+   "bZh": "n. 區域；地帶",
+   "diff": "region 是較大的地理區域，常用於地圖或介紹；zone 是有界線或特定用途的區域。",
+   "points": [
+    "範圍：region 較大；zone 較小、界線明確",
+    "搭配：mountain region 山區；school zone 學校區域",
+    "使用情境：zone 常用於分區規定，如 time zone 時區"
+   ],
+   "tip": "region 是一大片地區，zone 是劃出來的區域。",
+   "exA": {
+    "en": "This mountain region is famous for its tea.",
+    "zh": "這個山區以茶葉聞名。"
+   },
+   "exB": {
+    "en": "Drivers must slow down when they enter a school zone.",
+    "zh": "駕駛進入學校區域時必須減速。"
+   }
+  },
+  {
+   "a": "area",
+   "b": "zone",
+   "kind": "semantic",
+   "score": 0.782,
+   "aZh": "n. 地區；區域；範圍",
+   "bZh": "n. 區域；地帶",
+   "diff": "area 泛指一塊地方或範圍，不一定有明確界線；zone 是有界線或特定用途的區域。",
+   "points": [
+    "界線：area 不一定有界線；zone 通常有界線",
+    "搭配：a large area 大面積；a danger zone 危險區域",
+    "詞性：zone 也可當 v. 劃分區域"
+   ],
+   "tip": "area 是一塊地方，zone 是劃分出來的區域。",
+   "exA": {
+    "en": "This area of the park is good for picnics.",
+    "zh": "公園的這一區很適合野餐。"
+   },
+   "exB": {
+    "en": "This area is a quiet zone near the school library.",
+    "zh": "這個區域是學校圖書館附近的安靜區。"
+   }
+  },
+  {
+   "a": "youngster",
+   "b": "youth",
+   "kind": "semantic",
+   "score": 0.702,
+   "aZh": "n. 年輕人；小孩",
+   "bZh": "n. 青春；青年；年輕人",
+   "diff": "youngster 指年輕人或小孩，語氣親切；youth 可指青年時期，也可指年輕人，語氣較正式。",
+   "points": [
+    "意思：youth 也可指青春時期；youngster 只指人",
+    "語氣：youth 較正式；youngster 較親切",
+    "搭配：local youngsters 當地年輕人；today's youth 現今的年輕人"
+   ],
+   "tip": "youngster 指一個個年輕人，youth 也可指青春時期。",
+   "exA": {
+    "en": "Every youngster in the village enjoys playing soccer on the field.",
+    "zh": "村裡的每個年輕人都喜歡在球場上踢足球。"
+   },
+   "exB": {
+    "en": "Youth is the best time to learn new things.",
+    "zh": "青春時期是學習新事物的最好時機。"
+   }
+  },
+  {
+   "a": "weekday",
+   "b": "weekly",
+   "kind": "visual",
+   "score": 0.654,
+   "aZh": "n. 平日；週間",
+   "bZh": "adj. 每週的；adv. 每週；n. 週刊",
+   "diff": "weekday 是名詞，指週一到週五；weekly 是形容詞或副詞，指每週一次。兩字都由 week 組成。",
+   "points": [
+    "詞性：weekday 是 n.；weekly 主要是 adj. 或 adv.",
+    "意思：weekday 是哪幾天；weekly 是多常發生",
+    "搭配：on weekdays 在平日；a weekly report 每週報告"
+   ],
+   "tip": "day 是哪一天，ly 是多常發生。",
+   "exA": {
+    "en": "We have English class every weekday morning at eight.",
+    "zh": "我們每個平日早上八點上英文課。"
+   },
+   "exB": {
+    "en": "Jenny writes a weekly report about the science club.",
+    "zh": "Jenny 每週都會寫一份科學社的報告。"
+   }
+  },
+  {
+   "a": "early",
+   "b": "yearly",
+   "kind": "visual",
+   "score": 0.76,
+   "aZh": "adj. 早的；提早的",
+   "bZh": "adj. 每年的；adv. 每年",
+   "diff": "early 是早的，yearly 是每年的。兩字拼法只差開頭的 y，但意思完全不同。",
+   "points": [
+    "拼字：yearly 比 early 多一個 y",
+    "發音：early /ˈɜːrli/；yearly /ˈjɪrli/",
+    "詞性：兩字都可當 adj. 和 adv."
+   ],
+   "tip": "yearly 的 year 是年，early 的 ear 沒有 y。",
+   "exA": {
+    "en": "The early train arrives at seven every morning.",
+    "zh": "這班早班火車每天早上七點抵達。"
+   },
+   "exB": {
+    "en": "The company checks all its machines yearly to keep workers safe.",
+    "zh": "公司每年檢查所有機器，以確保工人的安全。"
+   }
+  },
+  {
+   "a": "knowledge",
+   "b": "wisdom",
+   "kind": "semantic",
+   "score": 0.457,
+   "aZh": "n. 知識；學問",
+   "bZh": "n. 智慧；明智",
+   "diff": "knowledge 是知道的資訊或學問；wisdom 是根據經驗做出成熟判斷的能力。",
+   "points": [
+    "重點：knowledge 是知道什麼；wisdom 是怎麼判斷",
+    "來源：knowledge 可從書本得到；wisdom 多靠經驗",
+    "搭配：gain knowledge 獲得知識；share wisdom 分享智慧"
+   ],
+   "tip": "knowledge 是知道，wisdom 是懂得怎麼用。",
+   "exA": {
+    "en": "Reading books helps you gain knowledge about the world.",
+    "zh": "閱讀能幫助你獲得對世界的知識。"
+   },
+   "exB": {
+    "en": "It takes time and experience to gain real wisdom in life.",
+    "zh": "要獲得真正的人生智慧，需要時間和經驗。"
+   }
+  },
+  {
+   "a": "scream",
+   "b": "yell",
+   "kind": "semantic",
+   "score": 0.682,
+   "aZh": "v. 尖叫；n. 尖叫聲",
+   "bZh": "v. 大喊；吼叫",
+   "diff": "scream 是尖銳的叫聲，多因恐懼、疼痛或興奮；yell 是大聲喊，常帶生氣或急迫的語氣。",
+   "points": [
+    "原因：scream 多因恐懼或疼痛；yell 多因生氣或急迫",
+    "聲音：scream 尖銳；yell 響亮",
+    "搭配：scream in pain 痛得尖叫；yell for help 大聲求助"
+   ],
+   "tip": "scream 是尖叫，yell 是大聲喊。",
+   "exA": {
+    "en": "Some people scream when they see a big spider.",
+    "zh": "有些人看到大蜘蛛時會尖叫。"
+   },
+   "exB": {
+    "en": "Do not yell in the hallway because other classes are studying.",
+    "zh": "不要在走廊大吼，因為其他班級正在上課。"
+   }
+  },
+  {
+   "a": "hum",
+   "b": "whistle",
+   "kind": "semantic",
+   "score": 0.421,
+   "aZh": "v. 哼唱；發出嗡嗡聲",
+   "bZh": "v. 吹口哨；發出哨聲",
+   "diff": "hum 是閉著嘴哼出曲調，聲音較低；whistle 是嘴唇縮起來吹出高音，也可指哨子。",
+   "points": [
+    "發聲方式：hum 閉嘴哼；whistle 縮唇吹",
+    "聲音：hum 較低；whistle 較尖",
+    "詞性：whistle 也可當 n. 指哨子"
+   ],
+   "tip": "hum 是低聲哼，whistle 是吹出高音。",
+   "exA": {
+    "en": "Dad likes to hum a song while he cooks dinner.",
+    "zh": "爸爸喜歡一邊煮晚餐一邊哼歌。"
+   },
+   "exB": {
+    "en": "Do not whistle in the library because others are reading.",
+    "zh": "不要在圖書館吹口哨，因為別人正在看書。"
+   }
   }
  ]
 }
