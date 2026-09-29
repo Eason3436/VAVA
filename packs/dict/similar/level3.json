@@ -1,0 +1,1698 @@
+{
+ "version": 1,
+ "pairs": [
+  {
+   "a": "aboard",
+   "b": "abroad",
+   "kind": "visual",
+   "score": 0.578,
+   "aZh": "prep./adv. 在船上；在飛機上",
+   "bZh": "adv. 在國外；到國外",
+   "diff": "aboard 是在交通工具上；abroad 是在國外。兩個字只差 o 和 r 的位置。",
+   "points": [
+    "拼字：ab-oard 裡有 board（船板），ab-road 裡有 road（路）",
+    "用法：aboard 後面可以直接接交通工具；abroad 是副詞，後面不接名詞",
+    "搭配：go aboard 上船或上機，go abroad 出國"
+   ],
+   "tip": "aboard 藏著 board（登機 boarding）；abroad 藏著 road，走上遠方的路就出國了。",
+   "exA": {
+    "en": "Everyone must be aboard the ship by six o'clock.",
+    "zh": "所有人六點前都必須上船。"
+   },
+   "exB": {
+    "en": "My sister plans to study abroad after high school.",
+    "zh": "我姊姊打算高中畢業後出國留學。"
+   }
+  },
+  {
+   "a": "accurate",
+   "b": "exact",
+   "kind": "semantic",
+   "score": 0.565,
+   "aZh": "adj. 準確的；正確無誤的",
+   "bZh": "adj. 確切的；精確的",
+   "diff": "accurate 指資訊或結果符合事實、沒有錯誤；exact 指完全精確、分毫不差，強調數字或細節完全吻合。",
+   "points": [
+    "語意：accurate 看有沒有符合事實；exact 看有沒有分毫不差",
+    "搭配：accurate information、accurate description；exact time、exact amount",
+    "副詞：exactly 可以修飾數字和時間，accurately 多修飾動作，例如 measure accurately"
+   ],
+   "tip": "問「符合事實嗎」用 accurate；問「分毫不差嗎」用 exact。",
+   "exA": {
+    "en": "The news report was accurate, so everyone trusted it.",
+    "zh": "這則新聞報導很正確，所以大家都相信它。"
+   },
+   "exB": {
+    "en": "Please tell me the exact time of the meeting.",
+    "zh": "請告訴我開會的確切時間。"
+   }
+  },
+  {
+   "a": "accurate",
+   "b": "precise",
+   "kind": "semantic",
+   "score": 0.667,
+   "aZh": "adj. 準確的；正確無誤的",
+   "bZh": "adj. 精確的；準確的",
+   "diff": "accurate 重在結果對不對，符合事實；precise 重在細到什麼程度，常用在測量、時間和說明。",
+   "points": [
+    "語意：accurate 看對不對；precise 看有多細",
+    "搭配：accurate report、accurate information；precise measurement、precise instructions",
+    "差別：數字寫得很細但量錯了，是 precise 卻不 accurate"
+   ],
+   "tip": "Accurate 是「對」，靠近真相；Precise 是「細」，小數點很多位。",
+   "exA": {
+    "en": "The map is accurate, so we never got lost.",
+    "zh": "這張地圖很準確，所以我們從沒迷路。"
+   },
+   "exB": {
+    "en": "The teacher gave us precise instructions for the science experiment.",
+    "zh": "老師給了我們科學實驗的精確指示。"
+   }
+  },
+  {
+   "a": "ache",
+   "b": "pain",
+   "kind": "semantic",
+   "score": 0.688,
+   "aZh": "v./n. 疼痛；痛處",
+   "bZh": "n. 疼痛；痛苦",
+   "diff": "ache 指身體某處持續的鈍痛，可以當動詞或名詞；pain 泛指各種疼痛，也可指心裡的痛苦，主要當名詞。",
+   "points": [
+    "詞性：ache 可當 v. 或 n.；pain 主要是 n.",
+    "程度：ache 是隱隱的鈍痛；pain 可以很尖銳強烈",
+    "搭配：a headache、My legs ache；feel pain、in pain",
+    "範圍：pain 也可指精神上的痛苦"
+   ],
+   "tip": "要用動詞就說 My legs ache；要用名詞就說 I feel pain。",
+   "exA": {
+    "en": "My legs still ache after the long hike up the mountain.",
+    "zh": "爬完山的長途健行後，我的腿還在痠痛。"
+   },
+   "exB": {
+    "en": "Tom felt a sharp pain in his leg during the game.",
+    "zh": "比賽時，Tom 的腿感到一陣劇痛。"
+   }
+  },
+  {
+   "a": "ache",
+   "b": "sore",
+   "kind": "semantic",
+   "score": 0.677,
+   "aZh": "v./n. 疼痛；痛處",
+   "bZh": "adj. 疼痛的；痠痛的",
+   "diff": "ache 是動詞或名詞，說明某處在痛；sore 是形容詞，形容某處碰到會痛、發炎或痠痛。",
+   "points": [
+    "詞性：My arm aches. 對 My arm is sore.",
+    "搭配：a sore throat 喉嚨痛；a stomach ache 胃痛",
+    "情境：sore 常用在運動或感冒後的痠痛；ache 常組成 headache、toothache"
+   ],
+   "tip": "sore 是形容詞，前面用 be 或放在名詞前；ache 直接當動詞用。",
+   "exA": {
+    "en": "My legs ache after we climbed the mountain.",
+    "zh": "爬完山後，我的腿很痛。"
+   },
+   "exB": {
+    "en": "Amy has a sore throat, so she cannot sing today.",
+    "zh": "Amy 喉嚨痛，所以今天不能唱歌。"
+   }
+  },
+  {
+   "a": "accomplish",
+   "b": "achieve",
+   "kind": "semantic",
+   "score": 0.797,
+   "aZh": "v. 完成；達成",
+   "bZh": "v. 達成；實現",
+   "diff": "achieve 強調經過努力達到目標或成就；accomplish 強調把一項具體的任務或工作順利做完。",
+   "points": [
+    "受詞：achieve 常接 goal、success、result；accomplish 常接 task、mission、job",
+    "重點：achieve 看達到的成果；accomplish 看事情有沒有做完",
+    "說法：achieve a dream，accomplish a mission"
+   ],
+   "tip": "Achieve 是「達到高度」的目標；Accomplish 是「做完」手上的任務。",
+   "exA": {
+    "en": "It took us three days to accomplish the whole task.",
+    "zh": "我們花了三天才完成整項工作。"
+   },
+   "exB": {
+    "en": "Kevin worked hard to achieve his goal of joining the team.",
+    "zh": "Kevin 努力達成加入球隊的目標。"
+   }
+  },
+  {
+   "a": "achieve",
+   "b": "succeed",
+   "kind": "semantic",
+   "score": 0.792,
+   "aZh": "v. 達成；取得",
+   "bZh": "v. 成功；達成",
+   "diff": "achieve 是及物動詞，直接接目標或成果；succeed 是不及物動詞，常用 succeed in + V-ing 表示成功做到某事。",
+   "points": [
+    "及物與否：achieve a goal；succeed in doing something",
+    "詞性：success 是名詞，successful 是形容詞，succeed 才是動詞",
+    "搭配：achieve success 取得成功；succeed in life 一生有成",
+    "常見錯誤：不說 succeed a goal，要說 achieve a goal"
+   ],
+   "tip": "achieve 後面接目標；succeed 後面接 in + 動作。",
+   "exA": {
+    "en": "Amy worked hard and achieved her dream of studying abroad.",
+    "zh": "Amy 努力用功，實現了出國留學的夢想。"
+   },
+   "exB": {
+    "en": "Amy worked hard and succeeded in studying abroad.",
+    "zh": "Amy 努力用功，成功出國留學。"
+   }
+  },
+  {
+   "a": "advertise",
+   "b": "advise",
+   "kind": "visual",
+   "score": 0.685,
+   "aZh": "v. 做廣告；宣傳",
+   "bZh": "v. 建議；勸告",
+   "diff": "兩個字只差 ert 三個字母。advertise 是替商品或活動做宣傳；advise 是給人建議或勸告。",
+   "points": [
+    "拼字：advertise 多了 -ert-；advise 只有 -vise",
+    "名詞：advertisement 是廣告；advice 是建議，不可數",
+    "用法：advertise + N；advise + 人 + to V",
+    "發音：advertise 重音在第一音節；advise 重音在第二音節"
+   ],
+   "tip": "advertise 字比較長，廣告要放大聲量；advise 字短，是私下給人建議。",
+   "exA": {
+    "en": "The shop advertises its sale on TV every week.",
+    "zh": "這家店每週都在電視上宣傳特價活動。"
+   },
+   "exB": {
+    "en": "The shop owner advised us to come early for the sale.",
+    "zh": "店主建議我們特價時早點來。"
+   }
+  },
+  {
+   "a": "advice",
+   "b": "advise",
+   "kind": "visual",
+   "score": 0.76,
+   "aZh": "n. 建議；忠告",
+   "bZh": "v. 建議；勸告",
+   "diff": "advice 是不可數名詞，指建議的內容；advise 是動詞，指提出建議的動作。兩字只差 c 和 s。",
+   "points": [
+    "詞性：advice 是 n.，advise 是 v.",
+    "可數：advice 不可數，不加 s，要說 a piece of advice",
+    "發音：advice 結尾是 /s/，advise 結尾是 /z/",
+    "搭配：give advice、take someone's advice；advise + 人 + to V"
+   ],
+   "tip": "名詞用 c、動詞用 s：advice 是名詞，advise 是動詞。",
+   "exA": {
+    "en": "Thanks for your advice about choosing a club.",
+    "zh": "謝謝你給我選社團的建議。"
+   },
+   "exB": {
+    "en": "My teacher advised me to join the music club.",
+    "zh": "老師建議我加入音樂社。"
+   }
+  },
+  {
+   "a": "advise",
+   "b": "suggest",
+   "kind": "semantic",
+   "score": 0.685,
+   "aZh": "v. 建議；勸告",
+   "bZh": "v. 建議；提議；暗示",
+   "diff": "advise 後面可以直接接人，用 advise + 人 + to V；suggest 後面不能接人加 to V，要接名詞、V-ing 或 that 子句。",
+   "points": [
+    "句型：advise him to go；suggest going 或 suggest that he go",
+    "受詞：advise 可直接接人；suggest 後面不直接接人再接 to V",
+    "語氣：advise 帶有專業或長輩的勸告；suggest 只是提出想法",
+    "常見錯誤：suggest him to go 是錯的"
+   ],
+   "tip": "advise 對「人」說；suggest 對「事」提。",
+   "exA": {
+    "en": "The doctor advised Tom to drink more water.",
+    "zh": "醫生建議 Tom 多喝水。"
+   },
+   "exB": {
+    "en": "The doctor suggested drinking more water every day.",
+    "zh": "醫生建議每天多喝水。"
+   }
+  },
+  {
+   "a": "advantage",
+   "b": "benefit",
+   "kind": "semantic",
+   "score": 0.746,
+   "aZh": "n. 優勢；有利條件；好處",
+   "bZh": "n. 好處；益處；福利",
+   "diff": "advantage 指比別人更有利的條件或位置；benefit 指從某件事實際得到的益處。",
+   "points": [
+    "語意：advantage 強調勝過別人；benefit 強調得到好處",
+    "搭配：take advantage of 利用；benefit from 從中受益",
+    "詞性：benefit 也可當動詞；advantage 只當名詞",
+    "用法：have an advantage over 勝過；the benefits of 的好處"
+   ],
+   "tip": "advantage 用來比較，贏過別人；benefit 用來得到，自己受益。",
+   "exA": {
+    "en": "Being tall gives Tom an advantage in basketball.",
+    "zh": "個子高讓 Tom 打籃球有優勢。"
+   },
+   "exB": {
+    "en": "Regular exercise has many benefits for your health.",
+    "zh": "規律運動對健康有許多好處。"
+   }
+  },
+  {
+   "a": "advantage",
+   "b": "adventure",
+   "kind": "visual",
+   "score": 0.566,
+   "aZh": "n. 優勢；好處",
+   "bZh": "n. 冒險；奇遇",
+   "diff": "兩個字開頭都是 adv-，長度也接近；advantage 是有利的條件，adventure 是刺激的冒險經歷。",
+   "points": [
+    "拼字：advantage 是 adv-an-tage；adventure 是 adv-en-ture",
+    "發音：advantage 重音在第二音節；adventure 重音也在第二音節，但母音不同",
+    "搭配：take advantage of、go on an adventure"
+   ],
+   "tip": "adventure 裡藏著 venture（冒險），advantage 裡藏著 vantage（有利位置）。",
+   "exA": {
+    "en": "Speaking English well is a big advantage when you travel.",
+    "zh": "英文說得好，旅行時是很大的優勢。"
+   },
+   "exB": {
+    "en": "Our trip to the island was a real adventure.",
+    "zh": "我們的小島之旅真是一場冒險。"
+   }
+  },
+  {
+   "a": "afterward",
+   "b": "later",
+   "kind": "semantic",
+   "score": 0.773,
+   "aZh": "adv. 之後；後來",
+   "bZh": "adv. 稍後；之後",
+   "diff": "afterward 指某件事發生之後接著的時間，前面通常已經提過那件事；later 只是比現在或某個時間點晚一些。",
+   "points": [
+    "搭配：later 可接時間長度，例如 an hour later；afterward 通常不接",
+    "位置：afterward 常放句尾；later 可放句首或句尾",
+    "語意：afterward 承接前面提到的事；later 也可相對於現在，如 See you later."
+   ],
+   "tip": "See you later. 只能用 later；afterward 前面一定要有一件事。",
+   "exA": {
+    "en": "We watched the movie and had ice cream afterward.",
+    "zh": "我們看完電影，之後去吃了冰淇淋。"
+   },
+   "exB": {
+    "en": "We watched the movie, and two hours later we were still talking about it.",
+    "zh": "我們看完電影，兩個小時後還在聊它。"
+   }
+  },
+  {
+   "a": "after",
+   "b": "afterward",
+   "kind": "visual",
+   "score": 0.628,
+   "aZh": "prep./conj. 在……之後",
+   "bZh": "adv. 之後；後來",
+   "diff": "after 是介系詞或連接詞，後面要接名詞或子句；afterward 是副詞，單獨使用，後面不接名詞。",
+   "points": [
+    "詞性：after + N 或子句；afterward 不接受詞",
+    "位置：afterward 常放句尾，或放句首後加逗號",
+    "拼字：afterward 比 after 多了 -ward",
+    "用法：美式多用 afterward，英式常用 afterwards"
+   ],
+   "tip": "after 後面必須接東西；後面沒有東西就用 afterward。",
+   "exA": {
+    "en": "After dinner, we washed all the dishes together in the kitchen.",
+    "zh": "晚餐後，我們一起在廚房把碗洗完。"
+   },
+   "exB": {
+    "en": "We had dinner, and afterward we washed the dishes together.",
+    "zh": "我們吃完晚餐，之後一起洗碗。"
+   }
+  },
+  {
+   "a": "alley",
+   "b": "valley",
+   "kind": "visual",
+   "score": 0.798,
+   "aZh": "n. 小巷；狹窄街道",
+   "bZh": "n. 山谷；谷地",
+   "diff": "alley 是城市裡建築物之間的窄巷；valley 是兩座山之間的低地。valley 比 alley 多一個 v。",
+   "points": [
+    "拼字：valley = v + alley",
+    "地點：alley 在城市裡；valley 在山區",
+    "發音：/ˈæli/ 對 /ˈvæli/，只差開頭的 /v/",
+    "搭配：a dark alley、a deep valley"
+   ],
+   "tip": "valley 比 alley 多一個 v，v 的形狀就像兩座山中間的山谷。",
+   "exA": {
+    "en": "The cat ran into a dark alley behind the market.",
+    "zh": "那隻貓跑進市場後面一條黑暗的小巷。"
+   },
+   "exB": {
+    "en": "We drove through a green valley on the way to the village.",
+    "zh": "我們開車穿過一片綠色山谷，前往那個村莊。"
+   }
+  },
+  {
+   "a": "alley",
+   "b": "ally",
+   "kind": "visual",
+   "score": 0.686,
+   "aZh": "n. 小巷；狹窄街道",
+   "bZh": "n. 盟友；支持者",
+   "diff": "alley 是小巷；ally 是盟友，也可當動詞表示結盟。alley 比 ally 多一個 e。",
+   "points": [
+    "拼字：alley 有 e，ally 沒有 e",
+    "發音：alley 是 /ˈæli/，名詞 ally 是 /ˈælaɪ/",
+    "詞性：ally 可以當 n. 或 v.；alley 只當 n."
+   ],
+   "tip": "ally 的 ly 像 friendly，是朋友；alley 多的 e 像 exit，是巷子的出口。",
+   "exA": {
+    "en": "Amy walked through a narrow alley on her way home.",
+    "zh": "Amy 回家的路上穿過一條狹窄的小巷。"
+   },
+   "exB": {
+    "en": "The two small countries have been close allies for many years.",
+    "zh": "這兩個小國多年來一直是親密的盟友。"
+   }
+  },
+  {
+   "a": "amaze",
+   "b": "surprise",
+   "kind": "semantic",
+   "score": 0.694,
+   "aZh": "v. 使驚奇；使驚訝",
+   "bZh": "v. 使驚訝；使意外",
+   "diff": "amaze 是事情令人驚嘆、佩服，多半帶正面感受；surprise 只是事情出乎意料，可好可壞，程度也較輕。",
+   "points": [
+    "語意：amaze 帶讚嘆；surprise 只表示意外",
+    "感受：amazed 是「驚嘆的」；surprised 是「吃驚的」",
+    "名詞：amazement 驚嘆；surprise 可指驚喜或意外",
+    "搭配：amazing view；a surprise party"
+   ],
+   "tip": "amaze 裡有 maze（迷宮），像走進迷宮般讓人目瞪口呆。",
+   "exA": {
+    "en": "The magic show amazed all the children in the room.",
+    "zh": "這場魔術表演讓房間裡所有的孩子都驚嘆不已。"
+   },
+   "exB": {
+    "en": "The sudden rain surprised all the children in the park.",
+    "zh": "突如其來的雨讓公園裡所有的孩子都嚇了一跳。"
+   }
+  },
+  {
+   "a": "amaze",
+   "b": "amuse",
+   "kind": "visual",
+   "score": 0.408,
+   "aZh": "v. 使驚奇；使驚訝",
+   "bZh": "v. 逗樂；使覺得好笑",
+   "diff": "兩字只差中間兩個字母。amaze 是讓人驚訝佩服；amuse 是讓人開心、覺得有趣。",
+   "points": [
+    "拼字：amaze 結尾是 -aze；amuse 結尾是 -use",
+    "意思：amaze 驚訝；amuse 逗樂",
+    "形容詞：amazed / amazing；amused / amusing",
+    "搭配：be amazed at；be amused by"
+   ],
+   "tip": "amuse 裡有 muse（繆思，帶來樂趣），amaze 裡有 maze（迷宮，讓人愣住）。",
+   "exA": {
+    "en": "The tall building amazed the visitors from the countryside.",
+    "zh": "這棟高樓讓從鄉下來的遊客大為驚嘆。"
+   },
+   "exB": {
+    "en": "The funny story amused the visitors from the countryside.",
+    "zh": "這個有趣的故事逗樂了從鄉下來的遊客。"
+   }
+  },
+  {
+   "a": "angel",
+   "b": "angle",
+   "kind": "visual",
+   "score": 0.659,
+   "aZh": "n. 天使",
+   "bZh": "n. 角度；角",
+   "diff": "兩字用到的字母完全一樣，只是 e 和 l 的位置對調。angel 是天使，angle 是角度。",
+   "points": [
+    "拼字：angel 是 ang-el；angle 是 ang-le",
+    "發音：angel /ˈeɪndʒəl/，angle /ˈæŋgəl/",
+    "意思：angel 是天使；angle 是角度，也可指看事情的角度",
+    "搭配：guardian angel；a right angle"
+   ],
+   "tip": "angle 藏在 triangle（三角形）裡，就是角度；angel 則是天使。",
+   "exA": {
+    "en": "The painting shows an angel standing above the clouds.",
+    "zh": "這幅畫畫著一位站在雲上的天使。"
+   },
+   "exB": {
+    "en": "The photo looks much better from this angle.",
+    "zh": "從這個角度看，這張照片好看多了。"
+   }
+  },
+  {
+   "a": "angel",
+   "b": "anger",
+   "kind": "visual",
+   "score": 0.701,
+   "aZh": "n. 天使",
+   "bZh": "n. 憤怒；怒氣",
+   "diff": "angel 是天使，anger 是憤怒。兩字開頭都是 ang-，只差後面 el 和 er。",
+   "points": [
+    "拼字：ang-el 對 ang-er",
+    "發音：angel 是 /ˈeɪndʒəl/，anger 是 /ˈæŋgɚ/，g 的音也不同",
+    "詞性：anger 也可當動詞，表示使生氣",
+    "形容詞：angelic 天使般的；angry 生氣的"
+   ],
+   "tip": "anger 和 angry 同一家，都有 r；angel 是另一家。",
+   "exA": {
+    "en": "The little girl dressed up as an angel for the party.",
+    "zh": "小女孩打扮成天使去參加派對。"
+   },
+   "exB": {
+    "en": "He tried to hide his anger during the meeting.",
+    "zh": "他在會議中努力隱藏自己的怒氣。"
+   }
+  },
+  {
+   "a": "announce",
+   "b": "declare",
+   "kind": "semantic",
+   "score": 0.826,
+   "aZh": "v. 宣布；宣告",
+   "bZh": "v. 宣布；宣告；申報",
+   "diff": "announce 是把消息公開告訴大家，重點在傳達；declare 是正式、明確地宣告立場、決定或狀態，語氣更強。",
+   "points": [
+    "語氣：declare 更正式，常有法律或權威的意味",
+    "搭配：announce the results；declare war、declare independence",
+    "另義：declare 也可指向海關申報物品",
+    "句型：兩者都可接 that 子句"
+   ],
+   "tip": "announce 是「報告」消息；declare 是「宣告」決定，帶有正式效力。",
+   "exA": {
+    "en": "The school announced the winners of the speech contest.",
+    "zh": "學校公布了演講比賽的得獎者。"
+   },
+   "exB": {
+    "en": "The judges declared Amy the winner of the speech contest.",
+    "zh": "評審宣布 Amy 是演講比賽的優勝者。"
+   }
+  },
+  {
+   "a": "announce",
+   "b": "pronounce",
+   "kind": "both",
+   "score": 0.79,
+   "aZh": "v. 宣布；宣告",
+   "bZh": "v. 發音；讀出；宣告",
+   "diff": "兩字後半都是 nounce，但 announce 是把消息公開宣布；pronounce 主要是把字的音發出來。",
+   "points": [
+    "意思：announce 宣布；pronounce 發音",
+    "名詞：announcement 是宣布；pronunciation 是發音",
+    "拼字：pronunciation 比 pronounce 少了一個 o",
+    "另義：pronounce 也可表示正式宣告，如 pronounce someone guilty"
+   ],
+   "tip": "pronounce 的名詞 pronunciation 要少掉一個 o，announce 的名詞則保留 o。",
+   "exA": {
+    "en": "The teacher announced the results of the contest.",
+    "zh": "老師宣布了比賽的結果。"
+   },
+   "exB": {
+    "en": "The teacher taught us how to pronounce the new words.",
+    "zh": "老師教我們怎麼念這些新單字。"
+   }
+  },
+  {
+   "a": "anxious",
+   "b": "nervous",
+   "kind": "semantic",
+   "score": 0.687,
+   "aZh": "adj. 焦慮的；擔心的",
+   "bZh": "adj. 緊張的；焦慮的",
+   "diff": "anxious 是對未來或結果一直放心不下，也可表示急著想做某事；nervous 是當下的緊張，像上台或考試前的心情。",
+   "points": [
+    "時間：anxious 多為持續的擔憂；nervous 多為當下的緊張",
+    "搭配：anxious about the results；nervous before a speech",
+    "另義：anxious to + V 表示急著想做；nervous 沒有這個意思",
+    "名詞：anxiety 焦慮；nervousness 緊張"
+   ],
+   "tip": "nervous 是身體先緊張，手會發抖；anxious 是心裡放不下。",
+   "exA": {
+    "en": "Amy felt anxious about her exam results all week.",
+    "zh": "Amy 整個星期都在擔心考試成績。"
+   },
+   "exB": {
+    "en": "Amy felt nervous just before she walked on the stage.",
+    "zh": "Amy 走上舞臺前一刻感到很緊張。"
+   }
+  },
+  {
+   "a": "anxious",
+   "b": "eager",
+   "kind": "semantic",
+   "score": 0.676,
+   "aZh": "adj. 渴望的；急切的",
+   "bZh": "adj. 渴望的；熱切的",
+   "diff": "兩字都能接 to V 表示很想做某事，但 anxious 帶著擔心或不安，eager 是單純的期待與興奮。",
+   "points": [
+    "語氣：anxious 帶擔心；eager 是正面期待",
+    "句型：be anxious to V；be eager to V",
+    "搭配：anxious about 擔心；eager for 渴望",
+    "誤用：形容很期待旅行要用 eager，用 anxious 會像是在擔心"
+   ],
+   "tip": "anxious 有 anx，像 anxiety 焦慮；eager 是單純期待的心情。",
+   "exA": {
+    "en": "The students were anxious to hear their test scores.",
+    "zh": "學生們急著想知道自己的考試分數。"
+   },
+   "exB": {
+    "en": "The students were eager to start the school trip.",
+    "zh": "學生們迫不及待想開始校外旅行。"
+   }
+  },
+  {
+   "a": "anyhow",
+   "b": "anyway",
+   "kind": "semantic",
+   "score": 1.0,
+   "aZh": "adv. 無論如何；反正",
+   "bZh": "adv. 不管怎樣；反正；況且",
+   "diff": "兩字意思接近，anyway 更常見，也用來轉換話題；anyhow 較口語，還可以表示隨便、草率地。",
+   "points": [
+    "常用度：anyway 遠比 anyhow 常見，考試與作文優先用 anyway",
+    "語氣：anyhow 更口語，帶隨便的感覺",
+    "用法：兩者都可放句首或句尾，表示「反正、無論如何」",
+    "另義：anyhow 也可指隨隨便便地，anyway 沒有這個意思"
+   ],
+   "tip": "作文優先用 anyway；讀到 anyhow 知道意思相同就好。",
+   "exA": {
+    "en": "It was raining, but we went to the market anyhow.",
+    "zh": "下著雨，但我們還是去了市場。"
+   },
+   "exB": {
+    "en": "It was raining, but we went to the market anyway.",
+    "zh": "下著雨，但我們還是去了市場。"
+   }
+  },
+  {
+   "a": "apart",
+   "b": "part",
+   "kind": "visual",
+   "score": 0.748,
+   "aZh": "adv. 分開；相隔",
+   "bZh": "n. 部分；v. 分開",
+   "diff": "apart 是副詞，表示分開、相隔；part 是名詞，表示部分，也可當動詞表示分開。分寫成 a part 時是「一個部分」。",
+   "points": [
+    "詞性：apart 是 adv.；part 是 n. 或 v.",
+    "拼字：apart 連寫是「分開」；a part 分寫是「一個部分」",
+    "搭配：fall apart 散開；take part in 參加；a part of 一部分",
+    "句型：apart from + N 表示「除了……之外」"
+   ],
+   "tip": "apart 連寫是把東西拉開；a part 分寫是整體中的一塊。",
+   "exA": {
+    "en": "The two schools are only ten kilometers apart from each other.",
+    "zh": "這兩所學校彼此只相距十公里。"
+   },
+   "exB": {
+    "en": "This is the best part of the whole movie.",
+    "zh": "這是整部電影最好看的部分。"
+   }
+  },
+  {
+   "a": "appeal",
+   "b": "appear",
+   "kind": "visual",
+   "score": 0.735,
+   "aZh": "v. 吸引；呼籲",
+   "bZh": "v. 出現；似乎",
+   "diff": "appeal 是吸引人或向人呼籲；appear 是出現，或表示「看起來」。兩字只差 l 和 r。",
+   "points": [
+    "拼字：appeal 結尾 -eal；appear 結尾 -ear",
+    "搭配：appeal to 吸引或呼籲；appear to be 似乎是",
+    "發音：appeal /əˈpiːl/，appear /əˈpɪr/",
+    "名詞：appearance 是外表或出現；appeal 也可當名詞表示吸引力"
+   ],
+   "tip": "appeal 有 peal（鐘聲響起，呼喚人）；appear 有 ear 的 ar 結尾，像是「出現在眼前」。",
+   "exA": {
+    "en": "Cartoons appeal to children all over the world.",
+    "zh": "卡通吸引全世界的孩子。"
+   },
+   "exB": {
+    "en": "A rainbow appeared in the sky after the rain.",
+    "zh": "雨後天空出現了一道彩虹。"
+   }
+  },
+  {
+   "a": "appeal",
+   "b": "attract",
+   "kind": "semantic",
+   "score": 0.59,
+   "aZh": "v. 吸引；引起興趣",
+   "bZh": "v. 吸引；引起",
+   "diff": "appeal 是不及物動詞，要說 appeal to + 人，表示對某人有吸引力；attract 是及物動詞，直接接被吸引的人或事物。",
+   "points": [
+    "及物與否：appeal to me；attract me",
+    "主詞：appeal 的主詞是使人喜歡的東西；attract 的主詞是吸引別人的力量",
+    "搭配：attract attention、attract visitors",
+    "另義：appeal 還可指呼籲、上訴"
+   ],
+   "tip": "appeal 後面一定要加 to；attract 後面直接接受詞。",
+   "exA": {
+    "en": "Cooking shows on TV appeal to many teenagers after school.",
+    "zh": "電視上的烹飪節目在放學後吸引許多青少年。"
+   },
+   "exB": {
+    "en": "Cooking shows on TV attract many teenagers after school.",
+    "zh": "電視上的烹飪節目在放學後吸引許多青少年。"
+   }
+  },
+  {
+   "a": "approve",
+   "b": "prove",
+   "kind": "visual",
+   "score": 0.745,
+   "aZh": "v. 贊成；核准",
+   "bZh": "v. 證明；證實",
+   "diff": "approve 是贊成或核准，prove 是證明。approve 只比 prove 多了 ap- 兩個字母，但意思完全不同。",
+   "points": [
+    "拼字：approve = ap + prove",
+    "搭配：approve of + N；prove that + 子句",
+    "變化：prove 的過去分詞是 proved 或 proven",
+    "名詞：approval 贊成；proof 證據"
+   ],
+   "tip": "approve 的 ap 像 applause（掌聲），拍手表示贊成；prove 是拿出證據證明。",
+   "exA": {
+    "en": "My parents approve of my plan to join the club.",
+    "zh": "我的父母贊成我加入社團的計畫。"
+   },
+   "exB": {
+    "en": "The results prove that the plan works well.",
+    "zh": "這些結果證明這個計畫很有效。"
+   }
+  },
+  {
+   "a": "assist",
+   "b": "help",
+   "kind": "semantic",
+   "score": 0.85,
+   "aZh": "v. 協助；幫忙",
+   "bZh": "v. 幫助；協助",
+   "diff": "help 最口語、用法最廣；assist 較正式，多用在工作、計畫或任務中協助主要負責的人。",
+   "points": [
+    "語氣：assist 較正式；help 日常都能用",
+    "句型：assist + 人 + with + N；help + 人 + (to) V",
+    "主從：assist 暗示有人主導，協助的人居次",
+    "常見錯誤：assist 後面不能直接接原形動詞，help 可以"
+   ],
+   "tip": "日常說 help，寫正式文章或介紹職務時才用 assist。",
+   "exA": {
+    "en": "Several volunteers assist visitors at the museum every weekend.",
+    "zh": "幾位志工每個週末都在博物館協助參觀民眾。"
+   },
+   "exB": {
+    "en": "My brother often helps visitors find their way at the museum.",
+    "zh": "我哥哥常常在博物館幫遊客找路。"
+   }
+  },
+  {
+   "a": "assistance",
+   "b": "assistant",
+   "kind": "visual",
+   "score": 0.822,
+   "aZh": "n. 協助；幫忙",
+   "bZh": "n. 助理；助手",
+   "diff": "assistance 是「協助」這件事，不可數；assistant 是「助理」這個人，可數。兩字只差結尾 -ce 和 -t。",
+   "points": [
+    "詞性：兩個都是 n.，但 assistance 是事，assistant 是人",
+    "可數：assistance 不可數；assistant 可數",
+    "搭配：give assistance、financial assistance；a teaching assistant",
+    "拼字：-ance 常見於抽象名詞；-ant 常見於表示人的名詞"
+   ],
+   "tip": "assistant 結尾的 t 像站著的人；assistance 結尾的 ce 是抽象的事。",
+   "exA": {
+    "en": "The old man needed some assistance crossing the street.",
+    "zh": "那位老先生需要有人協助他過馬路。"
+   },
+   "exB": {
+    "en": "The assistant helped the old man cross the street.",
+    "zh": "助理協助那位老先生過馬路。"
+   }
+  },
+  {
+   "a": "assume",
+   "b": "assure",
+   "kind": "visual",
+   "score": 0.702,
+   "aZh": "v. 假定；以為",
+   "bZh": "v. 向……保證；使安心",
+   "diff": "assume 是自己認為或假定；assure 是對別人說「放心，一定沒問題」，重點是給對方保證。",
+   "points": [
+    "對象：assume 不需要對象；assure 後面常接人",
+    "句型：assume that + 子句；assure + 人 + that + 子句",
+    "名詞：assumption 假設；assurance 保證",
+    "拼字：assume 結尾 -ume；assure 結尾 -ure"
+   ],
+   "tip": "assure 裡有 sure（確定），是對人保證；assume 沒有 sure，只是自己猜。",
+   "exA": {
+    "en": "I assume that the museum is open on Sunday.",
+    "zh": "我以為博物館星期天有開。"
+   },
+   "exB": {
+    "en": "The guide assured us that the museum is open on Sunday.",
+    "zh": "導遊向我們保證博物館星期天有開。"
+   }
+  },
+  {
+   "a": "assume",
+   "b": "suppose",
+   "kind": "semantic",
+   "score": 0.586,
+   "aZh": "v. 假定；以為",
+   "bZh": "v. 認為；猜想；假設",
+   "diff": "兩字都能表示「認為、以為」；assume 是沒有證據就先當作成立，suppose 語氣較不確定，常用來猜想或提出假設。",
+   "points": [
+    "確定度：assume 較篤定；suppose 較不確定",
+    "用法：I suppose so. 是常見口語；assume 較少這樣單獨使用",
+    "句型：Suppose that ... 可放句首，表示假設",
+    "另義：assume 可指承擔責任，suppose 沒有這個意思"
+   ],
+   "tip": "assume 是先當作真的；suppose 是猜猜看。",
+   "exA": {
+    "en": "Many people assume that the shop is open every day.",
+    "zh": "許多人以為那家店每天都營業。"
+   },
+   "exB": {
+    "en": "I suppose that the shop is closed on Monday.",
+    "zh": "我猜那家店星期一休息。"
+   }
+  },
+  {
+   "a": "altitude",
+   "b": "attitude",
+   "kind": "visual",
+   "score": 0.759,
+   "aZh": "n. 海拔；高度",
+   "bZh": "n. 態度；看法",
+   "diff": "兩個字都以 -titude 結尾，只差前面的 lti 和 tti。altitude 是山或飛機所在的高度；attitude 是心裡的態度。",
+   "points": [
+    "拼字：al-ti-tude 對 at-ti-tude",
+    "字根：alt 表示「高」",
+    "搭配：high altitude；a positive attitude",
+    "發音：altitude /ˈæltəˌtud/，attitude /ˈætəˌtud/"
+   ],
+   "tip": "altitude 的 alt 是「高」；態度和高度別搞混，看到 alt 就想到高。",
+   "exA": {
+    "en": "The plane flew at a very high altitude over the mountains.",
+    "zh": "飛機在山的上空以很高的高度飛行。"
+   },
+   "exB": {
+    "en": "A good attitude matters more than test scores in the long run.",
+    "zh": "長遠來看，好的態度比考試分數更重要。"
+   }
+  },
+  {
+   "a": "attack",
+   "b": "attract",
+   "kind": "visual",
+   "score": 0.613,
+   "aZh": "n./v. 攻擊；襲擊",
+   "bZh": "v. 吸引；引起",
+   "diff": "兩個字都是 att- 開頭，attack 是攻擊，attract 是吸引。差別在後面的 ck 和 ract。",
+   "points": [
+    "拼字：atta-ck 對 att-ract",
+    "發音：attack /əˈtæk/，attract /əˈtrækt/",
+    "搭配：attack the enemy；attract attention",
+    "名詞：attack 本身可當名詞；attract 的名詞是 attraction"
+   ],
+   "tip": "attract 裡有 tract（拉），拉過來就是吸引；attack 的 ck 像 kick，踢過去就是攻擊。",
+   "exA": {
+    "en": "The team attacked quickly and scored in the first minute.",
+    "zh": "球隊快速進攻，第一分鐘就得分了。"
+   },
+   "exB": {
+    "en": "The team's colorful shirts attracted a lot of attention.",
+    "zh": "球隊色彩鮮豔的球衣吸引了很多注意。"
+   }
+  },
+  {
+   "a": "attraction",
+   "b": "attractive",
+   "kind": "visual",
+   "score": 0.74,
+   "aZh": "n. 吸引力；景點",
+   "bZh": "adj. 吸引人的；迷人的",
+   "diff": "attraction 是名詞，指吸引力或有吸引力的景點；attractive 是形容詞，用來形容吸引人的人或事物。",
+   "points": [
+    "詞性：attraction 是 n.；attractive 是 adj.",
+    "搭配：a tourist attraction；an attractive design",
+    "可數：attraction 表示景點時可數",
+    "字尾：-ion 是名詞字尾；-ive 是形容詞字尾"
+   ],
+   "tip": "-ive 結尾是形容詞（像 active）；-ion 結尾是名詞（像 action）。",
+   "exA": {
+    "en": "The old temple is a popular tourist attraction.",
+    "zh": "這座古廟是很受歡迎的觀光景點。"
+   },
+   "exB": {
+    "en": "The old temple is attractive to many visitors.",
+    "zh": "這座古廟對許多遊客很有吸引力。"
+   }
+  },
+  {
+   "a": "audience",
+   "b": "spectator",
+   "kind": "semantic",
+   "score": 0.619,
+   "aZh": "n. 觀眾；聽眾；讀者",
+   "bZh": "n. 觀眾；旁觀者",
+   "diff": "audience 指聽演講、看表演或讀作品的一群人；spectator 指在現場看比賽或活動的人，可以是單獨一個人。",
+   "points": [
+    "範圍：audience 也可指聽眾、讀者；spectator 只指現場旁觀的人",
+    "數量：audience 是整體；spectator 可以只有一個人",
+    "搭配：a large audience；spectators at a game",
+    "情境：音樂會、演講用 audience；運動賽事常用 spectator"
+   ],
+   "tip": "audience 有 aud（聽，像 audio）；spectator 有 spect（看，像 inspect）。",
+   "exA": {
+    "en": "The audience clapped loudly after the school concert.",
+    "zh": "學校音樂會結束後，觀眾熱烈鼓掌。"
+   },
+   "exB": {
+    "en": "Thousands of spectators watched the final game at the stadium.",
+    "zh": "數千名觀眾在體育場觀看決賽。"
+   }
+  },
+  {
+   "a": "avenue",
+   "b": "venue",
+   "kind": "visual",
+   "score": 0.76,
+   "aZh": "n. 大街；途徑",
+   "bZh": "n. 活動場地；舉辦地點",
+   "diff": "avenue 是大街，也可比喻做事的途徑；venue 是舉辦活動的地點。avenue 比 venue 多了開頭的 a。",
+   "points": [
+    "拼字：a + venue = avenue",
+    "意思：avenue 是街道或方法；venue 是場地",
+    "搭配：the main avenue；a concert venue",
+    "發音：avenue /ˈævəˌnu/，venue /ˈvɛnju/"
+   ],
+   "tip": "avenue 開頭多一個 a，像 a way（一條路）；venue 是舉辦活動的場地。",
+   "exA": {
+    "en": "The parade marched slowly down the main avenue of the city.",
+    "zh": "遊行隊伍緩緩走過城市的主要大街。"
+   },
+   "exB": {
+    "en": "The school hall will be the venue for the speech contest.",
+    "zh": "學校禮堂將是演講比賽的場地。"
+   }
+  },
+  {
+   "a": "awake",
+   "b": "wake",
+   "kind": "semantic",
+   "score": 0.855,
+   "aZh": "adj. 醒著的；v. 醒來",
+   "bZh": "v. 醒來；叫醒",
+   "diff": "awake 主要是形容詞，表示「醒著」的狀態；wake 是動詞，表示醒來或叫醒別人，常和 up 連用。",
+   "points": [
+    "詞性：be awake（形容詞）；wake up（動詞片語）",
+    "變化：wake、woke、woken；awake 當動詞時是 awoke、awoken",
+    "搭配：stay awake 保持清醒；wake someone up 叫醒某人",
+    "常見錯誤：I am wake. 是錯的，要說 I am awake."
+   ],
+   "tip": "awake 開頭多了 a-，表示處在「醒著」的狀態；wake 是醒來的動作。",
+   "exA": {
+    "en": "I was still awake at midnight because of the noise.",
+    "zh": "因為吵鬧聲，我到半夜還醒著。"
+   },
+   "exB": {
+    "en": "My mother wakes me up at six every morning.",
+    "zh": "我媽媽每天早上六點叫我起床。"
+   }
+  },
+  {
+   "a": "awake",
+   "b": "aware",
+   "kind": "visual",
+   "score": 0.659,
+   "aZh": "adj. 醒著的",
+   "bZh": "adj. 知道的；察覺的",
+   "diff": "awake 是沒有睡著；aware 是知道或察覺到某件事。兩字只差第四個字母，k 和 r。",
+   "points": [
+    "拼字：awa-ke 對 awa-re",
+    "搭配：stay awake；be aware of",
+    "詞性：兩者都是 adj.，都常放在 be 動詞後面",
+    "發音：awake /əˈweɪk/，aware /əˈwɛr/"
+   ],
+   "tip": "awake 裡有 wake（醒來），跟睡覺有關；aware 後面常接 of，表示察覺到。",
+   "exA": {
+    "en": "Jenny was awake all night before the big exam.",
+    "zh": "大考前，Jenny 整晚都沒睡。"
+   },
+   "exB": {
+    "en": "Jenny was aware that the exam would be very hard.",
+    "zh": "Jenny 知道這次考試會很難。"
+   }
+  },
+  {
+   "a": "awake",
+   "b": "awaken",
+   "kind": "visual",
+   "score": 0.797,
+   "aZh": "adj. 醒著的；v. 醒來",
+   "bZh": "v. 喚醒；使意識到",
+   "diff": "awake 多作形容詞，表示醒著；awaken 是動詞，表示喚醒某人或使人意識到，後面要接受詞。",
+   "points": [
+    "詞性：awake 主要是 adj.；awaken 是 v.",
+    "受詞：awaken 通常接受詞；形容詞 awake 不接受詞",
+    "引申：awaken 可比喻引起，如 awaken interest",
+    "搭配：stay awake 保持清醒；awaken someone to 使某人意識到"
+   ],
+   "tip": "awaken 多了 -en，-en 表示「使成為」，所以是「使醒來」。",
+   "exA": {
+    "en": "I was awake when the phone rang late at night.",
+    "zh": "深夜電話響起時，我還醒著。"
+   },
+   "exB": {
+    "en": "The phone call awakened everyone in the house.",
+    "zh": "那通電話把家裡每個人都吵醒了。"
+   }
+  },
+  {
+   "a": "award",
+   "b": "prize",
+   "kind": "semantic",
+   "score": 0.64,
+   "aZh": "n. 獎；獎項；v. 授予",
+   "bZh": "n. 獎品；獎項",
+   "diff": "award 可指頒發的獎項或頒獎的動作，也可當動詞；prize 指競賽中贏得的獎品或名次，多半是名詞。",
+   "points": [
+    "詞性：award 可當動詞；prize 多當名詞",
+    "情境：prize 常和比賽、抽獎有關；award 常和表揚成就有關",
+    "搭配：first prize；an award ceremony",
+    "動詞搭配：win a prize；receive an award；be awarded a prize"
+   ],
+   "tip": "prize 是贏來的獎品；award 是被頒發的榮譽。",
+   "exA": {
+    "en": "Amy received an award for helping the school library.",
+    "zh": "Amy 因為幫忙學校圖書館而得到獎項。"
+   },
+   "exB": {
+    "en": "Amy won first prize in the speech contest.",
+    "zh": "Amy 在演講比賽中得了第一名。"
+   }
+  },
+  {
+   "a": "award",
+   "b": "reward",
+   "kind": "both",
+   "score": 0.634,
+   "aZh": "n. 獎；獎項；v. 授予",
+   "bZh": "n. 獎賞；報酬；v. 獎勵",
+   "diff": "award 是正式頒發的獎項，通常因比賽或傑出表現而得；reward 是因為做了好事或努力而得到的回報，可以是獎金、禮物或稱讚。",
+   "points": [
+    "拼字：reward 比 award 多 re-，少了 a",
+    "正式度：award 常有頒獎典禮；reward 可以只是小小的回報",
+    "搭配：win an award；offer a reward",
+    "詞性：兩者都可當 n. 或 v."
+   ],
+   "tip": "award 是被「頒」給你的；reward 是為了「回報」（re-）你的付出。",
+   "exA": {
+    "en": "The film won an award at the school festival.",
+    "zh": "這部影片在校慶上得了獎。"
+   },
+   "exB": {
+    "en": "Her parents gave her a gift as a reward for her hard work.",
+    "zh": "她的父母送她禮物，回報她的努力。"
+   }
+  },
+  {
+   "a": "aware",
+   "b": "conscious",
+   "kind": "semantic",
+   "score": 0.742,
+   "aZh": "adj. 知道的；察覺的",
+   "bZh": "adj. 有意識的；察覺的",
+   "diff": "aware 是知道某件事存在；conscious 可指清醒有意識，也可指刻意的，語氣較正式。",
+   "points": [
+    "搭配：aware of / that；conscious of",
+    "另義：conscious 也可表示清醒、有意識；aware 沒有",
+    "刻意：a conscious decision 是有意識的決定",
+    "名詞：awareness 意識；consciousness 意識"
+   ],
+   "tip": "aware 是「知道」有這回事；conscious 是「有意識」，人是醒著、有知覺的。",
+   "exA": {
+    "en": "Most students are aware of the new school rule.",
+    "zh": "大多數學生都知道新的校規。"
+   },
+   "exB": {
+    "en": "The injured player was still conscious after the fall.",
+    "zh": "受傷的球員摔倒後仍然有意識。"
+   }
+  },
+  {
+   "a": "awesome",
+   "b": "awful",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "adj. 很棒的；令人敬畏的",
+   "bZh": "adj. 糟糕的；令人不快的",
+   "diff": "awful 是糟糕、不愉快；awesome 是很棒、令人驚嘆。兩字都由 awe（敬畏）而來，但現在意思差很多。",
+   "points": [
+    "意思：awful 是負面；awesome 在口語中是正面的「超棒」",
+    "拼字：awe-ful 對 awe-some",
+    "字源：兩者都來自 awe，本義是令人敬畏",
+    "搭配：awful weather；an awesome idea"
+   ],
+   "tip": "看字尾：awful 是糟糕，awesome 是很棒；別因為都有 awe 就搞混。",
+   "exA": {
+    "en": "The view from the top of the hill was awesome.",
+    "zh": "從山頂看出去的景色棒極了。"
+   },
+   "exB": {
+    "en": "The weather was awful, so we stayed inside all day.",
+    "zh": "天氣很糟，所以我們整天待在室內。"
+   }
+  },
+  {
+   "a": "awkward",
+   "b": "clumsy",
+   "kind": "semantic",
+   "score": 0.527,
+   "aZh": "adj. 尷尬的；笨拙的；不方便的",
+   "bZh": "adj. 笨拙的；不靈巧的",
+   "diff": "awkward 可形容場面尷尬、姿勢或東西不方便；clumsy 主要形容人動作笨手笨腳，容易打翻或弄壞東西。",
+   "points": [
+    "對象：clumsy 形容人的動作；awkward 還可形容場面或物品",
+    "場合：an awkward silence，不能說 a clumsy silence",
+    "動作：a clumsy waiter 笨手笨腳的服務生",
+    "搭配：awkward to carry 不好搬"
+   ],
+   "tip": "clumsy 只形容人的手腳；awkward 連氣氛都能形容。",
+   "exA": {
+    "en": "There was an awkward silence after his strange joke.",
+    "zh": "他講了個奇怪的笑話後，現場一片尷尬的沉默。"
+   },
+   "exB": {
+    "en": "The clumsy waiter dropped a plate on the floor.",
+    "zh": "那位笨手笨腳的服務生把盤子掉到地上。"
+   }
+  },
+  {
+   "a": "bad",
+   "b": "badly",
+   "kind": "visual",
+   "score": 0.617,
+   "aZh": "adj. 不好的；糟糕的",
+   "bZh": "adv. 不好地；嚴重地",
+   "diff": "bad 是形容詞，修飾名詞或接在 be 動詞後面；badly 是副詞，修飾動詞或形容詞，表示做得不好或程度嚴重。",
+   "points": [
+    "詞性：bad 是 adj.；badly 是 adv.",
+    "位置：a bad cold；play badly",
+    "連綴動詞：It smells bad. 用形容詞，不用 badly",
+    "搭配：badly hurt；badly need"
+   ],
+   "tip": "描述人事物用 bad；描述動作怎麼做用 badly。",
+   "exA": {
+    "en": "The weather was bad, so we stayed home all day.",
+    "zh": "天氣很糟，所以我們整天待在家。"
+   },
+   "exB": {
+    "en": "Tom played badly in the game because he was tired.",
+    "zh": "Tom 因為太累，比賽表現得不好。"
+   }
+  },
+  {
+   "a": "baggage",
+   "b": "luggage",
+   "kind": "semantic",
+   "score": 0.838,
+   "aZh": "n. 行李",
+   "bZh": "n. 行李",
+   "diff": "兩字都是不可數名詞，意思幾乎相同；baggage 常見於機場與航空公司的用語，luggage 是日常最常用的說法。",
+   "points": [
+    "可數：兩者都不可數，不能加 s，要說 a piece of baggage",
+    "搭配：baggage claim 行李提領處；luggage rack 行李架",
+    "比喻：baggage 也可比喻心理包袱；luggage 只指實體行李",
+    "計算：two pieces of luggage 或 two bags"
+   ],
+   "tip": "行李是不可數的；想算數量，就用 a piece of 或 a bag。",
+   "exA": {
+    "en": "Please collect your baggage at the baggage claim.",
+    "zh": "請到行李提領處領取您的行李。"
+   },
+   "exB": {
+    "en": "She packed all her luggage the night before the trip.",
+    "zh": "她在旅行前一晚把行李都打包好了。"
+   }
+  },
+  {
+   "a": "bacteria",
+   "b": "germ",
+   "kind": "semantic",
+   "score": 0.609,
+   "aZh": "n. 細菌",
+   "bZh": "n. 病菌；細菌",
+   "diff": "bacteria 是科學用語，指單細胞微生物，是 bacterium 的複數；germ 是口語，泛指會讓人生病的微生物。",
+   "points": [
+    "語氣：bacteria 較科學；germ 較口語",
+    "數量：bacteria 是複數；germ 的單數是 a germ",
+    "範圍：bacteria 有些有益，如優格中的菌；germ 通常指有害的",
+    "搭配：harmful bacteria；spread germs"
+   ],
+   "tip": "bacteria 是生物課的用詞；germ 是叫你洗手時常說的字。",
+   "exA": {
+    "en": "Some bacteria in yogurt are good for your stomach.",
+    "zh": "優格裡有些細菌對胃有益。"
+   },
+   "exB": {
+    "en": "Washing your hands helps stop germs from spreading.",
+    "zh": "洗手有助於防止病菌擴散。"
+   }
+  },
+  {
+   "a": "bare",
+   "b": "bear",
+   "kind": "visual",
+   "score": 0.539,
+   "aZh": "adj. 裸露的；v. 露出",
+   "bZh": "v. 忍受；承受；n. 熊",
+   "diff": "兩字發音完全相同，都是 /bɛr/，但意思和拼法不同。bare 是裸露的；bear 是熊，也可當動詞表示忍受。",
+   "points": [
+    "發音：兩字同音，要靠拼字和上下文分辨",
+    "詞性：bare 是 adj. 或 v.；bear 是 n. 或 v.",
+    "搭配：bare feet；bear the pain、bear with me",
+    "變化：bear 是不規則動詞，過去式 bore，過去分詞 borne"
+   ],
+   "tip": "bear 裡有 ear，熊有一雙圓耳朵；bare 沒有 ear，什麼都沒有，光禿禿的。",
+   "exA": {
+    "en": "The mountain top was bare, with no trees or grass.",
+    "zh": "山頂光禿禿的，沒有樹也沒有草。"
+   },
+   "exB": {
+    "en": "We saw a big bear near the mountain trail.",
+    "zh": "我們在山徑附近看到一隻大熊。"
+   }
+  },
+  {
+   "a": "bare",
+   "b": "naked",
+   "kind": "semantic",
+   "score": 0.434,
+   "aZh": "adj. 裸露的；空的",
+   "bZh": "adj. 裸體的；赤裸的",
+   "diff": "bare 指某個部位或表面沒有遮蓋；naked 指整個身體沒有穿衣服，也可指沒有遮蔽物的。",
+   "points": [
+    "對象：bare feet、bare walls；naked body",
+    "範圍：bare 可指局部；naked 通常指整個人",
+    "語氣：naked 更直接，使用時要注意場合",
+    "另義：bare 也可表示最低限度的，如 the bare minimum"
+   ],
+   "tip": "bare 多半是一部分露出（腳、牆）；naked 是全身沒有穿。",
+   "exA": {
+    "en": "The children ran across the sand in bare feet.",
+    "zh": "孩子們赤腳跑過沙灘。"
+   },
+   "exB": {
+    "en": "You can see the moon clearly with the naked eye.",
+    "zh": "用肉眼就能清楚看到月亮。"
+   }
+  },
+  {
+   "a": "barely",
+   "b": "hardly",
+   "kind": "semantic",
+   "score": 0.722,
+   "aZh": "adv. 僅僅；勉強",
+   "bZh": "adv. 幾乎不",
+   "diff": "兩字都表示「幾乎不」；barely 強調只是勉強做到或剛好達到，hardly 強調幾乎沒有，多修飾 any、ever、anyone 等詞。",
+   "points": [
+    "語意：barely 是勉強有；hardly 是幾乎沒有",
+    "搭配：hardly ever、hardly any；barely enough",
+    "句型：Hardly had I sat down when ... 是倒裝句型",
+    "注意：hardly 不是 hard 的副詞，hard 的副詞還是 hard"
+   ],
+   "tip": "barely 是「剛好夠」；hardly 是「幾乎沒有」。",
+   "exA": {
+    "en": "There was barely enough time to catch the last train.",
+    "zh": "剛好勉強有足夠的時間趕上最後一班火車。"
+   },
+   "exB": {
+    "en": "There was hardly any time to catch the last train.",
+    "zh": "幾乎沒有時間趕上最後一班火車。"
+   }
+  },
+  {
+   "a": "bay",
+   "b": "gulf",
+   "kind": "semantic",
+   "score": 0.688,
+   "aZh": "n. 海灣",
+   "bZh": "n. 海灣；巨大差距",
+   "diff": "bay 和 gulf 都是海岸凹入的水域；bay 通常較小、開口較寬，gulf 通常較大、較深，也可比喻巨大的差距。",
+   "points": [
+    "大小：bay 較小；gulf 較大較深",
+    "例子：Tokyo Bay；the Persian Gulf",
+    "引申：gulf 可指想法或處境之間的巨大差距",
+    "搭配：a sandy bay；a gulf between rich and poor"
+   ],
+   "tip": "看大小：小的用 bay，大的用 gulf。",
+   "exA": {
+    "en": "Many fishing boats stay in the bay during a typhoon.",
+    "zh": "颱風來時，許多漁船都停在海灣裡。"
+   },
+   "exB": {
+    "en": "The ship sailed across the wide gulf to reach the other coast.",
+    "zh": "那艘船航行過寬闊的大海灣，到達另一邊的海岸。"
+   }
+  },
+  {
+   "a": "bead",
+   "b": "bread",
+   "kind": "visual",
+   "score": 0.681,
+   "aZh": "n. 珠子；小滴",
+   "bZh": "n. 麵包",
+   "diff": "兩字只差一個 r。bead 是小珠子，bread 是麵包，發音也不同。",
+   "points": [
+    "拼字：b-ead 對 b-r-ead",
+    "發音：bead /biːd/；bread /brɛd/",
+    "可數：bead 是可數名詞；bread 是不可數名詞",
+    "搭配：a string of beads；a slice of bread"
+   ],
+   "tip": "bread 比 bead 多一個 r；麵包（bread）拿來吃，珠子（bead）拿來串。",
+   "exA": {
+    "en": "Jenny made a necklace from colorful beads for her mother.",
+    "zh": "Jenny 用彩色珠子替媽媽做了一條項鍊。"
+   },
+   "exB": {
+    "en": "Jenny had bread and a glass of milk for breakfast.",
+    "zh": "Jenny 早餐吃了麵包，還喝了一杯牛奶。"
+   }
+  },
+  {
+   "a": "bead",
+   "b": "beard",
+   "kind": "visual",
+   "score": 0.686,
+   "aZh": "n. 珠子；小滴",
+   "bZh": "n. 鬍鬚",
+   "diff": "beard 比 bead 多一個 r。bead 是小珠子，beard 是長在下巴和臉頰上的鬍鬚。",
+   "points": [
+    "拼字：bead + r = beard",
+    "發音：bead /biːd/；beard /bɪrd/",
+    "搭配：a glass bead；a long beard"
+   ],
+   "tip": "beard 裡有 ear，鬍鬚長在耳朵旁邊的臉頰上。",
+   "exA": {
+    "en": "The small glass bead rolled under the desk and disappeared.",
+    "zh": "那顆小玻璃珠滾到書桌底下不見了。"
+   },
+   "exB": {
+    "en": "My grandfather has a long white beard and wears glasses.",
+    "zh": "我爺爺留著長長的白鬍鬚，還戴著眼鏡。"
+   }
+  },
+  {
+   "a": "beat",
+   "b": "bet",
+   "kind": "visual",
+   "score": 0.631,
+   "aZh": "v. 打敗；敲打；n. 節拍",
+   "bZh": "v. 打賭；敢說",
+   "diff": "beat 和 bet 只差一個 a。beat 是打敗或敲打；bet 是打賭，也常用來表示很有把握。",
+   "points": [
+    "拼字：bea-t 對 be-t",
+    "發音：beat /biːt/；bet /bɛt/",
+    "變化：beat、beat、beaten；bet、bet、bet",
+    "搭配：beat the record；I bet you are right"
+   ],
+   "tip": "beat 有 ea，念長音 /iː/；bet 只有 e，念短音 /ɛ/。",
+   "exA": {
+    "en": "Our team beat the other school in the final game.",
+    "zh": "我們隊在決賽中打敗了另一所學校。"
+   },
+   "exB": {
+    "en": "I bet our team will beat the other school again.",
+    "zh": "我敢說我們隊會再次打敗那所學校。"
+   }
+  },
+  {
+   "a": "berry",
+   "b": "bury",
+   "kind": "visual",
+   "score": 0.619,
+   "aZh": "n. 莓果",
+   "bZh": "v. 埋葬；掩埋",
+   "diff": "berry 和 bury 讀音相同，都是 /ˈbɛri/，但 berry 是莓果，bury 是把東西埋起來。",
+   "points": [
+    "發音：兩字同音，bury 的 u 念 /ɛ/",
+    "拼字：ber-ry 對 bur-y",
+    "詞性：berry 是 n.；bury 是 v.",
+    "變化：berries；buried（y 改 ied）"
+   ],
+   "tip": "bury 的 u 像挖好的坑；berry 的 rr 像結在枝頭的小果子。",
+   "exA": {
+    "en": "Amy put a handful of berries on her yogurt.",
+    "zh": "Amy 在優格上放了一把莓果。"
+   },
+   "exB": {
+    "en": "The dog likes to bury its bones in the garden.",
+    "zh": "那隻狗喜歡把骨頭埋在花園裡。"
+   }
+  },
+  {
+   "a": "better",
+   "b": "bitter",
+   "kind": "visual",
+   "score": 0.74,
+   "aZh": "adj. 較好的；adv. 更好地",
+   "bZh": "adj. 苦的；痛苦的",
+   "diff": "better 是 good 的比較級，意思是更好；bitter 是苦的或令人痛苦的。兩字只差一個字母 e 和 i。",
+   "points": [
+    "拼字：b-e-tter 對 b-i-tter",
+    "發音：better /ˈbɛtɚ/；bitter /ˈbɪtɚ/",
+    "搭配：get better；a bitter taste",
+    "對比：better 的反義是 worse；bitter 的反義是 sweet"
+   ],
+   "tip": "bitter 和 bite（咬）有關，咬下去很苦；better 是 good 的比較級。",
+   "exA": {
+    "en": "Tom feels much better after taking some medicine.",
+    "zh": "Tom 吃了藥之後覺得好多了。"
+   },
+   "exB": {
+    "en": "The medicine tastes bitter, but it works well.",
+    "zh": "這藥很苦，但很有效。"
+   }
+  },
+  {
+   "a": "bitter",
+   "b": "sour",
+   "kind": "semantic",
+   "score": 0.49,
+   "aZh": "adj. 苦的；痛苦的",
+   "bZh": "adj. 酸的；酸味的",
+   "diff": "bitter 是像苦瓜、黑咖啡的苦味，也可指心裡的痛苦怨恨；sour 是像檸檬、醋的酸味，食物壞掉也會變酸。",
+   "points": [
+    "味覺：bitter 是苦；sour 是酸",
+    "例子：bitter coffee；sour lemon、sour milk",
+    "引申：bitter 形容痛苦怨恨；sour 形容態度或關係變差",
+    "搭配：a bitter experience；sour grapes"
+   ],
+   "tip": "苦（bitter）像藥；酸（sour）像檸檬。",
+   "exA": {
+    "en": "The tea was too bitter, so Amy added some sugar.",
+    "zh": "這杯茶太苦了，所以 Amy 加了一些糖。"
+   },
+   "exB": {
+    "en": "The lemon was too sour, so Amy added some sugar.",
+    "zh": "這顆檸檬太酸了，所以 Amy 加了一些糖。"
+   }
+  },
+  {
+   "a": "bleed",
+   "b": "breed",
+   "kind": "visual",
+   "score": 0.687,
+   "aZh": "v. 流血；出血",
+   "bZh": "v. 繁殖；培育",
+   "diff": "bleed 和 breed 只差 l 和 r。bleed 是流血；breed 是動物繁殖或人工培育品種。",
+   "points": [
+    "拼字：b-l-eed 對 b-r-eed",
+    "發音：bleed /bliːd/；breed /briːd/",
+    "變化：bleed、bled、bled；breed、bred、bred",
+    "搭配：bleed heavily；breed dogs"
+   ],
+   "tip": "bleed 和 blood 都以 bl 開頭，都跟血有關。",
+   "exA": {
+    "en": "Her finger began to bleed after she cut it.",
+    "zh": "她的手指被割傷後開始流血。"
+   },
+   "exB": {
+    "en": "Farmers breed cows to produce more milk for the market.",
+    "zh": "農民培育母牛，好為市場生產更多牛奶。"
+   }
+  },
+  {
+   "a": "bald",
+   "b": "bold",
+   "kind": "visual",
+   "score": 0.578,
+   "aZh": "adj. 禿頭的；光禿的",
+   "bZh": "adj. 大膽的；粗體的",
+   "diff": "bald 是頭髮掉光的；bold 是大膽的，也可指粗體字。兩字只差 a 和 o。",
+   "points": [
+    "拼字：b-a-ld 對 b-o-ld",
+    "發音：bald /bɔld/；bold /boʊld/",
+    "搭配：a bald head；a bold decision、bold letters"
+   ],
+   "tip": "bold 的 o 像圓睜的大眼睛，敢直視前方；bald 的 a 配 head，是光溜溜的頭。",
+   "exA": {
+    "en": "The old man is bald, but he always wears a hat.",
+    "zh": "那位老先生頭髮掉光了，但他總是戴著帽子。"
+   },
+   "exB": {
+    "en": "It was a bold decision to change schools in the middle of the year.",
+    "zh": "學期中轉學是個大膽的決定。"
+   }
+  },
+  {
+   "a": "bold",
+   "b": "brave",
+   "kind": "semantic",
+   "score": 0.753,
+   "aZh": "adj. 勇敢的；大膽的；粗體的",
+   "bZh": "adj. 勇敢的；無畏的",
+   "diff": "brave 是面對危險或困難不害怕；bold 是敢作敢為、不怕冒險，有時帶魯莽感，也可形容醒目的字體或顏色。",
+   "points": [
+    "語意：brave 重在不怕危險；bold 重在敢冒險、敢表現",
+    "語氣：bold 有時帶魯莽；brave 是單純的稱讚",
+    "範圍：bold 還可形容粗體字和鮮明色彩；brave 不行",
+    "搭配：a brave soldier；a bold plan"
+   ],
+   "tip": "brave 是勇敢面對；bold 是大膽出手。",
+   "exA": {
+    "en": "The bold girl asked the famous singer for a photo.",
+    "zh": "那個大膽的女孩向名歌手要求合照。"
+   },
+   "exB": {
+    "en": "The brave girl jumped into the river to save the dog.",
+    "zh": "那個勇敢的女孩跳進河裡救那隻狗。"
+   }
+  },
+  {
+   "a": "bomb",
+   "b": "tomb",
+   "kind": "visual",
+   "score": 0.629,
+   "aZh": "n. 炸彈；v. 轟炸",
+   "bZh": "n. 墳墓；墓穴",
+   "diff": "兩字都以 -omb 結尾，字尾的 b 都不發音。bomb 是炸彈，tomb 是墳墓。",
+   "points": [
+    "拼字：b-omb 對 t-omb，只有第一個字母不同",
+    "發音：bomb /bɑm/；tomb /tum/，字尾 b 都不發音",
+    "詞性：bomb 也可當動詞；tomb 只當名詞",
+    "搭配：a time bomb；an ancient tomb"
+   ],
+   "tip": "字尾 mb 的 b 不發音，像 climb、comb、thumb 都一樣。",
+   "exA": {
+    "en": "The police closed the road after finding an old bomb.",
+    "zh": "警方發現一顆舊炸彈後封閉了道路。"
+   },
+   "exB": {
+    "en": "The tourists visited an ancient tomb near the city.",
+    "zh": "遊客參觀了城市附近的一座古墓。"
+   }
+  },
+  {
+   "a": "boat",
+   "b": "boot",
+   "kind": "visual",
+   "score": 0.584,
+   "aZh": "n. 船；小船",
+   "bZh": "n. 靴子；汽車後車廂",
+   "diff": "boat 和 boot 只差中間的 a 和 o。boat 是船，boot 是靴子。",
+   "points": [
+    "拼字：bo-a-t 對 bo-o-t",
+    "發音：boat /boʊt/；boot /but/",
+    "搭配：a fishing boat；a pair of boots"
+   ],
+   "tip": "boot 的兩個 o 像一雙靴子的兩個鞋頭。",
+   "exA": {
+    "en": "The small boat left the port early in the morning.",
+    "zh": "那艘小船一大早就離開了港口。"
+   },
+   "exB": {
+    "en": "Tom wore heavy boots on the muddy mountain trail.",
+    "zh": "Tom 在泥濘的山徑上穿著厚重的靴子。"
+   }
+  },
+  {
+   "a": "brake",
+   "b": "break",
+   "kind": "visual",
+   "score": 0.629,
+   "aZh": "n. 煞車；v. 煞車",
+   "bZh": "v. 打破；n. 休息",
+   "diff": "兩字發音完全相同，都是 /breɪk/。brake 是煞車，break 是打破、弄壞，也可指休息。",
+   "points": [
+    "發音：兩字同音，要靠拼字和意思分辨",
+    "變化：braked、braked；break、broke、broken",
+    "搭配：press the brake；take a break",
+    "詞性：兩者都可當 n. 或 v."
+   ],
+   "tip": "看意思：踩踏板停下來用 brake，打破或休息用 break。",
+   "exA": {
+    "en": "The driver pressed the brake as soon as he saw the child.",
+    "zh": "司機一看到那個孩子就立刻踩下煞車。"
+   },
+   "exB": {
+    "en": "The driver took a short break after two hours on the road.",
+    "zh": "司機開了兩個小時的車後，短暫休息了一下。"
+   }
+  },
+  {
+   "a": "brass",
+   "b": "bronze",
+   "kind": "semantic",
+   "score": 0.397,
+   "aZh": "n. 黃銅；銅管樂器",
+   "bZh": "n. 青銅；銅牌",
+   "diff": "brass 是銅和鋅的合金，顏色黃亮，也可指銅管樂器；bronze 是銅和錫的合金，顏色偏褐，也可指第三名的銅牌。",
+   "points": [
+    "成分：brass 是銅加鋅；bronze 是銅加錫",
+    "顏色：brass 偏黃亮；bronze 偏褐紅",
+    "引申：brass 指銅管樂器；bronze 指第三名的銅牌",
+    "搭配：a brass band；a bronze medal"
+   ],
+   "tip": "第三名拿 bronze medal；樂隊裡的銅管樂器是 brass。",
+   "exA": {
+    "en": "The brass players stood at the back of the stage.",
+    "zh": "銅管樂器的演奏者站在舞臺後方。"
+   },
+   "exB": {
+    "en": "Our school team won a bronze medal in the swimming contest.",
+    "zh": "我們學校的隊伍在游泳比賽中得了銅牌。"
+   }
+  },
+  {
+   "a": "bravery",
+   "b": "courage",
+   "kind": "semantic",
+   "score": 0.773,
+   "aZh": "n. 勇敢；勇氣",
+   "bZh": "n. 勇氣；膽量",
+   "diff": "bravery 強調面對危險時勇敢行動的表現；courage 強調內心敢於面對恐懼或困難的力量，使用範圍更廣。",
+   "points": [
+    "語意：bravery 偏行為表現；courage 偏內在力量",
+    "搭配：show bravery；have the courage to + V",
+    "句型：courage 常接不定詞，bravery 較少",
+    "形容詞：brave；courageous（較正式）"
+   ],
+   "tip": "courage 來自拉丁文 cor（心），勇氣藏在心裡；bravery 是表現出來的勇敢。",
+   "exA": {
+    "en": "The girl's bravery in the storm was praised by everyone.",
+    "zh": "那個女孩在暴風雨中的勇敢表現受到大家稱讚。"
+   },
+   "exB": {
+    "en": "It takes courage to say sorry in front of the whole class.",
+    "zh": "在全班面前道歉需要勇氣。"
+   }
+  },
+  {
+   "a": "breast",
+   "b": "chest",
+   "kind": "semantic",
+   "score": 0.703,
+   "aZh": "n. 胸部；乳房；胸肉",
+   "bZh": "n. 胸部；胸膛；箱子",
+   "diff": "chest 指整個胸腔和胸前，男女都適用；breast 多指乳房，也指雞鴨等的胸肉。",
+   "points": [
+    "範圍：chest 是整個胸部；breast 多指乳房或胸肉",
+    "搭配：chest pain；breast cancer、chicken breast",
+    "另義：chest 也可指大箱子，如 a treasure chest",
+    "用法：說胸痛、胸口用 chest"
+   ],
+   "tip": "看部位：整個胸口用 chest；乳房或雞胸肉用 breast。",
+   "exA": {
+    "en": "Amy made a sandwich with chicken breast and cheese.",
+    "zh": "Amy 用雞胸肉和起司做了一個三明治。"
+   },
+   "exB": {
+    "en": "The doctor listened to the boy's chest carefully.",
+    "zh": "醫生仔細聽了那個男孩的胸部。"
+   }
+  },
+  {
+   "a": "breath",
+   "b": "breathe",
+   "kind": "visual",
+   "score": 0.792,
+   "aZh": "n. 呼吸；氣息",
+   "bZh": "v. 呼吸；吸氣",
+   "diff": "breath 是名詞，指一次呼吸或氣息；breathe 是動詞，字尾多一個 e，th 的發音也不同。",
+   "points": [
+    "詞性：breath 是 n.；breathe 是 v.",
+    "發音：breath /brɛθ/；breathe /briːð/",
+    "拼字：動詞 breathe 多一個字尾 e",
+    "搭配：take a deep breath；breathe deeply"
+   ],
+   "tip": "動詞 breathe 多了字尾 e，母音也拉長成 /iː/。",
+   "exA": {
+    "en": "Take a deep breath before you start the speech.",
+    "zh": "開始演講前先深呼吸。"
+   },
+   "exB": {
+    "en": "Please breathe slowly and try to relax your whole body.",
+    "zh": "請慢慢呼吸，試著放鬆全身。"
+   }
+  },
+  {
+   "a": "bride",
+   "b": "bridge",
+   "kind": "visual",
+   "score": 0.726,
+   "aZh": "n. 新娘",
+   "bZh": "n. 橋；橋梁",
+   "diff": "bride 是新娘，bridge 是橋。bridge 比 bride 多了 g，母音的發音也不同。",
+   "points": [
+    "拼字：bride 是 brid-e；bridge 是 brid-ge",
+    "發音：bride /braɪd/；bridge /brɪdʒ/",
+    "母音：bride 的 i 念 /aɪ/；bridge 的 i 念 /ɪ/",
+    "詞性：bridge 也可當動詞，表示連接"
+   ],
+   "tip": "bride 裡有 ride，新娘坐車來；bridge 多了 g，橋要架過河。",
+   "exA": {
+    "en": "The bride and groom walked slowly into the hall.",
+    "zh": "新娘和新郎緩緩走進大廳。"
+   },
+   "exB": {
+    "en": "The old stone bridge is over one hundred years old.",
+    "zh": "那座古老的石橋已經有一百多年了。"
+   }
+  },
+  {
+   "a": "brunch",
+   "b": "bunch",
+   "kind": "visual",
+   "score": 0.778,
+   "aZh": "n. 早午餐",
+   "bZh": "n. 一串；一束；一群",
+   "diff": "brunch 比 bunch 多一個 r。brunch 是 breakfast 加 lunch 合成的早午餐；bunch 是一串、一束。",
+   "points": [
+    "拼字：br-unch 對 b-unch",
+    "字源：brunch = br(eakfast) + (l)unch",
+    "搭配：have brunch；a bunch of flowers",
+    "詞性：bunch 也可指一群人，如 a bunch of friends"
+   ],
+   "tip": "brunch 的 br 來自 breakfast，unch 來自 lunch；bunch 沒有 r。",
+   "exA": {
+    "en": "We had brunch at a small cafe near the station.",
+    "zh": "我們在車站附近的小咖啡館吃了早午餐。"
+   },
+   "exB": {
+    "en": "Amy bought a bunch of flowers for her teacher.",
+    "zh": "Amy 買了一束花送給老師。"
+   }
+  }
+ ]
+}
