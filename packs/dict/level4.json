@@ -75454,6 +75454,10 @@
       {
        "en": "Regular rest helped Amy's recovery after a long illness.",
        "zh": "規律休息幫助 Amy 在長期生病後逐漸康復。"
+      },
+      {
+       "en": "Doctors expect a full recovery in about two weeks.",
+       "zh": "醫生預期大約兩週後會完全康復。"
       }
      ],
      "patterns": [
@@ -75477,11 +75481,15 @@
     {
      "pos": "n.",
      "zh": "取回；找回",
-     "ext": "",
+     "ext": "把失去的東西拿回來 → 取回或找回",
      "examples": [
       {
        "en": "The recovery of lost data saved the students' project.",
        "zh": "找回遺失的資料救回了學生的專題。"
+      },
+      {
+       "en": "The police reported the recovery of the stolen bicycles.",
+       "zh": "警方通報已尋回被偷的腳踏車。"
       }
      ],
      "patterns": [
@@ -75557,6 +75565,10 @@
       {
        "en": "The park offers recreation for families after school and work.",
        "zh": "公園提供家庭在放學和下班後休閒的地方。"
+      },
+      {
+       "en": "Swimming and hiking are popular forms of recreation in summer.",
+       "zh": "游泳和健行是夏天很受歡迎的休閒活動。"
       }
      ],
      "patterns": [],
@@ -75625,6 +75637,10 @@
       {
        "en": "Our class recycles paper and cans to reduce waste.",
        "zh": "我們班回收紙張和鋁罐來減少垃圾。"
+      },
+      {
+       "en": "Please recycle plastic bottles instead of throwing them into the trash.",
+       "zh": "請回收塑膠瓶，不要把它們丟進垃圾桶。"
       }
      ],
      "patterns": [
@@ -75716,6 +75732,10 @@
       {
        "en": "The new plan led to a reduction in the school's energy use.",
        "zh": "新計畫讓學校的能源使用量降低了。"
+      },
+      {
+       "en": "The store announced a price reduction on all winter coats.",
+       "zh": "這家商店宣布所有冬季外套降價。"
       }
      ],
      "patterns": [
@@ -75819,6 +75839,10 @@
       {
        "en": "The article refers to a study about sleep and memory.",
        "zh": "這篇文章提到一項關於睡眠與記憶的研究。"
+      },
+      {
+       "en": "The speaker referred to the news story from last week.",
+       "zh": "講者提到了上週的那則新聞。"
       }
      ],
      "patterns": [
@@ -75847,6 +75871,10 @@
       {
        "en": "Please refer to the map before choosing a travel route.",
        "zh": "選擇旅行路線前，請先參考地圖。"
+      },
+      {
+       "en": "If you forget a word, you can refer to a dictionary.",
+       "zh": "如果你忘了某個字，可以查字典。"
       }
      ],
      "patterns": [
@@ -75870,11 +75898,15 @@
     {
      "pos": "v.",
      "zh": "將……轉介給",
-     "ext": "",
+     "ext": "把人帶到另一處 → 把人轉交給更合適的人處理",
      "examples": [
       {
        "en": "The school nurse referred Amy to a doctor for further care.",
        "zh": "校護把 Amy 轉介給醫師，讓她接受進一步照護。"
+      },
+      {
+       "en": "The clinic referred my father to a heart doctor in the city.",
+       "zh": "診所把我爸爸轉介給市區的一位心臟科醫師。"
       }
      ],
      "patterns": [
@@ -75967,6 +75999,10 @@
       {
        "en": "Amy used three books as references for her science report.",
        "zh": "Amy 用三本書作為自然科報告的參考資料。"
+      },
+      {
+       "en": "Please put your reference list at the end of the report.",
+       "zh": "請把參考書目放在報告的最後。"
       }
      ],
      "patterns": [
@@ -75994,11 +76030,15 @@
     {
      "pos": "n.",
      "zh": "推薦人；推薦信",
-     "ext": "",
+     "ext": "讓別人「回頭來問」的人 → 能替你說明品行的推薦人",
      "examples": [
       {
        "en": "Jenny asked her teacher to be a reference for her summer job.",
        "zh": "Jenny 請老師擔任她暑期工作的推薦人。"
+      },
+      {
+       "en": "My former teacher wrote a reference for me when I applied to the program.",
+       "zh": "我申請那個計畫時，以前的老師替我寫了一封推薦信。"
       }
      ],
      "patterns": [],
@@ -76055,7 +76095,7 @@
      "gloss": "名詞"
     }
    ],
-   "origin": "",
+   "origin": "由 refer 加上名詞字尾 -ence 構成；refer 源自拉丁文 referre，意思是「帶回」。",
    "related": [
     {
      "word": "refer",
@@ -76082,6 +76122,10 @@
       {
        "en": "The lake reflected the mountains clearly on a calm morning.",
        "zh": "平靜的早晨，湖面清楚映出群山。"
+      },
+      {
+       "en": "The shiny window reflected the afternoon sun into our classroom.",
+       "zh": "發亮的窗戶把午後的陽光反射進我們的教室。"
       }
      ],
      "patterns": [
@@ -76110,6 +76154,10 @@
       {
        "en": "The survey results reflect students' views on school lunches.",
        "zh": "問卷結果反映了學生對學校午餐的看法。"
+      },
+      {
+       "en": "The crowded shops reflect how popular the new festival has become.",
+       "zh": "擠滿人的商店反映出這個新節慶有多受歡迎。"
       }
      ],
      "patterns": [
@@ -76138,6 +76186,10 @@
       {
        "en": "After the test, Tom reflected on what he could improve.",
        "zh": "考試後，Tom 反思自己還有哪些地方能進步。"
+      },
+      {
+       "en": "Before choosing a major, you should reflect on what you really enjoy.",
+       "zh": "選擇主修之前，你應該想一想自己真正喜歡什麼。"
       }
      ],
      "patterns": [
@@ -76238,6 +76290,10 @@
       {
        "en": "The lake showed a clear reflection of the mountains.",
        "zh": "湖面映出清晰的山影。"
+      },
+      {
+       "en": "She saw her reflection in the shop window and fixed her hair.",
+       "zh": "她在商店櫥窗裡看見自己的倒影，順手整理了頭髮。"
       }
      ],
      "patterns": [],
@@ -76256,6 +76312,10 @@
       {
        "en": "After some reflection, Amy decided to join the club.",
        "zh": "思考一陣子後，Amy 決定加入社團。"
+      },
+      {
+       "en": "The diary is full of the writer's reflections on growing up.",
+       "zh": "這本日記裡滿是作者對成長的省思。"
       }
      ],
      "patterns": [
@@ -76364,6 +76424,10 @@
       {
        "en": "The school plans a reform of its lunch program.",
        "zh": "學校計畫改革午餐方案。"
+      },
+      {
+       "en": "The mayor promised a reform of the city's bus service.",
+       "zh": "市長承諾改革這座城市的公車服務。"
       }
      ],
      "patterns": [
@@ -76392,6 +76456,10 @@
       {
        "en": "The city wants to reform its public bus system.",
        "zh": "這座城市想改革公車系統。"
+      },
+      {
+       "en": "The new principal wants to reform the way exams are given.",
+       "zh": "新校長想改革考試的進行方式。"
       }
      ],
      "patterns": [
@@ -76490,6 +76558,10 @@
       {
        "en": "The refugee found shelter with a family near the border.",
        "zh": "這名難民在邊境附近的一戶人家找到住處。"
+      },
+      {
+       "en": "Volunteers gave warm clothes to refugees arriving from the flooded region.",
+       "zh": "志工把保暖的衣服送給從淹水地區來的難民。"
       }
      ],
      "patterns": [
@@ -76560,6 +76632,10 @@
       {
        "en": "The shop gave Amy a full refund for the broken bag.",
        "zh": "店家把破掉的包包全額退款給 Amy。"
+      },
+      {
+       "en": "You can get a refund within fourteen days if you keep the receipt.",
+       "zh": "只要留著收據，十四天內就可以退款。"
       }
      ],
      "patterns": [
@@ -76588,6 +76664,10 @@
       {
        "en": "The store refunded the money after Jenny returned the shoes.",
        "zh": "Jenny 退回鞋子後，店家把錢退給她。"
+      },
+      {
+       "en": "The airline refunded the tickets because the flight was canceled.",
+       "zh": "因為班機取消，航空公司退還了機票錢。"
       }
      ],
      "patterns": [
@@ -76650,7 +76730,7 @@
      "gloss": "款項"
     }
    ],
-   "origin": "",
+   "origin": "源自拉丁文 refundere，意思是「倒回去」，由 re-（回）與 fundere（倒、流）組成。",
    "related": [],
    "phrases": []
   },
@@ -76668,6 +76748,10 @@
       {
        "en": "Her refusal to cheat surprised her classmates.",
        "zh": "她拒絕作弊，讓同學很意外。"
+      },
+      {
+       "en": "The company's refusal to give a refund made many customers angry.",
+       "zh": "公司拒絕退款，讓許多顧客很生氣。"
       }
      ],
      "patterns": [
@@ -76755,6 +76839,10 @@
       {
        "en": "Students must register for the science camp by Friday.",
        "zh": "學生必須在星期五前報名參加科學營。"
+      },
+      {
+       "en": "Foreign visitors must register at the hotel desk when they arrive.",
+       "zh": "外國旅客到達時必須在飯店櫃檯登記。"
       }
      ],
      "patterns": [
@@ -76788,6 +76876,10 @@
       {
        "en": "The teacher marked each student's name on the class register.",
        "zh": "老師在班級名冊上標記每位學生的名字。"
+      },
+      {
+       "en": "The teacher checks the register every morning to see who is absent.",
+       "zh": "老師每天早上查看點名簿，看誰缺席。"
       }
      ],
      "patterns": [],
@@ -76833,7 +76925,7 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自中世紀拉丁文 registrum，意思是「記錄簿」，來自拉丁文 regerere「記下」。",
    "related": [],
    "phrases": [
     {
@@ -76873,6 +76965,10 @@
       {
        "en": "Online registration for the race closes next Monday.",
        "zh": "這場路跑的線上報名下週一截止。"
+      },
+      {
+       "en": "Please bring your ID card to the registration desk on the first day.",
+       "zh": "第一天請帶著身分證到報到櫃檯。"
       }
      ],
      "patterns": [
@@ -76939,7 +77035,7 @@
      "gloss": "名詞"
     }
    ],
-   "origin": "",
+   "origin": "由 register 加上名詞字尾 -ation 構成。",
    "related": [
     {
      "word": "register",
@@ -76966,6 +77062,10 @@
       {
        "en": "The city regulates how much water factories can use.",
        "zh": "市政府管制工廠的用水量。"
+      },
+      {
+       "en": "The body uses sweat to regulate its temperature on hot days.",
+       "zh": "天氣熱時，身體靠流汗來調節體溫。"
       }
      ],
      "patterns": [
@@ -77051,6 +77151,10 @@
       {
        "en": "The new regulation limits noise near the school.",
        "zh": "新規定限制學校附近的噪音。"
+      },
+      {
+       "en": "Students must follow the safety regulations in the science lab.",
+       "zh": "學生在自然實驗室必須遵守安全規定。"
       }
      ],
      "patterns": [
@@ -77147,6 +77251,10 @@
       {
        "en": "Amy felt sad after the rejection of her club proposal.",
        "zh": "社團提案被駁回後，Amy 覺得很難過。"
+      },
+      {
+       "en": "Writers often face rejection before a publisher accepts their book.",
+       "zh": "作家在出版社接受他們的書之前，常常會遭到拒絕。"
       }
      ],
      "patterns": [
@@ -77250,6 +77358,10 @@
       {
        "en": "Listening to music gives Amy a little relaxation after school.",
        "zh": "放學後聽音樂讓 Amy 稍微放鬆一下。"
+      },
+      {
+       "en": "Take a few deep breaths for relaxation before the speech.",
+       "zh": "演講前先深呼吸幾次來放鬆。"
       }
      ],
      "patterns": [],
@@ -77338,6 +77450,10 @@
       {
        "en": "Please include only relevant details in your report.",
        "zh": "報告裡請只放相關的細節。"
+      },
+      {
+       "en": "Only relevant questions will be answered at the end of the talk.",
+       "zh": "演講最後只會回答相關的問題。"
       }
      ],
      "patterns": [
@@ -77398,7 +77514,7 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自中世紀拉丁文 relevans，意思是「有幫助的」，來自拉丁文 relevare「舉起、減輕」。",
    "related": [
     {
      "word": "relevance",
@@ -77425,6 +77541,10 @@
       {
        "en": "A short walk helped relieve Amy's stress before the test.",
        "zh": "考試前散步一下幫 Amy 減輕了壓力。"
+      },
+      {
+       "en": "A warm bath can relieve muscle pain after a long day.",
+       "zh": "泡個熱水澡可以緩解忙了一天的肌肉痠痛。"
       }
      ],
      "patterns": [
@@ -77457,13 +77577,17 @@
       {
        "en": "The good news relieved Tom of his worries about the trip.",
        "zh": "這個好消息讓 Tom 不再擔心旅行的事。"
+      },
+      {
+       "en": "It relieved me to hear that my sister had arrived safely.",
+       "zh": "聽到姊姊平安抵達，我就放心了。"
       }
      ],
      "patterns": [
       {
        "pattern": "relieve + 人 + of + N",
-       "en": "The good news relieved Tom of his worries about the trip.",
-       "zh": "這個好消息讓 Tom 不再擔心旅行的事。"
+       "en": "The kind words relieved my mother of her worry.",
+       "zh": "那些貼心的話讓我媽媽不再擔心。"
       }
      ],
      "collocations": [
@@ -77516,7 +77640,7 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古法語 relever，來自拉丁文 relevare，意思是「再舉起、減輕」，字面上是把重擔抬起來。",
    "related": [
     {
      "word": "relief",
@@ -77547,6 +77671,10 @@
       {
        "en": "Kevin was reluctant to speak in front of the whole class.",
        "zh": "Kevin 不太情願在全班面前發言。"
+      },
+      {
+       "en": "The little girl was reluctant to try the new food.",
+       "zh": "那個小女孩不太願意嘗試新的食物。"
       }
      ],
      "patterns": [
@@ -77646,6 +77774,10 @@
       {
        "en": "The teacher made a kind remark about Jenny's speech.",
        "zh": "老師稱讚 Jenny 的演講，說了一句好聽的話。"
+      },
+      {
+       "en": "His last remark made everyone in the room laugh.",
+       "zh": "他最後那句話讓房間裡的每個人都笑了。"
       }
      ],
      "patterns": [
@@ -77674,6 +77806,10 @@
       {
        "en": "Tom remarked that the new library was much brighter.",
        "zh": "Tom 說新圖書館明亮多了。"
+      },
+      {
+       "en": "Amy remarked that the soup tasted better than usual.",
+       "zh": "Amy 說這碗湯比平常好喝。"
       }
      ],
      "patterns": [
@@ -77764,6 +77900,10 @@
       {
        "en": "Amy made remarkable progress in English this year.",
        "zh": "Amy 今年的英文進步很大。"
+      },
+      {
+       "en": "The scientist made a remarkable discovery about ocean life.",
+       "zh": "這位科學家有了關於海洋生物的驚人發現。"
       }
      ],
      "patterns": [],
@@ -77829,7 +77969,7 @@
      "gloss": "值得的"
     }
    ],
-   "origin": "",
+   "origin": "由 remark（注意到）加上字尾 -able（值得……的）構成，字面意思是「值得注意的」。",
    "related": [],
    "phrases": []
   },
@@ -77842,11 +77982,15 @@
     {
      "pos": "n.",
      "zh": "療法；補救方法",
-     "ext": "",
+     "ext": "能讓病痛或問題好轉的辦法 → 療法、補救方法",
      "examples": [
       {
        "en": "Rest is the best remedy for her tired body.",
        "zh": "休息是讓她疲憊的身體恢復的最佳方法。"
+      },
+      {
+       "en": "Warm tea with honey is a simple remedy for a sore throat.",
+       "zh": "蜂蜜熱茶是治喉嚨痛的簡單方法。"
       }
      ],
      "patterns": [
@@ -77870,11 +78014,15 @@
     {
      "pos": "v.",
      "zh": "補救；改善",
-     "ext": "",
+     "ext": "採取辦法讓問題好轉 → 補救、改善",
      "examples": [
       {
        "en": "The school changed its plan to remedy the problem.",
        "zh": "學校修改計畫來改善這個問題。"
+      },
+      {
+       "en": "The city built a new bridge to remedy the traffic problem.",
+       "zh": "市政府蓋了一座新橋來改善交通問題。"
       }
      ],
      "patterns": [
@@ -77935,6 +78083,10 @@
       {
        "en": "Kevin renewed his library card before it expired.",
        "zh": "Kevin 在借書證到期前辦理了續期。"
+      },
+      {
+       "en": "My mother renews her gym membership every January.",
+       "zh": "我媽媽每年一月都會續辦健身房會員。"
       }
      ],
      "patterns": [
@@ -77967,6 +78119,10 @@
       {
        "en": "The students renewed their interest in science after the visit.",
        "zh": "參觀之後，學生們重新對科學產生興趣。"
+      },
+      {
+       "en": "The soft music renewed her energy after a tiring day.",
+       "zh": "輕柔的音樂讓她在疲累的一天後恢復了精神。"
       }
      ],
      "patterns": [],
@@ -78033,6 +78189,10 @@
       {
        "en": "Repetition helped Jenny remember the new words.",
        "zh": "反覆練習幫助 Jenny 記住新單字。"
+      },
+      {
+       "en": "Constant repetition of the same song made us tired of it.",
+       "zh": "同一首歌不斷重複，讓我們聽膩了。"
       }
      ],
      "patterns": [
@@ -78101,11 +78261,15 @@
     {
      "pos": "n.",
      "zh": "代表；呈現方式",
-     "ext": "",
+     "ext": "用某物代替另一物呈現出來 → 對事物的呈現或描寫",
      "examples": [
       {
        "en": "The painting is a representation of life in the countryside.",
        "zh": "這幅畫呈現了鄉村生活。"
+      },
+      {
+       "en": "A map is only a representation of the real land.",
+       "zh": "地圖只是真實土地的呈現。"
       }
      ],
      "patterns": [
@@ -78129,11 +78293,15 @@
     {
      "pos": "n.",
      "zh": "代表權；代表名額",
-     "ext": "",
+     "ext": "替一群人發聲 → 這群人在決策中的代表權",
      "examples": [
       {
        "en": "Students asked for better representation in school decisions.",
        "zh": "學生要求在校務決策中有更充分的代表權。"
+      },
+      {
+       "en": "The club wants fair representation of girls on the student council.",
+       "zh": "社團希望女生在學生會中有公平的代表名額。"
       }
      ],
      "patterns": [],
@@ -78182,7 +78350,7 @@
      "gloss": "行為或結果"
     }
    ],
-   "origin": "",
+   "origin": "由 represent 加上名詞字尾 -ation 構成；represent 源自拉丁文 repraesentare，意思是「使呈現在眼前」。",
    "related": [
     {
      "word": "represent",
@@ -78209,6 +78377,10 @@
       {
        "en": "The restaurant has a good reputation for fresh food.",
        "zh": "這家餐廳以食材新鮮而有好名聲。"
+      },
+      {
+       "en": "One careless post can damage a person's good reputation.",
+       "zh": "一則不小心的貼文就可能損害一個人的好名聲。"
       }
      ],
      "patterns": [
@@ -78279,6 +78451,10 @@
       {
        "en": "The rescue of the hikers took several hours.",
        "zh": "救援隊花了好幾個小時才救出那些健行者。"
+      },
+      {
+       "en": "A quick rescue saved the boy who fell into the river.",
+       "zh": "迅速的救援救了那個掉進河裡的男孩。"
       }
      ],
      "patterns": [
@@ -78307,6 +78483,10 @@
       {
        "en": "Firefighters rescued the family from the burning house.",
        "zh": "消防員把那家人從失火的房子裡救了出來。"
+      },
+      {
+       "en": "Volunteers rescued dozens of animals from the flooded farm.",
+       "zh": "志工從淹水的農場救出了幾十隻動物。"
       }
      ],
      "patterns": [
@@ -78358,7 +78538,7 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古法語 rescourre，意思是「救出、擺脫」。",
    "related": [],
    "phrases": []
   },
@@ -78376,6 +78556,10 @@
       {
        "en": "Her research focuses on how sleep affects learning.",
        "zh": "她的研究聚焦於睡眠如何影響學習。"
+      },
+      {
+       "en": "Scientists are doing research on how to make plastic from plants.",
+       "zh": "科學家正在研究如何用植物製造塑膠。"
       }
      ],
      "patterns": [
@@ -78408,6 +78592,10 @@
       {
        "en": "Kevin researched the best way to save energy at home.",
        "zh": "Kevin 研究了在家節省能源的最佳方法。"
+      },
+      {
+       "en": "Before buying a phone, Jenny researched prices in several shops.",
+       "zh": "買手機之前，Jenny 先調查了好幾家店的價格。"
       }
      ],
      "patterns": [
@@ -78495,6 +78683,10 @@
       {
        "en": "The researcher interviewed students about their study habits.",
        "zh": "研究人員訪問學生，了解他們的讀書習慣。"
+      },
+      {
+       "en": "The researcher spent three years studying birds in the mountains.",
+       "zh": "這位研究人員花了三年在山裡研究鳥類。"
       }
      ],
      "patterns": [
@@ -78553,7 +78745,7 @@
      "gloss": "從事者"
     }
    ],
-   "origin": "",
+   "origin": "由 research 加上表示從事者的字尾 -er 構成。",
    "related": [
     {
      "word": "research",
@@ -78571,11 +78763,15 @@
     {
      "pos": "v.",
      "zh": "像；與……相似",
-     "ext": "兩者有相似的外觀或特徵 → 看起來相像",
+     "ext": "與另一物看起來相像 → 具有相似的外觀或特徵",
      "examples": [
       {
        "en": "Jenny resembles her mother in both voice and smile.",
        "zh": "Jenny 的聲音和笑容都很像她媽媽。"
+      },
+      {
+       "en": "The little dog resembles a fluffy toy bear.",
+       "zh": "那隻小狗看起來像一隻毛茸茸的玩具熊。"
       }
      ],
      "patterns": [
@@ -78634,7 +78830,7 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古法語 resembler，意思是「相像」，與拉丁文 simulare「模仿、使相像」有關。",
    "related": [],
    "phrases": []
   },
@@ -78652,6 +78848,10 @@
       {
        "en": "We made a reservation for dinner near the station.",
        "zh": "我們預訂了車站附近的晚餐座位。"
+      },
+      {
+       "en": "Please call the hotel to change your reservation for Saturday night.",
+       "zh": "請打電話給飯店，更改你星期六晚上的訂房。"
       }
      ],
      "patterns": [
@@ -78679,11 +78879,15 @@
     {
      "pos": "n.",
      "zh": "保留意見；疑慮",
-     "ext": "",
+     "ext": "心裡先保留一部分 → 對某事有所保留的疑慮",
      "examples": [
       {
        "en": "Amy accepted the plan with some reservations.",
        "zh": "Amy 接受這項計畫時仍有些疑慮。"
+      },
+      {
+       "en": "Kevin had reservations about joining the trip because it was so expensive.",
+       "zh": "因為太貴，Kevin 對參加旅行有些猶豫。"
       }
      ],
      "patterns": [
@@ -78795,6 +78999,10 @@
       {
        "en": "The club leader resigned after finishing the school year.",
        "zh": "社團幹部在學年結束後辭去職務。"
+      },
+      {
+       "en": "The manager resigned because she wanted to spend more time with her family.",
+       "zh": "那位經理辭職，是因為她想多花時間陪家人。"
       }
      ],
      "patterns": [
@@ -78871,6 +79079,10 @@
       {
        "en": "Her resignation surprised everyone in the office.",
        "zh": "她辭職讓辦公室裡的所有人都很意外。"
+      },
+      {
+       "en": "The coach handed in his resignation after the team lost every game.",
+       "zh": "球隊每場比賽都輸，教練遞出了辭呈。"
       }
      ],
      "patterns": [
@@ -78929,7 +79141,7 @@
      "gloss": "行為或結果"
     }
    ],
-   "origin": "",
+   "origin": "由 resign 加上名詞字尾 -ation 構成；resign 源自拉丁文 resignare，意思是「解除、取消」。",
    "related": [
     {
      "word": "resign",
@@ -78974,6 +79186,10 @@
       {
        "en": "There was little resistance to the change in class time.",
        "zh": "大家對調整上課時間幾乎沒有反對。"
+      },
+      {
+       "en": "The new rule met strong resistance from the students.",
+       "zh": "這項新規定遭到學生強烈的抵制。"
       }
      ],
      "patterns": [
@@ -79001,11 +79217,15 @@
     {
      "pos": "n.",
      "zh": "耐受力；抵抗力",
-     "ext": "",
+     "ext": "抵擋外來侵害的能力 → 對疾病等的抵抗力",
      "examples": [
       {
        "en": "Regular exercise may improve the body's resistance to illness.",
        "zh": "規律運動可能提升身體對疾病的抵抗力。"
+      },
+      {
+       "en": "Vitamin C may help your body build resistance to colds.",
+       "zh": "維他命 C 可能有助於身體建立對感冒的抵抗力。"
       }
      ],
      "patterns": [
@@ -79112,11 +79332,15 @@
     {
      "pos": "n.",
      "zh": "決心；決定",
-     "ext": "",
+     "ext": "把心意固定下來 → 下定決心做某事",
      "examples": [
       {
        "en": "Amy made a resolution to read more English books.",
        "zh": "Amy 下定決心多讀英文書。"
+      },
+      {
+       "en": "My New Year's resolution is to drink more water every day.",
+       "zh": "我的新年新希望是每天多喝水。"
       }
      ],
      "patterns": [
@@ -79140,11 +79364,15 @@
     {
      "pos": "n.",
      "zh": "解決；處理",
-     "ext": "",
+     "ext": "把糾結的問題解開 → 得到解決",
      "examples": [
       {
        "en": "The two students reached a resolution after talking calmly.",
        "zh": "兩位學生冷靜交談後解決了問題。"
+      },
+      {
+       "en": "The teacher helped the two groups find a peaceful resolution.",
+       "zh": "老師幫助兩組人找到和平的解決方式。"
       }
      ],
      "patterns": [
@@ -79168,11 +79396,15 @@
     {
      "pos": "n.",
      "zh": "解析度",
-     "ext": "",
+     "ext": "把畫面的細節解析開來 → 影像的清晰程度",
      "examples": [
       {
        "en": "This camera takes clear photos at high resolution.",
        "zh": "這台相機能拍出高解析度的清晰照片。"
+      },
+      {
+       "en": "The video looked blurry because the screen resolution was too low.",
+       "zh": "因為螢幕解析度太低，影片看起來很模糊。"
       }
      ],
      "patterns": [],
@@ -79262,11 +79494,15 @@
     {
      "pos": "v.",
      "zh": "解決；處理",
-     "ext": "",
+     "ext": "把糾結的問題解開 → 解決問題",
      "examples": [
       {
        "en": "The school will resolve the problem before the trip.",
        "zh": "學校會在旅行前把問題處理好。"
+      },
+      {
+       "en": "The two friends resolved their argument by talking honestly.",
+       "zh": "兩個朋友坦白談過後，解決了他們的爭執。"
       }
      ],
      "patterns": [
@@ -79290,11 +79526,15 @@
     {
      "pos": "v.",
      "zh": "下定決心",
-     "ext": "",
+     "ext": "把猶豫解開 → 下定決心",
      "examples": [
       {
        "en": "Amy resolved to study a little every day.",
        "zh": "Amy 下定決心每天讀一點書。"
+      },
+      {
+       "en": "After the failure, Tom resolved to practice every morning.",
+       "zh": "失敗之後，Tom 下定決心每天早上練習。"
       }
      ],
      "patterns": [
@@ -79329,7 +79569,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自拉丁文 resolvere，意思是「解開、鬆開」，由 re-（再）與 solvere（鬆開）組成。",
    "related": [],
    "phrases": []
   },
@@ -79342,11 +79582,15 @@
     {
      "pos": "adj.",
      "zh": "值得尊敬的；體面的",
-     "ext": "",
+     "ext": "值得他人敬重 → 體面、像樣的",
      "examples": [
       {
        "en": "She earned a respectable score on the final exam.",
        "zh": "她在期末考拿到不錯的成績。"
+      },
+      {
+       "en": "They live in a quiet, respectable neighborhood near the school.",
+       "zh": "他們住在學校附近一個安靜又體面的社區。"
       }
      ],
      "patterns": [],
@@ -79402,7 +79646,7 @@
      "gloss": "值得"
     }
    ],
-   "origin": "",
+   "origin": "由 respect 加上字尾 -able 構成；respect 源自拉丁文 respectus，原指「回頭看」。",
    "related": [
     {
      "word": "respect",
@@ -79433,6 +79677,10 @@
       {
        "en": "The students were respectful during the guest's speech.",
        "zh": "來賓演講時，學生們都很有禮貌。"
+      },
+      {
+       "en": "It is respectful to listen when older people are speaking.",
+       "zh": "長輩說話時仔細聆聽是有禮貌的表現。"
       }
      ],
      "patterns": [
@@ -79522,7 +79770,7 @@
     {
      "pos": "v.",
      "zh": "恢復；修復",
-     "ext": "",
+     "ext": "把失去或受損的東西帶回原來的樣子 → 修復或恢復",
      "examples": [
       {
        "en": "The town restored the old bridge last year.",
@@ -79600,11 +79848,15 @@
     {
      "pos": "n.",
      "zh": "限制；約束",
-     "ext": "",
+     "ext": "把範圍拉緊 → 限制行動或數量的規定",
      "examples": [
       {
        "en": "The new rule places a restriction on car use.",
        "zh": "新規定限制了汽車的使用。"
+      },
+      {
+       "en": "There is an age restriction for this movie, so young children cannot watch it.",
+       "zh": "這部電影有年齡限制，所以小朋友不能看。"
       }
      ],
      "patterns": [
@@ -79694,11 +79946,15 @@
     {
      "pos": "v.",
      "zh": "保留；留住",
-     "ext": "",
+     "ext": "握住不放 → 繼續保有",
      "examples": [
       {
        "en": "The school retained the old name after the change.",
        "zh": "更名後，學校保留了原來的名稱。"
+      },
+      {
+       "en": "The old house retains its original wooden doors.",
+       "zh": "那棟老房子仍保有原來的木門。"
       }
      ],
      "patterns": [
@@ -79726,11 +79982,15 @@
     {
      "pos": "v.",
      "zh": "記住；保持",
-     "ext": "",
+     "ext": "把資訊握在腦中 → 記住",
      "examples": [
       {
        "en": "Writing notes helps students retain new words.",
        "zh": "寫筆記有助學生記住新單字。"
+      },
+      {
+       "en": "Some students can retain long lists of words after reading them once.",
+       "zh": "有些學生看過一次就能記住很長的單字表。"
       }
      ],
      "patterns": [],
@@ -79812,11 +80072,15 @@
     {
      "pos": "v.",
      "zh": "退休；退職",
-     "ext": "",
+     "ext": "從工作崗位退下來 → 結束職業生涯",
      "examples": [
       {
        "en": "My uncle plans to retire after teaching for thirty years.",
        "zh": "我叔叔打算教書三十年後退休。"
+      },
+      {
+       "en": "Many workers retire at sixty-five and start new hobbies.",
+       "zh": "許多人六十五歲退休後開始培養新的嗜好。"
       }
      ],
      "patterns": [
@@ -79882,11 +80146,15 @@
     {
      "pos": "n.",
      "zh": "休憩處；避靜處",
-     "ext": "",
+     "ext": "退到安靜的地方 → 讓人休息、放鬆的地方",
      "examples": [
       {
        "en": "The small cabin was a quiet retreat for our family.",
        "zh": "那間小木屋是我們一家安靜的休憩處。"
+      },
+      {
+       "en": "Many people go to a quiet lakeside retreat during the holidays.",
+       "zh": "許多人在假期時會去湖邊安靜的地方休息。"
       }
      ],
      "patterns": [],
@@ -79900,11 +80168,15 @@
     {
      "pos": "v.",
      "zh": "退回；撤退",
-     "ext": "",
+     "ext": "向後退 → 撤退或退開",
      "examples": [
       {
        "en": "The family retreated indoors when the rain grew heavy.",
        "zh": "雨勢變大後，全家人退回屋內。"
+      },
+      {
+       "en": "The crowd retreated when the dog began to bark loudly.",
+       "zh": "狗開始大聲吠叫時，人群往後退開了。"
       }
      ],
      "patterns": [
@@ -79949,7 +80221,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古法語 retret，意思是「退回」，來自拉丁文 retrahere「往回拉」。",
    "related": [],
    "phrases": []
   },
@@ -79967,6 +80239,10 @@
       {
        "en": "Our family reunion brought cousins together after many years.",
        "zh": "多年後的家庭聚會讓表兄弟姊妹再次團聚。"
+      },
+      {
+       "en": "The high school reunion gave old friends a chance to share stories.",
+       "zh": "高中同學會讓老朋友有機會分享彼此的故事。"
       }
      ],
      "patterns": [
@@ -80025,7 +80301,7 @@
      "gloss": "結合；團結"
     }
    ],
-   "origin": "",
+   "origin": "由 re-（再次）與 union（結合、團聚）組成，指分開後再度相聚。",
    "related": [
     {
      "word": "reunite",
@@ -80056,6 +80332,10 @@
       {
        "en": "She wanted revenge after her friend spread a false story.",
        "zh": "朋友散播不實消息後，她想要報復。"
+      },
+      {
+       "en": "He said he would never seek revenge, even after losing the contest.",
+       "zh": "他說即使輸了比賽，也絕不尋求報復。"
       }
      ],
      "patterns": [
@@ -80107,7 +80387,7 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古法語 revenger，意思是「報復」，來自拉丁文 re-（再）與 vindicare（要求、報復）。",
    "related": [
     {
      "word": "avenge",
@@ -80156,6 +80436,10 @@
       {
        "en": "The writer revised her essay after receiving feedback.",
        "zh": "作者收到意見後修改了文章。"
+      },
+      {
+       "en": "The company revised its rules after hearing from customers.",
+       "zh": "公司聽取顧客的意見後修改了規定。"
       }
      ],
      "patterns": [
@@ -80184,6 +80468,10 @@
       {
        "en": "Kevin revised his science notes before the exam.",
        "zh": "Kevin 考試前複習了自然科筆記。"
+      },
+      {
+       "en": "Tom revised all the unit vocabulary before the final test.",
+       "zh": "Tom 在期末考前複習了所有單元的單字。"
       }
      ],
      "patterns": [
@@ -80258,6 +80546,10 @@
       {
        "en": "The final revision made the report easier to read.",
        "zh": "最後一次修改讓這份報告更容易閱讀。"
+      },
+      {
+       "en": "The teacher asked Tom to make a revision to the last paragraph.",
+       "zh": "老師要求 Tom 修改最後一段。"
       }
      ],
      "patterns": [
@@ -80286,6 +80578,10 @@
       {
        "en": "Regular revision helped Amy remember the new words.",
        "zh": "定期複習幫助 Amy 記住新單字。"
+      },
+      {
+       "en": "Kevin made a revision timetable for the two weeks before the exam.",
+       "zh": "Kevin 為考前的兩週訂了一張複習時間表。"
       }
      ],
      "patterns": [],
@@ -80365,11 +80661,15 @@
     {
      "pos": "n.",
      "zh": "革命；重大變革",
-     "ext": "",
+     "ext": "把舊制度整個翻轉過來 → 政治革命或重大變革",
      "examples": [
       {
        "en": "The invention caused a revolution in how people shared news.",
        "zh": "這項發明徹底改變了人們分享新聞的方式。"
+      },
+      {
+       "en": "The revolution ended the king's rule and created a new government.",
+       "zh": "這場革命結束了國王的統治，建立了新政府。"
       }
      ],
      "patterns": [
@@ -80397,11 +80697,15 @@
     {
      "pos": "n.",
      "zh": "旋轉；一圈",
-     "ext": "",
+     "ext": "繞著中心轉了一整圈 → 旋轉一周",
      "examples": [
       {
        "en": "The wheel makes one revolution every second.",
        "zh": "這個輪子每秒轉一圈。"
+      },
+      {
+       "en": "The Earth completes one revolution around the Sun in a year.",
+       "zh": "地球每年繞太陽轉一圈。"
       }
      ],
      "patterns": [],
@@ -80477,6 +80781,10 @@
       {
        "en": "The new device brought a revolutionary change to classrooms.",
        "zh": "這項新設備為教室帶來了重大改變。"
+      },
+      {
+       "en": "The revolutionary design of the phone changed the whole industry.",
+       "zh": "這款手機革命性的設計改變了整個產業。"
       }
      ],
      "patterns": [],
@@ -80499,6 +80807,10 @@
       {
        "en": "The book tells the story of a young revolutionary.",
        "zh": "這本書講述一位年輕革命者的故事。"
+      },
+      {
+       "en": "Many revolutionaries wrote books to explain their ideas.",
+       "zh": "許多革命者寫書來說明自己的想法。"
       }
      ],
      "patterns": [],
@@ -80569,6 +80881,10 @@
       {
        "en": "The school gave Amy a reward for her helpful work.",
        "zh": "學校因為 Amy 熱心幫忙而給她獎勵。"
+      },
+      {
+       "en": "The dog owner offered a reward to anyone who found the lost puppy.",
+       "zh": "飼主提供獎賞給任何找到走失小狗的人。"
       }
      ],
      "patterns": [
@@ -80597,6 +80913,10 @@
       {
        "en": "The teacher rewarded the team for their hard work.",
        "zh": "老師獎勵了努力工作的團隊。"
+      },
+      {
+       "en": "The company rewards workers who come up with good ideas.",
+       "zh": "公司獎勵提出好點子的員工。"
       }
      ],
      "patterns": [
@@ -80644,7 +80964,7 @@
    ],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古法語 rewarder，原意與 regarder「注視、看重」有關，後來表示給予回報。",
    "related": [],
    "phrases": []
   },
@@ -80662,6 +80982,10 @@
       {
        "en": "The last two lines of the poem share the same rhyme.",
        "zh": "這首詩最後兩行押相同的韻。"
+      },
+      {
+       "en": "Children often learn new words through songs with simple rhymes.",
+       "zh": "孩子常透過押韻簡單的歌曲學新單字。"
       }
      ],
      "patterns": [],
@@ -80680,6 +81004,10 @@
       {
        "en": "The words light and night rhyme in this song.",
        "zh": "這首歌裡的 light 和 night 兩個字押韻。"
+      },
+      {
+       "en": "Can you think of a word that rhymes with day?",
+       "zh": "你想得到和 day 押韻的字嗎？"
       }
      ],
      "patterns": [
@@ -80704,7 +81032,7 @@
    "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
-   "origin": "",
+   "origin": "源自古法語 rime，與 rhythm（節奏）同源，最早來自希臘文 rhythmos。",
    "related": [],
    "phrases": []
   },
@@ -80717,11 +81045,15 @@
     {
      "pos": "n.",
      "zh": "節奏；韻律",
-     "ext": "",
+     "ext": "有規律地反覆流動 → 聲音或動作形成的節奏",
      "examples": [
       {
        "en": "The drummer kept a steady rhythm throughout the school concert.",
        "zh": "鼓手在整場校園音樂會中維持穩定的節奏。"
+      },
+      {
+       "en": "The dancers moved to the fast rhythm of the drums.",
+       "zh": "舞者隨著鼓快速的節奏舞動。"
       }
      ],
      "patterns": [],
@@ -80777,6 +81109,10 @@
       {
        "en": "Our teacher gave the class a riddle before the lesson began.",
        "zh": "老師在上課前出了一道謎語給全班猜。"
+      },
+      {
+       "en": "Can you solve this riddle before the bell rings?",
+       "zh": "你能在下課鐘響前解開這個謎語嗎？"
       }
      ],
      "patterns": [],
@@ -80832,6 +81168,10 @@
       {
        "en": "The robber took money from the store and ran away.",
        "zh": "搶劫者拿走店裡的錢後逃走了。"
+      },
+      {
+       "en": "The robber hid his face behind a mask, but the camera still caught him.",
+       "zh": "搶匪用面具遮住臉，但監視器還是拍到了他。"
       }
      ],
      "patterns": [],
@@ -80922,6 +81262,10 @@
       {
        "en": "Jenny enjoys reading romance novels on the train.",
        "zh": "Jenny 喜歡在火車上讀愛情小說。"
+      },
+      {
+       "en": "The movie is a sweet romance about two neighbors who become friends first.",
+       "zh": "這部電影是個甜蜜的愛情故事，兩位鄰居先成為朋友。"
       }
      ],
      "patterns": [
@@ -80996,6 +81340,10 @@
       {
        "en": "We chose a safe route to the campsite before leaving home.",
        "zh": "我們離家前先選好前往營地的安全路線。"
+      },
+      {
+       "en": "Our teacher showed us the best route to the museum on the map.",
+       "zh": "老師在地圖上告訴我們去博物館的最佳路線。"
       }
      ],
      "patterns": [
@@ -81019,11 +81367,15 @@
     {
      "pos": "v.",
      "zh": "傳送；按路線運送",
-     "ext": "",
+     "ext": "沿著預定路線送出 → 傳送、轉送",
      "examples": [
       {
        "en": "The office routed the forms to the correct teacher.",
        "zh": "辦公室把表格送到負責的老師手上。"
+      },
+      {
+       "en": "The system routes all emails from customers to the help desk.",
+       "zh": "系統把所有顧客寄來的電子郵件轉給客服台。"
       }
      ],
      "patterns": [
@@ -81083,6 +81435,10 @@
       {
        "en": "Heavy rain ruined our plans for a school picnic.",
        "zh": "大雨破壞了我們校外野餐的計畫。"
+      },
+      {
+       "en": "Don't let one bad grade ruin your whole week.",
+       "zh": "別讓一次不好的成績毀了你整個星期。"
       }
      ],
      "patterns": [
@@ -81111,6 +81467,10 @@
       {
        "en": "The old castle ruins attract many visitors each year.",
        "zh": "那座古堡的廢墟每年吸引許多遊客。"
+      },
+      {
+       "en": "The ancient city is now nothing but a pile of ruins.",
+       "zh": "這座古城如今只剩下一堆廢墟。"
       }
      ],
      "patterns": [],
@@ -81201,6 +81561,10 @@
       {
        "en": "My grandparents live in a rural area near the mountains.",
        "zh": "我的祖父母住在山附近的鄉村地區。"
+      },
+      {
+       "en": "Rural schools often have fewer students than city schools.",
+       "zh": "鄉村的學校學生人數常比城市的學校少。"
       }
      ],
      "patterns": [],
@@ -81260,11 +81624,15 @@
     {
      "pos": "adj.",
      "zh": "生鏽的",
-     "ext": "",
+     "ext": "表面長了鐵鏽 → 生鏽的",
      "examples": [
       {
        "en": "The rusty gate was difficult to open after the long winter.",
        "zh": "那扇生鏽的門經過漫長冬天後很難打開。"
+      },
+      {
+       "en": "The bike had been left in the rain for a year, so its chain was rusty.",
+       "zh": "那輛腳踏車在雨中放了一年，所以鏈條生鏽了。"
       }
      ],
      "patterns": [],
@@ -81282,11 +81650,15 @@
     {
      "pos": "adj.",
      "zh": "生疏的；荒廢的",
-     "ext": "",
+     "ext": "像久沒用而生鏽的金屬 → 技能生疏",
      "examples": [
       {
        "en": "After a long break, my French was a little rusty.",
        "zh": "休息了很久之後，我的法文有點生疏了。"
+      },
+      {
+       "en": "My piano skills are rusty because I have not played for months.",
+       "zh": "我好幾個月沒彈琴，琴藝都生疏了。"
       }
      ],
      "patterns": [
@@ -81364,6 +81736,10 @@
       {
        "en": "Her success required years of sacrifice from her family.",
        "zh": "她的成功有賴家人多年的犧牲付出。"
+      },
+      {
+       "en": "Moving to a new city was a big sacrifice for the whole family.",
+       "zh": "搬到新的城市，對全家人來說是很大的犧牲。"
       }
      ],
      "patterns": [],
@@ -81386,6 +81762,10 @@
       {
        "en": "Kevin sacrificed his free time to prepare for the exam.",
        "zh": "Kevin 犧牲了休閒時間準備考試。"
+      },
+      {
+       "en": "The firefighter sacrificed his own safety to save a child.",
+       "zh": "那位消防員犧牲自己的安全去救一個孩子。"
       }
      ],
      "patterns": [
@@ -81393,6 +81773,11 @@
        "pattern": "sacrifice + N",
        "en": "She sacrificed her weekend to finish the school project.",
        "zh": "她犧牲週末完成學校專題。"
+      },
+      {
+       "pattern": "sacrifice A for B",
+       "en": "She sacrificed sleep for her studies during the exam week.",
+       "zh": "考試週期間，她為了讀書犧牲了睡眠。"
       }
      ],
      "collocations": [
@@ -81452,6 +81837,10 @@
       {
        "en": "The satellite sends weather images to scientists on Earth.",
        "zh": "這顆衛星把氣象影像傳送給地球上的科學家。"
+      },
+      {
+       "en": "Many phones use signals from satellites to show your location on a map.",
+       "zh": "許多手機利用衛星訊號在地圖上顯示你的位置。"
       }
      ],
      "patterns": [
@@ -81507,11 +81896,15 @@
     {
      "pos": "n.",
      "zh": "滿意；滿足",
-     "ext": "",
+     "ext": "需求被填滿 → 感到滿足與滿意",
      "examples": [
       {
        "en": "Helping younger students gave Amy a deep sense of satisfaction.",
        "zh": "幫助年紀較小的學生讓 Amy 感到非常滿足。"
+      },
+      {
+       "en": "The chef felt great satisfaction when the guests finished every dish.",
+       "zh": "客人把每道菜都吃光，讓主廚感到非常滿足。"
       }
      ],
      "patterns": [
@@ -81607,6 +82000,10 @@
       {
        "en": "We had scarcely enough time to finish the group report.",
        "zh": "我們勉強有時間完成小組報告。"
+      },
+      {
+       "en": "The room was so noisy that I could scarcely hear the teacher.",
+       "zh": "房間太吵了，我幾乎聽不到老師的聲音。"
       }
      ],
      "patterns": [],
@@ -81682,6 +82079,10 @@
       {
        "en": "The train ride offered beautiful scenery along the coast.",
        "zh": "搭火車時沿途能欣賞海岸的美景。"
+      },
+      {
+       "en": "The scenery along the east coast made the long bus ride worth it.",
+       "zh": "東海岸沿途的風景，讓這趟長途巴士旅程很值得。"
       }
      ],
      "patterns": [],
@@ -81765,6 +82166,10 @@
       {
        "en": "The teacher scolded Tom for using his phone during class.",
        "zh": "老師因為 Tom 上課時用手機而責罵他。"
+      },
+      {
+       "en": "Dad scolded us for playing near the busy road.",
+       "zh": "爸爸罵我們在車多的馬路邊玩耍。"
       }
      ],
      "patterns": [
@@ -81835,6 +82240,10 @@
       {
        "en": "Amy added a scoop of ice cream to her bowl.",
        "zh": "Amy 在碗裡加了一球冰淇淋。"
+      },
+      {
+       "en": "The shop gives you an extra scoop of ice cream on your birthday.",
+       "zh": "這家店在你生日時會多送你一球冰淇淋。"
       }
      ],
      "patterns": [],
@@ -81853,6 +82262,10 @@
       {
        "en": "Tom scooped the sand into a small bucket.",
        "zh": "Tom 把沙子舀進一個小桶裡。"
+      },
+      {
+       "en": "The volunteers scooped the fallen leaves into bags.",
+       "zh": "志工們把落葉舀進袋子裡。"
       }
      ],
      "patterns": [
@@ -81910,6 +82323,10 @@
       {
        "en": "The cat scratched the sofa while playing.",
        "zh": "那隻貓玩耍時抓破了沙發表面。"
+      },
+      {
+       "en": "The dog scratched at the door to be let out.",
+       "zh": "那隻狗在門上抓個不停，想要出去。"
       }
      ],
      "patterns": [
@@ -81938,6 +82355,10 @@
       {
        "en": "There is a scratch on my phone screen.",
        "zh": "我的手機螢幕上有一道刮痕。"
+      },
+      {
+       "en": "The hikers got a few small scratches from the thorny bushes.",
+       "zh": "健行者被帶刺的灌木叢劃出幾道小傷痕。"
       }
      ],
      "patterns": [],
@@ -82011,6 +82432,10 @@
       {
        "en": "The students saw a large sculpture in the city park.",
        "zh": "學生在市區公園看到一件大型雕塑作品。"
+      },
+      {
+       "en": "The artist spent six months making a wooden sculpture of a horse.",
+       "zh": "藝術家花了六個月做出一件馬的木雕。"
       }
      ],
      "patterns": [],
@@ -82086,6 +82511,10 @@
       {
        "en": "The club secured a room for its weekly meetings.",
        "zh": "社團為每週聚會借到一間教室。"
+      },
+      {
+       "en": "The team secured a place in the final after winning the semifinal.",
+       "zh": "球隊贏得準決賽後，確定拿到決賽的資格。"
       }
      ],
      "patterns": [
@@ -82118,6 +82547,10 @@
       {
        "en": "Keep your password in a secure place.",
        "zh": "把密碼放在安全的地方。"
+      },
+      {
+       "en": "The door has a secure lock, so we feel safe at night.",
+       "zh": "這扇門有牢固的鎖，所以我們晚上覺得很安全。"
       }
      ],
      "patterns": [],
@@ -82210,6 +82643,10 @@
       {
        "en": "Amy seized the chance to join the exchange program.",
        "zh": "Amy 把握機會參加了交換計畫。"
+      },
+      {
+       "en": "The little boy seized his mother's hand in the crowded station.",
+       "zh": "在擁擠的車站裡，小男孩一把抓住媽媽的手。"
       }
      ],
      "patterns": [
@@ -82292,6 +82729,10 @@
       {
        "en": "The early settlers built homes near the river.",
        "zh": "早期移居者在河邊建造住家。"
+      },
+      {
+       "en": "The settlers planted crops and built a small village near the lake.",
+       "zh": "移居者在湖邊種下作物，蓋起一個小村莊。"
       }
      ],
      "patterns": [],
@@ -82367,6 +82808,10 @@
       {
        "en": "The town closed schools after severe snow blocked the roads.",
        "zh": "大雪阻斷道路後，鎮上的學校停課了。"
+      },
+      {
+       "en": "She stayed home from school because of a severe headache.",
+       "zh": "她因為頭痛得很厲害，沒去上學。"
       }
      ],
      "patterns": [],
@@ -82448,6 +82893,10 @@
       {
        "en": "My grandmother taught me to sew a button onto my coat.",
        "zh": "奶奶教我把鈕扣縫到外套上。"
+      },
+      {
+       "en": "Amy sewed her own costume for the school play.",
+       "zh": "Amy 自己縫製了學校話劇的服裝。"
       }
      ],
      "patterns": [
@@ -82528,6 +82977,10 @@
       {
        "en": "We sat in the shade while waiting for the bus.",
        "zh": "我們等公車時坐在陰涼處。"
+      },
+      {
+       "en": "This shade of green looks nice on your new bag.",
+       "zh": "這種綠色用在你的新包包上很好看。"
       }
      ],
      "patterns": [],
@@ -82554,6 +83007,10 @@
       {
        "en": "Tall trees shade the walking path in summer.",
        "zh": "夏天，高大的樹木為步道遮蔭。"
+      },
+      {
+       "en": "The big umbrella shades the outdoor tables from the afternoon sun.",
+       "zh": "大陽傘替戶外的桌子遮住午後的陽光。"
       }
      ],
      "patterns": [
@@ -82611,6 +83068,10 @@
       {
        "en": "We found a shady spot under a tree for lunch.",
        "zh": "我們在樹下找到一處陰涼的地方吃午餐。"
+      },
+      {
+       "en": "I do not trust that shady website that asks for my password.",
+       "zh": "我不信任那個要我輸入密碼的可疑網站。"
       }
      ],
      "patterns": [],
@@ -82695,6 +83156,10 @@
       {
        "en": "It was shameful to leave the classroom dirty after the club meeting.",
        "zh": "社團聚會後把教室弄得很髒，實在很丟臉。"
+      },
+      {
+       "en": "It is shameful to laugh at someone who has failed.",
+       "zh": "嘲笑失敗的人是很可恥的。"
       }
      ],
      "patterns": [],
@@ -82779,6 +83244,10 @@
       {
        "en": "My brother shaves before work every morning.",
        "zh": "我哥哥每天早上上班前刮鬍子。"
+      },
+      {
+       "en": "Some swimmers shave their arms and legs before the big race.",
+       "zh": "有些游泳選手在大賽前會剃掉手臂和腿上的毛。"
       }
      ],
      "patterns": [
@@ -82807,6 +83276,10 @@
       {
        "en": "Dad had a quick shave before leaving home.",
        "zh": "爸爸出門前很快地刮了鬍子。"
+      },
+      {
+       "en": "After a quick shave, Dad put on his best shirt for the dinner.",
+       "zh": "爸爸快速刮完鬍子後，穿上最好的襯衫去赴晚宴。"
       }
      ],
      "patterns": [],
@@ -82858,6 +83331,10 @@
       {
        "en": "The hikers found shelter from the rain in a small cabin.",
        "zh": "健行的人在一間小木屋裡躲雨。"
+      },
+      {
+       "en": "The city opened a shelter for people who lost their homes in the storm.",
+       "zh": "市政府為在暴風雨中失去住家的人開設了收容所。"
       }
      ],
      "patterns": [],
@@ -82880,6 +83357,10 @@
       {
        "en": "The trees sheltered the campers from the wind.",
        "zh": "樹木替露營的人擋風。"
+      },
+      {
+       "en": "The old wall sheltered the small garden from the strong wind.",
+       "zh": "那道老牆為小花園擋住了強風。"
       }
      ],
      "patterns": [
@@ -82959,6 +83440,10 @@
       {
        "en": "My mother works the night shift at the hospital.",
        "zh": "我媽媽在醫院上大夜班。"
+      },
+      {
+       "en": "The bakery has a morning shift and an evening shift.",
+       "zh": "這家麵包店有早班和晚班。"
       }
      ],
      "patterns": [],
@@ -82985,6 +83470,10 @@
       {
        "en": "The school shifted its focus to student health this year.",
        "zh": "學校今年把重點轉向學生健康。"
+      },
+      {
+       "en": "The teacher shifted the desks to make more room in the classroom.",
+       "zh": "老師把桌子移開，讓教室多出一些空間。"
       }
      ],
      "patterns": [
@@ -83050,6 +83539,10 @@
       {
        "en": "We went sightseeing in Taipei during our school trip.",
        "zh": "校外教學時，我們在台北觀光。"
+      },
+      {
+       "en": "We spent the morning sightseeing along the river and the afternoon shopping.",
+       "zh": "我們早上沿著河邊觀光，下午去逛街。"
       }
      ],
      "patterns": [
@@ -83143,11 +83636,15 @@
     {
      "pos": "n.",
      "zh": "簽名；署名",
-     "ext": "",
+     "ext": "在文件上寫下自己的名字 → 簽名",
      "examples": [
       {
        "en": "Please add your signature at the bottom of the form.",
        "zh": "請在表格下方簽名。"
+      },
+      {
+       "en": "A parent's signature is needed on the permission slip.",
+       "zh": "同意書上需要家長的簽名。"
       }
      ],
      "patterns": [
@@ -83167,11 +83664,15 @@
     {
      "pos": "adj.",
      "zh": "代表性的；標誌性的",
-     "ext": "",
+     "ext": "像簽名一樣代表某人的特色 → 標誌性的",
      "examples": [
       {
        "en": "The singer wore her signature red jacket on stage.",
        "zh": "這位歌手在舞台上穿著她的招牌紅外套。"
+      },
+      {
+       "en": "The restaurant is famous for its signature dish, a spicy noodle soup.",
+       "zh": "這家餐廳以招牌菜辣味湯麵聞名。"
       }
      ],
      "patterns": [],
@@ -83250,6 +83751,10 @@
       {
        "en": "The teacher explained the significance of the historical event.",
        "zh": "老師說明了這件歷史事件的重要性。"
+      },
+      {
+       "en": "The doctor explained the significance of the test results to the family.",
+       "zh": "醫師向家屬說明了檢查結果的意義。"
       }
      ],
      "patterns": [
@@ -83343,6 +83848,10 @@
       {
        "en": "Her sincerity helped the team trust her decision.",
        "zh": "她的真誠讓團隊願意相信她的決定。"
+      },
+      {
+       "en": "Everyone could hear the sincerity in her voice when she said thank you.",
+       "zh": "她說謝謝時，大家都能從聲音裡聽出她的真誠。"
       }
      ],
      "patterns": [
@@ -83429,6 +83938,10 @@
       {
        "en": "The noun is singular because it refers to one student.",
        "zh": "這個名詞是單數，因為它指一位學生。"
+      },
+      {
+       "en": "In \"The dog barks,\" the word dog is a singular noun.",
+       "zh": "在「The dog barks」這句話裡，dog 是單數名詞。"
       }
      ],
      "patterns": [],
@@ -83446,11 +83959,15 @@
     {
      "pos": "adj.",
      "zh": "非凡的；奇特的",
-     "ext": "",
+     "ext": "單獨突出、與眾不同 → 非凡的",
      "examples": [
       {
        "en": "Her singular ability to remember names impressed the class.",
        "zh": "她記住人名的非凡能力讓全班印象深刻。"
+      },
+      {
+       "en": "The young pianist showed a singular talent for music.",
+       "zh": "這位年輕鋼琴家展現了非凡的音樂天分。"
       }
      ],
      "patterns": [],
@@ -83469,6 +83986,10 @@
       {
        "en": "In English, the singular often takes a different verb form.",
        "zh": "英文中，單數主詞通常搭配不同的動詞形式。"
+      },
+      {
+       "en": "This word is always used in the singular.",
+       "zh": "這個字永遠以單數形式使用。"
       }
      ],
      "patterns": [
@@ -83558,6 +84079,10 @@
       {
        "en": "The school chose a quiet site for its new library.",
        "zh": "學校為新圖書館選了一處安靜的地點。"
+      },
+      {
+       "en": "Tourists visit the historic site to learn about the town's past.",
+       "zh": "遊客參觀這處古蹟，了解小鎮的過去。"
       }
      ],
      "patterns": [
@@ -83582,6 +84107,10 @@
       {
        "en": "The city plans to site the new center near the station.",
        "zh": "市府計畫把新中心設在車站附近。"
+      },
+      {
+       "en": "The company sited its factory near the river so that ships could bring in materials.",
+       "zh": "公司把工廠設在河邊，好讓船隻運來原料。"
       }
      ],
      "patterns": [
@@ -83650,6 +84179,10 @@
       {
        "en": "Jenny made a quick sketch of the garden before painting.",
        "zh": "Jenny 畫畫前先快速畫了花園草圖。"
+      },
+      {
+       "en": "The architect showed us a sketch of the new stadium.",
+       "zh": "建築師給我們看新體育場的草圖。"
       }
      ],
      "patterns": [
@@ -83678,6 +84211,10 @@
       {
        "en": "The book begins with a brief sketch of the author's life.",
        "zh": "這本書一開始簡述了作者的生平。"
+      },
+      {
+       "en": "Before the meeting, the manager gave a short sketch of the plan.",
+       "zh": "開會前，經理簡短說明了這項計畫。"
       }
      ],
      "patterns": [
@@ -83702,6 +84239,10 @@
       {
        "en": "Amy sketched the view while the group waited for the bus.",
        "zh": "大家等公車時，Amy 畫下了眼前的景色。"
+      },
+      {
+       "en": "Kevin sketched a map to show us the way to the cafe.",
+       "zh": "Kevin 畫了一張簡圖，告訴我們怎麼去那間咖啡館。"
       }
      ],
      "patterns": [
@@ -83759,6 +84300,10 @@
       {
        "en": "The new skyscraper can be seen from the train station.",
        "zh": "從火車站就看得到那棟新摩天大樓。"
+      },
+      {
+       "en": "The skyscraper has more than one hundred floors and a restaurant on top.",
+       "zh": "這棟摩天大樓有一百多層，頂樓還有一間餐廳。"
       }
      ],
      "patterns": [],
@@ -83816,6 +84361,10 @@
       {
        "en": "There was a slight change in the weather after lunch.",
        "zh": "午餐後天氣有些微變化。"
+      },
+      {
+       "en": "A slight breeze cooled the room on the hot afternoon.",
+       "zh": "炎熱的午後，一陣微風讓房間涼快了些。"
       }
      ],
      "patterns": [
@@ -83893,6 +84442,10 @@
       {
        "en": "The students chose a short slogan for their clean water campaign.",
        "zh": "學生為淨水宣導活動選了一句簡短口號。"
+      },
+      {
+       "en": "The company changed its slogan to attract younger customers.",
+       "zh": "公司更換了口號，以吸引更年輕的顧客。"
       }
      ],
      "patterns": [
@@ -83954,6 +84507,10 @@
       {
        "en": "Please unplug the lamp before cleaning the socket.",
        "zh": "清潔插座前，請先把檯燈拔掉。"
+      },
+      {
+       "en": "There is only one socket in the classroom, so we take turns charging our phones.",
+       "zh": "教室裡只有一個插座，所以我們輪流替手機充電。"
       }
      ],
      "patterns": [
@@ -83982,6 +84539,10 @@
       {
        "en": "The small wheel fits into a socket on the toy car.",
        "zh": "小輪子裝進玩具車上的承座。"
+      },
+      {
+       "en": "The light bulb does not shine because it is not fixed tightly in its socket.",
+       "zh": "燈泡沒有牢牢裝進燈座，所以不會亮。"
       }
      ],
      "patterns": [
@@ -84041,6 +84602,10 @@
       {
        "en": "Our teacher uses new software to help students learn English.",
        "zh": "老師使用新的軟體協助學生學英文。"
+      },
+      {
+       "en": "You must update the software before the app works properly.",
+       "zh": "你必須先更新軟體，這個應用程式才能正常運作。"
       }
      ],
      "patterns": [
@@ -84132,6 +84697,10 @@
       {
        "en": "The school installed solar panels on the roof last summer.",
        "zh": "學校去年夏天在屋頂裝設了太陽能板。"
+      },
+      {
+       "en": "Solar power is becoming cheaper and easier to use every year.",
+       "zh": "太陽能發電一年比一年便宜、好用。"
       }
      ],
      "patterns": [
@@ -84219,6 +84788,10 @@
       {
        "en": "My brother used a spade to plant flowers in the garden.",
        "zh": "我哥哥用鏟子在花園裡種花。"
+      },
+      {
+       "en": "In some card games, the ace of spades is the strongest card.",
+       "zh": "在有些紙牌遊戲裡，黑桃 A 是最大的牌。"
       }
      ],
      "patterns": [
@@ -84280,6 +84853,10 @@
       {
        "en": "Keep a spare key in your school bag in case you lose yours.",
        "zh": "在書包裡放一把備用鑰匙，以防弄丟原本那把。"
+      },
+      {
+       "en": "There is a spare bed in my room if your friend wants to stay.",
+       "zh": "如果你朋友想過夜，我房間有一張多的床。"
       }
      ],
      "patterns": [
@@ -84312,6 +84889,10 @@
       {
        "en": "My mother spared an hour to help me prepare for the test.",
        "zh": "媽媽抽出一個小時幫我準備考試。"
+      },
+      {
+       "en": "Please spare a little time to listen to my idea.",
+       "zh": "請撥一點時間聽聽我的想法。"
       }
      ],
      "patterns": [
@@ -84340,6 +84921,10 @@
       {
        "en": "The driver changed the flat tire with the spare.",
        "zh": "駕駛換上備胎，替換掉破掉的輪胎。"
+      },
+      {
+       "en": "The bike shop sells spares for old models.",
+       "zh": "這家腳踏車行有賣舊款車的備用零件。"
       }
      ],
      "patterns": [],
@@ -84400,6 +84985,10 @@
       {
        "en": "A small spark from the wire caused the machine to stop.",
        "zh": "電線冒出的小火花讓機器停了下來。"
+      },
+      {
+       "en": "Dry leaves can catch fire from a single spark.",
+       "zh": "乾枯的樹葉只要一點火花就可能著火。"
       }
      ],
      "patterns": [
@@ -84428,6 +85017,10 @@
       {
        "en": "The school project sparked interest in saving energy.",
        "zh": "這項校園專題引起了大家節約能源的興趣。"
+      },
+      {
+       "en": "The teacher's story sparked a lively debate in the class.",
+       "zh": "老師的故事在班上引發了熱烈的辯論。"
       }
      ],
      "patterns": [
@@ -84493,6 +85086,10 @@
       {
        "en": "The museum displayed an ancient spear from the island.",
        "zh": "博物館展示了一支來自那座島的古矛。"
+      },
+      {
+       "en": "The hunter carried a long wooden spear across the field.",
+       "zh": "獵人扛著一支長木矛穿過田野。"
       }
      ],
      "patterns": [],
@@ -84511,6 +85108,10 @@
       {
        "en": "The fisherman speared a fish with a long wooden tool.",
        "zh": "漁夫用長木叉刺起一條魚。"
+      },
+      {
+       "en": "He speared a piece of fruit with his fork.",
+       "zh": "他用叉子叉起一塊水果。"
       }
      ],
      "patterns": [
@@ -84563,6 +85164,10 @@
       {
        "en": "This island is home to several rare bird species.",
        "zh": "這座島是幾種稀有鳥類的棲地。"
+      },
+      {
+       "en": "Scientists discover new species of insects almost every year.",
+       "zh": "科學家幾乎每年都會發現新的昆蟲物種。"
       }
      ],
      "patterns": [
@@ -84639,6 +85244,10 @@
       {
        "en": "The quiet garden gave her a sense of spiritual peace.",
        "zh": "寧靜的花園帶給她心靈上的平靜。"
+      },
+      {
+       "en": "Many people visit the temple for spiritual comfort.",
+       "zh": "許多人到廟裡尋求心靈的慰藉。"
       }
      ],
      "patterns": [],
