@@ -43,14 +43,19 @@
      "example": "abandon a plan"
     },
     {
-     "word": "give up",
-     "note": "較口語，常指不再嘗試或停止做某事。",
-     "example": "give up smoking"
-    },
-    {
      "word": "quit",
      "note": "常指停止工作、活動或習慣，語氣直接。",
      "example": "quit a job"
+    },
+    {
+     "word": "desert",
+     "note": "指拋下該照顧的人或擅離職守，帶有背叛責任的意味。",
+     "example": "desert one's family"
+    },
+    {
+     "word": "forsake",
+     "note": "比 abandon 正式、帶文學色彩，常指捨棄信念或親人。",
+     "example": "forsake old friends"
     }
    ],
    "antonyms": [
@@ -125,6 +130,11 @@
      "word": "total",
      "note": "常用於強調全部或整體，語氣直接。",
      "example": "total control"
+    },
+    {
+     "word": "utter",
+     "note": "只放在名詞前，多修飾負面的詞，強調程度十足。",
+     "example": "utter nonsense"
     }
    ],
    "antonyms": [
@@ -219,14 +229,14 @@
      "example": "absorb information"
     },
     {
-     "word": "soak up",
-     "note": "較口語，常指吸收液體、陽光或資訊。",
-     "example": "soak up the sun"
+     "word": "digest",
+     "note": "指把資訊消化吸收，強調花時間慢慢理解。",
+     "example": "digest the information"
     },
     {
-     "word": "take in",
-     "note": "常指接收或理解資訊，也可指吸入空氣。",
-     "example": "take in information"
+     "word": "grasp",
+     "note": "指掌握、弄懂概念或道理，重點在理解而非吸收。",
+     "example": "grasp the idea"
     }
    ],
    "antonyms": [
@@ -458,11 +468,6 @@
      "word": "pronunciation",
      "note": "指單字或語音的發音方式，不一定涉及口音。",
      "example": "correct pronunciation"
-    },
-    {
-     "word": "dialect",
-     "note": "指一種地區語言變體，可能包含用字和文法差異。",
-     "example": "a local dialect"
     }
    ],
    "antonyms": [],
@@ -941,6 +946,11 @@
      "word": "complete",
      "note": "強調把工作或活動做到結束，不一定含有成就感。",
      "example": "complete a project"
+    },
+    {
+     "word": "attain",
+     "note": "較正式，常接目標、地位或程度，強調經努力而達到。",
+     "example": "attain a goal"
     }
    ],
    "antonyms": [
@@ -1036,11 +1046,6 @@
      "word": "bookkeeper",
      "note": "主要負責記錄日常帳目，工作範圍通常較窄。",
      "example": "office bookkeeper"
-    },
-    {
-     "word": "auditor",
-     "note": "負責檢查帳目和財務紀錄，不等同於日常會計工作。",
-     "example": "independent auditor"
     }
    ],
    "antonyms": [],
@@ -1405,14 +1410,14 @@
      "example": "a new acquaintance"
     },
     {
-     "word": "friend",
-     "note": "通常指有較深交情、彼此信任的人。",
-     "example": "a close friend"
-    },
-    {
      "word": "contact",
      "note": "常指因工作或需要而認識、可聯絡的人。",
      "example": "a business contact"
+    },
+    {
+     "word": "familiarity",
+     "note": "專指對事物的熟悉程度，不能指認識的人，常接 with。",
+     "example": "familiarity with computers"
     }
    ],
    "antonyms": [],
@@ -1514,6 +1519,16 @@
      "word": "obtain",
      "note": "語氣較正式，常指經過程序或努力取得。",
      "example": "obtain permission"
+    },
+    {
+     "word": "gain",
+     "note": "強調逐漸得到經驗、知識或好處，也可指數量增加。",
+     "example": "gain experience"
+    },
+    {
+     "word": "purchase",
+     "note": "對應買下的字義，比 buy 正式，常用於商業或書面。",
+     "example": "purchase a house"
     }
    ],
    "antonyms": [
@@ -2009,14 +2024,14 @@
      "example": "admirable courage"
     },
     {
-     "word": "excellent",
-     "note": "泛指品質或表現很好，不一定含有敬佩之意。",
-     "example": "excellent work"
-    },
-    {
      "word": "praiseworthy",
      "note": "較正式，指值得稱讚的行為或表現。",
      "example": "praiseworthy effort"
+    },
+    {
+     "word": "respectable",
+     "note": "著重行為端正、值得尊重，程度不如 admirable 讚賞。",
+     "example": "a respectable job"
     }
    ],
    "antonyms": [
@@ -2107,6 +2122,11 @@
      "word": "appreciation",
      "note": "著重理解並珍惜某人的付出或價值。",
      "example": "appreciation for your help"
+    },
+    {
+     "word": "esteem",
+     "note": "較正式，指長期的敬重與好評，常用 high esteem。",
+     "example": "high esteem"
     }
    ],
    "antonyms": [],
@@ -2213,6 +2233,11 @@
      "word": "confession",
      "note": "通常指承認錯誤或隱瞞的事情，語氣較重。",
      "example": "a confession of a mistake"
+    },
+    {
+     "word": "entry",
+     "note": "泛指進入某處或入場，也用於參賽與入境，比 admission 口語。",
+     "example": "free entry"
     }
    ],
    "antonyms": [],
@@ -2326,6 +2351,11 @@
      "word": "accept",
      "note": "著重同意或接受提議、情況或結果。",
      "example": "accept an offer"
+    },
+    {
+     "word": "embrace",
+     "note": "指欣然接受新觀念或改變，帶有熱切主動的態度。",
+     "example": "embrace change"
     }
    ],
    "antonyms": [],
@@ -2416,6 +2446,11 @@
      "word": "company",
      "note": "通常指以營利為目的的商業機構。",
      "example": "a software company"
+    },
+    {
+     "word": "bureau",
+     "note": "多指政府部門的局處或資訊服務處，範圍比 agency 窄。",
+     "example": "a travel bureau"
     }
    ],
    "antonyms": [],
@@ -2962,6 +2997,16 @@
      "word": "aware",
      "note": "表示知道或察覺某事，常接 of。",
      "example": "aware of the risk"
+    },
+    {
+     "word": "warn",
+     "note": "動詞用法，強調提醒對方有危險或壞事，常接 about。",
+     "example": "warn of danger"
+    },
+    {
+     "word": "alarm",
+     "note": "名詞指警報器或警報聲，動詞則指使人驚慌擔心。",
+     "example": "a fire alarm"
     }
    ],
    "antonyms": [
@@ -3051,14 +3096,14 @@
      "example": "weekly allowance"
     },
     {
-     "word": "pocket money",
-     "note": "常指家長給孩子的零用錢，語氣較口語。",
-     "example": "receive pocket money"
-    },
-    {
      "word": "grant",
      "note": "指為特定用途提供的補助金，通常較正式。",
      "example": "receive a grant"
+    },
+    {
+     "word": "subsidy",
+     "note": "指政府或機構給的補助金，多用於產業或公共政策。",
+     "example": "government subsidies"
     }
    ],
    "antonyms": [],
@@ -4205,11 +4250,6 @@
      "example": "make an apology"
     },
     {
-     "word": "regret",
-     "note": "表示遺憾或懊悔，不一定是向他人道歉。",
-     "example": "express regret"
-    },
-    {
      "word": "excuse",
      "note": "可指為錯誤提出的理由，也可用於請求原諒。",
      "example": "offer an excuse"
@@ -4376,11 +4416,6 @@
      "word": "candidate",
      "note": "指參加選拔或考慮中的人，不一定已提出正式申請。",
      "example": "a suitable candidate"
-    },
-    {
-     "word": "job seeker",
-     "note": "特指正在找工作的人，較口語。",
-     "example": "young job seekers"
     }
    ],
    "antonyms": [],
@@ -4556,6 +4591,11 @@
      "word": "choose",
      "note": "一般的選擇，不一定具有任命的正式程序。",
      "example": "choose a team leader"
+    },
+    {
+     "word": "nominate",
+     "note": "指提名為候選人，通常還需經過選舉或批准才算任命。",
+     "example": "nominate a candidate"
     }
    ],
    "antonyms": [],
@@ -4669,6 +4709,11 @@
      "word": "recognition",
      "note": "著重承認某人的努力或成就，不一定帶有感謝。",
      "example": "recognition of effort"
+    },
+    {
+     "word": "admiration",
+     "note": "對應欣賞的字義，著重對人能力或品格的佩服。",
+     "example": "deep admiration"
     }
    ],
    "antonyms": [],
@@ -4857,6 +4902,11 @@
      "word": "support",
      "note": "表示支持某人或計畫，不一定代表正式批准。",
      "example": "show support"
+    },
+    {
+     "word": "consent",
+     "note": "強調當事人同意或准許，常用於法律、醫療或父母同意。",
+     "example": "parental consent"
     }
    ],
    "antonyms": [
@@ -4927,11 +4977,6 @@
      "word": "aquarium",
      "note": "指飼養或展示水生生物的水族箱，也可指水族館。",
      "example": "a public aquarium"
-    },
-    {
-     "word": "fish tank",
-     "note": "通常指家中飼養魚類的水族箱，範圍較窄。",
-     "example": "clean the fish tank"
     }
    ],
    "antonyms": [],
@@ -5105,6 +5150,11 @@
      "word": "happen",
      "note": "最常見、較口語的「發生」。",
      "example": "something happened"
+    },
+    {
+     "word": "emerge",
+     "note": "強調從隱藏狀態中浮現或顯露，常用於事實或人物。",
+     "example": "emerge from the dark"
     }
    ],
    "antonyms": [],
@@ -5304,6 +5354,11 @@
      "word": "unnatural",
      "note": "強調不像自然狀態或令人感到不自然。",
      "example": "an unnatural voice"
+    },
+    {
+     "word": "fake",
+     "note": "較口語，強調假冒仿造、有欺騙意味，artificial 則無此意。",
+     "example": "fake money"
     }
    ],
    "antonyms": [
@@ -5377,6 +5432,11 @@
      "word": "artful",
      "note": "可指有技巧的，也可能帶有狡猾的意思。",
      "example": "an artful design"
+    },
+    {
+     "word": "aesthetic",
+     "note": "著重美感或美學觀點，較正式，不指個人有藝術天分。",
+     "example": "aesthetic value"
     }
    ],
    "antonyms": [],
@@ -5552,6 +5612,11 @@
      "word": "feature",
      "note": "指事物可辨認的特點或特色。",
      "example": "a key feature"
+    },
+    {
+     "word": "dimension",
+     "note": "指問題的層面或面向，較正式，常用於抽象議題。",
+     "example": "a new dimension"
     }
    ],
    "antonyms": [],
@@ -5614,11 +5679,6 @@
      "word": "aspirin",
      "note": "指阿斯匹靈這種藥物，也可指一顆藥錠。",
      "example": "take aspirin"
-    },
-    {
-     "word": "painkiller",
-     "note": "泛指止痛藥，不限定藥物種類。",
-     "example": "take a painkiller"
     }
    ],
    "antonyms": [],
@@ -5686,9 +5746,9 @@
      "example": "gather in the hall"
     },
     {
-     "word": "put together",
-     "note": "較口語，常指把零件或材料組合起來。",
-     "example": "put together a desk"
+     "word": "convene",
+     "note": "較正式，指召集會議或成員，主詞多是主管或機構。",
+     "example": "convene a meeting"
     }
    ],
    "antonyms": [
@@ -5772,6 +5832,11 @@
      "word": "meeting",
      "note": "通常指為討論或工作而舉行的會議。",
      "example": "a team meeting"
+    },
+    {
+     "word": "rally",
+     "note": "多指為支持或抗議而舉行的群眾集會，氣氛較熱烈。",
+     "example": "a political rally"
     }
    ],
    "antonyms": [],
@@ -5851,6 +5916,11 @@
      "word": "give",
      "note": "最常見的一般用語，不特別強調正式分派。",
      "example": "give students homework"
+    },
+    {
+     "word": "allocate",
+     "note": "著重分配資源、經費或時間，較正式，少用於分派人。",
+     "example": "allocate funds"
     }
    ],
    "antonyms": [],
@@ -6049,6 +6119,11 @@
      "word": "link",
      "note": "常指指出兩件事物有關聯，語氣直接。",
      "example": "link the two events"
+    },
+    {
+     "word": "colleague",
+     "note": "專指同一工作單位的同事，比 associate 名詞用法常見。",
+     "example": "a former colleague"
     }
    ],
    "antonyms": [],
@@ -6151,6 +6226,11 @@
      "word": "connection",
      "note": "泛指兩件事物間的連結或關係。",
      "example": "a close connection"
+    },
+    {
+     "word": "society",
+     "note": "對應協會的字義，多指學術、專業或興趣性社團。",
+     "example": "a medical society"
     }
    ],
    "antonyms": [],
@@ -6238,6 +6318,11 @@
      "word": "confidence",
      "note": "對自己或某事有信心，不一定包含保證。",
      "example": "speak with confidence"
+    },
+    {
+     "word": "guarantee",
+     "note": "語氣比 assurance 確定，也指商品保固等正式擔保。",
+     "example": "a money-back guarantee"
     }
    ],
    "antonyms": [],
@@ -6321,9 +6406,9 @@
      "example": "reassure a worried parent"
     },
     {
-     "word": "ensure",
-     "note": "確保事情發生，不以安撫某人為重點。",
-     "example": "ensure safety"
+     "word": "guarantee",
+     "note": "強調擔保結果一定發生，常接 that 子句或名詞，不直接接人表示安撫。",
+     "example": "guarantee success"
     }
    ],
    "antonyms": [],
@@ -6550,11 +6635,6 @@
      "word": "atom",
      "note": "科學上指原子，是構成物質的基本單位。",
      "example": "a single atom"
-    },
-    {
-     "word": "particle",
-     "note": "泛指微小粒子，範圍比原子廣。",
-     "example": "a tiny particle"
     }
    ],
    "antonyms": [],
@@ -6730,6 +6810,11 @@
      "word": "add",
      "note": "一般指增加或補上內容，不一定是實體固定。",
      "example": "add a photo"
+    },
+    {
+     "word": "enclose",
+     "note": "專指隨信或包裹附上文件，常用被動 enclosed。",
+     "example": "enclose a check"
     }
    ],
    "antonyms": [
@@ -7094,6 +7179,11 @@
      "word": "expert",
      "note": "指在某領域有專業知識的人。",
      "example": "medical expert"
+    },
+    {
+     "word": "specialist",
+     "note": "指專精某一領域的專家或專科醫師，不帶權力意味。",
+     "example": "a heart specialist"
     }
    ],
    "antonyms": [],
@@ -7345,6 +7435,11 @@
      "word": "expect",
      "note": "指預期某事發生，不一定含等待的動作。",
      "example": "expect a reply"
+    },
+    {
+     "word": "anticipate",
+     "note": "重點是預料或期待即將發生的事，較正式，接名詞或 V-ing。",
+     "example": "anticipate problems"
     }
    ],
    "antonyms": [],
@@ -7483,11 +7578,6 @@
      "word": "ballet",
      "note": "指一種以舞蹈動作和音樂呈現的表演藝術。",
      "example": "learn ballet"
-    },
-    {
-     "word": "dance",
-     "note": "泛指舞蹈，不限於芭蕾形式。",
-     "example": "learn to dance"
     }
    ],
    "antonyms": [],
@@ -7568,6 +7658,11 @@
      "word": "wrap",
      "note": "泛指用布或材料包住，不限於醫療包紮。",
      "example": "wrap a gift"
+    },
+    {
+     "word": "dressing",
+     "note": "指覆蓋傷口的敷料，比 bandage 專業，多用於醫療情境。",
+     "example": "a wound dressing"
     }
    ],
    "antonyms": [],
@@ -7801,6 +7896,11 @@
      "word": "boundary",
      "note": "指分隔範圍或限制活動的界線。",
      "example": "a national boundary"
+    },
+    {
+     "word": "hurdle",
+     "note": "原指跨欄，比喻必須跨過的難關，常用於計畫或考驗。",
+     "example": "clear a hurdle"
     }
    ],
    "antonyms": [],
@@ -7975,6 +8075,11 @@
      "word": "cell",
      "note": "可指電池中的單一電芯，範圍比整組電池小。",
      "example": "a battery cell"
+    },
+    {
+     "word": "array",
+     "note": "指一整排或一大批同類事物，常用 an array of。",
+     "example": "a wide array"
     }
    ],
    "antonyms": [],
@@ -8185,11 +8290,6 @@
      "word": "biography",
      "note": "描述他人一生的書或文章；作者通常不是傳主本人。",
      "example": "a biography of a writer"
-    },
-    {
-     "word": "life story",
-     "note": "較日常的說法，可指傳記，也可泛指人生經歷。",
-     "example": "tell her life story"
     }
    ],
    "antonyms": [],
@@ -8267,11 +8367,6 @@
      "word": "biology",
      "note": "研究生物及生命現象的學科名稱。",
      "example": "study biology"
-    },
-    {
-     "word": "life science",
-     "note": "較廣泛的學科稱呼，涵蓋生物學及相關領域。",
-     "example": "a life science course"
     }
    ],
    "antonyms": [],
@@ -8437,6 +8532,16 @@
      "word": "combine",
      "note": "把事物結合在一起，較強調合併或組合。",
      "example": "combine two ideas"
+    },
+    {
+     "word": "mingle",
+     "note": "多指人在群眾中交際，或聲音氣味交雜，不一定融合。",
+     "example": "mingle with guests"
+    },
+    {
+     "word": "merge",
+     "note": "強調兩者合併成一體，常用於公司、道路或資料。",
+     "example": "merge two companies"
     }
    ],
    "antonyms": [],
@@ -8561,11 +8666,6 @@
      "word": "blink",
      "note": "指眼皮快速閉合再張開，也可指極短的時間。",
      "example": "blink twice"
-    },
-    {
-     "word": "wink",
-     "note": "通常指故意只閉上一隻眼，常用來傳達訊息。",
-     "example": "wink at a friend"
     }
    ],
    "antonyms": [],
@@ -8630,6 +8730,11 @@
      "word": "blossom",
      "note": "常指開花或發展得很好，語氣較有文學色彩。",
      "example": "trees blossom"
+    },
+    {
+     "word": "flourish",
+     "note": "比喻事業、經濟或生物興盛發展，不指開花本身。",
+     "example": "business flourishes"
     }
    ],
    "antonyms": [],
@@ -8694,6 +8799,11 @@
      "word": "bloom",
      "note": "常指花朵盛開，也可比喻狀態或能力轉好。",
      "example": "flowers bloom"
+    },
+    {
+     "word": "flourish",
+     "note": "強調蓬勃發展、興旺，常形容產業、藝術或經濟。",
+     "example": "arts flourish"
     }
    ],
    "antonyms": [],
@@ -8772,11 +8882,6 @@
      "word": "brag",
      "note": "較口語，通常帶有令人反感的炫耀意味。",
      "example": "brag about a prize"
-    },
-    {
-     "word": "claim",
-     "note": "表示聲稱某事為真，不一定帶有誇耀語氣。",
-     "example": "claim success"
     }
    ],
    "antonyms": [],
@@ -8944,6 +9049,11 @@
      "word": "rebound",
      "note": "較正式，可指球反彈，也可比喻狀況回升。",
      "example": "rebound from a loss"
+    },
+    {
+     "word": "bound",
+     "note": "指大步跳躍前進，常形容人或動物，不指撞擊後彈回。",
+     "example": "bound up the stairs"
     }
    ],
    "antonyms": [],
@@ -9190,6 +9300,11 @@
      "word": "penniless",
      "note": "較正式，強調完全沒有錢。",
      "example": "become penniless"
+    },
+    {
+     "word": "bankrupt",
+     "note": "指正式宣告破產，多用於公司或法律情境，比 broke 嚴重。",
+     "example": "go bankrupt"
     }
    ],
    "antonyms": [
@@ -9330,6 +9445,11 @@
      "word": "harsh",
      "note": "可指嚴苛或不友善，語氣通常較弱。",
      "example": "harsh conditions"
+    },
+    {
+     "word": "savage",
+     "note": "強調野蠻兇猛，常形容攻擊或批評極為猛烈。",
+     "example": "a savage attack"
     }
    ],
    "antonyms": [
@@ -9450,9 +9570,9 @@
      "example": "catch a thief"
     },
     {
-     "word": "robber",
-     "note": "指以威脅或強制手段搶劫的人。",
-     "example": "a bank robber"
+     "word": "intruder",
+     "note": "泛指未經允許闖入的人，不一定有偷竊目的。",
+     "example": "an armed intruder"
     }
    ],
    "antonyms": [],
@@ -9933,9 +10053,9 @@
      "example": "a walking cane"
     },
     {
-     "word": "walking stick",
-     "note": "明確指走路時使用的手杖。",
-     "example": "use a walking stick"
+     "word": "stick",
+     "note": "最常用的一般說法，指棍子或拐杖，cane 較專指手杖。",
+     "example": "a walking stick"
     }
    ],
    "antonyms": [],
@@ -10009,11 +10129,6 @@
      "word": "canoe",
      "note": "指開口較寬、以槳划行的船，也可作動詞。",
      "example": "paddle a canoe"
-    },
-    {
-     "word": "kayak",
-     "note": "通常使用雙葉槳，船身和坐姿與獨木舟不同。",
-     "example": "paddle a kayak"
     }
    ],
    "antonyms": [],
@@ -10107,6 +10222,11 @@
      "word": "capability",
      "note": "強調具備完成特定任務的能力或條件。",
      "example": "technical capability"
+    },
+    {
+     "word": "competence",
+     "note": "強調足以勝任工作的能力，常用於專業或職場。",
+     "example": "professional competence"
     }
    ],
    "antonyms": [],
@@ -10186,11 +10306,6 @@
      "word": "investor",
      "note": "泛指投入資金的人，不一定擁有大量資本。",
      "example": "a careful investor"
-    },
-    {
-     "word": "businessperson",
-     "note": "泛指經營或從事商業的人，不特指資本所有者。",
-     "example": "a local businessperson"
     }
    ],
    "antonyms": [],
@@ -10334,11 +10449,6 @@
      "word": "courier",
      "note": "通常指負責快速遞送包裹或文件的人或公司。",
      "example": "a bicycle courier"
-    },
-    {
-     "word": "transport company",
-     "note": "泛指運輸公司，不限於特定貨物或運送方式。",
-     "example": "a transport company"
     }
    ],
    "antonyms": [],
@@ -10641,6 +10751,11 @@
      "word": "class",
      "note": "可指依特徵劃分的類別，也可指課堂或社會階級。",
      "example": "a class of animals"
+    },
+    {
+     "word": "sort",
+     "note": "比 category 口語的種類，常用 all sorts of。",
+     "example": "all sorts of"
     }
    ],
    "antonyms": [],
@@ -10730,6 +10845,11 @@
      "word": "end",
      "note": "表示某事結束，常把活動或期間當作主詞。",
      "example": "end the meeting"
+    },
+    {
+     "word": "halt",
+     "note": "強調突然或被迫停止，常用於活動、交通或生產。",
+     "example": "come to a halt"
     }
    ],
    "antonyms": [
@@ -11121,6 +11241,11 @@
      "word": "quality",
      "note": "常指人的特質或事物的品質，不一定是可辨識的典型特徵。",
      "example": "a personal quality"
+    },
+    {
+     "word": "trait",
+     "note": "多指人的性格特質或遺傳特徵，較少用於物品。",
+     "example": "a personality trait"
     }
    ],
    "antonyms": [],
@@ -11527,11 +11652,6 @@
      "example": "chew food"
     },
     {
-     "word": "bite",
-     "note": "用牙齒咬下或咬住，未必持續咀嚼。",
-     "example": "bite an apple"
-    },
-    {
      "word": "munch",
      "note": "大口且常伴隨聲音地咀嚼，語氣較口語。",
      "example": "munch on chips"
@@ -11628,6 +11748,11 @@
      "word": "gag",
      "note": "因異物或強烈氣味而作嘔、乾嘔。",
      "example": "gag on the smell"
+    },
+    {
+     "word": "strangle",
+     "note": "指用手或繩子勒住脖子，主詞是施害者，也可比喻扼殺。",
+     "example": "strangle the victim"
     }
    ],
    "antonyms": [],
@@ -12198,11 +12323,6 @@
      "word": "citizen",
      "note": "指某國或城市的公民，重點是法律身分。",
      "example": "a Canadian citizen"
-    },
-    {
-     "word": "resident",
-     "note": "指住在某地的人，不一定具有公民身分。",
-     "example": "local residents"
     }
    ],
    "antonyms": [
@@ -12520,6 +12640,11 @@
      "word": "disagree",
      "note": "表示意見不同，通常不一定造成激烈衝突。",
      "example": "disagree with a decision"
+    },
+    {
+     "word": "friction",
+     "note": "比喻人際間的摩擦不和，程度比 clash 輕而持續。",
+     "example": "friction between colleagues"
     }
    ],
    "antonyms": [
@@ -12941,11 +13066,6 @@
      "word": "awkward",
      "note": "可指動作笨拙，也常形容處境或氣氛令人尷尬。",
      "example": "an awkward moment"
-    },
-    {
-     "word": "careless",
-     "note": "強調因不小心而出錯，不一定動作笨拙。",
-     "example": "a careless mistake"
     }
    ],
    "antonyms": [
@@ -13227,6 +13347,11 @@
      "word": "crash",
      "note": "常指物體猛烈撞擊或系統突然停止運作。",
      "example": "the computer crashed"
+    },
+    {
+     "word": "breakdown",
+     "note": "多指機器故障或精神崩潰，也可指談判或關係破裂。",
+     "example": "a nervous breakdown"
     }
    ],
    "antonyms": [],
@@ -13285,11 +13410,6 @@
      "word": "coworker",
      "note": "常指一起工作的同事，語氣較口語。",
      "example": "a helpful coworker"
-    },
-    {
-     "word": "partner",
-     "note": "指合作夥伴，不一定是同事。",
-     "example": "a business partner"
     }
    ],
    "antonyms": [],
@@ -13503,16 +13623,6 @@
      "word": "commander",
      "note": "負責指揮軍隊、團隊或行動的人。",
      "example": "a team commander"
-    },
-    {
-     "word": "leader",
-     "note": "一般的領導者，不一定負責下達指令。",
-     "example": "a group leader"
-    },
-    {
-     "word": "officer",
-     "note": "指具有職位或階級的人，不一定是最高指揮者。",
-     "example": "a police officer"
     }
    ],
    "antonyms": [],
@@ -13897,6 +14007,16 @@
      "word": "contact",
      "note": "指保持聯繫，不一定包含深入交流。",
      "example": "keep in contact"
+    },
+    {
+     "word": "interaction",
+     "note": "強調雙方互動往來，常用於人際或社群情境。",
+     "example": "social interaction"
+    },
+    {
+     "word": "correspondence",
+     "note": "專指書信或電子郵件往來，較正式。",
+     "example": "business correspondence"
     }
    ],
    "antonyms": [],
@@ -13993,6 +14113,11 @@
      "word": "group",
      "note": "一般的團體，不一定有共同身分或長期連結。",
      "example": "a study group"
+    },
+    {
+     "word": "neighborhood",
+     "note": "指住家附近的地區或街坊，偏重地理範圍。",
+     "example": "a quiet neighborhood"
     }
    ],
    "antonyms": [],
@@ -14071,6 +14196,11 @@
      "word": "partner",
      "note": "指共同參與活動或工作的夥伴。",
      "example": "a tennis partner"
+    },
+    {
+     "word": "comrade",
+     "note": "指一起奮鬥的同伴或戰友，帶革命或政治色彩。",
+     "example": "comrades in arms"
     }
    ],
    "antonyms": [],
@@ -14284,11 +14414,6 @@
      "word": "rival",
      "note": "常描述彼此競爭的對手或關係，語意較直接。",
      "example": "rival schools"
-    },
-    {
-     "word": "ambitious",
-     "note": "強調有抱負、積極追求成功，不一定涉及競爭。",
-     "example": "an ambitious student"
     }
    ],
    "antonyms": [
@@ -14368,6 +14493,11 @@
      "word": "opponent",
      "note": "常指比賽或辯論中直接對上的對手。",
      "example": "a debate opponent"
+    },
+    {
+     "word": "contestant",
+     "note": "專指參加比賽或競賽節目的參賽者，不指商業對手。",
+     "example": "a quiz show contestant"
     }
    ],
    "antonyms": [],
@@ -14557,9 +14687,9 @@
      "example": "write a poem"
     },
     {
-     "word": "make up",
-     "note": "表示構成整體，常用主動句描述各部分。",
-     "example": "make up the team"
+     "word": "form",
+     "note": "對應組成的字義，語氣一般，常用 form a group。",
+     "example": "form a team"
     }
    ],
    "antonyms": [],
@@ -14638,11 +14768,6 @@
      "word": "songwriter",
      "note": "主要創作歌曲，常包含歌詞與旋律。",
      "example": "a talented songwriter"
-    },
-    {
-     "word": "musician",
-     "note": "泛指演奏或創作音樂的人，不一定負責作曲。",
-     "example": "a school musician"
     }
    ],
    "antonyms": [],
@@ -14752,6 +14877,11 @@
      "word": "structure",
      "note": "強調各部分的安排方式，不指作文作品。",
      "example": "the structure of a team"
+    },
+    {
+     "word": "makeup",
+     "note": "指整體的組成成分，較口語，也可指化妝品。",
+     "example": "genetic makeup"
     }
    ],
    "antonyms": [],
@@ -14821,11 +14951,6 @@
      "word": "focus",
      "note": "常見簡潔說法，可作動詞或名詞，也常接 on。",
      "example": "focus on the task"
-    },
-    {
-     "word": "pay attention",
-     "note": "表示留意或專心聽看，後接 to。",
-     "example": "pay attention to class"
     }
    ],
    "antonyms": [
@@ -15254,11 +15379,6 @@
      "word": "leader",
      "note": "泛指帶領團體的人，不一定負責音樂指揮。",
      "example": "a team leader"
-    },
-    {
-     "word": "guide",
-     "note": "帶領或引導他人的人，常用於活動或旅程。",
-     "example": "a tour guide"
     }
    ],
    "antonyms": [],
@@ -15353,6 +15473,11 @@
      "word": "seminar",
      "note": "以特定主題的學習或討論為主，通常規模較小。",
      "example": "a science seminar"
+    },
+    {
+     "word": "congress",
+     "note": "指大型的正式代表大會，或美國國會，規模較大。",
+     "example": "an international congress"
     }
    ],
    "antonyms": [],
@@ -15557,6 +15682,11 @@
      "word": "trust",
      "note": "主要指相信某人可靠，不一定是對自己的信心。",
      "example": "trust in the team"
+    },
+    {
+     "word": "assurance",
+     "note": "強調說話做事時沉著有把握，比 confidence 正式。",
+     "example": "speak with assurance"
     }
    ],
    "antonyms": [
@@ -15768,11 +15898,6 @@
      "word": "praise",
      "note": "稱讚表現或特質，不一定是為了慶祝成就。",
      "example": "praise her hard work"
-    },
-    {
-     "word": "celebrate",
-     "note": "慶祝事件或成就，重點在一起歡慶。",
-     "example": "celebrate their victory"
     }
    ],
    "antonyms": [],
@@ -16109,6 +16234,11 @@
      "word": "effect",
      "note": "強調某事造成的影響或作用。",
      "example": "the effect of exercise"
+    },
+    {
+     "word": "outcome",
+     "note": "強調事情最後的結局，常用於比賽、選舉或談判。",
+     "example": "the final outcome"
     }
    ],
    "antonyms": [],
@@ -16276,6 +16406,11 @@
      "word": "traditional",
      "note": "依循長久形成的習俗或方式，不一定缺乏改變意願。",
      "example": "traditional customs"
+    },
+    {
+     "word": "conventional",
+     "note": "強調依照一般慣例做事，常帶有缺乏新意的意味。",
+     "example": "conventional methods"
     }
    ],
    "antonyms": [
@@ -16481,6 +16616,11 @@
      "word": "constant",
      "note": "強調持續不變，常描述狀態或數量。",
      "example": "constant pressure"
+    },
+    {
+     "word": "coherent",
+     "note": "著重言論或文章有條理、合乎邏輯，不指表現穩定。",
+     "example": "a coherent argument"
     }
    ],
    "antonyms": [
@@ -16591,9 +16731,9 @@
      "example": "form a group"
     },
     {
-     "word": "make up",
-     "note": "常見片語動詞，可說明部分構成整體。",
-     "example": "make up half the class"
+     "word": "comprise",
+     "note": "指由各部分組成，主詞是整體，例如 A comprises B。",
+     "example": "comprise three parts"
     }
    ],
    "antonyms": [],
@@ -16786,6 +16926,11 @@
      "word": "create",
      "note": "強調創造或產生，不限於把部分組合起來。",
      "example": "create a plan"
+    },
+    {
+     "word": "erect",
+     "note": "較正式，強調豎立起建築物、雕像或帳篷。",
+     "example": "erect a statue"
     }
    ],
    "antonyms": [
@@ -16949,6 +17094,11 @@
      "word": "positive",
      "note": "強調正面態度或結果，不一定有具體改善作用。",
      "example": "a positive attitude"
+    },
+    {
+     "word": "productive",
+     "note": "強調產出成果或效率高，常形容會議或工作時間。",
+     "example": "a productive meeting"
     }
    ],
    "antonyms": [
@@ -17053,8 +17203,8 @@
      "example": "ask the teacher"
     },
     {
-     "word": "refer to",
-     "note": "指查閱或參考資料，不表示向人請教。",
+     "word": "refer",
+     "note": "對應查閱字義，須說 refer to，常接字典或筆記。",
      "example": "refer to a dictionary"
     }
    ],
@@ -17242,6 +17392,11 @@
      "word": "eat",
      "note": "專指吃食物，語氣比 consume 日常。",
      "example": "eat fresh food"
+    },
+    {
+     "word": "devour",
+     "note": "指狼吞虎嚥地吃，也比喻如飢似渴地閱讀，語氣生動。",
+     "example": "devour a book"
     }
    ],
    "antonyms": [],
@@ -17427,11 +17582,6 @@
      "word": "container",
      "note": "泛指可盛裝或運送物品的容器。",
      "example": "a food container"
-    },
-    {
-     "word": "box",
-     "note": "通常指有固定形狀、以紙板或其他材料製成的盒子。",
-     "example": "a cardboard box"
     },
     {
      "word": "holder",
@@ -17824,11 +17974,6 @@
      "word": "frequent",
      "note": "表示發生次數多，不特別強調延續或中斷。",
      "example": "frequent visits"
-    },
-    {
-     "word": "continuous",
-     "note": "指不中斷地持續，強調時間上的連續。",
-     "example": "continuous rain"
     }
    ],
    "antonyms": [],
@@ -17896,11 +18041,6 @@
      "word": "constant",
      "note": "表示一直存在或反覆出現，也可指數量或狀態固定。",
      "example": "constant pressure"
-    },
-    {
-     "word": "continual",
-     "note": "表示一再發生，可能在每次發生之間有間隔。",
-     "example": "continual interruptions"
     }
    ],
    "antonyms": [
@@ -18097,14 +18237,19 @@
      "example": "contrast A with B"
     },
     {
-     "word": "compare",
-     "note": "泛指比較相同點與不同點，不一定強調差異。",
-     "example": "compare two plans"
-    },
-    {
      "word": "differ",
      "note": "動詞，表示彼此不同，後面常接 from。",
      "example": "differ from the original"
+    },
+    {
+     "word": "difference",
+     "note": "最常用的名詞，只表示兩者不同，不強調並列對照。",
+     "example": "a big difference"
+    },
+    {
+     "word": "distinction",
+     "note": "較正式，指刻意區分的差別，常用 make a distinction。",
+     "example": "a clear distinction"
     }
    ],
    "antonyms": [],
@@ -18312,6 +18457,11 @@
      "word": "effort",
      "note": "為完成事情付出的力氣，不一定對外提供資源。",
      "example": "make an effort"
+    },
+    {
+     "word": "input",
+     "note": "指對計畫或討論提供的意見與想法，不指金錢。",
+     "example": "valuable input"
     }
    ],
    "antonyms": [],
@@ -18503,6 +18653,11 @@
      "word": "conference",
      "note": "指以討論或交流為主的會議。",
      "example": "attend a conference"
+    },
+    {
+     "word": "tradition",
+     "note": "強調代代相傳的習俗，比 convention 更有歷史感。",
+     "example": "a family tradition"
     }
    ],
    "antonyms": [],
@@ -18558,6 +18713,16 @@
      "word": "usual",
      "note": "指平常、常見的情況，語氣較口語。",
      "example": "usual routine"
+    },
+    {
+     "word": "orthodox",
+     "note": "指符合公認或正統的觀點，常用於宗教、醫學或理論。",
+     "example": "orthodox views"
+    },
+    {
+     "word": "customary",
+     "note": "指依照習慣通常會做的，較正式，常用於禮節。",
+     "example": "a customary greeting"
     }
    ],
    "antonyms": [
@@ -18891,11 +19056,6 @@
      "word": "collaborate",
      "note": "常指為共同目標進行較正式或持續的合作。",
      "example": "collaborate on a project"
-    },
-    {
-     "word": "work together",
-     "note": "最直接、常用的口語說法。",
-     "example": "work together as a team"
     }
    ],
    "antonyms": [],
@@ -19304,6 +19464,16 @@
      "word": "string",
      "note": "通常較細，常用來綁輕巧物品。",
      "example": "a piece of string"
+    },
+    {
+     "word": "cable",
+     "note": "指較粗的電纜或纜線，常用於電視、網路或電力。",
+     "example": "a power cable"
+    },
+    {
+     "word": "wire",
+     "note": "指金屬導線，比 cord 細，外面不一定有包覆。",
+     "example": "copper wire"
     }
    ],
    "antonyms": [],
@@ -19471,11 +19641,6 @@
      "example": "a stage costume"
     },
     {
-     "word": "clothes",
-     "note": "衣服的通稱，不特指表演或特殊場合。",
-     "example": "warm clothes"
-    },
-    {
      "word": "outfit",
      "note": "指一套搭配好的衣服，常用於日常穿著。",
      "example": "a school outfit"
@@ -19531,9 +19696,14 @@
      "example": "a cabin in the woods"
     },
     {
-     "word": "house",
-     "note": "一般住宅的通稱，不表示房屋較小或位於鄉間。",
-     "example": "a family house"
+     "word": "hut",
+     "note": "指簡陋的小屋或茅屋，比 cottage 更粗陋。",
+     "example": "a wooden hut"
+    },
+    {
+     "word": "lodge",
+     "note": "指山區或景點供住宿的小屋或旅館，常為度假用。",
+     "example": "a ski lodge"
     }
    ],
    "antonyms": [],
@@ -19597,6 +19767,11 @@
      "word": "board",
      "note": "常指管理機構或負責監督決策的團體。",
      "example": "school board"
+    },
+    {
+     "word": "commission",
+     "note": "指為調查或監督特定事務而設的委員會，多屬官方。",
+     "example": "a human rights commission"
     }
    ],
    "antonyms": [],
@@ -19687,6 +19862,11 @@
      "word": "resist",
      "note": "表示抵抗壓力、誘惑或改變，強調不屈服。",
      "example": "resist pressure"
+    },
+    {
+     "word": "refute",
+     "note": "較正式，強調用證據證明對方說法錯誤，語氣比 counter 強。",
+     "example": "refute the claim"
     }
    ],
    "antonyms": [
@@ -20035,6 +20215,11 @@
      "word": "solve",
      "note": "專指解決問題或找出答案，不表示弄裂。",
      "example": "solve a puzzle"
+    },
+    {
+     "word": "fracture",
+     "note": "多指骨頭斷裂或硬物裂開，常用於醫學情境。",
+     "example": "a hip fracture"
     }
    ],
    "antonyms": [
@@ -20134,6 +20319,11 @@
      "word": "create",
      "note": "強調創造出新事物，適用範圍較廣。",
      "example": "create a design"
+    },
+    {
+     "word": "handicraft",
+     "note": "專指手工藝品或手工技藝，偏名詞，不作動詞。",
+     "example": "local handicrafts"
     }
    ],
    "antonyms": [],
@@ -20479,6 +20669,11 @@
      "word": "judge",
      "note": "指負責評判或決定優劣的人，不一定撰寫評論。",
      "example": "a contest judge"
+    },
+    {
+     "word": "commentator",
+     "note": "指在媒體上評論時事或實況播報的人。",
+     "example": "a sports commentator"
     }
    ],
    "antonyms": [
@@ -20610,6 +20805,11 @@
      "word": "essential",
      "note": "表示不可或缺，強調必要性。",
      "example": "essential information"
+    },
+    {
+     "word": "crucial",
+     "note": "只表示關鍵、極重要，不帶批評或危急的意思。",
+     "example": "a crucial role"
     }
    ],
    "antonyms": [
@@ -20830,6 +21030,11 @@
      "word": "evaluate",
      "note": "表示評估優缺點，語氣較客觀，不一定是負面。",
      "example": "evaluate a report"
+    },
+    {
+     "word": "condemn",
+     "note": "語氣比 criticize 強烈，指公開嚴厲譴責，多用於道德或政治。",
+     "example": "condemn the attack"
     }
    ],
    "antonyms": [
@@ -21152,6 +21357,16 @@
      "word": "defeat",
      "note": "在比賽或衝突中打敗對手，語氣較中性。",
      "example": "defeat a team"
+    },
+    {
+     "word": "smash",
+     "note": "強調猛力打碎或撞擊，常伴隨破裂聲，也指大成功。",
+     "example": "smash a window"
+    },
+    {
+     "word": "squash",
+     "note": "指把軟的東西壓扁，或擠進狹小空間，較口語。",
+     "example": "squash a bug"
     }
    ],
    "antonyms": [],
@@ -21319,6 +21534,11 @@
      "word": "hint",
      "note": "通常是間接的線索或暗示，不一定指示行動時機。",
      "example": "a useful hint"
+    },
+    {
+     "word": "prompt",
+     "note": "多指提醒忘詞的人或電腦提示，也可作動詞表示促使。",
+     "example": "a gentle prompt"
     }
    ],
    "antonyms": [],
@@ -21412,6 +21632,11 @@
      "word": "sly",
      "note": "指偷偷摸摸、狡詐，語氣較口語。",
      "example": "a sly smile"
+    },
+    {
+     "word": "sneaky",
+     "note": "較口語，強調偷偷摸摸、不光明，程度通常比 cunning 輕。",
+     "example": "a sneaky trick"
     }
    ],
    "antonyms": [],
@@ -21869,6 +22094,11 @@
      "word": "reduce",
      "note": "泛指降低數量、程度或影響，語氣中性。",
      "example": "reduce the cost"
+    },
+    {
+     "word": "pad",
+     "note": "指保護或吸收衝擊的護墊，常用於運動或文具。",
+     "example": "knee pads"
     }
    ],
    "antonyms": [],
@@ -22088,6 +22318,11 @@
      "word": "state",
      "note": "清楚說明看法或事實，不一定是正式公告。",
      "example": "state an opinion"
+    },
+    {
+     "word": "proclaim",
+     "note": "比 declare 更莊重，指正式公開宣告，常用於國家或重大事件。",
+     "example": "proclaim independence"
     }
    ],
    "antonyms": [],
@@ -22276,6 +22511,11 @@
      "word": "overcome",
      "note": "指克服困難或障礙，不一定是打敗對手。",
      "example": "overcome a problem"
+    },
+    {
+     "word": "conquer",
+     "note": "指以武力征服土地或人民，也比喻克服恐懼。",
+     "example": "conquer one's fear"
     }
    ],
    "antonyms": [
@@ -22385,6 +22625,11 @@
      "word": "guard",
      "note": "指守衛或看守特定地點、入口或物品。",
      "example": "guard the door"
+    },
+    {
+     "word": "justify",
+     "note": "對應辯護的字義，指說明理由證明某行為正當合理。",
+     "example": "justify a decision"
     }
    ],
    "antonyms": [
@@ -22914,6 +23159,11 @@
      "word": "sensitive",
      "note": "常指容易受影響的感受、議題或身體部位。",
      "example": "sensitive skin"
+    },
+    {
+     "word": "subtle",
+     "note": "對應微妙的字義，指細微不易察覺，常形容差異或味道。",
+     "example": "a subtle difference"
     }
    ],
    "antonyms": [
@@ -23013,6 +23263,11 @@
      "word": "thrill",
      "note": "表示帶來強烈興奮，情緒程度通常較高。",
      "example": "thrill the crowd"
+    },
+    {
+     "word": "joy",
+     "note": "最常用的名詞，指快樂喜悅，不能作動詞使用。",
+     "example": "tears of joy"
     }
    ],
    "antonyms": [
@@ -23474,6 +23729,16 @@
      "word": "protest",
      "note": "指表達反對或不滿的行動，不一定是遊行。",
      "example": "a peaceful protest"
+    },
+    {
+     "word": "rally",
+     "note": "對應示威的字義，指支持或抗議的群眾集會，不一定遊行。",
+     "example": "a peaceful rally"
+    },
+    {
+     "word": "proof",
+     "note": "對應證明的字義，指可確認事實的證據，較具體明確。",
+     "example": "proof of identity"
     }
    ],
    "antonyms": [],
@@ -23675,11 +23940,6 @@
      "word": "leave",
      "note": "最常用的離開，能直接接受詞表示離開某處。",
      "example": "leave the station"
-    },
-    {
-     "word": "set off",
-     "note": "表示動身出發，常強調旅程開始。",
-     "example": "set off early"
     }
    ],
    "antonyms": [
@@ -24157,6 +24417,11 @@
      "word": "earn",
      "note": "強調透過努力或行動取得報酬或尊重。",
      "example": "earn respect"
+    },
+    {
+     "word": "warrant",
+     "note": "較正式，主詞多是情況，指某事使行動顯得有必要。",
+     "example": "warrant attention"
     }
    ],
    "antonyms": [],
@@ -24226,11 +24491,6 @@
      "word": "hopeless",
      "note": "強調看不到改善或成功的可能，不一定會採取冒險行動。",
      "example": "a hopeless situation"
-    },
-    {
-     "word": "eager",
-     "note": "表示熱切期待，語氣正面，沒有絕望或急迫感。",
-     "example": "eager to learn"
     }
    ],
    "antonyms": [
@@ -24487,6 +24747,11 @@
      "word": "willpower",
      "note": "強調克制自己並持續努力的意志力。",
      "example": "strong willpower"
+    },
+    {
+     "word": "resolution",
+     "note": "可指下定的決心，常用於新年新希望，較正式。",
+     "example": "a New Year's resolution"
     }
    ],
    "antonyms": [
@@ -24662,6 +24927,16 @@
      "word": "create",
      "note": "泛指創造或製作，未必經過周密規劃。",
      "example": "create a schedule"
+    },
+    {
+     "word": "design",
+     "note": "強調規劃外觀或結構，常用於產品、建築或課程。",
+     "example": "design a building"
+    },
+    {
+     "word": "formulate",
+     "note": "較正式，指仔細制定政策、計畫或理論。",
+     "example": "formulate a plan"
     }
    ],
    "antonyms": [],
@@ -24807,11 +25082,6 @@
      "word": "dew",
      "note": "指清晨或夜間凝結在植物上的小水滴。",
      "example": "morning dew"
-    },
-    {
-     "word": "moisture",
-     "note": "泛指空氣或物體中的水分，不限於露水。",
-     "example": "soil moisture"
     }
    ],
    "antonyms": [],
@@ -24886,6 +25156,11 @@
      "word": "illustration",
      "note": "泛指用來說明內容的圖片，不一定呈現結構。",
      "example": "a book illustration"
+    },
+    {
+     "word": "graph",
+     "note": "指以座標軸呈現數據變化的圖表，例如折線圖。",
+     "example": "a line graph"
     }
    ],
    "antonyms": [],
@@ -25290,11 +25565,6 @@
      "word": "effort",
      "note": "泛指為完成事情付出的力氣，不一定持續或仔細。",
      "example": "make an effort"
-    },
-    {
-     "word": "care",
-     "note": "強調做事仔細，較少表示長期勤勉。",
-     "example": "handle the task with care"
     }
    ],
    "antonyms": [
@@ -25372,6 +25642,16 @@
      "word": "hardworking",
      "note": "強調願意花力氣，語氣較日常。",
      "example": "a hardworking student"
+    },
+    {
+     "word": "conscientious",
+     "note": "強調做事盡責、注意細節，帶有良心負責的意味。",
+     "example": "a conscientious worker"
+    },
+    {
+     "word": "earnest",
+     "note": "強調態度認真誠懇，不一定表示勤奮做很多事。",
+     "example": "an earnest student"
     }
    ],
    "antonyms": [
@@ -25560,6 +25840,11 @@
      "word": "impairment",
      "note": "指身體功能或感官受損，語氣較醫療或正式。",
      "example": "a hearing impairment"
+    },
+    {
+     "word": "handicap",
+     "note": "舊式說法，現在指身心障礙時可能被視為不禮貌。",
+     "example": "a physical handicap"
     }
    ],
    "antonyms": [],
@@ -25655,6 +25940,11 @@
      "word": "weakness",
      "note": "指個人、計畫或系統本身較弱的部分。",
      "example": "a weakness in the plan"
+    },
+    {
+     "word": "handicap",
+     "note": "比喻造成不利的條件或障礙，常用於競爭情境。",
+     "example": "a serious handicap"
     }
    ],
    "antonyms": [
@@ -25731,11 +26021,6 @@
      "word": "disappoint",
      "note": "使期待落空，直接以人作受詞。",
      "example": "disappoint my parents"
-    },
-    {
-     "word": "let down",
-     "note": "較口語，表示辜負某人的期待。",
-     "example": "let the team down"
     },
     {
      "word": "frustrate",
@@ -25918,6 +26203,11 @@
      "word": "training",
      "note": "著重反覆練習以培養能力，不含懲戒意思。",
      "example": "physical training"
+    },
+    {
+     "word": "punish",
+     "note": "只表示處罰，不含訓練或自律的意思，語氣直接。",
+     "example": "punish the child"
     }
    ],
    "antonyms": [
@@ -25988,6 +26278,11 @@
      "word": "dissuade",
      "note": "以理由勸阻某人做某事，常接 from V-ing。",
      "example": "dissuade him from leaving"
+    },
+    {
+     "word": "deter",
+     "note": "強調用威脅或後果嚇阻別人去做，常接 from V-ing。",
+     "example": "deter crime"
     }
    ],
    "antonyms": [
@@ -26096,6 +26391,11 @@
      "word": "camouflage",
      "note": "用外表融入周遭環境來掩護，常指視覺偽裝。",
      "example": "camouflage the tent"
+    },
+    {
+     "word": "mask",
+     "note": "比喻遮掩真正的感受或氣味，偏重遮蓋，不改變外表。",
+     "example": "mask one's feelings"
     }
    ],
    "antonyms": [
@@ -26363,6 +26663,11 @@
      "word": "disturbance",
      "note": "指秩序或平靜受到干擾，也可指異常狀況。",
      "example": "a traffic disturbance"
+    },
+    {
+     "word": "chaos",
+     "note": "程度比 disorder 強，指完全失序的大混亂。",
+     "example": "total chaos"
     }
    ],
    "antonyms": [
@@ -26472,6 +26777,11 @@
      "word": "question",
      "note": "表示對真實性或正確性提出疑問，語氣較中性。",
      "example": "question the claim"
+    },
+    {
+     "word": "controversy",
+     "note": "指引起大眾廣泛爭論的議題，只作名詞。",
+     "example": "cause controversy"
     }
    ],
    "antonyms": [
@@ -26647,6 +26957,11 @@
      "word": "differentiate",
      "note": "語氣較正式，常用於分析或分類差異。",
      "example": "differentiate the two groups"
+    },
+    {
+     "word": "discriminate",
+     "note": "可指辨別差異，但常見意思是歧視，使用時須注意。",
+     "example": "discriminate between colors"
     }
    ],
    "antonyms": [],
@@ -26726,6 +27041,16 @@
      "word": "famous",
      "note": "強調很多人知道，不一定有傑出成就。",
      "example": "a famous writer"
+    },
+    {
+     "word": "outstanding",
+     "note": "最常用的傑出說法，語氣比 distinguished 口語。",
+     "example": "an outstanding student"
+    },
+    {
+     "word": "prominent",
+     "note": "強調有名、引人注目，常形容公眾人物。",
+     "example": "a prominent scientist"
     }
    ],
    "antonyms": [],
@@ -26818,14 +27143,14 @@
      "example": "distribute books to students"
     },
     {
-     "word": "hand out",
-     "note": "較口語，常指逐一發給在場的人。",
-     "example": "hand out the papers"
-    },
-    {
      "word": "allocate",
      "note": "強調依計畫或需求分配資源。",
      "example": "allocate funds to schools"
+    },
+    {
+     "word": "dispense",
+     "note": "較正式，多指機器或藥師配發物品，例如藥品。",
+     "example": "dispense medicine"
     }
    ],
    "antonyms": [],
@@ -27408,6 +27733,11 @@
      "word": "heavenly",
      "note": "可指令人愉悅，也可帶有天堂意象。",
      "example": "a heavenly smell"
+    },
+    {
+     "word": "sacred",
+     "note": "強調神聖不可侵犯，可用於宗教或一般珍視的事物。",
+     "example": "a sacred place"
     }
    ],
    "antonyms": [],
@@ -27496,11 +27826,6 @@
      "word": "separate",
      "note": "指分居或分開生活，不一定已辦理離婚。",
      "example": "separate from a spouse"
-    },
-    {
-     "word": "split up",
-     "note": "較口語，可指伴侶分手或夫妻分開。",
-     "example": "split up after years together"
     }
    ],
    "antonyms": [],
@@ -27797,6 +28122,11 @@
      "word": "lead",
      "note": "強調帶領或居於前列，不一定表示控制。",
      "example": "lead the team"
+    },
+    {
+     "word": "rule",
+     "note": "指統治國家或人民，強調權力上的支配。",
+     "example": "rule the country"
     }
    ],
    "antonyms": [],
@@ -27922,9 +28252,9 @@
      "example": "write an outline"
     },
     {
-     "word": "version",
-     "note": "泛指文件或作品的某個版本，不一定是初稿。",
-     "example": "the final version"
+     "word": "sketch",
+     "note": "原指素描草圖，也可指簡略概述，比 draft 更粗略。",
+     "example": "a rough sketch"
     }
    ],
    "antonyms": [],
@@ -28362,6 +28692,11 @@
      "word": "strong",
      "note": "泛指強韌或力量大，不一定表示耐用。",
      "example": "strong fabric"
+    },
+    {
+     "word": "sturdy",
+     "note": "強調結構堅固結實，也可形容人身體強壯。",
+     "example": "sturdy shoes"
     }
    ],
    "antonyms": [
@@ -28432,11 +28767,6 @@
      "word": "dusty",
      "note": "表示表面有灰塵，或空氣中充滿塵土。",
      "example": "a dusty shelf"
-    },
-    {
-     "word": "dirty",
-     "note": "泛指不乾淨，不限於沾有灰塵。",
-     "example": "dirty shoes"
     }
    ],
    "antonyms": [],
@@ -28606,6 +28936,11 @@
      "word": "energetic",
      "note": "強調精力充沛，常形容人或活動。",
      "example": "an energetic student"
+    },
+    {
+     "word": "vigorous",
+     "note": "強調精力旺盛、強而有力，常形容運動或辯論。",
+     "example": "vigorous exercise"
     }
    ],
    "antonyms": [
@@ -28672,11 +29007,6 @@
      "word": "dynasty",
      "note": "由同一家族世代統治的王朝或朝代。",
      "example": "a royal dynasty"
-    },
-    {
-     "word": "kingdom",
-     "note": "指由國王或女王統治的國家，不一定由同一家族世代統治。",
-     "example": "a small kingdom"
     }
    ],
    "antonyms": [],
@@ -28887,11 +29217,6 @@
      "word": "financial",
      "note": "特別指金錢、收入或財務狀況。",
      "example": "financial support"
-    },
-    {
-     "word": "economical",
-     "note": "表示節省金錢或資源，不能直接替代 economic。",
-     "example": "an economical car"
     }
    ],
    "antonyms": [],
@@ -29072,11 +29397,6 @@
      "word": "economics",
      "note": "研究資源、生產、消費與市場運作的學科。",
      "example": "study economics"
-    },
-    {
-     "word": "economy",
-     "note": "指一個國家或地區的經濟狀況，不是學科名稱。",
-     "example": "the local economy"
     }
    ],
    "antonyms": [],
@@ -29165,11 +29485,6 @@
      "word": "economist",
      "note": "專門研究經濟或提供經濟分析的人。",
      "example": "a leading economist"
-    },
-    {
-     "word": "analyst",
-     "note": "分析資料或情勢的人，領域不限於經濟。",
-     "example": "a market analyst"
     }
    ],
    "antonyms": [],
@@ -29512,11 +29827,6 @@
      "word": "electronics",
      "note": "指電子學或電子設備這個領域與產品類別。",
      "example": "study electronics"
-    },
-    {
-     "word": "electronic devices",
-     "note": "明確指電子裝置，不包含電子學這門領域。",
-     "example": "electronic devices"
     }
    ],
    "antonyms": [],
@@ -29755,6 +30065,11 @@
      "word": "exclude",
      "note": "把某人或某事排除在範圍之外。",
      "example": "exclude a name"
+    },
+    {
+     "word": "abolish",
+     "note": "專指正式廢除制度、法律或習俗，語氣正式。",
+     "example": "abolish slavery"
     }
    ],
    "antonyms": [
@@ -29841,16 +30156,6 @@
      "word": "elsewhere",
      "note": "指其他地方，常用於指出地點不同。",
      "example": "study elsewhere"
-    },
-    {
-     "word": "somewhere else",
-     "note": "意思相同但較口語，else 放在 somewhere 後。",
-     "example": "go somewhere else"
-    },
-    {
-     "word": "in another place",
-     "note": "較明確地說在另一個地方，語氣較正式。",
-     "example": "live in another place"
     }
    ],
    "antonyms": [],
@@ -30024,11 +30329,6 @@
      "word": "embassy",
      "note": "一國在他國設立的官方外交機構。",
      "example": "visit the embassy"
-    },
-    {
-     "word": "consulate",
-     "note": "領事館，通常處理簽證及公民服務，層級與職責不同。",
-     "example": "contact the consulate"
     }
    ],
    "antonyms": [],
@@ -30341,6 +30641,11 @@
      "word": "surround",
      "note": "從四周圍住，強調周圍包圍的狀態。",
      "example": "surround a garden"
+    },
+    {
+     "word": "attach",
+     "note": "常用於電子郵件附加檔案，enclose 則多用於紙本信件。",
+     "example": "attach a file"
     }
    ],
    "antonyms": [],
@@ -30454,6 +30759,11 @@
      "word": "face",
      "note": "面對問題或挑戰，著重處理而非偶然碰上。",
      "example": "face a challenge"
+    },
+    {
+     "word": "confront",
+     "note": "強調正面面對問題或當面對質，帶有主動處理的意味。",
+     "example": "confront the problem"
     }
    ],
    "antonyms": [],
@@ -30655,6 +30965,16 @@
      "word": "tolerate",
      "note": "指容忍不喜歡的人事物，未必涉及艱苦。",
      "example": "tolerate noise"
+    },
+    {
+     "word": "sustain",
+     "note": "對應承受的字義，常接受傷或損失，較正式。",
+     "example": "sustain injuries"
+    },
+    {
+     "word": "last",
+     "note": "對應持續的字義，最常用，常接時間長度。",
+     "example": "last for hours"
     }
    ],
    "antonyms": [],
@@ -30721,9 +31041,14 @@
      "example": "apply the rule"
     },
     {
-     "word": "carry out",
-     "note": "指執行計畫或任務，較少強調強制遵守。",
-     "example": "carry out a plan"
+     "word": "implement",
+     "note": "指把計畫或政策付諸實行，重點在實施而非強制遵守。",
+     "example": "implement a policy"
+    },
+    {
+     "word": "execute",
+     "note": "指按計畫執行，也可指處決，語氣較正式。",
+     "example": "execute a plan"
     }
    ],
    "antonyms": [],
@@ -30873,6 +31198,11 @@
      "word": "increase",
      "note": "泛指數量、程度或大小增加。",
      "example": "increase the number"
+    },
+    {
+     "word": "magnify",
+     "note": "指用鏡片把影像放大，也可比喻誇大問題。",
+     "example": "magnify the image"
     }
    ],
    "antonyms": [
@@ -30976,6 +31306,16 @@
      "word": "vast",
      "note": "常形容範圍或空間廣大，語氣較正式。",
      "example": "a vast area"
+    },
+    {
+     "word": "immense",
+     "note": "較正式，強調大到難以衡量，常形容抽象程度。",
+     "example": "immense pressure"
+    },
+    {
+     "word": "tremendous",
+     "note": "強調程度驚人，常形容努力、影響或壓力。",
+     "example": "a tremendous effort"
     }
    ],
    "antonyms": [
@@ -31060,14 +31400,14 @@
      "example": "ensure safety"
     },
     {
-     "word": "make sure",
-     "note": "較口語，常接 that 子句或 of。",
-     "example": "make sure that"
-    },
-    {
      "word": "guarantee",
      "note": "語氣較強，表示承諾或保證結果。",
      "example": "guarantee success"
+    },
+    {
+     "word": "secure",
+     "note": "強調努力爭取並確保得到，常接勝利、位子或資金。",
+     "example": "secure a victory"
     }
    ],
    "antonyms": [],
@@ -31432,6 +31772,11 @@
      "word": "prepare",
      "note": "指使人做好準備，未必提供實際設備。",
      "example": "prepare students"
+    },
+    {
+     "word": "outfit",
+     "note": "偏指提供全套服裝或裝備，常用被動。",
+     "example": "outfit the team"
     }
    ],
    "antonyms": [],
@@ -31593,6 +31938,11 @@
      "word": "vital",
      "note": "強調對成功或生存極為重要。",
      "example": "vital skills"
+    },
+    {
+     "word": "indispensable",
+     "note": "語氣比 essential 強，強調少了就不行，常用於人或工具。",
+     "example": "an indispensable tool"
     }
    ],
    "antonyms": [
@@ -31815,6 +32165,11 @@
      "word": "guess",
      "note": "依直覺猜測，根據資料推算的成分較少。",
      "example": "guess the answer"
+    },
+    {
+     "word": "reckon",
+     "note": "較口語，多指認為，也可指粗略估算，英式常見。",
+     "example": "I reckon so"
     }
    ],
    "antonyms": [],
@@ -32693,6 +33048,11 @@
      "word": "drain",
      "note": "逐漸耗盡精力或資源，常帶有被掏空的感覺。",
      "example": "drain your energy"
+    },
+    {
+     "word": "deplete",
+     "note": "較正式，指資源或存量大幅減少，不用於人的疲累。",
+     "example": "deplete resources"
     }
    ],
    "antonyms": [
@@ -32915,6 +33275,11 @@
      "word": "extend",
      "note": "延長時間、距離或範圍，常有向外延伸的意思。",
      "example": "extend the deadline"
+    },
+    {
+     "word": "broaden",
+     "note": "常比喻開拓眼界、知識或經驗，偏抽象用法。",
+     "example": "broaden one's horizons"
     }
    ],
    "antonyms": [
@@ -33309,6 +33674,11 @@
      "word": "outbreak",
      "note": "疾病或衝突突然開始，不能指一般物體爆炸。",
      "example": "an outbreak of flu"
+    },
+    {
+     "word": "burst",
+     "note": "指突然爆裂或一陣爆發，常用於情緒或聲音。",
+     "example": "a burst of laughter"
     }
    ],
    "antonyms": [],
@@ -33535,6 +33905,16 @@
      "word": "show",
      "note": "一般用語，表示讓人看見或知道。",
      "example": "show the result"
+    },
+    {
+     "word": "disclose",
+     "note": "較正式，指公開透露資訊，常用於官方或法律情境。",
+     "example": "disclose information"
+    },
+    {
+     "word": "uncover",
+     "note": "強調經調查後發現隱藏的事，常用於陰謀或真相。",
+     "example": "uncover the truth"
     }
    ],
    "antonyms": [
@@ -33657,6 +34037,11 @@
      "word": "publicity",
      "note": "指受到媒體或公眾注意，常帶有宣傳意味。",
      "example": "gain publicity"
+    },
+    {
+     "word": "disclosure",
+     "note": "專指公開揭露資訊的行為，不指接觸或暴露。",
+     "example": "public disclosure"
     }
    ],
    "antonyms": [],
@@ -33784,6 +34169,11 @@
      "word": "expand",
      "note": "擴大規模、範圍或內容，不一定指變長。",
      "example": "expand the program"
+    },
+    {
+     "word": "prolong",
+     "note": "強調把時間拖長，常帶有超過預期或負擔的意味。",
+     "example": "prolong life"
     }
    ],
    "antonyms": [
@@ -33898,6 +34288,11 @@
      "word": "range",
      "note": "著重從起點到終點的範圍或種類。",
      "example": "a wide range of choices"
+    },
+    {
+     "word": "scope",
+     "note": "強調涵蓋的範圍，常用於研究、計畫或討論。",
+     "example": "the scope of research"
     }
    ],
    "antonyms": [],
@@ -34050,11 +34445,6 @@
      "word": "equipment",
      "note": "指完成工作所需的器材，不指整座場所。",
      "example": "sports equipment"
-    },
-    {
-     "word": "building",
-     "note": "指建築物本身，不一定具備特定用途。",
-     "example": "school building"
     }
    ],
    "antonyms": [],
@@ -34388,6 +34778,16 @@
      "word": "wonderful",
      "note": "表示令人愉快或驚喜，語氣溫暖。",
      "example": "a wonderful day"
+    },
+    {
+     "word": "terrific",
+     "note": "口語，表示極好、很棒，語氣熱情。",
+     "example": "a terrific idea"
+    },
+    {
+     "word": "fabulous",
+     "note": "口語，強調好得令人驚嘆，常形容外表或經驗。",
+     "example": "a fabulous time"
     }
    ],
    "antonyms": [
@@ -34781,6 +35181,16 @@
      "word": "serious",
      "note": "表示嚴重，但不一定會致命或無法挽回。",
      "example": "a serious injury"
+    },
+    {
+     "word": "lethal",
+     "note": "強調足以致命的程度，常形容武器、毒物或劑量。",
+     "example": "a lethal dose"
+    },
+    {
+     "word": "mortal",
+     "note": "對應致命的字義，常見於 mortal wound，也可指凡人。",
+     "example": "a mortal wound"
     }
    ],
    "antonyms": [],
@@ -35021,11 +35431,6 @@
      "word": "fax",
      "note": "用傳真設備傳送文件，也可指傳真文件本身。",
      "example": "fax the form"
-    },
-    {
-     "word": "send",
-     "note": "一般用語，表示寄送或傳送，不限定方式。",
-     "example": "send the form"
     }
    ],
    "antonyms": [],
@@ -35108,11 +35513,6 @@
      "word": "banquet",
      "note": "較正式的大型宴會，常有特定場合或安排。",
      "example": "a school banquet"
-    },
-    {
-     "word": "meal",
-     "note": "泛指一餐，不一定豐盛或正式。",
-     "example": "a family meal"
     }
    ],
    "antonyms": [],
@@ -35178,6 +35578,11 @@
      "word": "response",
      "note": "對訊息或行動作出的回應，不一定包含建議。",
      "example": "a quick response"
+    },
+    {
+     "word": "input",
+     "note": "指對計畫提供的意見或建議，強調參與貢獻。",
+     "example": "input from students"
     }
    ],
    "antonyms": [],
@@ -35261,11 +35666,6 @@
      "word": "ferry",
      "note": "常指固定往返兩地的渡船或運送服務。",
      "example": "a ferry to the island"
-    },
-    {
-     "word": "boat",
-     "note": "泛指小型船隻，不一定用來載客渡河。",
-     "example": "a small boat"
     },
     {
      "word": "ship",
@@ -35445,6 +35845,11 @@
      "word": "bring",
      "note": "強調把人或物帶到說話者所在處或指定地點。",
      "example": "bring the book here"
+    },
+    {
+     "word": "retrieve",
+     "note": "較正式，指把東西找回或取回，也用於電腦檢索資料。",
+     "example": "retrieve data"
     }
    ],
    "antonyms": [],
@@ -35508,11 +35913,6 @@
      "word": "fiction",
      "note": "指想像創作的作品或虛構內容。",
      "example": "a work of fiction"
-    },
-    {
-     "word": "novel",
-     "note": "特指篇幅較長的小說，是 fiction 的一種。",
-     "example": "a historical novel"
     },
     {
      "word": "story",
@@ -35624,6 +36024,16 @@
      "word": "intense",
      "note": "強調程度高或感受深，語氣較中性。",
      "example": "intense interest"
+    },
+    {
+     "word": "violent",
+     "note": "強調暴力或劇烈，常形容行為、風暴或衝突。",
+     "example": "a violent storm"
+    },
+    {
+     "word": "savage",
+     "note": "強調兇殘野蠻，比 fierce 更負面，也可指嚴厲抨擊。",
+     "example": "savage criticism"
     }
    ],
    "antonyms": [
@@ -35720,11 +36130,6 @@
      "word": "fund",
      "note": "指提供資金，常用於計畫、研究或組織。",
      "example": "fund a study"
-    },
-    {
-     "word": "pay for",
-     "note": "日常用語，強調支付費用，不特指資金安排。",
-     "example": "pay for a ticket"
     }
    ],
    "antonyms": [],
@@ -35800,6 +36205,11 @@
      "word": "economic",
      "note": "指整體經濟活動，不只限於個人財務。",
      "example": "economic growth"
+    },
+    {
+     "word": "fiscal",
+     "note": "專指政府財政或會計年度，用法比 financial 窄。",
+     "example": "fiscal policy"
     }
    ],
    "antonyms": [],
@@ -35877,11 +36287,6 @@
      "word": "hearth",
      "note": "指壁爐前的地面或壁爐周圍，也可泛指爐邊。",
      "example": "sit by the hearth"
-    },
-    {
-     "word": "stove",
-     "note": "通常指用來煮食或取暖的爐具，不一定是壁爐。",
-     "example": "a wood stove"
     }
    ],
    "antonyms": [],
@@ -36096,11 +36501,6 @@
      "word": "escape",
      "note": "強調成功脫離困境、監禁或控制。",
      "example": "escape from the room"
-    },
-    {
-     "word": "run away",
-     "note": "較口語，常指逃跑或離家出走。",
-     "example": "run away from home"
     }
    ],
    "antonyms": [
@@ -36189,6 +36589,11 @@
      "word": "adjustable",
      "note": "指能調整到不同位置、大小或設定。",
      "example": "an adjustable chair"
+    },
+    {
+     "word": "elastic",
+     "note": "多指材料可伸縮後恢復原狀，例如橡膠或布料。",
+     "example": "an elastic band"
     }
    ],
    "antonyms": [
@@ -36279,6 +36684,11 @@
      "word": "articulate",
      "note": "強調能清楚、有條理地表達想法。",
      "example": "an articulate speaker"
+    },
+    {
+     "word": "eloquent",
+     "note": "強調口才好、說話動人有說服力，不限外語能力。",
+     "example": "an eloquent speaker"
     }
    ],
    "antonyms": [],
@@ -36675,6 +37085,11 @@
      "word": "estimate",
      "note": "依現有資料估算數量或程度，未必是在預測事件。",
      "example": "estimate the cost"
+    },
+    {
+     "word": "prediction",
+     "note": "一般的預測或預言，不限依數據，也可憑直覺推測。",
+     "example": "make a prediction"
     }
    ],
    "antonyms": [],
@@ -37361,6 +37776,11 @@
      "word": "weak",
      "note": "泛指力量不足或不牢固，語意比 fragile 廣。",
      "example": "a weak bridge"
+    },
+    {
+     "word": "vulnerable",
+     "note": "強調容易受到攻擊或傷害，多形容人或系統，不指易碎物品。",
+     "example": "vulnerable groups"
     }
    ],
    "antonyms": [
@@ -37477,6 +37897,11 @@
      "word": "structure",
      "note": "指各部分組成的整體架構，範圍較廣。",
      "example": "the structure of an essay"
+    },
+    {
+     "word": "framework",
+     "note": "指抽象的架構或體系，常用於理論、法律或計畫。",
+     "example": "a legal framework"
     }
    ],
    "antonyms": [],
@@ -37639,16 +38064,6 @@
      "word": "freshman",
      "note": "美式用法，通常指大學或高中一年級學生。",
      "example": "a college freshman"
-    },
-    {
-     "word": "first-year student",
-     "note": "較清楚正式，指任何學校的一年級學生。",
-     "example": "a first-year student"
-    },
-    {
-     "word": "new student",
-     "note": "泛指剛入學的學生，不限定年級。",
-     "example": "a new student"
     }
    ],
    "antonyms": [],
@@ -37726,11 +38141,6 @@
      "word": "frost",
      "note": "指寒冷天氣在表面形成的冰晶，常用於天氣或植物。",
      "example": "morning frost"
-    },
-    {
-     "word": "ice",
-     "note": "泛指固態的水，通常比薄霜厚，也可能形成在各種表面。",
-     "example": "a sheet of ice"
     }
    ],
    "antonyms": [],
@@ -37960,6 +38370,11 @@
      "word": "annoyance",
      "note": "因小事感到煩躁，通常比 frustration 輕微。",
      "example": "show annoyance"
+    },
+    {
+     "word": "setback",
+     "note": "指造成進展受阻的挫折事件，不指沮喪的情緒。",
+     "example": "a major setback"
     }
    ],
    "antonyms": [],
@@ -38053,6 +38468,11 @@
      "word": "meet",
      "note": "符合標準或要求，也可表示滿足需求。",
      "example": "meet the requirements"
+    },
+    {
+     "word": "realize",
+     "note": "對應實現的字義，常接夢想、目標或潛力。",
+     "example": "realize a dream"
     }
    ],
    "antonyms": [],
@@ -38315,6 +38735,11 @@
      "word": "memorial",
      "note": "紀念逝者的活動或場所，不一定是葬禮。",
      "example": "a school memorial"
+    },
+    {
+     "word": "burial",
+     "note": "專指把遺體下葬的動作或儀式，範圍比 funeral 窄。",
+     "example": "a burial site"
     }
    ],
    "antonyms": [],
@@ -38376,11 +38801,6 @@
      "word": "angry",
      "note": "一般的生氣，程度較廣且較中性。",
      "example": "angry about the result"
-    },
-    {
-     "word": "annoyed",
-     "note": "感到煩躁或不悅，程度通常較輕。",
-     "example": "annoyed with my brother"
     }
    ],
    "antonyms": [
@@ -38550,6 +38970,11 @@
      "word": "also",
      "note": "較常見、語氣較自然的此外或也。",
      "example": "It also saves money."
+    },
+    {
+     "word": "besides",
+     "note": "較口語，常用來補充另一個理由，也可作介系詞。",
+     "example": "besides that"
     }
    ],
    "antonyms": [],
@@ -38694,11 +39119,6 @@
      "word": "stare",
      "note": "盯著看，可能顯得無禮或令人不自在。",
      "example": "stare at the screen"
-    },
-    {
-     "word": "glance",
-     "note": "快速看一眼，時間遠比 gaze 短。",
-     "example": "glance at the clock"
     }
    ],
    "antonyms": [],
@@ -39001,11 +39421,6 @@
      "word": "generation",
      "note": "指同時代的一群人，也可指產品更新後的新一代。",
      "example": "the younger generation"
-    },
-    {
-     "word": "age group",
-     "note": "按年齡區分的一群人，不一定有共同的時代經驗。",
-     "example": "a different age group"
     }
    ],
    "antonyms": [],
@@ -39168,11 +39583,6 @@
      "word": "talent",
      "note": "指某方面的天分，不一定達到天才程度。",
      "example": "a talent for drawing"
-    },
-    {
-     "word": "gifted person",
-     "note": "指具有天賦的人，語氣較一般。",
-     "example": "a gifted student"
     }
    ],
    "antonyms": [],
@@ -39241,6 +39651,11 @@
      "word": "sincere",
      "note": "主要形容人的感情或態度真誠。",
      "example": "a sincere apology"
+    },
+    {
+     "word": "authentic",
+     "note": "強調正宗或來源可信，常形容食物、文物或文件。",
+     "example": "authentic Italian food"
     }
    ],
    "antonyms": [
@@ -39879,6 +40294,11 @@
      "word": "merchandise",
      "note": "指供買賣的商品，語氣較正式。",
      "example": "store merchandise"
+    },
+    {
+     "word": "commodity",
+     "note": "指可大量買賣的原物料或日用品，常用於經濟。",
+     "example": "a valuable commodity"
     }
    ],
    "antonyms": [],
@@ -40155,6 +40575,11 @@
      "word": "kind",
      "note": "強調善良友善，未必特別講究禮貌。",
      "example": "a kind teacher"
+    },
+    {
+     "word": "courteous",
+     "note": "強調舉止客氣有禮，較正式，不帶寬厚意味。",
+     "example": "a courteous reply"
     }
    ],
    "antonyms": [
@@ -40215,11 +40640,6 @@
      "word": "graduation",
      "note": "指完成學業或相關典禮，通常用於正式教育階段。",
      "example": "graduation ceremony"
-    },
-    {
-     "word": "completion",
-     "note": "泛指完成一件事，不限於學業。",
-     "example": "completion of the course"
     },
     {
      "word": "commencement",
@@ -40633,6 +41053,11 @@
      "word": "severe",
      "note": "強調程度很高，常形容問題、疼痛或天氣。",
      "example": "severe pain"
+    },
+    {
+     "word": "tomb",
+     "note": "指較大的墓穴或墓室，常有石造建築或紀念碑。",
+     "example": "an ancient tomb"
     }
    ],
    "antonyms": [
@@ -40831,6 +41256,11 @@
      "word": "sadness",
      "note": "一般性的難過，程度通常較輕。",
      "example": "a feeling of sadness"
+    },
+    {
+     "word": "woe",
+     "note": "文學用語，指深重的悲傷或苦難，常用複數 woes。",
+     "example": "financial woes"
     }
    ],
    "antonyms": [],
@@ -41004,6 +41434,16 @@
      "word": "ensure",
      "note": "指採取行動確保結果，不強調承諾或保固。",
      "example": "ensure success"
+    },
+    {
+     "word": "warranty",
+     "note": "專指商品的書面保固，常說 under warranty。",
+     "example": "under warranty"
+    },
+    {
+     "word": "pledge",
+     "note": "指鄭重的承諾或誓言，常用於捐款或政治承諾。",
+     "example": "make a pledge"
     }
    ],
    "antonyms": [],
@@ -41451,6 +41891,11 @@
      "word": "regular",
      "note": "表示按固定時間或方式反覆發生。",
      "example": "regular exercise"
+    },
+    {
+     "word": "customary",
+     "note": "指依習俗或慣例通常會做的，偏社會習慣而非個人習慣。",
+     "example": "the customary way"
     }
    ],
    "antonyms": [
@@ -41573,6 +42018,11 @@
      "word": "pause",
      "note": "表示暫停一段時間，通常暗示之後會繼續。",
      "example": "pause the meeting"
+    },
+    {
+     "word": "cease",
+     "note": "較正式，常見於公告或書面語，不強調突然停止。",
+     "example": "cease operations"
     }
    ],
    "antonyms": [
@@ -41991,6 +42441,11 @@
      "word": "balance",
      "note": "指不同因素維持適當比例或穩定狀態。",
      "example": "a balance between work and rest"
+    },
+    {
+     "word": "unity",
+     "note": "強調團結一致、成為整體，常用於國家或團體。",
+     "example": "national unity"
     }
    ],
    "antonyms": [
@@ -42197,6 +42652,16 @@
      "word": "urgency",
      "note": "指事情需要立刻處理的急迫性。",
      "example": "a sense of urgency"
+    },
+    {
+     "word": "hurry",
+     "note": "較口語，常用 in a hurry，指急著做事。",
+     "example": "in a hurry"
+    },
+    {
+     "word": "rush",
+     "note": "強調匆忙趕時間，也可指交通尖峰時段。",
+     "example": "the rush hour"
     }
    ],
    "antonyms": [
@@ -42287,14 +42752,14 @@
      "example": "hasten the process"
     },
     {
-     "word": "speed up",
-     "note": "常見口語用法，指讓速度或進展變快。",
-     "example": "speed up the work"
-    },
-    {
      "word": "accelerate",
      "note": "常用於速度、變化或發展加快，語氣較正式。",
      "example": "accelerate growth"
+    },
+    {
+     "word": "hurry",
+     "note": "最常用的口語說法，可指自己趕快或催促別人。",
+     "example": "hurry up"
     }
    ],
    "antonyms": [
@@ -42553,11 +43018,6 @@
      "word": "helicopter",
      "note": "以旋翼升降與移動的飛行器，日常用語最常見。",
      "example": "a rescue helicopter"
-    },
-    {
-     "word": "aircraft",
-     "note": "泛指各種飛行器，範圍比 helicopter 廣。",
-     "example": "military aircraft"
     }
    ],
    "antonyms": [],
@@ -42846,11 +43306,6 @@
      "word": "country",
      "note": "泛指國家，未必帶有出生地或歸屬感的含義。",
      "example": "visit another country"
-    },
-    {
-     "word": "native land",
-     "note": "指出生或成長的土地，語氣較具文學色彩。",
-     "example": "love one's native land"
     }
    ],
    "antonyms": [],
@@ -42926,16 +43381,6 @@
      "word": "honeymoon",
      "note": "指新婚夫妻婚後的旅行或休假，也可作動詞表示度蜜月。",
      "example": "go on a honeymoon"
-    },
-    {
-     "word": "vacation",
-     "note": "泛指休假或旅行，不限於新婚期間。",
-     "example": "take a vacation"
-    },
-    {
-     "word": "trip",
-     "note": "泛指一次旅程，沒有蜜月的特定含義。",
-     "example": "plan a trip"
     }
    ],
    "antonyms": [],
@@ -43032,6 +43477,11 @@
      "word": "attract",
      "note": "表示吸引注意或興趣，語氣較正式，沒有鉤住的形象。",
      "example": "attract attention"
+    },
+    {
+     "word": "lure",
+     "note": "強調用好處引誘人或動物上鉤，常帶負面意味。",
+     "example": "lure customers"
     }
    ],
    "antonyms": [],
@@ -43110,9 +43560,9 @@
      "example": "the city skyline"
     },
     {
-     "word": "limit",
-     "note": "指範圍或界限，不特指眼界或地平線。",
-     "example": "the limit of knowledge"
+     "word": "perspective",
+     "note": "對應眼界的字義，指看事情的角度或觀點。",
+     "example": "a new perspective"
     }
    ],
    "antonyms": [],
@@ -43179,6 +43629,11 @@
      "word": "frighten",
      "note": "使人害怕，重點在恐懼，未必包含震驚。",
      "example": "frighten a child"
+    },
+    {
+     "word": "terrify",
+     "note": "強調使人極度害怕，重點在恐懼而非震驚反感。",
+     "example": "terrify the children"
     }
    ],
    "antonyms": [
@@ -43446,11 +43901,6 @@
      "word": "chores",
      "note": "指例行雜事，可包括家務，也可包括其他日常工作。",
      "example": "daily chores"
-    },
-    {
-     "word": "household tasks",
-     "note": "指家庭中的各項工作，語意清楚但較正式。",
-     "example": "share household tasks"
     }
    ],
    "antonyms": [],
@@ -43555,6 +44005,16 @@
      "word": "compassion",
      "note": "指對他人痛苦的同情與關懷，不表示全體人類。",
      "example": "show compassion"
+    },
+    {
+     "word": "mankind",
+     "note": "只指全體人類，不含仁慈的意思，較傳統的用字。",
+     "example": "the history of mankind"
+    },
+    {
+     "word": "mercy",
+     "note": "對應仁慈的字義，強調寬恕或饒恕有權處罰的對象。",
+     "example": "show mercy"
     }
    ],
    "antonyms": [],
@@ -43954,11 +44414,6 @@
      "word": "same",
      "note": "最常見的說法，可指同一個或相同的事物。",
      "example": "the same answer"
-    },
-    {
-     "word": "similar",
-     "note": "只表示相似，不表示每個細節都完全相同。",
-     "example": "similar designs"
     }
    ],
    "antonyms": [
@@ -44165,11 +44620,6 @@
      "word": "recognize",
      "note": "通常指認出已見過或已知的人事物。",
      "example": "recognize her voice"
-    },
-    {
-     "word": "discover",
-     "note": "著重找到先前未知的事實或事物，不一定是辨認。",
-     "example": "discover the cause"
     }
    ],
    "antonyms": [],
@@ -44461,9 +44911,9 @@
      "example": "a national hero"
     },
     {
-     "word": "role model",
-     "note": "指值得效法的人，重點在其行為可供學習。",
-     "example": "a positive role model"
+     "word": "icon",
+     "note": "指具代表性的偶像或象徵人物，也可指電腦圖示。",
+     "example": "a fashion icon"
     }
    ],
    "antonyms": [],
@@ -44522,11 +44972,6 @@
      "word": "ignorance",
      "note": "指缺乏知識或未掌握某項資訊，語氣較正式。",
      "example": "ignorance of the facts"
-    },
-    {
-     "word": "lack of knowledge",
-     "note": "直接描述知識不足，語意清楚且中性。",
-     "example": "a lack of knowledge"
     },
     {
      "word": "unawareness",
@@ -44856,6 +45301,11 @@
      "word": "example",
      "note": "著重用具體事例說明觀念，不表示圖像。",
      "example": "a useful example"
+    },
+    {
+     "word": "diagram",
+     "note": "指用線條說明結構或步驟的示意圖，不指一般插畫。",
+     "example": "a simple diagram"
     }
    ],
    "antonyms": [],
@@ -45206,6 +45656,11 @@
      "word": "copy",
      "note": "指照著原物製作的複製品，語氣較直接。",
      "example": "a copy of the original"
+    },
+    {
+     "word": "fake",
+     "note": "強調假冒、帶欺騙意圖，口語常用，imitation 則可能公開仿製。",
+     "example": "a fake bag"
     }
    ],
    "antonyms": [],
@@ -45304,9 +45759,9 @@
      "example": "migrant workers"
     },
     {
-     "word": "newcomer",
-     "note": "泛指新來的人，不特指移民。",
-     "example": "a newcomer to the city"
+     "word": "settler",
+     "note": "指到新土地開墾定居的人，常用於殖民歷史。",
+     "example": "early settlers"
     }
    ],
    "antonyms": [],
@@ -45388,11 +45843,6 @@
      "word": "migrate",
      "note": "泛指遷移，可指跨國或國內移動。",
      "example": "migrate to a warmer area"
-    },
-    {
-     "word": "move",
-     "note": "一般用語，指搬家或移居，不特指跨國。",
-     "example": "move to another country"
     }
    ],
    "antonyms": [],
@@ -45682,6 +46132,11 @@
      "word": "indicate",
      "note": "較客觀地顯示或指出某種情況。",
      "example": "indicate a problem"
+    },
+    {
+     "word": "hint",
+     "note": "較口語，指給點暗示讓人猜，常接 at。",
+     "example": "hint at the answer"
     }
    ],
    "antonyms": [],
@@ -46301,16 +46756,6 @@
      "word": "infection",
      "note": "指病原體進入身體並造成感染的情況。",
      "example": "a throat infection"
-    },
-    {
-     "word": "disease",
-     "note": "泛指疾病，不一定由感染造成。",
-     "example": "heart disease"
-    },
-    {
-     "word": "illness",
-     "note": "泛指生病或健康不佳的狀態。",
-     "example": "a serious illness"
     }
    ],
    "antonyms": [],
@@ -46704,6 +47149,11 @@
      "word": "preliminary",
      "note": "指正式開始前的初步階段，較正式。",
      "example": "a preliminary report"
+    },
+    {
+     "word": "original",
+     "note": "強調原本的、最早的版本，也可指具獨創性的。",
+     "example": "the original plan"
     }
    ],
    "antonyms": [
@@ -46783,6 +47233,11 @@
      "word": "wound",
      "note": "常指造成較明顯的身體傷口，也可作名詞。",
      "example": "wound a player"
+    },
+    {
+     "word": "harm",
+     "note": "泛指造成傷害或損害，常用於健康、環境等抽象對象。",
+     "example": "harm the environment"
     }
    ],
    "antonyms": [],
@@ -47339,6 +47794,11 @@
      "word": "motivate",
      "note": "提供做事的動機或目標，較強調行動意願。",
      "example": "motivate the team"
+    },
+    {
+     "word": "stimulate",
+     "note": "強調刺激興趣、成長或活動，常用於經濟或學習。",
+     "example": "stimulate interest"
     }
    ],
    "antonyms": [],
@@ -47418,11 +47878,6 @@
      "word": "install",
      "note": "把軟體或設備裝好並準備使用。",
      "example": "install a program"
-    },
-    {
-     "word": "set up",
-     "note": "建立或配置設備、帳號等，語氣較口語。",
-     "example": "set up a computer"
     },
     {
      "word": "place",
@@ -47860,6 +48315,11 @@
      "word": "protection",
      "note": "泛指保護或保障，不一定涉及保險契約。",
      "example": "financial protection"
+    },
+    {
+     "word": "coverage",
+     "note": "指保險或方案的保障範圍，也可指新聞報導。",
+     "example": "health coverage"
     }
    ],
    "antonyms": [],
@@ -48528,6 +48988,11 @@
      "word": "purpose",
      "note": "強調行動背後的目的或用途。",
      "example": "the purpose of the visit"
+    },
+    {
+     "word": "aim",
+     "note": "強調想達成的目標，常用 with the aim of。",
+     "example": "the main aim"
     }
    ],
    "antonyms": [],
@@ -50162,6 +50627,11 @@
      "word": "topic",
      "note": "指談話或文章的主題，通常不表示問題。",
      "example": "a topic for discussion"
+    },
+    {
+     "word": "release",
+     "note": "對應發布的字義，常用於新聞稿、電影或專輯。",
+     "example": "release a statement"
     }
    ],
    "antonyms": [],
@@ -50400,11 +50870,6 @@
      "word": "pot",
      "note": "通常指煮食物的鍋，也可指某些容器。",
      "example": "a cooking pot"
-    },
-    {
-     "word": "teapot",
-     "note": "用來沖泡或盛裝茶的茶壺，不是煮水壺。",
-     "example": "a teapot of tea"
     }
    ],
    "antonyms": [],
@@ -50461,16 +50926,6 @@
      "word": "kneel",
      "note": "彎曲膝蓋跪在地上，常指身體姿勢。",
      "example": "kneel down"
-    },
-    {
-     "word": "bend",
-     "note": "泛指彎曲身體或物體，不一定跪下。",
-     "example": "bend your knees"
-    },
-    {
-     "word": "crouch",
-     "note": "蹲低身體但通常不跪在地上。",
-     "example": "crouch beside the desk"
     }
    ],
    "antonyms": [],
@@ -50527,11 +50982,6 @@
      "word": "handle",
      "note": "泛指用來抓握、拉或推的把手。",
      "example": "a door handle"
-    },
-    {
-     "word": "button",
-     "note": "通常是按下去操作的鈕，不一定能旋轉。",
-     "example": "press the button"
     }
    ],
    "antonyms": [],
@@ -50759,11 +51209,6 @@
      "word": "lag",
      "note": "指進度或移動速度落後，常接 behind。",
      "example": "lag behind"
-    },
-    {
-     "word": "fall behind",
-     "note": "表示落後於進度、期限或其他人。",
-     "example": "fall behind schedule"
     },
     {
      "word": "trail",
@@ -51089,6 +51534,11 @@
      "word": "introduce",
      "note": "指首次讓大眾認識產品、制度或想法。",
      "example": "introduce a new rule"
+    },
+    {
+     "word": "initiate",
+     "note": "較正式，強調開始或發起一項計畫或行動。",
+     "example": "initiate a project"
     }
    ],
    "antonyms": [],
@@ -51261,6 +51711,11 @@
      "word": "depend",
      "note": "指在事情上依靠某人或某物，後接 on。",
      "example": "depend on friends"
+    },
+    {
+     "word": "slim",
+     "note": "對應精瘦的字義，常形容人身材苗條，語氣正面。",
+     "example": "a slim figure"
     }
    ],
    "antonyms": [
@@ -51421,6 +51876,11 @@
      "word": "speech",
      "note": "通常指在特定場合面向聽眾發表的演說。",
      "example": "make a speech"
+    },
+    {
+     "word": "scold",
+     "note": "對應訓斥的字義，常用於大人責罵小孩，語氣直接。",
+     "example": "scold the child"
     }
    ],
    "antonyms": [],
@@ -51739,6 +52199,11 @@
      "word": "stretch",
      "note": "可指拉長物體，也可指勉強延長時間或資源。",
      "example": "stretch the rope"
+    },
+    {
+     "word": "prolong",
+     "note": "強調把時間拖長，常用於生命、會議或痛苦。",
+     "example": "prolong the meeting"
     }
    ],
    "antonyms": [
@@ -51864,11 +52329,6 @@
      "word": "librarian",
      "note": "在圖書館管理資料並協助讀者的人。",
      "example": "ask the librarian"
-    },
-    {
-     "word": "library worker",
-     "note": "泛指圖書館工作人員，不一定負責專業管理。",
-     "example": "a library worker"
     }
    ],
    "antonyms": [],
@@ -52029,11 +52489,6 @@
      "word": "lifeguard",
      "note": "在泳池或海邊看顧游泳者並提供救援的人。",
      "example": "a trained lifeguard"
-    },
-    {
-     "word": "rescue worker",
-     "note": "泛指執行救援工作的人，工作地點不限定在水域。",
-     "example": "a rescue worker"
     }
    ],
    "antonyms": [],
@@ -52102,6 +52557,11 @@
      "word": "restriction",
      "note": "常指規則或法律施加的限制。",
      "example": "travel restrictions"
+    },
+    {
+     "word": "constraint",
+     "note": "較正式，指限制行動的條件，常用於時間或預算。",
+     "example": "time constraints"
     }
    ],
    "antonyms": [
@@ -52628,11 +53088,6 @@
      "word": "lobster",
      "note": "指有大型螯足的海生甲殼類動物，也指其食材。",
      "example": "fresh lobster"
-    },
-    {
-     "word": "crayfish",
-     "note": "外形近似小型龍蝦，多生活在淡水中。",
-     "example": "freshwater crayfish"
     }
    ],
    "antonyms": [],
@@ -52685,11 +53140,6 @@
      "word": "reasoning",
      "note": "強調思考與推論的過程。",
      "example": "clear reasoning"
-    },
-    {
-     "word": "common sense",
-     "note": "指日常生活中一般人認為合理的判斷。",
-     "example": "use common sense"
     }
    ],
    "antonyms": [
@@ -52940,6 +53390,11 @@
      "word": "terrible",
      "note": "語氣較強，表示非常糟糕。",
      "example": "terrible condition"
+    },
+    {
+     "word": "awful",
+     "note": "語氣強烈的糟糕，常形容天氣、味道或感受。",
+     "example": "an awful smell"
     }
    ],
    "antonyms": [
@@ -53169,6 +53624,11 @@
      "word": "comfortable",
      "note": "強調舒適，不一定昂貴或奢華。",
      "example": "a comfortable room"
+    },
+    {
+     "word": "lavish",
+     "note": "強調花費大、排場豐盛，常形容宴會或禮物。",
+     "example": "a lavish party"
     }
    ],
    "antonyms": [
@@ -53523,6 +53983,11 @@
      "word": "impressive",
      "note": "強調令人留下深刻印象，不一定華麗或壯觀。",
      "example": "an impressive result"
+    },
+    {
+     "word": "grand",
+     "note": "強調規模宏大或場面盛大，常形容建築或典禮。",
+     "example": "a grand palace"
     }
    ],
    "antonyms": [
@@ -53968,16 +54433,6 @@
      "word": "marathon",
      "note": "本義為長距離賽跑，也可比喻持續很久的活動。",
      "example": "a movie marathon"
-    },
-    {
-     "word": "race",
-     "note": "泛指競賽，不一定是長距離或持續很久。",
-     "example": "a school race"
-    },
-    {
-     "word": "event",
-     "note": "泛指活動或賽事，不強調時間長或距離遠。",
-     "example": "a sports event"
     }
    ],
    "antonyms": [],
@@ -54061,6 +54516,11 @@
      "word": "difference",
      "note": "泛指兩者之間的差異或數值差距。",
      "example": "a small difference"
+    },
+    {
+     "word": "gap",
+     "note": "泛指差距或空隙，比 margin 口語，常用於貧富或世代。",
+     "example": "the generation gap"
     }
    ],
    "antonyms": [],
@@ -54381,11 +54841,6 @@
      "word": "technician",
      "note": "負責操作、維護或檢修特定設備的技術人員。",
      "example": "a lab technician"
-    },
-    {
-     "word": "engineer",
-     "note": "設計或改良機械與系統的工程師，工作範圍較廣。",
-     "example": "a mechanical engineer"
     }
    ],
    "antonyms": [],
@@ -54804,6 +55259,11 @@
      "word": "seller",
      "note": "泛指出售商品的人，語意最廣。",
      "example": "an online seller"
+    },
+    {
+     "word": "dealer",
+     "note": "指專門買賣特定商品的經銷商，例如車或藝術品。",
+     "example": "a car dealer"
     }
    ],
    "antonyms": [],
@@ -55069,6 +55529,11 @@
      "word": "worth",
      "note": "表示價值或值得，常用 worth + N / V-ing。",
      "example": "worth considering"
+    },
+    {
+     "word": "virtue",
+     "note": "多指道德上的美德，也可指優點，常用 by virtue of。",
+     "example": "a great virtue"
     }
    ],
    "antonyms": [],
@@ -55210,6 +55675,11 @@
      "word": "complicated",
      "note": "複雜難懂，未必有混亂或凌亂的感覺。",
      "example": "a complicated issue"
+    },
+    {
+     "word": "sloppy",
+     "note": "強調做事馬虎不仔細或外表邋遢，帶批評意味。",
+     "example": "sloppy work"
     }
    ],
    "antonyms": [
@@ -55442,6 +55912,11 @@
      "word": "grind",
      "note": "作動詞指磨碎，通常不表示在工廠加工。",
      "example": "grind coffee beans"
+    },
+    {
+     "word": "plant",
+     "note": "指大型工業工廠，常用於發電廠或製造廠。",
+     "example": "a power plant"
     }
    ],
    "antonyms": [],
@@ -55487,16 +55962,6 @@
      "word": "millionaire",
      "note": "通常指擁有至少一百萬貨幣單位財產的人。",
      "example": "a millionaire businessman"
-    },
-    {
-     "word": "billionaire",
-     "note": "財產達十億貨幣單位的人，財富更多。",
-     "example": "a billionaire investor"
-    },
-    {
-     "word": "wealthy person",
-     "note": "泛指有錢人，沒有固定財產門檻。",
-     "example": "a wealthy person"
     }
    ],
    "antonyms": [
@@ -55567,11 +56032,6 @@
      "word": "miner",
      "note": "指在礦場開採礦物的人。",
      "example": "a coal miner"
-    },
-    {
-     "word": "worker",
-     "note": "泛指受雇工作的人，不限定工作內容。",
-     "example": "a factory worker"
     }
    ],
    "antonyms": [],
@@ -55644,11 +56104,6 @@
      "word": "mineral",
      "note": "指天然存在的無機物，也指人體所需的礦物質。",
      "example": "essential minerals"
-    },
-    {
-     "word": "nutrient",
-     "note": "泛指維持健康所需的營養素，包括礦物質。",
-     "example": "a key nutrient"
     }
    ],
    "antonyms": [],
@@ -55812,11 +56267,6 @@
      "word": "minister",
      "note": "作名詞可指政府部長或基督教牧師，須看上下文。",
      "example": "the health minister"
-    },
-    {
-     "word": "official",
-     "note": "泛指政府官員，不一定是部長。",
-     "example": "a government official"
     },
     {
      "word": "priest",
@@ -56017,11 +56467,6 @@
      "word": "unhappy",
      "note": "一般指不快樂，程度通常較輕。",
      "example": "feel unhappy"
-    },
-    {
-     "word": "uncomfortable",
-     "note": "強調身體或心理不舒服，不一定很悲慘。",
-     "example": "feel uncomfortable"
     }
    ],
    "antonyms": [
@@ -56081,11 +56526,6 @@
      "word": "misfortune",
      "note": "指令人失望或造成困難的不幸事件。",
      "example": "a family misfortune"
-    },
-    {
-     "word": "bad luck",
-     "note": "口語說法，指運氣不好或倒楣。",
-     "example": "have bad luck"
     },
     {
      "word": "disaster",
@@ -56378,14 +56818,14 @@
      "example": "moderate exercise"
     },
     {
-     "word": "average",
-     "note": "指一般或平均水準，不一定代表適度。",
-     "example": "an average score"
-    },
-    {
      "word": "reasonable",
      "note": "強調合情合理，常形容價格、要求或判斷。",
      "example": "a reasonable price"
+    },
+    {
+     "word": "preside",
+     "note": "對應主持的字義，強調擔任主席主持會議，常接 over。",
+     "example": "preside over a meeting"
     }
    ],
    "antonyms": [
@@ -56630,6 +57070,16 @@
      "word": "observe",
      "note": "較正式，著重仔細觀察以了解情況。",
      "example": "observe changes"
+    },
+    {
+     "word": "supervise",
+     "note": "強調在旁監督他人工作或活動，有管理責任。",
+     "example": "supervise the staff"
+    },
+    {
+     "word": "oversee",
+     "note": "較正式，指負責全面監管計畫或部門。",
+     "example": "oversee the project"
     }
    ],
    "antonyms": [],
@@ -57596,11 +58046,6 @@
      "word": "specifically",
      "note": "表示更精確地說明，常引出具體細節。",
      "example": "specifically, the time"
-    },
-    {
-     "word": "that is",
-     "note": "表示換句話說，常用於補充或重新說明。",
-     "example": "that is, next Friday"
     }
    ],
    "antonyms": [],
@@ -58053,6 +58498,11 @@
      "word": "still",
      "note": "語氣較簡單，可表示儘管有困難仍然如此。",
      "example": "still make progress"
+    },
+    {
+     "word": "yet",
+     "note": "作連接詞時表示但是，語氣比 nevertheless 簡短。",
+     "example": "small yet powerful"
     }
    ],
    "antonyms": [],
@@ -58128,11 +58578,6 @@
      "word": "nightmare",
      "note": "原指惡夢，也可比喻令人難以忍受的情況。",
      "example": "a nightmare journey"
-    },
-    {
-     "word": "bad dream",
-     "note": "直接指不愉快的夢，沒有 nightmare 的強烈語氣。",
-     "example": "have a bad dream"
     },
     {
      "word": "disaster",
@@ -58214,6 +58659,11 @@
      "word": "honorable",
      "note": "著重值得尊敬、守信用或符合道德。",
      "example": "an honorable choice"
+    },
+    {
+     "word": "lofty",
+     "note": "形容理想或目標崇高遠大，有時帶點不切實際的意味。",
+     "example": "lofty ideals"
     }
    ],
    "antonyms": [
@@ -58779,6 +59229,11 @@
      "word": "nourishing",
      "note": "著重提供滋養，常形容食物或照料。",
      "example": "nourishing soup"
+    },
+    {
+     "word": "wholesome",
+     "note": "強調天然、有益身心，也可形容娛樂內容健康。",
+     "example": "wholesome food"
     }
    ],
    "antonyms": [],
@@ -59061,6 +59516,11 @@
      "word": "protest",
      "note": "強調公開表達不滿或反對。",
      "example": "a protest against the rule"
+    },
+    {
+     "word": "dissent",
+     "note": "較正式，指與主流或官方意見不同的異議。",
+     "example": "political dissent"
     }
    ],
    "antonyms": [
@@ -59193,6 +59653,11 @@
      "word": "aim",
      "note": "可指目標，也可指行動的目的，常接 at 或 to V。",
      "example": "aim to improve"
+    },
+    {
+     "word": "neutral",
+     "note": "對應客觀的字義，強調不偏袒任何一方。",
+     "example": "remain neutral"
     }
    ],
    "antonyms": [
@@ -59416,6 +59881,11 @@
      "word": "difficulty",
      "note": "指困難的情況，不一定完全阻擋進展。",
      "example": "face a difficulty"
+    },
+    {
+     "word": "hurdle",
+     "note": "比喻必須跨越的難關，常帶有可以克服的意味。",
+     "example": "the first hurdle"
     }
    ],
    "antonyms": [],
@@ -59489,6 +59959,11 @@
      "word": "gain",
      "note": "常指逐漸取得知識、經驗或支持。",
      "example": "gain experience"
+    },
+    {
+     "word": "acquire",
+     "note": "強調逐漸學到技能或知識，也可指買下公司。",
+     "example": "acquire skills"
     }
    ],
    "antonyms": [
@@ -59583,11 +60058,6 @@
      "word": "infrequent",
      "note": "強調發生次數不多，語氣較正式。",
      "example": "infrequent meetings"
-    },
-    {
-     "word": "rare",
-     "note": "表示非常少見，程度通常比 occasional 更強。",
-     "example": "a rare event"
     }
    ],
    "antonyms": [
@@ -59792,9 +60262,9 @@
      "example": "use a room"
     },
     {
-     "word": "take up",
-     "note": "較口語，常指占用空間、時間或注意力。",
-     "example": "take up space"
+     "word": "inhabit",
+     "note": "指人或動物長期居住或棲息於某地，較正式。",
+     "example": "inhabit the island"
     }
    ],
    "antonyms": [],
@@ -60222,14 +60692,14 @@
      "example": "oppose the plan"
     },
     {
-     "word": "object to",
-     "note": "表示不贊成，後接 to + 名詞或 V-ing。",
-     "example": "object to the change"
-    },
-    {
      "word": "resist",
      "note": "強調抵抗壓力、誘惑或改變。",
      "example": "resist change"
+    },
+    {
+     "word": "object",
+     "note": "作動詞須接 to，表示對某事提出反對或不贊成。",
+     "example": "object to the plan"
     }
    ],
    "antonyms": [
@@ -60533,11 +61003,6 @@
      "word": "orchestra",
      "note": "由多種樂器組成的大型樂團，常演奏古典音樂。",
      "example": "a school orchestra"
-    },
-    {
-     "word": "band",
-     "note": "通常以管樂或流行樂器為主，編制較小。",
-     "example": "a school band"
     }
    ],
    "antonyms": [],
@@ -60601,6 +61066,11 @@
      "word": "introduction",
      "note": "泛指初步介紹，不一定包含新環境的指引。",
      "example": "an introduction to the school"
+    },
+    {
+     "word": "direction",
+     "note": "對應方向的字義，最常用，也可指指示說明。",
+     "example": "the right direction"
     }
    ],
    "antonyms": [],
@@ -60681,11 +61151,6 @@
      "word": "orphan",
      "note": "指失去父母的孩子，也可作動詞表示使孩子失去父母。",
      "example": "an orphan"
-    },
-    {
-     "word": "parentless child",
-     "note": "直接描述沒有父母的孩子，未必表示父母已過世。",
-     "example": "a parentless child"
     }
    ],
    "antonyms": [],
@@ -60741,11 +61206,6 @@
      "word": "otherwise",
      "note": "可表示否則，也可表示其他方面的情況。",
      "example": "otherwise healthy"
-    },
-    {
-     "word": "or else",
-     "note": "表示否則，語氣通常較直接，有時帶有警告意味。",
-     "example": "leave now or else"
     }
    ],
    "antonyms": [],
@@ -61126,11 +61586,6 @@
      "word": "conquer",
      "note": "強調徹底戰勝困難或恐懼，語氣較強。",
      "example": "conquer a fear"
-    },
-    {
-     "word": "deal with",
-     "note": "表示處理或應付問題，不一定代表已克服。",
-     "example": "deal with stress"
     }
    ],
    "antonyms": [],
@@ -61230,6 +61685,11 @@
      "word": "miss",
      "note": "口語常用，表示沒有看到或錯過。",
      "example": "miss a detail"
+    },
+    {
+     "word": "omit",
+     "note": "指刻意或無意省略、漏掉，常用於文字或名單。",
+     "example": "omit a word"
     }
    ],
    "antonyms": [],
@@ -61315,11 +61775,6 @@
      "word": "overnight",
      "note": "表示一夜之間或過夜，常用於時間或住宿。",
      "example": "stay overnight"
-    },
-    {
-     "word": "all night",
-     "note": "表示整個夜晚，強調持續一整晚。",
-     "example": "study all night"
     }
    ],
    "antonyms": [],
@@ -61384,14 +61839,9 @@
      "example": "overthrow a ruler"
     },
     {
-     "word": "remove",
-     "note": "泛指移除或撤換，未必涉及推翻。",
-     "example": "remove a leader"
-    },
-    {
-     "word": "defeat",
-     "note": "表示打敗對手，不一定使其失去統治地位。",
-     "example": "defeat an enemy"
+     "word": "overturn",
+     "note": "多指推翻判決或決定，也可指東西翻覆。",
+     "example": "overturn a ruling"
     }
    ],
    "antonyms": [],
@@ -61538,6 +61988,11 @@
      "word": "rate",
      "note": "常指變化、成長或發生的速率。",
      "example": "the rate of growth"
+    },
+    {
+     "word": "tempo",
+     "note": "多指音樂的節奏速度，也可比喻生活步調。",
+     "example": "a fast tempo"
     }
    ],
    "antonyms": [],
@@ -61623,6 +62078,11 @@
      "word": "committee",
      "note": "通常是負責討論或決策的委員會，不限於評審。",
      "example": "a school committee"
+    },
+    {
+     "word": "jury",
+     "note": "指法庭陪審團或比賽評審團，有做出裁決的權力。",
+     "example": "the jury's decision"
     }
    ],
    "antonyms": [],
@@ -61687,16 +62147,6 @@
      "word": "parachute",
      "note": "指降落傘或使用降落傘下降，意思直接。",
      "example": "use a parachute"
-    },
-    {
-     "word": "drop",
-     "note": "泛指投下物品，不一定使用降落傘。",
-     "example": "drop supplies"
-    },
-    {
-     "word": "descend",
-     "note": "泛指下降，沒有跳傘的意思。",
-     "example": "descend safely"
     }
    ],
    "antonyms": [],
@@ -62010,6 +62460,11 @@
      "word": "alliance",
      "note": "指為共同目標結成的聯盟，常涉及較大的團體。",
      "example": "a school alliance"
+    },
+    {
+     "word": "collaboration",
+     "note": "強調共同合作完成作品或研究，不一定有合夥關係。",
+     "example": "in collaboration with"
     }
    ],
    "antonyms": [],
@@ -62188,11 +62643,6 @@
      "word": "noodles",
      "note": "泛指各種麵條，不限於義大利麵。",
      "example": "a bowl of noodles"
-    },
-    {
-     "word": "spaghetti",
-     "note": "一種細長的義大利麵，是 pasta 的一種。",
-     "example": "spaghetti with tomato sauce"
     }
    ],
    "antonyms": [],
@@ -62275,6 +62725,11 @@
      "word": "scratch",
      "note": "表示抓或刮的動作，不一定用爪子扒。",
      "example": "scratch at the door"
+    },
+    {
+     "word": "claw",
+     "note": "專指爪子尖銳的部分或蟹螯，paw 則指整個腳掌。",
+     "example": "sharp claws"
     }
    ],
    "antonyms": [],
@@ -62354,6 +62809,16 @@
      "word": "unique",
      "note": "強調獨一無二或獨特，通常不表示奇怪。",
      "example": "a unique design"
+    },
+    {
+     "word": "odd",
+     "note": "口語常用，強調不尋常、怪怪的，也可指奇數。",
+     "example": "an odd feeling"
+    },
+    {
+     "word": "weird",
+     "note": "非常口語，強調古怪甚至令人不安，語氣比 strange 強。",
+     "example": "a weird dream"
     }
    ],
    "antonyms": [],
@@ -62539,14 +63004,19 @@
      "example": "peer pressure"
     },
     {
-     "word": "classmate",
-     "note": "特指同班同學，不一定是同輩中的任何人。",
-     "example": "ask a classmate"
-    },
-    {
      "word": "stare",
      "note": "指長時間盯著看，常帶有不禮貌或強烈的意味。",
      "example": "stare at the screen"
+    },
+    {
+     "word": "fellow",
+     "note": "作形容詞放在名詞前，指同處境的同伴，例如同學、同胞。",
+     "example": "fellow students"
+    },
+    {
+     "word": "gaze",
+     "note": "指長時間專注凝視，常帶驚嘆或沉思，不像 peer 費力看。",
+     "example": "gaze at the stars"
     }
    ],
    "antonyms": [],
@@ -62798,6 +63268,11 @@
      "word": "rate",
      "note": "常表示發生頻率或比率，計算方式依情境而定。",
      "example": "the success rate"
+    },
+    {
+     "word": "ratio",
+     "note": "指兩個數量之間的比，常寫成 3:1，不換算成百分比。",
+     "example": "the student-teacher ratio"
     }
    ],
    "antonyms": [],
@@ -63065,6 +63540,11 @@
      "word": "fixed",
      "note": "強調位置、時間或安排已固定。",
      "example": "a fixed schedule"
+    },
+    {
+     "word": "eternal",
+     "note": "強調永恆不朽、沒有終點，常用於愛情、生命等抽象事物。",
+     "example": "eternal love"
     }
    ],
    "antonyms": [
@@ -63144,11 +63624,6 @@
      "word": "influence",
      "note": "指影響他人想法或行為，未必透過直接勸說。",
      "example": "have influence"
-    },
-    {
-     "word": "encouragement",
-     "note": "偏重給予支持與信心，未必是要改變對方的決定。",
-     "example": "words of encouragement"
     }
    ],
    "antonyms": [],
@@ -63432,11 +63907,6 @@
      "example": "garden pests"
     },
     {
-     "word": "insect",
-     "note": "泛指昆蟲，不一定對人或作物有害。",
-     "example": "a small insect"
-    },
-    {
      "word": "nuisance",
      "note": "指造成麻煩的人或事物，不限於害蟲。",
      "example": "a noisy nuisance"
@@ -63565,11 +64035,6 @@
      "word": "thinker",
      "note": "泛指有深入思考或提出思想的人，不限於哲學。",
      "example": "a great thinker"
-    },
-    {
-     "word": "scholar",
-     "note": "指學者，著重學術研究，不一定研究哲學。",
-     "example": "a history scholar"
     }
    ],
    "antonyms": [],
@@ -64050,11 +64515,6 @@
      "word": "doctor",
      "note": "最常見的醫師稱呼，也可指博士。",
      "example": "visit the doctor"
-    },
-    {
-     "word": "medical doctor",
-     "note": "明確指具有醫師資格的人，避免 doctor 的其他意思。",
-     "example": "a medical doctor"
     }
    ],
    "antonyms": [],
@@ -64131,16 +64591,6 @@
      "word": "physicist",
      "note": "專門研究物理學的人。",
      "example": "a research physicist"
-    },
-    {
-     "word": "scientist",
-     "note": "泛指科學家，研究領域不限於物理。",
-     "example": "a young scientist"
-    },
-    {
-     "word": "researcher",
-     "note": "泛指從事研究的人，不一定是科學家。",
-     "example": "a university researcher"
     }
    ],
    "antonyms": [],
@@ -64221,16 +64671,6 @@
      "word": "physics",
      "note": "研究物質、能量及其相互作用的自然科學。",
      "example": "study physics"
-    },
-    {
-     "word": "physical science",
-     "note": "物理科學的總稱，範圍可比 physics 更廣。",
-     "example": "physical science class"
-    },
-    {
-     "word": "science",
-     "note": "泛指科學，不限於物理學。",
-     "example": "study science"
     }
    ],
    "antonyms": [],
@@ -64319,6 +64759,11 @@
      "word": "pickle",
      "note": "可指醃漬物；在 in a pickle 中，口語表示棘手的處境。",
      "example": "in a pickle"
+    },
+    {
+     "word": "dilemma",
+     "note": "指兩難的抉擇困境，比 in a pickle 正式。",
+     "example": "face a dilemma"
     }
    ],
    "antonyms": [],
@@ -64697,11 +65142,6 @@
      "word": "plumber",
      "note": "專門安裝或修理水管與相關設備的人。",
      "example": "call a plumber"
-    },
-    {
-     "word": "repair worker",
-     "note": "泛指修理物品的人，工作範圍不一定是水管。",
-     "example": "a repair worker"
     }
    ],
    "antonyms": [],
@@ -65358,11 +65798,6 @@
      "word": "shipping",
      "note": "常指商品運送費用，範圍比郵件更廣。",
      "example": "free shipping"
-    },
-    {
-     "word": "delivery fee",
-     "note": "指送貨費用，常用於商品或餐點配送。",
-     "example": "a delivery fee"
     }
    ],
    "antonyms": [],
@@ -65480,6 +65915,11 @@
      "word": "promise",
      "note": "指顯露出未來成功的跡象，常形容人或表現。",
      "example": "show great promise"
+    },
+    {
+     "word": "prospect",
+     "note": "指未來可能的前景或機會，常用複數 prospects。",
+     "example": "job prospects"
     }
    ],
    "antonyms": [],
@@ -65642,6 +66082,11 @@
      "word": "expect",
      "note": "表示預期某事發生，未必經過正式推算。",
      "example": "expect a delay"
+    },
+    {
+     "word": "anticipate",
+     "note": "強調預料到並事先做準備，較正式。",
+     "example": "anticipate changes"
     }
    ],
    "antonyms": [],
@@ -65977,6 +66422,11 @@
      "word": "lecture",
      "note": "較正式且通常較長，常由老師或專家主講。",
      "example": "attend a lecture"
+    },
+    {
+     "word": "display",
+     "note": "對應展示的字義，指把物品陳列讓人看，不指口頭報告。",
+     "example": "on display"
     }
    ],
    "antonyms": [],
@@ -66065,6 +66515,11 @@
      "word": "protection",
      "note": "泛指使人或事物免於傷害或危險。",
      "example": "the protection of wildlife"
+    },
+    {
+     "word": "maintenance",
+     "note": "指定期保養維修，使設備或建築能正常運作。",
+     "example": "car maintenance"
     }
    ],
    "antonyms": [
@@ -66178,6 +66633,16 @@
      "word": "conserve",
      "note": "常指節省或妥善保護有限資源。",
      "example": "conserve water"
+    },
+    {
+     "word": "retain",
+     "note": "強調保留住而不失去，常用於人才、熱度或記憶。",
+     "example": "retain heat"
+    },
+    {
+     "word": "maintain",
+     "note": "對應維持的字義，強調保持在一定水準或狀態。",
+     "example": "maintain order"
     }
    ],
    "antonyms": [
@@ -66275,6 +66740,11 @@
      "word": "protection",
      "note": "強調使人或事物免受傷害，不一定表示事先阻止。",
      "example": "protection from illness"
+    },
+    {
+     "word": "precaution",
+     "note": "指為防範危險而採取的具體措施，常用複數。",
+     "example": "take precautions"
     }
    ],
    "antonyms": [],
@@ -66379,6 +66849,11 @@
      "word": "chief",
      "note": "表示最重要的，常用於正式語境。",
      "example": "the chief concern"
+    },
+    {
+     "word": "principal",
+     "note": "較正式，表示最主要的，常修飾原因或角色。",
+     "example": "the principal reason"
     }
    ],
    "antonyms": [],
@@ -66461,6 +66936,11 @@
      "word": "simple",
      "note": "表示簡單或不複雜，語氣通常較中性。",
      "example": "a simple device"
+    },
+    {
+     "word": "crude",
+     "note": "強調粗糙、未經精細加工，也可指石油等原料未提煉。",
+     "example": "crude tools"
     }
    ],
    "antonyms": [
@@ -66541,11 +67021,6 @@
      "word": "priority",
      "note": "指比其他事情更重要、應先處理的事或權利。",
      "example": "a top priority"
-    },
-    {
-     "word": "preference",
-     "note": "指個人較喜歡的選擇，不一定代表事情更重要。",
-     "example": "personal preference"
     },
     {
      "word": "precedence",
@@ -66854,6 +67329,11 @@
      "word": "method",
      "note": "指達成目的所使用的方法，強調做法。",
      "example": "a useful method"
+    },
+    {
+     "word": "operation",
+     "note": "對應手術的字義，指一次外科手術，口語比 procedure 常見。",
+     "example": "a heart operation"
     }
    ],
    "antonyms": [],
@@ -66944,11 +67424,6 @@
      "word": "continue",
      "note": "一般用語，表示不中斷地繼續。",
      "example": "continue the lesson"
-    },
-    {
-     "word": "go on",
-     "note": "較口語，常指活動或談話繼續。",
-     "example": "go on with the story"
     }
    ],
    "antonyms": [],
@@ -67124,6 +67599,11 @@
      "word": "career",
      "note": "著重一生的工作發展或職涯。",
      "example": "a career in science"
+    },
+    {
+     "word": "vocation",
+     "note": "強調適合自己、帶有使命感的職業或志業。",
+     "example": "a sense of vocation"
     }
    ],
    "antonyms": [],
@@ -67226,6 +67706,11 @@
      "word": "qualified",
      "note": "強調具有所需資格或證照。",
      "example": "a qualified teacher"
+    },
+    {
+     "word": "expert",
+     "note": "強調在某領域知識技術特別精通，不一定以此為業。",
+     "example": "an expert opinion"
     }
    ],
    "antonyms": [
@@ -67404,6 +67889,16 @@
      "word": "notable",
      "note": "較正式，指值得注意或記錄的。",
      "example": "a notable change"
+    },
+    {
+     "word": "renowned",
+     "note": "強調因成就而聲名遠播，語氣正式且帶讚美。",
+     "example": "a renowned artist"
+    },
+    {
+     "word": "distinguished",
+     "note": "強調成就卓越並受尊敬，常形容學者或職涯。",
+     "example": "a distinguished career"
     }
    ],
    "antonyms": [],
@@ -67483,11 +67978,6 @@
      "word": "hopeful",
      "note": "指抱持希望或令人感到有希望。",
      "example": "a hopeful sign"
-    },
-    {
-     "word": "likely",
-     "note": "表示某事很可能發生，不特別帶有好成果的意思。",
-     "example": "a likely result"
     }
    ],
    "antonyms": [],
@@ -67715,6 +68205,16 @@
      "word": "remind",
      "note": "指讓人想起已知或該做的事。",
      "example": "remind him to call"
+    },
+    {
+     "word": "spur",
+     "note": "強調激勵或刺激使事情發生，常用 spur sb to V。",
+     "example": "spur growth"
+    },
+    {
+     "word": "punctual",
+     "note": "對應準時的字義，只形容人守時，不指動作迅速。",
+     "example": "be punctual"
     }
    ],
    "antonyms": [
@@ -67784,11 +68284,6 @@
      "word": "accent",
      "note": "指一個人或地區說話的口音特徵。",
      "example": "a local accent"
-    },
-    {
-     "word": "speech",
-     "note": "泛指說話或演講，不專指單字讀音。",
-     "example": "clear speech"
     }
    ],
    "antonyms": [],
@@ -68028,6 +68523,11 @@
      "word": "success",
      "note": "泛指達成目標，不一定代表富裕或繁榮。",
      "example": "academic success"
+    },
+    {
+     "word": "boom",
+     "note": "指經濟或某產業短時間內快速繁榮，帶有突然興起感。",
+     "example": "an economic boom"
     }
    ],
    "antonyms": [
@@ -68483,11 +68983,6 @@
      "word": "psychology",
      "note": "作學科名時指心理學；談個人時可指心理特質。",
      "example": "study psychology"
-    },
-    {
-     "word": "mind",
-     "note": "指人的心智或思考能力，不是心理學這門學科。",
-     "example": "the human mind"
     }
    ],
    "antonyms": [],
@@ -68730,6 +69225,11 @@
      "word": "print",
      "note": "指把文字或圖片印在紙上，不一定代表正式出版。",
      "example": "print a magazine"
+    },
+    {
+     "word": "issue",
+     "note": "對應發布的字義，常用於官方聲明、警告或證件。",
+     "example": "issue a warning"
     }
    ],
    "antonyms": [],
@@ -68994,6 +69494,11 @@
      "word": "activity",
      "note": "泛指活動，沒有 pursuit 所帶的追求意味。",
      "example": "outdoor activities"
+    },
+    {
+     "word": "pastime",
+     "note": "對應嗜好的字義，指空閒時用來消遣的活動。",
+     "example": "a favorite pastime"
     }
    ],
    "antonyms": [
@@ -69093,6 +69598,11 @@
      "word": "fight",
      "note": "可指激烈爭吵，也可指肢體打鬥，語氣較強。",
      "example": "fight over money"
+    },
+    {
+     "word": "dispute",
+     "note": "較正式，指正式或長期的爭議，常用於勞資或領土。",
+     "example": "a border dispute"
     }
    ],
    "antonyms": [
@@ -69242,6 +69752,11 @@
      "word": "citation",
      "note": "常指學術寫作中標示來源的引文或引用資料。",
      "example": "a citation in an essay"
+    },
+    {
+     "word": "excerpt",
+     "note": "指從書、影片或樂曲中節錄的一段，篇幅通常較長。",
+     "example": "a short excerpt"
     }
    ],
    "antonyms": [],
@@ -69523,11 +70038,6 @@
      "word": "raisin",
      "note": "指曬乾或加工製成的葡萄，常作零食或食材。",
      "example": "a handful of raisins"
-    },
-    {
-     "word": "dried fruit",
-     "note": "泛指各種乾燥水果，範圍比 raisin 廣。",
-     "example": "a bag of dried fruit"
     }
    ],
    "antonyms": [],
@@ -69615,6 +70125,11 @@
      "word": "reasonable",
      "note": "表示合理、不過分，常形容要求、價格或期待。",
      "example": "a reasonable request"
+    },
+    {
+     "word": "feasible",
+     "note": "較正式，強調計畫在技術或條件上行得通。",
+     "example": "a feasible plan"
     }
    ],
    "antonyms": [
@@ -69735,6 +70250,11 @@
      "word": "defy",
      "note": "公開違抗命令或規定，語氣較強。",
      "example": "defy an order"
+    },
+    {
+     "word": "revolt",
+     "note": "指群體起來叛變或反抗統治，規模通常較大。",
+     "example": "revolt against the king"
     }
    ],
    "antonyms": [
@@ -70084,11 +70604,6 @@
      "word": "formula",
      "note": "指固定的公式或方法，不一定與烹飪有關。",
      "example": "a formula for success"
-    },
-    {
-     "word": "method",
-     "note": "泛指做事的方法或程序，含義比 recipe 廣。",
-     "example": "a study method"
     }
    ],
    "antonyms": [],
@@ -70376,6 +70891,11 @@
      "word": "entertainment",
      "note": "指提供樂趣的娛樂內容或活動。",
      "example": "live entertainment"
+    },
+    {
+     "word": "pastime",
+     "note": "指個人喜愛的消遣，可數名詞，較口語。",
+     "example": "a popular pastime"
     }
    ],
    "antonyms": [],
@@ -70959,6 +71479,16 @@
      "word": "consider",
      "note": "表示仔細考慮某事，不表示反射或呈現。",
      "example": "consider the result"
+    },
+    {
+     "word": "mirror",
+     "note": "作動詞指如實反映，強調兩者相似，像照鏡子一樣。",
+     "example": "mirror society"
+    },
+    {
+     "word": "ponder",
+     "note": "對應反思的字義，指長時間認真思考，較正式。",
+     "example": "ponder the question"
     }
    ],
    "antonyms": [],
@@ -71301,16 +71831,6 @@
      "word": "refugee",
      "note": "因戰爭、災害或迫害而離開家園尋求安全的人。",
      "example": "a refugee family"
-    },
-    {
-     "word": "immigrant",
-     "note": "移居他國的人，不一定是為了逃離危險。",
-     "example": "an immigrant family"
-    },
-    {
-     "word": "migrant",
-     "note": "為工作或生活移動的人，原因範圍較廣。",
-     "example": "migrant workers"
     }
    ],
    "antonyms": [],
@@ -71598,11 +72118,6 @@
      "word": "enroll",
      "note": "指註冊加入學校或課程，常用美式拼法。",
      "example": "enroll in a class"
-    },
-    {
-     "word": "sign up",
-     "note": "較口語，指報名參加活動或服務。",
-     "example": "sign up for a club"
     }
    ],
    "antonyms": [],
@@ -72579,6 +73094,16 @@
      "word": "outstanding",
      "note": "表示表現或品質特別優秀，稱讚意味較強。",
      "example": "outstanding work"
+    },
+    {
+     "word": "extraordinary",
+     "note": "語氣比 remarkable 強，強調非比尋常、極其特別。",
+     "example": "an extraordinary talent"
+    },
+    {
+     "word": "notable",
+     "note": "較正式，強調值得注意或提及，讚美意味較弱。",
+     "example": "a notable exception"
     }
    ],
    "antonyms": [
@@ -73034,6 +73559,11 @@
      "word": "image",
      "note": "指個人或組織呈現給大眾的形象，可能刻意經營。",
      "example": "a positive image"
+    },
+    {
+     "word": "prestige",
+     "note": "強調因地位或成就而來的威望，常形容學校或職業。",
+     "example": "social prestige"
     }
    ],
    "antonyms": [],
@@ -73387,16 +73917,6 @@
      "word": "resemble",
      "note": "直接表示外觀或特徵相似，後面接名詞，不接 like。",
      "example": "resemble her mother"
-    },
-    {
-     "word": "look like",
-     "note": "較口語，常用來描述外表相像。",
-     "example": "look like his father"
-    },
-    {
-     "word": "take after",
-     "note": "指外貌或個性像家人，常用於親屬關係。",
-     "example": "take after her mother"
     }
    ],
    "antonyms": [],
@@ -73611,11 +74131,6 @@
      "word": "quit",
      "note": "較口語，可指離職，也可指停止做某件事。",
      "example": "quit a job"
-    },
-    {
-     "word": "retire",
-     "note": "指因年齡或生涯安排退休，不表示一般辭職。",
-     "example": "retire from teaching"
     }
    ],
    "antonyms": [],
@@ -73691,11 +74206,6 @@
      "word": "departure",
      "note": "泛指離開某處或職位，不一定是正式辭職。",
      "example": "departure from the team"
-    },
-    {
-     "word": "retirement",
-     "note": "指退休，通常因年齡或生涯規劃離職。",
-     "example": "early retirement"
     }
    ],
    "antonyms": [],
@@ -74162,6 +74672,11 @@
      "word": "decent",
      "note": "常指品質或程度尚可，也可指行為得體。",
      "example": "a decent result"
+    },
+    {
+     "word": "honorable",
+     "note": "強調行為正直光榮、守信義，帶有道德評價。",
+     "example": "an honorable man"
     }
    ],
    "antonyms": [],
@@ -74254,6 +74769,11 @@
      "word": "considerate",
      "note": "著重體貼他人感受與需要。",
      "example": "a considerate guest"
+    },
+    {
+     "word": "courteous",
+     "note": "強調客氣有禮的舉止，不一定帶有尊敬對方的意思。",
+     "example": "courteous service"
     }
    ],
    "antonyms": [
@@ -74356,6 +74876,11 @@
      "word": "recover",
      "note": "常指人從疾病或困難中恢復。",
      "example": "recover from a cold"
+    },
+    {
+     "word": "revive",
+     "note": "強調使衰退的事物重新興起，或使人甦醒。",
+     "example": "revive the economy"
     }
    ],
    "antonyms": [],
@@ -74633,11 +75158,6 @@
      "word": "leave",
      "note": "一般指離開工作或某個地方，未必表示退休。",
      "example": "leave the office"
-    },
-    {
-     "word": "resign",
-     "note": "指主動辭去職位，不一定已到退休年齡。",
-     "example": "resign from the job"
     }
    ],
    "antonyms": [],
@@ -74719,9 +75239,9 @@
      "example": "withdraw an application"
     },
     {
-     "word": "back away",
-     "note": "較口語，常指逐漸離開或不再堅持。",
-     "example": "back away from a choice"
+     "word": "refuge",
+     "note": "指逃避危險或壓力的避難處，常用 take refuge。",
+     "example": "a place of refuge"
     }
    ],
    "antonyms": [
@@ -74782,16 +75302,6 @@
      "word": "reunion",
      "note": "指分開一段時間後再次相聚，常用於家庭或同學。",
      "example": "a family reunion"
-    },
-    {
-     "word": "gathering",
-     "note": "泛指一群人聚在一起，不一定久別重逢。",
-     "example": "a family gathering"
-    },
-    {
-     "word": "meeting",
-     "note": "泛指相見或開會，也不一定帶有重聚意味。",
-     "example": "a meeting with friends"
     }
    ],
    "antonyms": [],
@@ -75200,14 +75710,14 @@
      "example": "a revolution in education"
     },
     {
-     "word": "change",
-     "note": "泛指變化，不一定規模大或影響深遠。",
-     "example": "a change in plans"
-    },
-    {
      "word": "transformation",
      "note": "著重形態或性質出現明顯改變。",
      "example": "a transformation of the town"
+    },
+    {
+     "word": "rotation",
+     "note": "對應旋轉的字義，指繞自身軸心轉動，也可指輪替。",
+     "example": "the Earth's rotation"
     }
    ],
    "antonyms": [],
@@ -75537,6 +76047,11 @@
      "word": "pace",
      "note": "指活動進行的速度或步調，不特指音樂。",
      "example": "a slow pace"
+    },
+    {
+     "word": "tempo",
+     "note": "指音樂或活動進行的速度快慢，rhythm 則重在規律。",
+     "example": "a slow tempo"
     }
    ],
    "antonyms": [],
@@ -75642,11 +76157,6 @@
      "word": "thief",
      "note": "泛指偷竊者，不一定使用暴力。",
      "example": "a thief in the store"
-    },
-    {
-     "word": "burglar",
-     "note": "指闖入建築物行竊的人。",
-     "example": "a burglar in the house"
     }
    ],
    "antonyms": [],
@@ -75922,6 +76432,11 @@
      "word": "destroy",
      "note": "指完全破壞或摧毀，程度通常比 damage 強。",
      "example": "destroy the old bridge"
+    },
+    {
+     "word": "wreck",
+     "note": "語氣強烈，常指撞毀車船，也可比喻毀掉計畫或人生。",
+     "example": "wreck the car"
     }
    ],
    "antonyms": [
@@ -76099,11 +76614,6 @@
      "word": "corroded",
      "note": "指金屬因化學作用腐蝕，較正式且偏字面。",
      "example": "corroded pipes"
-    },
-    {
-     "word": "out of practice",
-     "note": "指因缺少練習而生疏，只用於技能。",
-     "example": "out of practice"
     }
    ],
    "antonyms": [],
@@ -76197,11 +76707,6 @@
      "word": "sacrifice",
      "note": "為了更重要的目標放棄某些事物，語氣較強。",
      "example": "sacrifice free time"
-    },
-    {
-     "word": "give up",
-     "note": "一般口語的放棄，不一定是為了更重要的目標。",
-     "example": "give up a hobby"
     },
     {
      "word": "devote",
@@ -76586,6 +77091,11 @@
      "word": "criticize",
      "note": "泛指批評，不一定帶有責罵語氣。",
      "example": "criticize a decision"
+    },
+    {
+     "word": "lecture",
+     "note": "對應訓斥的字義，指長篇大論地說教，常令人厭煩。",
+     "example": "lecture sb about manners"
     }
    ],
    "antonyms": [
@@ -76933,6 +77443,11 @@
      "word": "safe",
      "note": "表示免於危險，主要作形容詞，不表示取得。",
      "example": "a safe place"
+    },
+    {
+     "word": "ensure",
+     "note": "只表示確保某事發生，不含取得或安全的意思。",
+     "example": "ensure safety"
     }
    ],
    "antonyms": [
@@ -77035,6 +77550,11 @@
      "word": "capture",
      "note": "表示捕捉或奪取，常用於人、動物或影像。",
      "example": "capture an image"
+    },
+    {
+     "word": "grasp",
+     "note": "強調用手緊緊抓住，也常指理解概念。",
+     "example": "grasp the rope"
     }
    ],
    "antonyms": [
@@ -77102,11 +77622,6 @@
      "word": "immigrant",
      "note": "指移居到另一個國家的人，強調跨國移居。",
      "example": "a new immigrant"
-    },
-    {
-     "word": "resident",
-     "note": "指居住在某地的人，不一定是移居者。",
-     "example": "local residents"
     }
    ],
    "antonyms": [],
@@ -77613,11 +78128,6 @@
      "word": "trim",
      "note": "修短毛髮或鬍子，通常不會完全刮除。",
      "example": "trim a beard"
-    },
-    {
-     "word": "remove",
-     "note": "一般表示移除，不特指用刀片刮除。",
-     "example": "remove facial hair"
     }
    ],
    "antonyms": [],
@@ -77810,6 +78320,16 @@
      "word": "move",
      "note": "著重移動位置，較少用來表示抽象重心轉移。",
      "example": "move the chair"
+    },
+    {
+     "word": "transfer",
+     "note": "強調把人或物從一處轉移到另一處，也可指調職。",
+     "example": "transfer money"
+    },
+    {
+     "word": "switch",
+     "note": "強調在兩者之間切換，常接 from A to B。",
+     "example": "switch channels"
     }
    ],
    "antonyms": [],
@@ -77875,6 +78395,11 @@
      "word": "visiting",
      "note": "泛指拜訪或參觀某地，不一定是觀光活動。",
      "example": "visiting a museum"
+    },
+    {
+     "word": "tour",
+     "note": "指有安排路線的參觀或導覽行程，可數名詞。",
+     "example": "a guided tour"
     }
    ],
    "antonyms": [],
@@ -78394,6 +78919,16 @@
      "word": "location",
      "note": "著重事物所在的位置，常用於正式描述。",
      "example": "a convenient location"
+    },
+    {
+     "word": "spot",
+     "note": "較口語，指某個特定的小地點，常形容好去處。",
+     "example": "a tourist spot"
+    },
+    {
+     "word": "venue",
+     "note": "專指舉辦活動、比賽或演出的場地。",
+     "example": "a concert venue"
     }
    ],
    "antonyms": [],
@@ -78519,6 +79054,16 @@
      "word": "outline",
      "note": "著重列出主要內容或輪廓，較少指畫素描。",
      "example": "outline the main ideas"
+    },
+    {
+     "word": "draft",
+     "note": "指文字的初稿，sketch 則多指圖畫草稿。",
+     "example": "the first draft"
+    },
+    {
+     "word": "drawing",
+     "note": "泛指用筆畫成的圖，不強調粗略或未完成。",
+     "example": "a pencil drawing"
     }
    ],
    "antonyms": [],
@@ -79151,6 +79696,11 @@
      "word": "reserve",
      "note": "指預留供日後使用，語氣較正式。",
      "example": "a reserve fund"
+    },
+    {
+     "word": "surplus",
+     "note": "較正式，指超出所需的剩餘量，多用於經濟或物資。",
+     "example": "a trade surplus"
     }
    ],
    "antonyms": [],
@@ -79253,6 +79803,16 @@
      "word": "trigger",
      "note": "表示觸發某事，常用於事件或反應。",
      "example": "trigger a response"
+    },
+    {
+     "word": "kindle",
+     "note": "較文學，指點燃火，或慢慢激起興趣與情感。",
+     "example": "kindle interest"
+    },
+    {
+     "word": "provoke",
+     "note": "強調故意或直接激起負面反應，例如憤怒或爭議。",
+     "example": "provoke anger"
     }
    ],
    "antonyms": [],
@@ -79885,6 +80445,11 @@
      "word": "position",
      "note": "指職位或社會地位，也可指所在位置。",
      "example": "social position"
+    },
+    {
+     "word": "stature",
+     "note": "指因成就而得到的聲望地位，也可指身高。",
+     "example": "a man of stature"
     }
    ],
    "antonyms": [],
@@ -79954,16 +80519,6 @@
      "word": "stem",
      "note": "stem from 表示某事源自某個原因，常用於說明問題或結果。",
      "example": "stem from stress"
-    },
-    {
-     "word": "come from",
-     "note": "較口語地表示來源或原因，使用範圍很廣。",
-     "example": "come from a mistake"
-    },
-    {
-     "word": "result from",
-     "note": "表示某事由某原因造成，語氣較正式。",
-     "example": "result from poor planning"
     }
    ],
    "antonyms": [],
@@ -80017,11 +80572,6 @@
      "word": "stereo",
      "note": "常指播放立體聲音樂的音響設備，也可指立體聲效果。",
      "example": "a home stereo"
-    },
-    {
-     "word": "sound system",
-     "note": "指一整套播放聲音的設備，不一定強調立體聲效果。",
-     "example": "a home sound system"
     }
    ],
    "antonyms": [],
@@ -80078,6 +80628,16 @@
      "word": "cheap",
      "note": "口語中可指小氣，也可指價格便宜，語意需看上下文。",
      "example": "a cheap person"
+    },
+    {
+     "word": "mean",
+     "note": "英式口語中表示小氣，也可指刻薄。",
+     "example": "mean with money"
+    },
+    {
+     "word": "petty",
+     "note": "強調心胸狹窄、斤斤計較小事，不只針對金錢。",
+     "example": "petty jealousy"
     }
    ],
    "antonyms": [
@@ -80128,11 +80688,6 @@
      "word": "stocking",
      "note": "通常指較長、包住小腿或大腿的襪子。",
      "example": "a pair of stockings"
-    },
-    {
-     "word": "sock",
-     "note": "一般指長度較短的襪子，多穿在腳踝或小腿。",
-     "example": "a warm sock"
     },
     {
      "word": "tights",
@@ -80203,6 +80758,11 @@
      "word": "improve",
      "note": "泛指改善品質或狀況，不一定是增加力量。",
      "example": "improve your skills"
+    },
+    {
+     "word": "fortify",
+     "note": "原指加固防禦工事，也可指補充營養強化食品。",
+     "example": "fortify the city"
     }
    ],
    "antonyms": [
@@ -80346,9 +80906,14 @@
      "example": "try to help"
     },
     {
-     "word": "work hard",
-     "note": "直接表示努力工作或讀書，語氣較日常。",
-     "example": "work hard at school"
+     "word": "endeavor",
+     "note": "較正式，強調盡力嘗試，常接 to V。",
+     "example": "endeavor to help"
+    },
+    {
+     "word": "struggle",
+     "note": "強調在困難中掙扎奮鬥，過程較辛苦。",
+     "example": "struggle to survive"
     }
    ],
    "antonyms": [],
@@ -80612,6 +81177,11 @@
      "word": "charge",
      "note": "通常指檢方正式控告犯罪，常用 charge someone with。",
      "example": "charge him with theft"
+    },
+    {
+     "word": "prosecute",
+     "note": "指檢察官以刑事罪名起訴，sue 則多為民事求償。",
+     "example": "prosecute the suspect"
     }
    ],
    "antonyms": [],
@@ -80789,14 +81359,14 @@
      "example": "summarize an article"
     },
     {
-     "word": "review",
-     "note": "重新檢視或複習內容，不一定縮短成摘要。",
-     "example": "review the lesson"
-    },
-    {
      "word": "outline",
      "note": "列出主要部分或大綱，通常較簡略。",
      "example": "outline the main ideas"
+    },
+    {
+     "word": "condense",
+     "note": "強調把文字濃縮精簡，篇幅變短但不一定只留重點。",
+     "example": "condense the report"
     }
    ],
    "antonyms": [],
@@ -80863,16 +81433,6 @@
      "word": "surgeon",
      "note": "專指執行外科手術的醫師。",
      "example": "a heart surgeon"
-    },
-    {
-     "word": "doctor",
-     "note": "泛指醫師，不一定從事外科手術。",
-     "example": "see a doctor"
-    },
-    {
-     "word": "physician",
-     "note": "通常指內科醫師或醫師的正式稱呼。",
-     "example": "a family physician"
     }
    ],
    "antonyms": [],
@@ -80949,9 +81509,9 @@
      "example": "a knee operation"
     },
     {
-     "word": "treatment",
-     "note": "泛指治療方式，不一定需要手術。",
-     "example": "medical treatment"
+     "word": "procedure",
+     "note": "較委婉正式，泛指各種醫療處置，不一定需要開刀。",
+     "example": "a medical procedure"
     }
    ],
    "antonyms": [],
@@ -81041,14 +81601,14 @@
      "example": "surrender to pressure"
     },
     {
-     "word": "give up",
-     "note": "最常見的放棄，常用於努力、習慣或計畫。",
-     "example": "give up trying"
-    },
-    {
      "word": "yield",
      "note": "因壓力或他人要求而讓步，語氣較正式。",
      "example": "yield to pressure"
+    },
+    {
+     "word": "submit",
+     "note": "強調順從權威或屈服於壓力，常接 to。",
+     "example": "submit to authority"
     }
    ],
    "antonyms": [
@@ -81828,16 +82388,6 @@
      "word": "technician",
      "note": "具備專門技術、負責操作或維修設備的人員。",
      "example": "a lab technician"
-    },
-    {
-     "word": "expert",
-     "note": "泛指某領域的專家，不限於實作技術。",
-     "example": "a computer expert"
-    },
-    {
-     "word": "specialist",
-     "note": "專精某一領域的人，工作內容不一定是技術操作。",
-     "example": "a medical specialist"
     }
    ],
    "antonyms": [],
@@ -82001,11 +82551,6 @@
      "word": "telegraph",
      "note": "以電報方式傳遞訊息，現代日常使用較少。",
      "example": "telegraph a message"
-    },
-    {
-     "word": "send",
-     "note": "泛指傳送，方式不限於電報。",
-     "example": "send a message"
     },
     {
      "word": "wire",
@@ -82635,6 +83180,16 @@
      "word": "careful",
      "note": "強調小心留意細節，未必涵蓋全部內容。",
      "example": "a careful check"
+    },
+    {
+     "word": "rigorous",
+     "note": "強調標準嚴格、方法嚴謹，常形容研究或訓練。",
+     "example": "rigorous training"
+    },
+    {
+     "word": "comprehensive",
+     "note": "強調涵蓋範圍全面完整，不特別強調仔細。",
+     "example": "a comprehensive guide"
     }
    ],
    "antonyms": [
@@ -82808,11 +83363,6 @@
      "word": "tease",
      "note": "逗弄或取笑，通常不含搔癢的動作。",
      "example": "tease a friend"
-    },
-    {
-     "word": "stroke",
-     "note": "輕柔地撫摸，不一定引起癢感或發笑。",
-     "example": "stroke the cat"
     }
    ],
    "antonyms": [],
@@ -83016,6 +83566,11 @@
      "word": "bearable",
      "note": "著重痛苦或困難尚能承受，語氣較口語。",
      "example": "bearable pain"
+    },
+    {
+     "word": "acceptable",
+     "note": "強調達到可接受的標準，語氣比 tolerable 正面。",
+     "example": "an acceptable level"
     }
    ],
    "antonyms": [
@@ -83101,6 +83656,16 @@
      "word": "acceptance",
      "note": "表示接納某人或某事，較強調認同或歡迎。",
      "example": "acceptance of change"
+    },
+    {
+     "word": "patience",
+     "note": "對應容忍的字義，指對人或等待的耐心。",
+     "example": "lose patience"
+    },
+    {
+     "word": "endurance",
+     "note": "對應耐受力的字義，指身體或心理長期承受的耐力。",
+     "example": "physical endurance"
     }
    ],
    "antonyms": [
@@ -83243,9 +83808,14 @@
      "example": "endure hardship"
     },
     {
-     "word": "put up with",
-     "note": "口語表示忍受，後面接名詞或動名詞。",
-     "example": "put up with delays"
+     "word": "bear",
+     "note": "口語常用於否定句，例如 can't bear，語氣較強。",
+     "example": "can't bear the pain"
+    },
+    {
+     "word": "stand",
+     "note": "非常口語，多用於否定或疑問句，表示受不了。",
+     "example": "can't stand the noise"
     }
    ],
    "antonyms": [
@@ -84797,6 +85367,16 @@
      "word": "common",
      "note": "指常見或多人共有，不一定普遍適用。",
      "example": "a common problem"
+    },
+    {
+     "word": "widespread",
+     "note": "強調分布很廣、很多地方都有，不一定是全部。",
+     "example": "widespread support"
+    },
+    {
+     "word": "global",
+     "note": "強調涵蓋全世界的範圍，偏地理上的普及。",
+     "example": "global warming"
     }
    ],
    "antonyms": [
@@ -85017,6 +85597,11 @@
      "word": "immediate",
      "note": "強調立刻發生或處理，不一定表示事情重要。",
      "example": "immediate action"
+    },
+    {
+     "word": "imperative",
+     "note": "語氣比 urgent 更強，強調非做不可，較正式。",
+     "example": "it is imperative"
     }
    ],
    "antonyms": [
@@ -85472,6 +86057,11 @@
      "word": "wide",
      "note": "主要指寬度或範圍廣，不一定表示數量很多。",
      "example": "a wide road"
+    },
+    {
+     "word": "extensive",
+     "note": "強調範圍廣、內容多，常形容研究、損害或知識。",
+     "example": "extensive damage"
     }
    ],
    "antonyms": [
@@ -85837,6 +86427,11 @@
      "word": "advantage",
      "note": "指帶來好處的條件或長處。",
      "example": "a clear advantage"
+    },
+    {
+     "word": "merit",
+     "note": "強調值得肯定的優點或價值，不帶道德意味。",
+     "example": "artistic merit"
     }
    ],
    "antonyms": [
@@ -86028,6 +86623,11 @@
      "word": "important",
      "note": "一般表示重要，語氣較中性。",
      "example": "an important choice"
+    },
+    {
+     "word": "crucial",
+     "note": "強調在關鍵時刻起決定作用，不含維持生命的意思。",
+     "example": "a crucial decision"
     }
    ],
    "antonyms": [
@@ -86273,6 +86873,11 @@
      "word": "trip",
      "note": "通常指有明確目的、時間較短的旅行。",
      "example": "a school trip"
+    },
+    {
+     "word": "cruise",
+     "note": "指搭遊輪的休閒航行，重在度假而非長途旅程。",
+     "example": "go on a cruise"
     }
    ],
    "antonyms": [],
@@ -86530,11 +87135,6 @@
      "word": "wink",
      "note": "通常單眼短暫眨動，可表示暗示或玩笑。",
      "example": "wink at a friend"
-    },
-    {
-     "word": "blink",
-     "note": "通常是眼睛自然快速閉合，不帶暗示。",
-     "example": "blink in surprise"
     },
     {
      "word": "signal",
@@ -87139,6 +87739,11 @@
      "word": "ruin",
      "note": "指使計畫或事物完全失敗、失去價值。",
      "example": "ruin the surprise"
+    },
+    {
+     "word": "destroy",
+     "note": "最常用的摧毀說法，語氣中性，不指殘骸。",
+     "example": "destroy the city"
     }
    ],
    "antonyms": [
