@@ -1,0 +1,1025 @@
+{
+ "version": 1,
+ "pairs": [
+  {
+   "a": "accident",
+   "b": "incident",
+   "kind": "both",
+   "score": 0.684,
+   "aZh": "n. 意外事故",
+   "bZh": "n. 事件；小插曲",
+   "diff": "accident 是意外發生、常有人受傷或東西損壞的事故；incident 是一件事情，不一定是意外，也可能是故意的。",
+   "points": [
+    "使用情境：車禍、受傷用 accident，新聞裡的衝突或事件用 incident",
+    "拼字：acc-ident 和 inc-ident 只差開頭",
+    "搭配：by accident 是「意外地」，incident 沒有這種用法"
+   ],
+   "tip": "acc 開頭像 accident 的「撞」；in 開頭像發生在裡面的一件事。",
+   "exA": {
+    "en": "Two people were hurt in a car accident this morning.",
+    "zh": "今天早上有兩個人在車禍中受傷。"
+   },
+   "exB": {
+    "en": "The police are looking into the incident at the station.",
+    "zh": "警方正在調查車站發生的那起事件。"
+   }
+  },
+  {
+   "a": "active",
+   "b": "positive",
+   "kind": "semantic",
+   "score": 0.441,
+   "aZh": "adj. 活躍的；積極參與的",
+   "bZh": "adj. 正面的；樂觀的",
+   "diff": "中文都說「積極」，但 active 是常參與、常動；positive 是想法樂觀、態度正面。",
+   "points": [
+    "使用情境：參與社團、運動用 active；看事情的態度用 positive",
+    "搭配：be active in，have a positive attitude"
+   ],
+   "tip": "active 看行動（act），positive 看想法。",
+   "exA": {
+    "en": "Jenny is very active in the school drama club.",
+    "zh": "Jenny 很積極參與學校戲劇社。"
+   },
+   "exB": {
+    "en": "Try to keep a positive attitude before the exam.",
+    "zh": "考試前試著保持正面的態度。"
+   }
+  },
+  {
+   "a": "activity",
+   "b": "event",
+   "kind": "semantic",
+   "score": 0.723,
+   "aZh": "n. 活動（做的事）",
+   "bZh": "n. 活動；大型事件",
+   "diff": "activity 指人去做的事，像運動、閱讀；event 指在特定時間舉辦的一場活動或發生的大事。",
+   "points": [
+    "使用情境：興趣、課程內容用 activity；運動會、演唱會用 event",
+    "搭配：outdoor activities，a sports event"
+   ],
+   "tip": "activity 來自 act（做）；event 有日期，可以寫進行事曆。",
+   "exA": {
+    "en": "Hiking is a popular weekend activity for families.",
+    "zh": "健行是家庭很受歡迎的週末活動。"
+   },
+   "exB": {
+    "en": "The school sports event will be held next Friday.",
+    "zh": "學校運動會將在下週五舉行。"
+   }
+  },
+  {
+   "a": "actual",
+   "b": "practical",
+   "kind": "semantic",
+   "score": 0.478,
+   "aZh": "adj. 實際的；真正的",
+   "bZh": "adj. 實用的；務實的",
+   "diff": "中文都說「實際」，actual 是「真正發生的」，practical 是「實用、可行的」。",
+   "points": [
+    "使用情境：實際花費、真正原因用 actual；好用的建議、方法用 practical",
+    "搭配：the actual cost，practical advice"
+   ],
+   "tip": "actual 問「真的是多少」，practical 問「好不好用」。",
+   "exA": {
+    "en": "The actual cost of the trip was higher than we expected.",
+    "zh": "這趟旅行的實際花費比我們預期的高。"
+   },
+   "exB": {
+    "en": "My teacher gave me some practical advice for the trip.",
+    "zh": "老師給了我一些這趟旅行的實用建議。"
+   }
+  },
+  {
+   "a": "addition",
+   "b": "edition",
+   "kind": "visual",
+   "score": 0.75,
+   "aZh": "n. 增加；加法",
+   "bZh": "n. 版本；版次",
+   "diff": "addition 是加上去的東西或加法；edition 是書報出版的版本。兩字只差開頭的 a 和 e。",
+   "points": [
+    "拼字：addition 有兩個 d，edition 只有一個 d",
+    "使用情境：in addition to 用 addition；the first edition 用 edition"
+   ],
+   "tip": "addition 來自 add（加），edition 來自 edit（編輯）。",
+   "exA": {
+    "en": "In addition to math, Amy also teaches science.",
+    "zh": "除了數學，Amy 也教自然。"
+   },
+   "exB": {
+    "en": "This is the first edition of the famous novel.",
+    "zh": "這是那本名著的初版。"
+   }
+  },
+  {
+   "a": "addiction",
+   "b": "addition",
+   "kind": "visual",
+   "score": 0.892,
+   "aZh": "n. 上癮",
+   "bZh": "n. 增加；加法",
+   "diff": "addiction 是上癮，像手機成癮；addition 是增加或加法。兩字只差一個 c。",
+   "points": [
+    "拼字：addi-c-tion 多一個 c",
+    "使用情境：internet addiction 網路成癮，in addition 此外"
+   ],
+   "tip": "addiction 來自 addict（上癮者）；addition 來自 add（加）。",
+   "exA": {
+    "en": "His phone addiction is hurting his grades at school.",
+    "zh": "他的手機成癮正在拖累他在學校的成績。"
+   },
+   "exB": {
+    "en": "The new gym is a great addition to our school.",
+    "zh": "新的體育館讓我們學校更完善。"
+   }
+  },
+  {
+   "a": "address",
+   "b": "solve",
+   "kind": "semantic",
+   "score": 0.417,
+   "aZh": "v. 處理；著手解決",
+   "bZh": "v. 解決；解答",
+   "diff": "address 是開始正視、著手處理問題，不保證解決；solve 是把問題或題目真正解決。",
+   "points": [
+    "使用情境：政府處理議題用 address；解數學題、解謎用 solve",
+    "語氣：address 較正式，常見於新聞"
+   ],
+   "tip": "address 是「面對」，solve 是「搞定」。",
+   "exA": {
+    "en": "The school is trying to address the problem of bullying.",
+    "zh": "學校正在設法處理霸凌問題。"
+   },
+   "exB": {
+    "en": "Kevin solved the math problem in five minutes.",
+    "zh": "Kevin 五分鐘就解出那道數學題。"
+   }
+  },
+  {
+   "a": "admit",
+   "b": "confess",
+   "kind": "semantic",
+   "score": 0.725,
+   "aZh": "v. 承認",
+   "bZh": "v. 坦白；招認",
+   "diff": "admit 是承認事實或錯誤，用法廣；confess 語氣較重，指坦白說出自己做的壞事或秘密。",
+   "points": [
+    "語氣：confess 比 admit 更強，常用於罪行或深藏的秘密",
+    "搭配：admit + V-ing／that 子句，confess to + N／V-ing"
+   ],
+   "tip": "confess 常出現在警察局或告白的場面。",
+   "exA": {
+    "en": "Tom admitted that he had not done his homework.",
+    "zh": "Tom 承認他沒寫作業。"
+   },
+   "exB": {
+    "en": "The thief finally confessed to stealing the bike.",
+    "zh": "小偷終於坦承偷了那輛腳踏車。"
+   }
+  },
+  {
+   "a": "admit",
+   "b": "allow",
+   "kind": "semantic",
+   "score": 0.384,
+   "aZh": "v. 准許進入；錄取",
+   "bZh": "v. 允許",
+   "diff": "admit 是讓人進入某個地方或學校；allow 是允許某人做某件事，後面接 to V。",
+   "points": [
+    "搭配：admit + 人 + to + 地方，allow + 人 + to V",
+    "使用情境：入場、入學、住院用 admit；准許做事用 allow"
+   ],
+   "tip": "admit 開門讓人進來；allow 點頭讓人去做。",
+   "exA": {
+    "en": "Children under six are admitted to the zoo for free.",
+    "zh": "六歲以下的孩子可以免費入園。"
+   },
+   "exB": {
+    "en": "Our teacher allowed us to use dictionaries in the test.",
+    "zh": "老師允許我們考試時用字典。"
+   }
+  },
+  {
+   "a": "advance",
+   "b": "progress",
+   "kind": "semantic",
+   "score": 0.964,
+   "aZh": "n. 進步；進展（可數）",
+   "bZh": "n. 進步；進展（不可數）",
+   "diff": "兩個字都可以表示進步，advance 多指某領域的一次次突破，可以加 s；progress 是整體慢慢變好的過程，不可數。",
+   "points": [
+    "詞性：advances 可數，progress 不可數，不能說 a progress",
+    "搭配：advances in technology，make progress"
+   ],
+   "tip": "progress 是一條慢慢往上的線，不能一個一個數。",
+   "exA": {
+    "en": "There have been great advances in medicine in recent years.",
+    "zh": "近年來醫學有了重大進展。"
+   },
+   "exB": {
+    "en": "Amy has made great progress in English this year.",
+    "zh": "Amy 今年的英文進步很多。"
+   }
+  },
+  {
+   "a": "advice",
+   "b": "advise",
+   "kind": "both",
+   "score": 0.76,
+   "aZh": "n. 建議；忠告",
+   "bZh": "v. 建議；勸告",
+   "diff": "advice 是名詞，而且不可數；advise 是動詞。拼字只差 c 和 s，讀音也不同。",
+   "points": [
+    "詞性：advice 是 n.，advise 是 v.",
+    "發音：advice 結尾讀 /s/，advise 結尾讀 /z/",
+    "搭配：give advice，advise + 人 + to V"
+   ],
+   "tip": "c 跟 n 都是名詞的記號：advi-c-e 是 n.；s 讀 /z/ 是動詞。",
+   "exA": {
+    "en": "My coach gave me some advice about my diet.",
+    "zh": "教練給了我一些飲食上的建議。"
+   },
+   "exB": {
+    "en": "My coach advised me to eat more vegetables.",
+    "zh": "教練建議我多吃蔬菜。"
+   }
+  },
+  {
+   "a": "advice",
+   "b": "suggestion",
+   "kind": "semantic",
+   "score": 0.76,
+   "aZh": "n. 建議；忠告（不可數）",
+   "bZh": "n. 建議；提議（可數）",
+   "diff": "中文都是「建議」，advice 不可數，多半是有經驗的人給的忠告；suggestion 可數，是提出一個想法讓人考慮。",
+   "points": [
+    "詞性：a piece of advice，a suggestion",
+    "使用情境：老師、醫生的忠告用 advice；開會時的提議用 suggestion"
+   ],
+   "tip": "advice 不能加 a，要說 a piece of advice。",
+   "exA": {
+    "en": "Can you give me some advice on choosing a college?",
+    "zh": "你能給我一些選大學的建議嗎？"
+   },
+   "exB": {
+    "en": "Does anyone have a suggestion for our class trip?",
+    "zh": "大家對我們班遊有什麼提議嗎？"
+   }
+  },
+  {
+   "a": "affect",
+   "b": "effect",
+   "kind": "both",
+   "score": 0.769,
+   "aZh": "v. 影響",
+   "bZh": "n. 影響；效果",
+   "diff": "affect 多半是動詞「去影響」；effect 多半是名詞「造成的結果」。",
+   "points": [
+    "詞性：affect 是 v.，effect 是 n.",
+    "搭配：have an effect on = affect"
+   ],
+   "tip": "Affect = Action（動作），Effect = End result（結果）。",
+   "exA": {
+    "en": "The cold weather this spring affected the rice harvest.",
+    "zh": "今年春天的寒冷天氣影響了稻米收成。"
+   },
+   "exB": {
+    "en": "The medicine had no effect on his cough.",
+    "zh": "這個藥對他的咳嗽沒有效果。"
+   }
+  },
+  {
+   "a": "affect",
+   "b": "influence",
+   "kind": "semantic",
+   "score": 0.63,
+   "aZh": "v. 影響",
+   "bZh": "v. 影響；左右",
+   "diff": "affect 指直接造成改變，常是負面的；influence 指慢慢影響想法、行為或決定。",
+   "points": [
+    "使用情境：天氣、疾病影響身體用 affect；父母、朋友影響想法用 influence",
+    "詞性：influence 也常當名詞 have an influence on"
+   ],
+   "tip": "influence 像流水（flu），慢慢流進人的想法裡。",
+   "exA": {
+    "en": "Lack of sleep can affect your memory and mood.",
+    "zh": "睡眠不足會影響你的記憶力和心情。"
+   },
+   "exB": {
+    "en": "My father influenced my decision to become a doctor.",
+    "zh": "我爸爸影響了我當醫生的決定。"
+   }
+  },
+  {
+   "a": "aim",
+   "b": "goal",
+   "kind": "semantic",
+   "score": 0.667,
+   "aZh": "n. 目標；目的",
+   "bZh": "n. 目標；n. 進球",
+   "diff": "兩個字都可以表示目標。aim 也能當動詞「力求」，常接 to V；goal 只是名詞，指具體想達成的結果，也可以指進球。",
+   "points": [
+    "詞性：aim 可作 n. 和 v.，goal 只作 n.",
+    "搭配：aim to V，reach a goal，set a goal"
+   ],
+   "tip": "goal 是球門，看得見的終點；aim 是瞄準的動作。",
+   "exA": {
+    "en": "We aim to raise money for the animal shelter.",
+    "zh": "我們打算為動物收容所募款。"
+   },
+   "exB": {
+    "en": "My goal is to read twenty books this year.",
+    "zh": "我的目標是今年讀二十本書。"
+   }
+  },
+  {
+   "a": "alike",
+   "b": "like",
+   "kind": "both",
+   "score": 0.777,
+   "aZh": "adj. 相像的",
+   "bZh": "prep. 像；如同",
+   "diff": "alike 是形容詞，放在 be、look 後面或句尾；like 是介系詞，後面一定要接名詞。",
+   "points": [
+    "詞性：alike 是 adj.，like 是 prep.",
+    "位置：They look alike.／She looks like her mother."
+   ],
+   "tip": "alike 前面多了 a，句子到它就可以結束；like 後面還要接人或東西。",
+   "exA": {
+    "en": "My brother and I look alike in old photos.",
+    "zh": "在舊照片裡，我和哥哥長得很像。"
+   },
+   "exB": {
+    "en": "My little brother looks just like our father.",
+    "zh": "我弟弟長得跟我們的爸爸一模一樣。"
+   }
+  },
+  {
+   "a": "alike",
+   "b": "similar",
+   "kind": "semantic",
+   "score": 0.651,
+   "aZh": "adj. 相像的",
+   "bZh": "adj. 相似的；類似的",
+   "diff": "兩字都表示相似，但 alike 不放在名詞前，主詞通常是兩個以上；similar 可以放在名詞前，也常接 to。",
+   "points": [
+    "位置：similar ideas 可以，alike ideas 不行",
+    "搭配：A is similar to B；A and B are alike"
+   ],
+   "tip": "similar 後面常帶 to；alike 自己就站在句尾。",
+   "exA": {
+    "en": "The two sisters are very alike in personality.",
+    "zh": "這對姊妹的個性非常相像。"
+   },
+   "exB": {
+    "en": "My answer to the last question is similar to yours.",
+    "zh": "我最後一題的答案和你的很類似。"
+   }
+  },
+  {
+   "a": "alive",
+   "b": "live",
+   "kind": "visual",
+   "score": 0.727,
+   "aZh": "adj. 活著的",
+   "bZh": "adj. 活的；現場的",
+   "diff": "alive 不放在名詞前，用在 be、stay 後；live 讀 /laɪv/ 時放在名詞前，表示活的或現場直播的。",
+   "points": [
+    "位置：a live fish，the fish is alive",
+    "發音：形容詞 live 讀 /laɪv/，動詞 live 讀 /lɪv/",
+    "搭配：live music 現場音樂，stay alive 活下來"
+   ],
+   "tip": "a 開頭的形容詞（alive、alone、asleep）都不放在名詞前。",
+   "exA": {
+    "en": "The fish was still alive when we bought it.",
+    "zh": "我們買的時候那條魚還活著。"
+   },
+   "exB": {
+    "en": "The market near my house sells live fish every morning.",
+    "zh": "我家附近的市場每天早上都賣活魚。"
+   }
+  },
+  {
+   "a": "alone",
+   "b": "lonely",
+   "kind": "semantic",
+   "score": 0.559,
+   "aZh": "adj./adv. 獨自的；獨自",
+   "bZh": "adj. 孤單的；寂寞的",
+   "diff": "alone 只說明身邊沒有人，不帶情緒；lonely 是心裡覺得寂寞，有人在身邊也可能 lonely。",
+   "points": [
+    "使用情境：一個人住用 alone，覺得寂寞用 lonely",
+    "位置：alone 不放在名詞前，lonely 可以（a lonely child）"
+   ],
+   "tip": "alone 是事實，lonely 是感覺。",
+   "exA": {
+    "en": "Kevin likes to study alone in his room.",
+    "zh": "Kevin 喜歡一個人在房間讀書。"
+   },
+   "exB": {
+    "en": "Kevin felt lonely after his best friend moved away.",
+    "zh": "好朋友搬走後，Kevin 覺得很寂寞。"
+   }
+  },
+  {
+   "a": "alone",
+   "b": "along",
+   "kind": "visual",
+   "score": 0.701,
+   "aZh": "adv. 獨自",
+   "bZh": "prep. 沿著；adv. 向前",
+   "diff": "alone 是獨自一人；along 是沿著或一起往前。兩字只差最後的 e 和 g。",
+   "points": [
+    "拼字：alon-e 和 alon-g",
+    "搭配：live alone，walk along the river，come along"
+   ],
+   "tip": "along 的 g 像一條路延伸出去，沿著走。",
+   "exA": {
+    "en": "My grandmother lives alone in a small house in the countryside.",
+    "zh": "我奶奶一個人住在鄉下的一間小房子。"
+   },
+   "exB": {
+    "en": "We walked along the river with our dog after dinner.",
+    "zh": "晚餐後我們帶著狗沿著河邊散步。"
+   }
+  },
+  {
+   "a": "aloud",
+   "b": "loud",
+   "kind": "both",
+   "score": 0.777,
+   "aZh": "adv. 出聲地",
+   "bZh": "adj. 大聲的；adv. 大聲地",
+   "diff": "aloud 是出聲讓人聽見，不一定很大聲；loud 是音量大。",
+   "points": [
+    "搭配：read aloud 朗讀，talk loud 大聲講話",
+    "詞性：loud 可以當形容詞 a loud noise，aloud 只是副詞"
+   ],
+   "tip": "aloud 只要「有聲音」就好，loud 要「很大聲」。",
+   "exA": {
+    "en": "The teacher asked me to read the poem aloud.",
+    "zh": "老師請我把詩唸出來。"
+   },
+   "exB": {
+    "en": "The music next door was too loud last night.",
+    "zh": "昨晚隔壁的音樂太大聲了。"
+   }
+  },
+  {
+   "a": "altogether",
+   "b": "together",
+   "kind": "visual",
+   "score": 0.768,
+   "aZh": "adv. 總共；完全",
+   "bZh": "adv. 一起；共同",
+   "diff": "altogether 是總共或完全；together 是一起。altogether 只有一個 l，跟 all together（全部一起）不同。",
+   "points": [
+    "拼字：altogether 只有一個 l",
+    "使用情境：算總數用 altogether，大家一起做用 together"
+   ],
+   "tip": "altogether 算總帳，together 是手牽手。",
+   "exA": {
+    "en": "There were thirty students on the bus altogether.",
+    "zh": "公車上總共有三十名學生。"
+   },
+   "exB": {
+    "en": "The students sang the school song together at the ceremony.",
+    "zh": "學生們在典禮上一起唱校歌。"
+   }
+  },
+  {
+   "a": "amount",
+   "b": "number",
+   "kind": "semantic",
+   "score": 0.698,
+   "aZh": "n. 數量；總額（不可數）",
+   "bZh": "n. 數量；數目（可數）",
+   "diff": "中文都說「數量」，amount 接不可數名詞，像錢、水、時間；number 接可數名詞複數，像人、書。",
+   "points": [
+    "搭配：a large amount of money，a large number of students",
+    "動詞：a number of + 複數名詞，動詞用複數"
+   ],
+   "tip": "數得出一個一個的用 number，數不出來的用 amount。",
+   "exA": {
+    "en": "We spent a large amount of time on the project.",
+    "zh": "我們在這個專題上花了很多時間。"
+   },
+   "exB": {
+    "en": "A large number of students joined the project.",
+    "zh": "很多學生參加了這個專題。"
+   }
+  },
+  {
+   "a": "angel",
+   "b": "angle",
+   "kind": "visual",
+   "score": 0.659,
+   "aZh": "n. 天使",
+   "bZh": "n. 角度；角",
+   "diff": "angel 是天使，讀 /ˈeɪndʒəl/；angle 是角度，讀 /ˈæŋɡəl/。兩字只差 e 和 l 的順序。",
+   "points": [
+    "拼字：ang-el 和 ang-le",
+    "發音：angel 的 g 讀 /dʒ/，angle 的 g 讀 /ɡ/"
+   ],
+   "tip": "angle 結尾的 le 像三角形的一個角；angel 結尾 el 像天使的光環。",
+   "exA": {
+    "en": "The little girl looked like an angel in her white dress.",
+    "zh": "那個小女孩穿著白洋裝，看起來像天使。"
+   },
+   "exB": {
+    "en": "The two lines meet at a right angle.",
+    "zh": "這兩條線以直角相交。"
+   }
+  },
+  {
+   "a": "angle",
+   "b": "ankle",
+   "kind": "visual",
+   "score": 0.704,
+   "aZh": "n. 角度",
+   "bZh": "n. 腳踝",
+   "diff": "angle 是角度；ankle 是腳踝。拼字只差 g 和 k，讀音也很像。",
+   "points": [
+    "拼字：an-g-le 和 an-k-le",
+    "發音：angle 讀 /ˈæŋɡəl/，ankle 讀 /ˈæŋkəl/"
+   ],
+   "tip": "ankle 的 k 像彎起來的腳踝。",
+   "exA": {
+    "en": "Try to take the photo of the temple from a different angle.",
+    "zh": "試著換個角度拍這座廟的照片。"
+   },
+   "exB": {
+    "en": "Tom hurt his ankle while playing soccer after school.",
+    "zh": "Tom 放學後踢足球時弄傷了腳踝。"
+   }
+  },
+  {
+   "a": "appreciate",
+   "b": "thank",
+   "kind": "semantic",
+   "score": 0.678,
+   "aZh": "v. 感激（某事）",
+   "bZh": "v. 感謝（某人）",
+   "diff": "appreciate 的受詞是事情，例如 appreciate your help；thank 的受詞是人，例如 thank you。",
+   "points": [
+    "搭配：appreciate + 事情，thank + 人 + for + 事情",
+    "語氣：appreciate 較正式，常用於書信"
+   ],
+   "tip": "謝人用 thank，謝事用 appreciate。",
+   "exA": {
+    "en": "I really appreciate your help with my homework.",
+    "zh": "我很感謝你幫我寫作業。"
+   },
+   "exB": {
+    "en": "I want to thank you for helping me with my homework.",
+    "zh": "我要謝謝你幫我寫作業。"
+   }
+  },
+  {
+   "a": "admire",
+   "b": "appreciate",
+   "kind": "semantic",
+   "score": 0.693,
+   "aZh": "v. 欽佩；欣賞（人）",
+   "bZh": "v. 欣賞；體會（價值）",
+   "diff": "中文都說「欣賞」，admire 多指佩服一個人的能力或品格；appreciate 是懂得事物的價值或美。",
+   "points": [
+    "使用情境：佩服人用 admire，欣賞音樂、藝術、優點用 appreciate",
+    "搭配：admire + 人 + for + N"
+   ],
+   "tip": "admire 的對象常是英雄；appreciate 的對象常是美好的事物。",
+   "exA": {
+    "en": "Many students admire the coach for her hard work.",
+    "zh": "很多學生欽佩教練的努力。"
+   },
+   "exB": {
+    "en": "Living abroad helped me appreciate my own culture.",
+    "zh": "住在國外讓我更懂得欣賞自己的文化。"
+   }
+  },
+  {
+   "a": "approach",
+   "b": "method",
+   "kind": "semantic",
+   "score": 0.626,
+   "aZh": "n. 方法；處理方式",
+   "bZh": "n. 方法；方式",
+   "diff": "approach 是看待、處理事情的整體方式；method 是有步驟、較具體的做法。",
+   "points": [
+    "搭配：an approach to + N，a method of + N／V-ing",
+    "詞性：approach 也可當動詞「接近」，method 只能當名詞"
+   ],
+   "tip": "approach 是「切入角度」，method 是「操作步驟」。",
+   "exA": {
+    "en": "Our teacher has a fresh approach to teaching grammar.",
+    "zh": "我們老師教文法的方式很新穎。"
+   },
+   "exB": {
+    "en": "This is a simple method of making bread at home.",
+    "zh": "這是在家做麵包的簡單方法。"
+   }
+  },
+  {
+   "a": "argue",
+   "b": "discuss",
+   "kind": "semantic",
+   "score": 0.339,
+   "aZh": "v. 爭論；吵架",
+   "bZh": "v. 討論；商量",
+   "diff": "argue 是意見不合而爭論，常帶情緒；discuss 是一起討論，語氣平和。",
+   "points": [
+    "及物與否：discuss 直接接受詞，不能說 discuss about",
+    "搭配：argue with + 人 + about + 事"
+   ],
+   "tip": "discuss 是坐下來談，argue 是吵起來了。",
+   "exA": {
+    "en": "The two brothers argued about who should wash the dishes.",
+    "zh": "兩兄弟為了誰該洗碗吵了起來。"
+   },
+   "exB": {
+    "en": "The class discussed where to go for the school trip.",
+    "zh": "全班討論校外教學要去哪裡。"
+   }
+  },
+  {
+   "a": "asleep",
+   "b": "sleepy",
+   "kind": "both",
+   "score": 0.578,
+   "aZh": "adj. 睡著的",
+   "bZh": "adj. 想睡的；睏倦的",
+   "diff": "asleep 是已經睡著了；sleepy 是很睏、想睡，但還醒著。",
+   "points": [
+    "使用情境：fall asleep 睡著，feel sleepy 覺得睏",
+    "位置：asleep 不放在名詞前，sleepy 可以（a sleepy child）"
+   ],
+   "tip": "sleepy 的 y 像打哈欠，還醒著；asleep 已經進入夢鄉。",
+   "exA": {
+    "en": "The baby fell asleep in her mother's arms.",
+    "zh": "寶寶在媽媽懷裡睡著了。"
+   },
+   "exB": {
+    "en": "I always feel sleepy after a big lunch.",
+    "zh": "我吃完豐盛的午餐後總是很想睡。"
+   }
+  },
+  {
+   "a": "attend",
+   "b": "join",
+   "kind": "semantic",
+   "score": 0.684,
+   "aZh": "v. 出席；參加（活動）",
+   "bZh": "v. 加入（團體）；參加",
+   "diff": "attend 是到場出席會議、課程、典禮；join 是加入團體或和別人一起做某事。",
+   "points": [
+    "搭配：attend a meeting／a class，join a club／the army",
+    "語氣：attend 較正式"
+   ],
+   "tip": "去現場坐著用 attend，成為其中一員用 join。",
+   "exA": {
+    "en": "All students must attend the meeting on Monday.",
+    "zh": "所有學生星期一都必須出席會議。"
+   },
+   "exB": {
+    "en": "Kevin decided to join the school basketball team.",
+    "zh": "Kevin 決定加入學校籃球隊。"
+   }
+  },
+  {
+   "a": "available",
+   "b": "convenient",
+   "kind": "semantic",
+   "score": 0.42,
+   "aZh": "adj. 有空的；可使用的",
+   "bZh": "adj. 方便的；便利的",
+   "diff": "問人有沒有空要用 available；convenient 指時間或地點對人方便，主詞通常是事情，不是人。",
+   "points": [
+    "搭配：Are you available?，Is it convenient for you?",
+    "使用情境：說人有空用 available，說交通方便用 convenient"
+   ],
+   "tip": "人有空是 available；事情方便才是 convenient。",
+   "exA": {
+    "en": "Are you available for a meeting this afternoon?",
+    "zh": "你今天下午有空開會嗎？"
+   },
+   "exB": {
+    "en": "Is three o'clock convenient for you this afternoon?",
+    "zh": "今天下午三點你方便嗎？"
+   }
+  },
+  {
+   "a": "article",
+   "b": "essay",
+   "kind": "semantic",
+   "score": 0.599,
+   "aZh": "n. 文章（報刊上的）",
+   "bZh": "n. 文章；論說文",
+   "diff": "article 多指報紙、雜誌、網路上的一篇文章；essay 多指學生寫的作文或表達個人看法的論說文。",
+   "points": [
+    "使用情境：新聞報導用 article，作文、申請文件用 essay",
+    "搭配：a news article，write an essay"
+   ],
+   "tip": "老師叫你寫的多半是 essay，記者寫的是 article。",
+   "exA": {
+    "en": "I read an article about climate change in the newspaper.",
+    "zh": "我在報紙上讀到一篇關於氣候變遷的文章。"
+   },
+   "exB": {
+    "en": "Our English teacher asked us to write an essay about friendship.",
+    "zh": "英文老師要我們寫一篇關於友誼的作文。"
+   }
+  },
+  {
+   "a": "avoid",
+   "b": "prevent",
+   "kind": "semantic",
+   "score": 0.438,
+   "aZh": "v. 避免；避開",
+   "bZh": "v. 防止；預防",
+   "diff": "avoid 是自己避開某事，不去碰它；prevent 是採取行動阻止某事發生，常用 prevent A from V-ing。",
+   "points": [
+    "搭配：avoid + V-ing，prevent + 人／事 + from + V-ing",
+    "使用情境：自己閃開用 avoid，阻止別人或事情發生用 prevent"
+   ],
+   "tip": "avoid 是自己繞路走；prevent 是在路上擋一道牆。",
+   "exA": {
+    "en": "Try to avoid eating too much fried food.",
+    "zh": "盡量避免吃太多油炸食物。"
+   },
+   "exB": {
+    "en": "The heavy rain prevented us from going out.",
+    "zh": "大雨讓我們沒辦法出門。"
+   }
+  },
+  {
+   "a": "bake",
+   "b": "roast",
+   "kind": "semantic",
+   "score": 0.64,
+   "aZh": "v. 烘烤（麵包、蛋糕）",
+   "bZh": "v. 烤（肉、蔬菜）",
+   "diff": "中文都說「烤」，bake 多指用烤箱烤麵包、蛋糕、餅乾；roast 多指用烤箱或火烤肉、蔬菜、咖啡豆。",
+   "points": [
+    "搭配：bake a cake／bread，roast chicken／coffee beans",
+    "使用情境：甜點、麵包用 bake，肉類用 roast"
+   ],
+   "tip": "bakery 是麵包店，所以 bake 跟麵包有關。",
+   "exA": {
+    "en": "My mom bakes fresh bread every Sunday morning.",
+    "zh": "我媽每個星期天早上都會烤新鮮麵包。"
+   },
+   "exB": {
+    "en": "We roasted a chicken for the family dinner.",
+    "zh": "我們為家庭晚餐烤了一隻雞。"
+   }
+  },
+  {
+   "a": "base",
+   "b": "basis",
+   "kind": "both",
+   "score": 0.5,
+   "aZh": "n. 底部；基地",
+   "bZh": "n. 基礎；根據",
+   "diff": "base 多指具體的底部、基地；basis 多指抽象的依據或理由，常用 on the basis of、on a daily basis。",
+   "points": [
+    "使用情境：山腳、底座、軍事基地用 base；判斷的依據用 basis",
+    "搭配：on a weekly basis，不能說 on a weekly base",
+    "拼字：複數 bases 兩字共用，但讀音不同"
+   ],
+   "tip": "basis 多了 is，指的是抽象的「依據」。",
+   "exA": {
+    "en": "We set up our tents at the base of the mountain.",
+    "zh": "我們在山腳下搭帳篷。"
+   },
+   "exB": {
+    "en": "Students are chosen on the basis of their grades.",
+    "zh": "學生是根據成績選出來的。"
+   }
+  },
+  {
+   "a": "basic",
+   "b": "basis",
+   "kind": "visual",
+   "score": 0.759,
+   "aZh": "adj. 基本的",
+   "bZh": "n. 基礎；根據",
+   "diff": "basic 是形容詞，修飾名詞；basis 是名詞，指依據。兩字只差最後的 c 和 s。",
+   "points": [
+    "詞性：basic 是 adj.，basis 是 n.",
+    "搭配：basic skills，on the basis of"
+   ],
+   "tip": "basic 的 c 結尾和 magic、public 一樣是形容詞。",
+   "exA": {
+    "en": "You need some basic skills to use this computer program.",
+    "zh": "你需要一些基本技能才能使用這個電腦程式。"
+   },
+   "exB": {
+    "en": "Trust is the basis of a good friendship.",
+    "zh": "信任是良好友誼的基礎。"
+   }
+  },
+  {
+   "a": "bath",
+   "b": "bathe",
+   "kind": "both",
+   "score": 0.736,
+   "aZh": "n. 洗澡；浴缸",
+   "bZh": "v. 洗澡；沐浴",
+   "diff": "bath 是名詞，常說 take a bath；bathe 是動詞，可以直接說 bathe the baby。兩字讀音也不同。",
+   "points": [
+    "詞性：bath 是 n.，bathe 是 v.",
+    "發音：bath 讀 /bæθ/，bathe 讀 /beɪð/",
+    "搭配：take a bath，bathe in sunlight"
+   ],
+   "tip": "多了 e 的 bathe 是動作，母音也變長。",
+   "exA": {
+    "en": "I like to take a hot bath after a long day.",
+    "zh": "忙了一整天後，我喜歡泡個熱水澡。"
+   },
+   "exB": {
+    "en": "Mom bathes the baby before bedtime every night.",
+    "zh": "媽媽每晚睡前都會幫寶寶洗澡。"
+   }
+  },
+  {
+   "a": "battle",
+   "b": "war",
+   "kind": "semantic",
+   "score": 0.627,
+   "aZh": "n. 戰鬥；戰役",
+   "bZh": "n. 戰爭",
+   "diff": "war 是兩國或兩群人之間長時間的整場戰爭；battle 是戰爭中的一場戰鬥。",
+   "points": [
+    "使用情境：World War II 是戰爭，其中有很多場 battle",
+    "比喻：battle against cancer，war on drugs"
+   ],
+   "tip": "一場 war 裡面有很多場 battle。",
+   "exA": {
+    "en": "The army lost an important battle near the river.",
+    "zh": "軍隊在河邊輸了一場重要的戰役。"
+   },
+   "exB": {
+    "en": "Many people lost their homes during the war.",
+    "zh": "很多人在戰爭期間失去了家園。"
+   }
+  },
+  {
+   "a": "beat",
+   "b": "win",
+   "kind": "semantic",
+   "score": 0.572,
+   "aZh": "v. 打敗（對手）",
+   "bZh": "v. 贏得（比賽、獎項）",
+   "diff": "beat 後面接被打敗的人或隊伍；win 後面接比賽、獎項或獎品，不能接對手。",
+   "points": [
+    "搭配：beat + 對手，win + 比賽／獎",
+    "常見錯誤：We won them. 要改成 We beat them."
+   ],
+   "tip": "win 的是東西，beat 的是人。",
+   "exA": {
+    "en": "Our team beat the team from Taichung yesterday.",
+    "zh": "我們隊昨天打敗了台中來的隊伍。"
+   },
+   "exB": {
+    "en": "Our team will win the game if we keep practicing.",
+    "zh": "只要持續練習，我們隊就會贏得比賽。"
+   }
+  },
+  {
+   "a": "belief",
+   "b": "believe",
+   "kind": "both",
+   "score": 0.73,
+   "aZh": "n. 信念；看法",
+   "bZh": "v. 相信；認為",
+   "diff": "belief 是名詞，believe 是動詞。拼字差在字尾 f 和 ve，跟 relief／relieve 一樣。",
+   "points": [
+    "詞性：belief 是 n.，believe 是 v.",
+    "拼字：名詞 -ief，動詞 -ieve",
+    "搭配：belief in，believe in"
+   ],
+   "tip": "名詞短（f），動詞長（ve）。",
+   "exA": {
+    "en": "My grandmother has a strong belief in hard work.",
+    "zh": "我奶奶堅信努力工作的價值。"
+   },
+   "exB": {
+    "en": "I believe that hard work leads to success.",
+    "zh": "我相信努力會帶來成功。"
+   }
+  },
+  {
+   "a": "billion",
+   "b": "million",
+   "kind": "visual",
+   "score": 0.806,
+   "aZh": "n. 十億",
+   "bZh": "n. 一百萬",
+   "diff": "million 是一百萬，billion 是十億，等於一千個 million。中文換算時容易算錯位數。",
+   "points": [
+    "拼字：m-illion 和 b-illion 只差開頭",
+    "數字：1 billion = 1,000 million",
+    "用法：前面有數字時都不加 s"
+   ],
+   "tip": "b 在 m 後面，比較大：billion 比 million 大一千倍。",
+   "exA": {
+    "en": "The bridge cost about one billion dollars to build.",
+    "zh": "這座橋大約花了十億美元興建。"
+   },
+   "exB": {
+    "en": "The city has a population of about two million people.",
+    "zh": "這座城市大約有兩百萬人口。"
+   }
+  },
+  {
+   "a": "accuse",
+   "b": "blame",
+   "kind": "semantic",
+   "score": 0.589,
+   "aZh": "v. 指控；指責",
+   "bZh": "v. 責怪；歸咎",
+   "diff": "accuse 是指控某人做了壞事，語氣重，接 of；blame 是認為某人該為問題負責，接 for。",
+   "points": [
+    "搭配：accuse + 人 + of + N／V-ing，blame + 人 + for + N／V-ing",
+    "語氣：accuse 常見於警察、法律情境"
+   ],
+   "tip": "accuse 配 of，blame 配 for，介系詞不能互換。",
+   "exA": {
+    "en": "The man was accused of stealing a bike.",
+    "zh": "那名男子被指控偷了一輛腳踏車。"
+   },
+   "exB": {
+    "en": "Don't blame your sister for your own mistake.",
+    "zh": "別把你自己的錯怪到你妹妹頭上。"
+   }
+  },
+  {
+   "a": "blank",
+   "b": "empty",
+   "kind": "semantic",
+   "score": 0.517,
+   "aZh": "adj. 空白的",
+   "bZh": "adj. 空的",
+   "diff": "blank 指表面沒有文字或圖案，像紙張、螢幕；empty 指裡面沒有東西，像盒子、房間、瓶子。",
+   "points": [
+    "使用情境：紙、表格、螢幕用 blank；容器、空間用 empty",
+    "搭配：a blank page，an empty bottle"
+   ],
+   "tip": "表面空空用 blank，肚子空空用 empty。",
+   "exA": {
+    "en": "Please don't leave any questions blank on the test.",
+    "zh": "考卷上請不要留下空白的題目。"
+   },
+   "exB": {
+    "en": "The classroom was empty after the bell rang.",
+    "zh": "鐘聲響後教室空無一人。"
+   }
+  },
+  {
+   "a": "bleed",
+   "b": "blood",
+   "kind": "visual",
+   "score": 0.405,
+   "aZh": "v. 流血",
+   "bZh": "n. 血液",
+   "diff": "blood 是名詞「血」；bleed 是動詞「流血」，過去式是 bled。",
+   "points": [
+    "詞性：blood 是 n.，bleed 是 v.",
+    "常見錯誤：His nose is blooding. 要改成 bleeding"
+   ],
+   "tip": "oo 的 blood 是血本身；ee 的 bleed 是正在流。",
+   "exA": {
+    "en": "Kevin's knee was bleeding after he fell off his bike.",
+    "zh": "Kevin 從腳踏車摔下來後膝蓋流血了。"
+   },
+   "exB": {
+    "en": "The nurse took some blood from my arm.",
+    "zh": "護理師從我手臂抽了一些血。"
+   }
+  },
+  {
+   "a": "aboard",
+   "b": "board",
+   "kind": "visual",
+   "score": 0.787,
+   "aZh": "prep./adv. 在船上；在飛機上",
+   "bZh": "v. 登上（交通工具）",
+   "diff": "board 是動詞，直接接交通工具；aboard 是介系詞或副詞，表示在交通工具上，常說 go aboard。",
+   "points": [
+    "詞性：board 是 v.，aboard 是 prep./adv.",
+    "搭配：board the plane，be aboard the plane",
+    "常見錯誤：board on the bus 要去掉 on"
+   ],
+   "tip": "aboard 前面多一個 a，像 asleep、alive 一樣表示狀態。",
+   "exA": {
+    "en": "All the passengers were aboard by nine o'clock.",
+    "zh": "九點前所有乘客都上了船。"
+   },
+   "exB": {
+    "en": "We boarded the train ten minutes before it left.",
+    "zh": "我們在火車開車前十分鐘上車。"
+   }
+  }
+ ]
+}
