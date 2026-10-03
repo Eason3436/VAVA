@@ -4350,11 +4350,6 @@
      "word": "expectation",
      "note": "指認為某事會發生，也可指對結果的要求。",
      "example": "meet expectations"
-    },
-    {
-     "word": "hope",
-     "note": "指希望好事發生，未必認為它一定會發生。",
-     "example": "hope for success"
     }
    ],
    "antonyms": [],
@@ -5281,7 +5276,7 @@
    "word": "aspire",
    "phonetic": "/əˈspaɪr/",
    "level": 6,
-   "forms": "aspired · aspiring · aspiration",
+   "forms": "aspires · aspired · aspiring · aspiration",
    "meanings": [
     {
      "pos": "v.",
@@ -8859,8 +8854,8 @@
        "zh": "壓力太大可能導致精神崩潰。"
       },
       {
-       "en": "The breakdown of the talks surprised everyone.",
-       "zh": "談判破裂讓大家都很意外。"
+       "en": "The sudden breakdown of the peace talks surprised everyone in the country.",
+       "zh": "和平談判突然破裂，讓全國人民都很意外。"
       }
      ],
      "patterns": [],
@@ -8906,9 +8901,9 @@
      "example": "engine failure"
     },
     {
-     "word": "analysis",
-     "note": "指仔細分析或拆解內容，不表示故障。",
-     "example": "a cost analysis"
+     "word": "collapse",
+     "note": "指突然倒塌或瓦解，也可用於身體、制度或談判的崩潰。",
+     "example": "the collapse of the talks"
     }
    ],
    "antonyms": [],
@@ -11782,11 +11777,6 @@
      "word": "chair",
      "note": "常用於會議或組織職稱，語氣簡潔。",
      "example": "committee chair"
-    },
-    {
-     "word": "president",
-     "note": "常指社團或機構的最高負責人。",
-     "example": "club president"
     }
    ],
    "antonyms": [],
@@ -12612,11 +12602,6 @@
      "word": "cigar",
      "note": "用整片菸葉捲成的粗菸，比香菸大。",
      "example": "smoke a cigar"
-    },
-    {
-     "word": "cigarette",
-     "note": "以切碎菸草製成的細長香菸，通常有紙外層。",
-     "example": "a pack of cigarettes"
     }
    ],
    "antonyms": [],
@@ -19869,16 +19854,6 @@
      "word": "detergent",
      "note": "專指用來清洗衣物、碗盤或表面的清潔用品。",
      "example": "laundry detergent"
-    },
-    {
-     "word": "cleaner",
-     "note": "泛指清潔用品，也可指清潔人員。",
-     "example": "a kitchen cleaner"
-    },
-    {
-     "word": "soap",
-     "note": "通常指肥皂或洗手乳，不一定用於洗衣。",
-     "example": "a bar of soap"
     }
    ],
    "antonyms": [],
@@ -23058,9 +23033,9 @@
      ],
      "patterns": [
       {
-       "pattern": "mean doom for + N",
-       "en": "The lack of clean water could mean doom for the village.",
-       "zh": "缺乏乾淨的水可能使這個村莊走向毀滅。"
+       "pattern": "spell doom for + N",
+       "en": "The lack of clean water could spell doom for the village.",
+       "zh": "缺乏乾淨的水可能讓這個村莊走向毀滅。"
       }
      ],
      "collocations": [
@@ -23076,12 +23051,12 @@
     },
     {
      "pos": "v.",
-     "zh": "注定失敗；使毀滅",
+     "zh": "使注定失敗；使毀滅",
      "ext": "把人或事物帶向壞結局 → 使其注定失敗或遭受毀滅",
      "examples": [
       {
-       "en": "A serious mistake doomed the team's plan.",
-       "zh": "一個嚴重的錯誤使團隊計畫注定失敗。"
+       "en": "A serious mistake in the design doomed the team's science project.",
+       "zh": "設計上的一個嚴重錯誤，讓這個團隊的科展作品注定失敗。"
       },
       {
        "en": "Without enough money, the plan was doomed from the start.",
@@ -23486,8 +23461,8 @@
        "zh": "一股冷風從教室打開的窗戶吹進來。"
       },
       {
-       "en": "Close the door; there's a draught in here.",
-       "zh": "關上門，這裡有風吹進來。"
+       "en": "Please close the door because there is a cold draught in here.",
+       "zh": "請把門關上，這裡有冷風吹進來。"
       }
      ],
      "patterns": [],
@@ -23536,11 +23511,6 @@
      "word": "draught",
      "note": "英式拼法，指穿堂風或一大口飲料。",
      "example": "a cold draught"
-    },
-    {
-     "word": "breeze",
-     "note": "指輕柔的自然微風，不常指室內穿堂風。",
-     "example": "a sea breeze"
     }
    ],
    "antonyms": [],
@@ -24340,9 +24310,9 @@
      "example": "return home"
     },
     {
-     "word": "house",
-     "note": "通常指具體的房屋建築。",
-     "example": "a small house"
+     "word": "residence",
+     "note": "正式用語，指某人居住的房子，常見於官方文件或新聞。",
+     "example": "a private residence"
     }
    ],
    "antonyms": [],
@@ -32175,8 +32145,8 @@
      "ext": "好消息 → 基督教傳講耶穌的教義與記載",
      "examples": [
       {
-       "en": "The museum displayed an old gospel beside other religious books.",
-       "zh": "博物館把一本古老的福音書和其他宗教書籍一同展出。"
+       "en": "This old church keeps a handwritten copy of the four Gospels.",
+       "zh": "這座古老的教堂保存著一本手抄的四福音書。"
       },
       {
        "en": "The church choir sang gospel songs at Christmas.",
@@ -32197,7 +32167,7 @@
     },
     {
      "pos": "n.",
-     "zh": "信念；真理",
+     "zh": "真理；金科玉律",
      "ext": "被當作真理的教義 → 深信不疑的說法",
      "examples": [
       {
@@ -32234,11 +32204,6 @@
      "word": "truth",
      "note": "泛指真實情況，不帶宗教上的特定含義。",
      "example": "tell the truth"
-    },
-    {
-     "word": "belief",
-     "note": "指個人相信的想法，未必代表已證實的事實。",
-     "example": "a strong belief"
     }
    ],
    "antonyms": [],
@@ -33193,7 +33158,7 @@
    "word": "harden",
    "phonetic": "/ˈhɑːrdən/",
    "level": 6,
-   "forms": "hardened · hardening · hardness",
+   "forms": "hardens · hardened · hardening",
    "meanings": [
     {
      "pos": "v.",
@@ -33218,12 +33183,38 @@
      ],
      "collocations": [
       {
+       "en": "harden quickly",
+       "zh": "很快變硬"
+      },
+      {
+       "en": "harden in the sun",
+       "zh": "在陽光下變硬"
+      }
+     ]
+    },
+    {
+     "pos": "v.",
+     "zh": "使冷酷；使更堅定",
+     "ext": "東西變硬 → 人的心或態度變得強硬、不再動搖",
+     "examples": [
+      {
+       "en": "Years of hardship had hardened her heart against strangers.",
+       "zh": "多年的苦日子讓她對陌生人硬起心腸。"
+      },
+      {
+       "en": "The unfair decision only hardened the students' opposition to the new rule.",
+       "zh": "這個不公平的決定只讓學生更堅決反對新規定。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
        "en": "harden one's heart",
        "zh": "硬起心腸"
       },
       {
-       "en": "harden quickly",
-       "zh": "很快變硬"
+       "en": "harden one's attitude",
+       "zh": "態度變強硬"
       }
      ]
     }
@@ -33231,13 +33222,8 @@
    "synonyms": [
     {
      "word": "harden",
-     "note": "使變硬，也可指使人變得冷酷堅強。",
+     "note": "使變硬，也可指使人的心或態度變得強硬。",
      "example": "harden quickly"
-    },
-    {
-     "word": "tighten",
-     "note": "使變緊，常指螺絲、規定。",
-     "example": "tighten a rule"
     }
    ],
    "antonyms": [
@@ -36702,8 +36688,8 @@
        "zh": "溫暖的天氣促使更多家庭到公園遊玩。"
       },
       {
-       "en": "Some medicines can induce sleep.",
-       "zh": "有些藥物會使人想睡。"
+       "en": "Some cold medicines can induce sleep, so do not drive after taking them.",
+       "zh": "有些感冒藥會讓人想睡，所以吃完不要開車。"
       }
      ],
      "patterns": [
@@ -43048,7 +43034,7 @@
     {
      "pos": "adj.",
      "zh": "崇高的；遠大的",
-     "ext": "",
+     "ext": "位置很高 → 抽象地引申為理想很高、很崇高",
      "examples": [
       {
        "en": "The school has lofty goals for its new environmental program.",
@@ -43074,11 +43060,11 @@
     {
      "pos": "adj.",
      "zh": "高聳的",
-     "ext": "位置很高 → 抽象地引申為理想很高、很崇高",
+     "ext": "",
      "examples": [
       {
-       "en": "Lofty mountains surround the small village.",
-       "zh": "高聳的山環繞著這個小村莊。"
+       "en": "Lofty mountains surround the small village where my grandparents live.",
+       "zh": "高聳的山環繞著我祖父母住的小村莊。"
       },
       {
        "en": "From the lofty tower, we could see the whole city.",
@@ -45836,7 +45822,7 @@
     {
      "pos": "adj.",
      "zh": "淘氣的；愛惡作劇的",
-     "ext": "做出惹人注意的小把戲 → 顯得淘氣愛鬧",
+     "ext": "原指造成傷害或麻煩 → 語氣減弱為愛搗蛋、惡作劇",
      "examples": [
       {
        "en": "The mischievous boy hid his sister's school bag as a joke.",
@@ -45870,11 +45856,6 @@
      "word": "naughty",
      "note": "常形容孩子不守規矩，語氣較直接且口語。",
      "example": "a naughty boy"
-    },
-    {
-     "word": "playful",
-     "note": "表示愛玩、活潑，通常不帶惹麻煩的意思。",
-     "example": "a playful puppy"
     }
    ],
    "antonyms": [],
@@ -49936,11 +49917,6 @@
      "word": "oppression",
      "note": "指長期且不公平地限制一群人的自由或權利。",
      "example": "racial oppression"
-    },
-    {
-     "word": "control",
-     "note": "泛指控制或管理，不一定帶有不公平意味。",
-     "example": "government control"
     }
    ],
    "antonyms": [
@@ -51505,14 +51481,9 @@
      "example": "an outrageous price"
     },
     {
-     "word": "unreasonable",
-     "note": "指不合理，語氣較平實。",
-     "example": "an unreasonable rule"
-    },
-    {
-     "word": "shocking",
-     "note": "指令人震驚，不一定帶有不公平或過分的意思。",
-     "example": "shocking news"
+     "word": "ridiculous",
+     "note": "荒謬得可笑，常用來抱怨價格或要求太誇張，語氣較口語。",
+     "example": "a ridiculous price"
     }
    ],
    "antonyms": [
@@ -64000,8 +63971,8 @@
      "ext": "國王的身分 → 王室成員的總稱",
      "examples": [
       {
-       "en": "The museum displayed gifts once given to members of royalty.",
-       "zh": "博物館展出了曾送給王室成員的禮物。"
+       "en": "The museum displayed gifts that were once given to European royalty.",
+       "zh": "博物館展出了曾經送給歐洲王室的禮物。"
       },
       {
        "en": "The hotel has welcomed royalty from around the world.",
@@ -64011,8 +63982,12 @@
      "patterns": [],
      "collocations": [
       {
-       "en": "a member of royalty",
-       "zh": "王室成員"
+       "en": "treat someone like royalty",
+       "zh": "把某人當貴賓般款待"
+      },
+      {
+       "en": "European royalty",
+       "zh": "歐洲王室"
       }
      ]
     },
@@ -66980,7 +66955,7 @@
    "word": "skim",
    "phonetic": "/skɪm/",
    "level": 6,
-   "forms": "skimmed · skimming",
+   "forms": "skims · skimmed · skimming",
    "meanings": [
     {
      "pos": "v.",
@@ -66988,8 +66963,8 @@
      "ext": "快速掃過文字表面 → 先掌握文章大意",
      "examples": [
       {
-       "en": "I skimmed the article before class began.",
-       "zh": "上課前我先快速瀏覽了那篇文章。"
+       "en": "I quickly skimmed the article on the bus before class began.",
+       "zh": "上課前我在公車上快速瀏覽了那篇文章。"
       },
       {
        "en": "Skim the passage first, then read the questions.",
@@ -67043,11 +67018,6 @@
      "word": "skim",
      "note": "快速讀過以掌握文章大意，通常不細讀。",
      "example": "skim the article"
-    },
-    {
-     "word": "scan",
-     "note": "快速尋找特定資料，通常不讀全文。",
-     "example": "scan the page for a name"
     },
     {
      "word": "browse",
@@ -69641,8 +69611,8 @@
        "zh": "這份報告突顯學生可以節省能源的方法。"
       },
       {
-       "en": "The TV show spotlights young musicians.",
-       "zh": "這個電視節目專門介紹年輕音樂人。"
+       "en": "This TV show spotlights young musicians from small towns every week.",
+       "zh": "這個電視節目每週介紹來自小鎮的年輕音樂人。"
       }
      ],
      "patterns": [
@@ -69665,11 +69635,6 @@
      "word": "highlight",
      "note": "指特別強調某事，也可指標示文字。",
      "example": "highlight a problem"
-    },
-    {
-     "word": "focus",
-     "note": "指把注意力集中於某事，常用 focus on。",
-     "example": "focus on safety"
     }
    ],
    "antonyms": [],
@@ -70751,11 +70716,6 @@
      "word": "stimulation",
      "note": "刺激使身心或活動更活躍。",
      "example": "mental stimulation"
-    },
-    {
-     "word": "incentive",
-     "note": "指促使人採取行動的誘因或獎勵。",
-     "example": "a tax incentive"
     }
    ],
    "antonyms": [],
@@ -74243,8 +74203,8 @@
        "zh": "我們班在音樂課聆聽一首交響曲。"
       },
       {
-       "en": "Beethoven wrote nine symphonies.",
-       "zh": "貝多芬寫了九首交響曲。"
+       "en": "The orchestra will play two famous symphonies at the concert tonight.",
+       "zh": "管弦樂團今晚的音樂會將演奏兩首知名的交響曲。"
       }
      ],
      "patterns": [
@@ -74255,10 +74215,6 @@
       }
      ],
      "collocations": [
-      {
-       "en": "a symphony orchestra",
-       "zh": "交響樂團"
-      },
       {
        "en": "compose a symphony",
        "zh": "創作交響曲"
