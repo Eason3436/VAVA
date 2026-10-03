@@ -3356,6 +3356,1590 @@
     "en": "Dad is in a good mood because it's Friday.",
     "zh": "因為是星期五，爸爸心情很好。"
    }
+  },
+  {
+   "a": "employee",
+   "b": "employer",
+   "kind": "visual",
+   "score": 0.819,
+   "aZh": "n. 員工；受雇者",
+   "bZh": "n. 雇主",
+   "diff": "employee 是被雇用、領薪水的人；employer 是雇用別人、付薪水的人或公司。兩字只差字尾。",
+   "points": [
+    "拼字：-ee 表示接受動作的人，-er 表示做動作的人",
+    "發音：employee 重音常在最後的 -ee"
+   ],
+   "tip": "-ee 像 trainee、interviewee，都是被動的一方；-er 是發號施令的一方。",
+   "exA": {
+    "en": "The employee asked for a day off to see a doctor.",
+    "zh": "那名員工請一天假去看醫生。"
+   },
+   "exB": {
+    "en": "The employer gave everyone a bonus at the end of the year.",
+    "zh": "雇主在年底發給每個人獎金。"
+   }
+  },
+  {
+   "a": "employ",
+   "b": "hire",
+   "kind": "semantic",
+   "score": 0.84,
+   "aZh": "v. 雇用",
+   "bZh": "v. 雇用；租用",
+   "diff": "兩者都可表示雇用人。hire 較口語，常指找人來做一份工作；employ 較正式，強調長期雇用關係，也可指使用方法。",
+   "points": [
+    "語氣或正式程度：hire 口語，employ 正式",
+    "使用情境：hire 也可指短期租用東西，employ 也可指採用方法"
+   ],
+   "tip": "剛把人找進來用 hire；說公司一共雇用多少人用 employ。",
+   "exA": {
+    "en": "The factory employs more than five hundred workers.",
+    "zh": "這間工廠雇用五百多名工人。"
+   },
+   "exB": {
+    "en": "We need to hire a new cook for the restaurant.",
+    "zh": "我們需要為餐廳請一位新廚師。"
+   }
+  },
+  {
+   "a": "empty",
+   "b": "vacant",
+   "kind": "semantic",
+   "score": 0.562,
+   "aZh": "adj. 空的",
+   "bZh": "adj. 空著的；空缺的",
+   "diff": "empty 指裡面沒有東西或沒有人，用途最廣；vacant 指房間、座位、職位目前沒人使用，較正式。",
+   "points": [
+    "使用情境：箱子、瓶子、肚子只能用 empty",
+    "搭配：vacant seat、vacant room、vacant position"
+   ],
+   "tip": "容器空了用 empty；位子等人來坐用 vacant。",
+   "exA": {
+    "en": "The bottle is empty, so let's buy more water.",
+    "zh": "瓶子空了，我們再買點水吧。"
+   },
+   "exB": {
+    "en": "Is this seat vacant, or is someone sitting here?",
+    "zh": "這個位子有人坐嗎？"
+   }
+  },
+  {
+   "a": "encourage",
+   "b": "motivate",
+   "kind": "semantic",
+   "score": 0.888,
+   "aZh": "v. 鼓勵；激勵",
+   "bZh": "v. 激勵；促使",
+   "diff": "encourage 是用話語或行動給人支持和信心；motivate 是給人動機，讓人自己想去做，較正式。",
+   "points": [
+    "搭配：encourage sb to V，motivate sb to V 都可",
+    "使用情境：motivate 常說獎勵、目標帶來的動力"
+   ],
+   "tip": "旁人鼓勵你用 encourage；內心被點燃的動力用 motivate。",
+   "exA": {
+    "en": "My parents encouraged me to try out for the team.",
+    "zh": "我父母鼓勵我去參加校隊甄選。"
+   },
+   "exB": {
+    "en": "Good grades motivate her to study even harder.",
+    "zh": "好成績激勵她更用功。"
+   }
+  },
+  {
+   "a": "conclusion",
+   "b": "ending",
+   "kind": "semantic",
+   "score": 0.761,
+   "aZh": "n. 結論；結尾",
+   "bZh": "n. 結尾；結局",
+   "diff": "ending 多指故事、電影的結局；conclusion 多指文章、報告、演講最後的結論，較正式。",
+   "points": [
+    "使用情境：小說、電影用 ending，作文、報告用 conclusion",
+    "搭配：a happy ending，come to a conclusion"
+   ],
+   "tip": "故事看結局用 ending；作文寫結論用 conclusion。",
+   "exA": {
+    "en": "In the conclusion of your essay, repeat your main idea.",
+    "zh": "在作文的結論裡，再強調一次主旨。"
+   },
+   "exB": {
+    "en": "Everyone in the theater cried at the sad ending of the movie.",
+    "zh": "電影院裡每個人都在電影悲傷的結局時哭了。"
+   }
+  },
+  {
+   "a": "enemy",
+   "b": "opponent",
+   "kind": "semantic",
+   "score": 0.417,
+   "aZh": "n. 敵人；敵方",
+   "bZh": "n. 對手；競爭者",
+   "diff": "enemy 是敵對、想傷害你的人；opponent 是比賽、辯論或選舉中的對手，不一定有敵意。",
+   "points": [
+    "使用情境：比賽中的對方要用 opponent",
+    "語氣：enemy 帶有仇恨或敵對的意味"
+   ],
+   "tip": "球場上的是 opponent，打完握手；戰場上的才是 enemy。",
+   "exA": {
+    "en": "The soldiers waited quietly for the enemy to come.",
+    "zh": "士兵們靜靜等待敵人到來。"
+   },
+   "exB": {
+    "en": "Our team shook hands with our opponents after the game.",
+    "zh": "比賽後我們隊和對手握手。"
+   }
+  },
+  {
+   "a": "engine",
+   "b": "motor",
+   "kind": "semantic",
+   "score": 0.651,
+   "aZh": "n. 引擎；發動機",
+   "bZh": "n. 馬達；引擎",
+   "diff": "engine 多指燒油產生動力的引擎，如汽車、飛機；motor 多指用電運轉的馬達，如電風扇、電動車。",
+   "points": [
+    "使用情境：汽車、火車、飛機常說 engine",
+    "使用情境：電器、電動工具常說 motor"
+   ],
+   "tip": "燒汽油的是 engine，插電的是 motor。",
+   "exA": {
+    "en": "The car engine would not start on the cold morning.",
+    "zh": "那個寒冷的早晨，汽車引擎發不動。"
+   },
+   "exB": {
+    "en": "The fan has a small electric motor inside.",
+    "zh": "電風扇裡面有一顆小馬達。"
+   }
+  },
+  {
+   "a": "entire",
+   "b": "whole",
+   "kind": "semantic",
+   "score": 0.875,
+   "aZh": "adj. 全部的；整個的",
+   "bZh": "adj. 全部的；完整的",
+   "diff": "兩者都是「整個的」，常可互換；entire 語氣稍正式、更強調一點都不少，whole 較口語，也可當名詞。",
+   "points": [
+    "詞性：whole 可當名詞，如 as a whole",
+    "語氣或正式程度：entire 較正式"
+   ],
+   "tip": "口語說 the whole day；正式寫作可以用 the entire day。",
+   "exA": {
+    "en": "The entire school took part in the cleanup.",
+    "zh": "全校都參加了清潔活動。"
+   },
+   "exB": {
+    "en": "My little brother ate the whole cake by himself last night.",
+    "zh": "我弟弟昨晚一個人吃掉了整個蛋糕。"
+   }
+  },
+  {
+   "a": "entrance",
+   "b": "entry",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "n. 入口；入場",
+   "bZh": "n. 進入；入場；參賽作品",
+   "diff": "兩者都可指入口或進入。entrance 多指實際的門口、入口處；entry 偏重進入的動作或權利，也可指參賽作品。",
+   "points": [
+    "搭配：main entrance、entrance exam",
+    "搭配：No entry 禁止進入、contest entry 參賽作品"
+   ],
+   "tip": "找門口用 entrance；能不能進去用 entry。",
+   "exA": {
+    "en": "Let's meet at the main entrance of the station.",
+    "zh": "我們在車站的大門口見。"
+   },
+   "exB": {
+    "en": "The sign on the door says No Entry.",
+    "zh": "門上的牌子寫著禁止進入。"
+   }
+  },
+  {
+   "a": "equal",
+   "b": "fair",
+   "kind": "semantic",
+   "score": 0.51,
+   "aZh": "adj. 平等的；相等的",
+   "bZh": "adj. 公平的；合理的",
+   "diff": "equal 是數量、地位或權利一樣；fair 是做法合理、不偏袒。平等不一定公平，公平也不一定完全一樣。",
+   "points": [
+    "搭配：equal rights、equal pay",
+    "搭配：a fair game、It's not fair."
+   ],
+   "tip": "分得一樣多是 equal；分得合理是 fair。",
+   "exA": {
+    "en": "Men and women should get equal pay for the same work.",
+    "zh": "男女做相同的工作應該領相同的薪水。"
+   },
+   "exB": {
+    "en": "It's not fair that he always gets the best seat.",
+    "zh": "他總是坐最好的位子，這不公平。"
+   }
+  },
+  {
+   "a": "avoid",
+   "b": "escape",
+   "kind": "semantic",
+   "score": 0.3,
+   "aZh": "v. 避免；避開",
+   "bZh": "v. 逃脫；避開",
+   "diff": "avoid 是事先設法不碰上某事；escape 是已經陷入或差點陷入危險、困境時脫身。兩者後面都接 V-ing。",
+   "points": [
+    "使用情境：escape 有被困住或被追的意味",
+    "搭配：avoid making mistakes，escape from prison"
+   ],
+   "tip": "還沒發生就躲開用 avoid；被困住後逃出來用 escape。",
+   "exA": {
+    "en": "We left home early to avoid the heavy traffic downtown.",
+    "zh": "我們提早出門，以避開市區的塞車。"
+   },
+   "exB": {
+    "en": "The bird escaped from its cage this morning.",
+    "zh": "那隻鳥今天早上從籠子裡逃出來了。"
+   }
+  },
+  {
+   "a": "escape",
+   "b": "flee",
+   "kind": "semantic",
+   "score": 0.568,
+   "aZh": "v. 逃脫；逃離",
+   "bZh": "v. 逃離；逃跑",
+   "diff": "escape 強調成功從危險或限制中脫身；flee 強調因害怕而急忙逃走，不一定成功，較書面。",
+   "points": [
+    "語氣或正式程度：flee 多見於新聞報導",
+    "三態：flee · fled · fled"
+   ],
+   "tip": "成功逃出用 escape；嚇得拔腿就跑用 flee。",
+   "exA": {
+    "en": "The prisoner escaped from the jail at night.",
+    "zh": "那名囚犯半夜逃出監獄。"
+   },
+   "exB": {
+    "en": "Thousands of people fled their homes because of the flood.",
+    "zh": "數千人因為洪水逃離家園。"
+   }
+  },
+  {
+   "a": "event",
+   "b": "incident",
+   "kind": "semantic",
+   "score": 0.723,
+   "aZh": "n. 事件；活動",
+   "bZh": "n. 事件；小插曲",
+   "diff": "event 可指重要的事或安排好的活動，多半中性或正面；incident 指一件特定的事，常帶有意外、衝突或不愉快的意味。",
+   "points": [
+    "使用情境：school event 學校活動，不說 school incident",
+    "語氣：incident 多用於新聞或報告中的意外"
+   ],
+   "tip": "辦活動是 event；出狀況是 incident。",
+   "exA": {
+    "en": "The concert was the biggest event of the year.",
+    "zh": "那場演唱會是今年最大的活動。"
+   },
+   "exB": {
+    "en": "The police are looking into the incident at the station.",
+    "zh": "警方正在調查車站的那起事件。"
+   }
+  },
+  {
+   "a": "devil",
+   "b": "evil",
+   "kind": "visual",
+   "score": 0.727,
+   "aZh": "n. 惡魔；魔鬼",
+   "bZh": "adj. 邪惡的；n. 邪惡",
+   "diff": "evil 是形容詞或抽象名詞「邪惡」；devil 是名詞，指惡魔這個角色。devil 拼字裡藏著 evil。",
+   "points": [
+    "詞性：evil 多當形容詞，devil 是可數名詞",
+    "拼字：d + evil = devil"
+   ],
+   "tip": "惡魔 devil 就是 d 加上邪惡 evil。",
+   "exA": {
+    "en": "In the story, the devil tries to buy the man's soul.",
+    "zh": "故事裡，惡魔想買下那個人的靈魂。"
+   },
+   "exB": {
+    "en": "In the end, the hero stopped the evil king's plan.",
+    "zh": "最後，英雄阻止了邪惡國王的計畫。"
+   }
+  },
+  {
+   "a": "evil",
+   "b": "wicked",
+   "kind": "semantic",
+   "score": 0.665,
+   "aZh": "adj. 邪惡的",
+   "bZh": "adj. 邪惡的；壞的",
+   "diff": "兩者都是邪惡的。evil 語氣最強，也可當名詞；wicked 多用在故事裡的壞人，口語中還可表示淘氣。",
+   "points": [
+    "詞性：evil 可當名詞 good and evil，wicked 只當形容詞",
+    "使用情境：童話常說 the wicked witch"
+   ],
+   "tip": "抽象的善惡對比用 evil；童話裡的壞巫婆常用 wicked。",
+   "exA": {
+    "en": "Some people believe that evil cannot win in the end.",
+    "zh": "有些人相信邪惡最後無法得勝。"
+   },
+   "exB": {
+    "en": "In the old story, a wicked queen tried to hurt the young girl.",
+    "zh": "在那個古老故事裡，邪惡的皇后想傷害那個女孩。"
+   }
+  },
+  {
+   "a": "accurate",
+   "b": "exact",
+   "kind": "semantic",
+   "score": 0.565,
+   "aZh": "adj. 準確的；正確無誤的",
+   "bZh": "adj. 確切的；精確的",
+   "diff": "accurate 是正確、沒有錯誤；exact 是完全吻合、一點不差。資訊正確用 accurate，數字、時間精準用 exact。",
+   "points": [
+    "搭配：accurate information、accurate report",
+    "搭配：the exact time、the exact number"
+   ],
+   "tip": "accurate 對不對，exact 差多少：差一分都不行就用 exact。",
+   "exA": {
+    "en": "The news report gave accurate information about the storm.",
+    "zh": "新聞報導提供了關於颱風的正確資訊。"
+   },
+   "exB": {
+    "en": "Please tell me the exact time of your arrival.",
+    "zh": "請告訴我你抵達的確切時間。"
+   }
+  },
+  {
+   "a": "examine",
+   "b": "inspect",
+   "kind": "semantic",
+   "score": 0.689,
+   "aZh": "v. 檢查；審視",
+   "bZh": "v. 檢查；檢驗",
+   "diff": "examine 是仔細查看找出狀況，常用於醫生看病或研究問題；inspect 是正式查看是否符合標準，常用於官方檢查。",
+   "points": [
+    "使用情境：醫生 examine a patient",
+    "使用情境：inspect a building、inspect a factory 指官方檢查"
+   ],
+   "tip": "醫生看病用 examine；檢查員來查合不合格用 inspect。",
+   "exA": {
+    "en": "The doctor examined my throat with a small light.",
+    "zh": "醫生用小燈檢查我的喉嚨。"
+   },
+   "exB": {
+    "en": "Officials inspect the restaurant kitchen twice a year.",
+    "zh": "官員每年檢查這家餐廳廚房兩次。"
+   }
+  },
+  {
+   "a": "excuse",
+   "b": "forgive",
+   "kind": "semantic",
+   "score": 0.547,
+   "aZh": "v. 原諒",
+   "bZh": "v. 原諒；寬恕",
+   "diff": "excuse 多用於原諒小錯或失禮，如打擾別人；forgive 用於原諒較嚴重的錯誤或傷害，情感較深。",
+   "points": [
+    "使用情境：Excuse me 用於禮貌打擾",
+    "搭配：forgive sb for V-ing，excuse sb for V-ing"
+   ],
+   "tip": "借過、打擾說 excuse；真的被傷害後放下說 forgive。",
+   "exA": {
+    "en": "Please excuse me for interrupting your conversation with Amy.",
+    "zh": "抱歉打斷你和 Amy 的談話。"
+   },
+   "exB": {
+    "en": "It took her a long time to forgive her friend.",
+    "zh": "她花了很久才原諒她的朋友。"
+   }
+  },
+  {
+   "a": "accuse",
+   "b": "excuse",
+   "kind": "visual",
+   "score": 0.589,
+   "aZh": "v. 指控；指責",
+   "bZh": "v. 原諒；n. 藉口",
+   "diff": "accuse 是指控別人做錯事；excuse 是原諒或替過錯找藉口。兩字只差開頭的 ac 和 ex，意思幾乎相反。",
+   "points": [
+    "搭配：accuse sb of V-ing",
+    "搭配：excuse sb for V-ing、make an excuse"
+   ],
+   "tip": "ac 像 attack，攻擊人就是指控；ex 是免除，免除責難就是原諒。",
+   "exA": {
+    "en": "The man accused his neighbor of stealing his bike.",
+    "zh": "那個男人指控鄰居偷了他的腳踏車。"
+   },
+   "exB": {
+    "en": "He made an excuse for being late to class.",
+    "zh": "他為上課遲到找了個藉口。"
+   }
+  },
+  {
+   "a": "exist",
+   "b": "exit",
+   "kind": "visual",
+   "score": 0.703,
+   "aZh": "v. 存在；生存",
+   "bZh": "n. 出口；v. 離開",
+   "diff": "exist 是存在；exit 是出口或離開。兩字只差一個 s，發音也接近，寫作時常拼錯。",
+   "points": [
+    "拼字：exist 有 s，exit 沒有",
+    "發音：exist /ɪɡˈzɪst/，exit /ˈɛɡzɪt/，重音位置不同"
+   ],
+   "tip": "exist 裡的 s 像 stay，留下來就存在；exit 少了 s，走出去了。",
+   "exA": {
+    "en": "Do you think life exists on other planets?",
+    "zh": "你認為其他星球上有生命存在嗎？"
+   },
+   "exB": {
+    "en": "Please leave the theater through the nearest exit.",
+    "zh": "請從最近的出口離開戲院。"
+   }
+  },
+  {
+   "a": "exit",
+   "b": "export",
+   "kind": "semantic",
+   "score": 0.3,
+   "aZh": "n. 出口（離開的門）",
+   "bZh": "n. 出口（貨物輸出）",
+   "diff": "中文都叫出口，但 exit 是讓人走出去的門或通道；export 是把貨物賣到國外，或指出口的商品。",
+   "points": [
+    "使用情境：建築、車站、高速公路的出口用 exit",
+    "使用情境：貿易的出口用 export，反義是 import"
+   ],
+   "tip": "人走出去是 exit；貨運出國是 export。",
+   "exA": {
+    "en": "The emergency exit is at the back of the bus.",
+    "zh": "緊急出口在公車的後方。"
+   },
+   "exB": {
+    "en": "Tea is one of the main exports of this area.",
+    "zh": "茶是這個地區的主要出口商品之一。"
+   }
+  },
+  {
+   "a": "cost",
+   "b": "expense",
+   "kind": "semantic",
+   "score": 0.721,
+   "aZh": "n. 費用；成本",
+   "bZh": "n. 費用；開支",
+   "diff": "cost 是買東西或做事要付的金額，最常用；expense 是實際花出去的開支，較正式，常用複數如 living expenses。",
+   "points": [
+    "詞性：cost 也可當動詞，expense 只當名詞",
+    "搭配：living expenses、the cost of living"
+   ],
+   "tip": "價錢多少問 cost；記帳列開支用 expenses。",
+   "exA": {
+    "en": "The cost of the concert ticket is too high for me.",
+    "zh": "演唱會門票的費用對我來說太高了。"
+   },
+   "exB": {
+    "en": "Food is our family's biggest expense every month.",
+    "zh": "伙食是我們家每個月最大的開支。"
+   }
+  },
+  {
+   "a": "expense",
+   "b": "fee",
+   "kind": "semantic",
+   "score": 0.793,
+   "aZh": "n. 費用；開支",
+   "bZh": "n. 費用；手續費",
+   "diff": "fee 是付給學校、醫生、機構等的服務費或固定收費；expense 是自己花出去的各種開支。",
+   "points": [
+    "搭配：school fees、entrance fee、doctor's fee",
+    "搭配：travel expenses、at one's own expense"
+   ],
+   "tip": "對方開價收的錢是 fee；自己花掉的錢是 expense。",
+   "exA": {
+    "en": "The school paid all the travel expenses for the team.",
+    "zh": "學校支付了球隊所有的旅費。"
+   },
+   "exB": {
+    "en": "The entrance fee for the museum is one hundred dollars.",
+    "zh": "博物館的入場費是一百元。"
+   }
+  },
+  {
+   "a": "expert",
+   "b": "export",
+   "kind": "visual",
+   "score": 0.793,
+   "aZh": "n. 專家",
+   "bZh": "v. 出口；n. 出口商品",
+   "diff": "expert 是專家；export 是出口貨物。兩字只差 e 和 o 一個字母。",
+   "points": [
+    "拼字：exp-e-rt 專家，exp-o-rt 出口",
+    "詞性：expert 是人，export 是動作或商品"
+   ],
+   "tip": "export 的 port 是港口，貨物從港口出去；expert 沒有港口。",
+   "exA": {
+    "en": "We asked an expert to check the old painting.",
+    "zh": "我們請專家檢查那幅舊畫。"
+   },
+   "exB": {
+    "en": "Taiwan exports many computer parts to other countries.",
+    "zh": "台灣出口許多電腦零件到其他國家。"
+   }
+  },
+  {
+   "a": "expression",
+   "b": "impression",
+   "kind": "visual",
+   "score": 0.745,
+   "aZh": "n. 表達；表情",
+   "bZh": "n. 印象",
+   "diff": "expression 是把想法表達出來，或臉上的表情；impression 是別人或事物留在你心中的印象。",
+   "points": [
+    "拼字：ex- 向外，表達出去；im- 向內，印在心裡",
+    "搭配：facial expression、first impression"
+   ],
+   "tip": "ex 是往外送，表情給別人看；im 是往裡印，印象留在心中。",
+   "exA": {
+    "en": "Her expression showed that she was not happy.",
+    "zh": "她的表情顯示她不開心。"
+   },
+   "exB": {
+    "en": "The new teacher made a good first impression on us.",
+    "zh": "新老師給我們很好的第一印象。"
+   }
+  },
+  {
+   "a": "additional",
+   "b": "extra",
+   "kind": "semantic",
+   "score": 0.756,
+   "aZh": "adj. 額外的；另外的",
+   "bZh": "adj. 額外的；多出的",
+   "diff": "兩者都是另外多出來的。extra 較口語，也可當副詞或名詞；additional 較正式，多用於書面或公告。",
+   "points": [
+    "語氣或正式程度：additional 較正式",
+    "詞性：extra 可當副詞，如 pay extra"
+   ],
+   "tip": "口語說 extra，公告、說明書常見 additional。",
+   "exA": {
+    "en": "For additional information about the course, please visit our website.",
+    "zh": "如需這門課的更多資訊，請上我們的網站。"
+   },
+   "exB": {
+    "en": "Can I have some extra time to finish the test?",
+    "zh": "我可以多一點時間寫完考卷嗎？"
+   }
+  },
+  {
+   "a": "element",
+   "b": "factor",
+   "kind": "semantic",
+   "score": 0.71,
+   "aZh": "n. 要素；元素",
+   "bZh": "n. 因素；要素",
+   "diff": "factor 是影響結果的原因之一；element 是組成整體的一部分，不一定和結果有因果關係。",
+   "points": [
+    "搭配：a key factor in success",
+    "搭配：an important element of the story"
+   ],
+   "tip": "問為什麼會發生用 factor；問由什麼組成用 element。",
+   "exA": {
+    "en": "Humor is an important element of his speeches.",
+    "zh": "幽默是他演講中重要的元素。"
+   },
+   "exB": {
+    "en": "Weather was a major factor in the team's loss.",
+    "zh": "天氣是這支隊伍輸球的主要因素。"
+   }
+  },
+  {
+   "a": "fair",
+   "b": "fare",
+   "kind": "visual",
+   "score": 0.605,
+   "aZh": "adj. 公平的；n. 園遊會",
+   "bZh": "n. 車資；票價",
+   "diff": "fair 和 fare 發音完全一樣。fair 是公平的或園遊會；fare 是搭車、搭機的票價。",
+   "points": [
+    "發音：兩字都唸 /fɛr/",
+    "搭配：bus fare、taxi fare；a fair game、book fair"
+   ],
+   "tip": "fare 裡有 are，搭車的人 are 都要付車資。",
+   "exA": {
+    "en": "It is not fair to make him do all the work.",
+    "zh": "讓他一個人做所有的工作不公平。"
+   },
+   "exB": {
+    "en": "The bus fare went up to fifteen dollars this year.",
+    "zh": "今年公車票價漲到十五元。"
+   }
+  },
+  {
+   "a": "fake",
+   "b": "false",
+   "kind": "semantic",
+   "score": 0.481,
+   "aZh": "adj. 假的；仿冒的",
+   "bZh": "adj. 錯誤的；不實的",
+   "diff": "false 是內容不符合事實，如錯誤資訊、是非題的錯；fake 是故意做出來騙人的假貨。",
+   "points": [
+    "搭配：false information、true or false",
+    "搭配：fake news、fake money、a fake bag"
+   ],
+   "tip": "說法不對用 false；東西是仿冒的用 fake。",
+   "exA": {
+    "en": "The police found a lot of fake money in the car.",
+    "zh": "警方在車上找到許多假鈔。"
+   },
+   "exB": {
+    "en": "Mark each sentence true or false after reading.",
+    "zh": "閱讀後，把每個句子標示對或錯。"
+   }
+  },
+  {
+   "a": "fashion",
+   "b": "style",
+   "kind": "semantic",
+   "score": 0.59,
+   "aZh": "n. 時尚；流行",
+   "bZh": "n. 風格；樣式",
+   "diff": "fashion 是某段時間大家流行的穿著或做法；style 是個人或作品獨特的風格，不一定流行。",
+   "points": [
+    "搭配：in fashion、out of fashion；in style",
+    "使用情境：writing style、his own style 不用 fashion"
+   ],
+   "tip": "大家都在穿是 fashion；你自己的特色是 style。",
+   "exA": {
+    "en": "Wide pants are back in fashion this year.",
+    "zh": "寬褲今年又流行起來了。"
+   },
+   "exB": {
+    "en": "I like the simple style of her drawings.",
+    "zh": "我喜歡她畫作簡單的風格。"
+   }
+  },
+  {
+   "a": "destiny",
+   "b": "fate",
+   "kind": "semantic",
+   "score": 0.787,
+   "aZh": "n. 命運；天命",
+   "bZh": "n. 命運；宿命",
+   "diff": "兩者都是命運。fate 多指無法改變、常帶負面的結局；destiny 多指人生注定的方向，常帶正面或重大的意味。",
+   "points": [
+    "語氣：fate 常帶無奈，destiny 常帶期待",
+    "搭配：accept one's fate、control one's destiny"
+   ],
+   "tip": "無奈接受的是 fate；追求實現的是 destiny。",
+   "exA": {
+    "en": "He believes it is his destiny to become a doctor.",
+    "zh": "他相信成為醫生是他的天命。"
+   },
+   "exB": {
+    "en": "Nobody knows the fate of the missing ship.",
+    "zh": "沒有人知道那艘失蹤的船下場如何。"
+   }
+  },
+  {
+   "a": "fault",
+   "b": "mistake",
+   "kind": "semantic",
+   "score": 0.68,
+   "aZh": "n. 錯誤；過失",
+   "bZh": "n. 錯誤；失誤",
+   "diff": "mistake 是做錯的事或答錯的地方；fault 著重錯誤是誰的責任，常說 It's my fault。",
+   "points": [
+    "搭配：make a mistake，不說 make a fault",
+    "搭配：It's my fault.、find fault with"
+   ],
+   "tip": "做錯一題是 mistake；問是誰害的用 fault。",
+   "exA": {
+    "en": "It was my fault that we missed the bus this morning.",
+    "zh": "今天早上我們沒趕上公車是我的錯。"
+   },
+   "exB": {
+    "en": "I made a mistake on the last math question.",
+    "zh": "我最後一題數學算錯了。"
+   }
+  },
+  {
+   "a": "favor",
+   "b": "flavor",
+   "kind": "visual",
+   "score": 0.778,
+   "aZh": "n. 幫忙；恩惠",
+   "bZh": "n. 味道；特色",
+   "diff": "favor 是幫忙或支持；flavor 是食物的味道。兩字只差一個 l。",
+   "points": [
+    "拼字：f-l-avor 多一個 l",
+    "搭配：do sb a favor；ice cream flavor"
+   ],
+   "tip": "flavor 的 l 像舌頭 lick，舔一口嚐味道。",
+   "exA": {
+    "en": "Could you do me a favor and close the window?",
+    "zh": "可以幫我個忙，把窗戶關上嗎？"
+   },
+   "exB": {
+    "en": "Chocolate is my favorite ice cream flavor in the summer.",
+    "zh": "巧克力是我夏天最愛的冰淇淋口味。"
+   }
+  },
+  {
+   "a": "favorable",
+   "b": "favorite",
+   "kind": "visual",
+   "score": 0.635,
+   "aZh": "adj. 有利的；贊成的",
+   "bZh": "adj. 最喜愛的",
+   "diff": "favorite 是最喜歡的；favorable 是有利的、正面的，常形容天氣、條件或評價。",
+   "points": [
+    "搭配：favorable weather、a favorable review",
+    "搭配：my favorite song"
+   ],
+   "tip": "可以 able 幫上忙的是 favorable；排第一名的愛是 favorite。",
+   "exA": {
+    "en": "The weather was favorable for our camping trip.",
+    "zh": "天氣很適合我們去露營。"
+   },
+   "exB": {
+    "en": "Basketball has always been my favorite sport at school.",
+    "zh": "籃球一直是我在學校最喜歡的運動。"
+   }
+  },
+  {
+   "a": "afraid",
+   "b": "fear",
+   "kind": "semantic",
+   "score": 0.864,
+   "aZh": "adj. 害怕的；擔心的",
+   "bZh": "n. 恐懼；v. 害怕",
+   "diff": "afraid 是形容詞，要用 be afraid of；fear 是名詞或動詞，可以直接接受詞。",
+   "points": [
+    "詞性：afraid 是 adj.，fear 是 n. / v.",
+    "搭配：be afraid of dogs = fear dogs = have a fear of dogs"
+   ],
+   "tip": "afraid 前面要有 be；fear 自己就能當動詞。",
+   "exA": {
+    "en": "My little sister is afraid of the dark.",
+    "zh": "我妹妹怕黑。"
+   },
+   "exB": {
+    "en": "Many people fear big changes in their lives, like moving.",
+    "zh": "很多人害怕生活中的大改變，例如搬家。"
+   }
+  },
+  {
+   "a": "characteristic",
+   "b": "feature",
+   "kind": "semantic",
+   "score": 0.555,
+   "aZh": "n. 特徵；特性",
+   "bZh": "n. 特色；特徵",
+   "diff": "feature 是看得到或突出的特色，如臉部特徵、產品功能；characteristic 是某類人事物典型的特性，較正式。",
+   "points": [
+    "使用情境：產品功能常說 feature",
+    "語氣或正式程度：characteristic 多用於說明、報告"
+   ],
+   "tip": "手機的新功能是 feature；某個民族的典型性格是 characteristic。",
+   "exA": {
+    "en": "Being friendly is a characteristic of people in this town.",
+    "zh": "友善是這個小鎮居民的特性。"
+   },
+   "exB": {
+    "en": "The best feature of this phone is its camera.",
+    "zh": "這支手機最棒的特色是相機。"
+   }
+  },
+  {
+   "a": "fare",
+   "b": "fee",
+   "kind": "semantic",
+   "score": 0.524,
+   "aZh": "n. 車資；票價",
+   "bZh": "n. 費用；服務費",
+   "diff": "fare 專指搭公車、計程車、飛機等交通工具的票價；fee 是付給學校、醫生或機構的服務費、入場費。",
+   "points": [
+    "搭配：bus fare、taxi fare、air fare",
+    "搭配：school fees、entrance fee、doctor's fee"
+   ],
+   "tip": "坐車付 fare；進場、上課、看病付 fee。",
+   "exA": {
+    "en": "The taxi fare from the airport was very high.",
+    "zh": "從機場出發的計程車資很貴。"
+   },
+   "exB": {
+    "en": "The museum charges a small entrance fee on weekends.",
+    "zh": "博物館週末收取一筆小額入場費。"
+   }
+  },
+  {
+   "a": "emotion",
+   "b": "feeling",
+   "kind": "semantic",
+   "score": 0.653,
+   "aZh": "n. 情緒；情感",
+   "bZh": "n. 感覺；感受",
+   "diff": "feeling 範圍廣，可指身體感覺、情緒或直覺；emotion 專指喜怒哀樂這類強烈情緒，較正式。",
+   "points": [
+    "搭配：hurt sb's feelings、I have a feeling that…",
+    "使用情境：身體的感覺只能用 feeling"
+   ],
+   "tip": "說「我有預感」用 feeling；寫文章談情緒用 emotion。",
+   "exA": {
+    "en": "She tried hard to control her emotions during the speech.",
+    "zh": "她演講時努力控制自己的情緒。"
+   },
+   "exB": {
+    "en": "I have a feeling that it will rain tonight.",
+    "zh": "我有預感今晚會下雨。"
+   }
+  },
+  {
+   "a": "fellow",
+   "b": "follow",
+   "kind": "visual",
+   "score": 0.74,
+   "aZh": "adj. 同伴的；n. 傢伙",
+   "bZh": "v. 跟隨；遵循",
+   "diff": "fellow 是同伴、傢伙；follow 是動詞「跟隨」。兩字只差 e 和 o。",
+   "points": [
+    "拼字：f-e-llow 同伴，f-o-llow 跟隨",
+    "詞性：fellow 是名詞或形容詞，follow 是動詞"
+   ],
+   "tip": "follow 的 o 像往前走的腳印；fellow 的 e 是 everyone，一群同伴。",
+   "exA": {
+    "en": "Amy asked a fellow student for help with math.",
+    "zh": "Amy 請一位同學幫忙數學。"
+   },
+   "exB": {
+    "en": "Please follow me to the meeting room on the second floor.",
+    "zh": "請跟我到二樓的會議室。"
+   }
+  },
+  {
+   "a": "court",
+   "b": "field",
+   "kind": "semantic",
+   "score": 0.489,
+   "aZh": "n. 球場（籃球、網球等）",
+   "bZh": "n. 球場；田地",
+   "diff": "中文都叫球場。court 是有邊線的硬地球場，如籃球、網球、羽球；field 是大片草地的場地，如足球、棒球、田徑。",
+   "points": [
+    "搭配：basketball court、tennis court",
+    "搭配：soccer field、baseball field"
+   ],
+   "tip": "室內或水泥地的小球場用 court；大片草地用 field。",
+   "exA": {
+    "en": "We played basketball on the court after school.",
+    "zh": "我們放學後在籃球場打球。"
+   },
+   "exB": {
+    "en": "The soccer field was wet after the heavy rain.",
+    "zh": "大雨過後足球場濕濕的。"
+   }
+  },
+  {
+   "a": "figure",
+   "b": "number",
+   "kind": "semantic",
+   "score": 0.3,
+   "aZh": "n. 數字；數據",
+   "bZh": "n. 數字；數量；號碼",
+   "diff": "number 是一般的數字或數量，也指電話號碼；figure 多指統計、官方公布的數據，常用複數。",
+   "points": [
+    "搭配：phone number、a large number of",
+    "搭配：sales figures、the latest figures"
+   ],
+   "tip": "電話號碼用 number；新聞公布的統計數字用 figures。",
+   "exA": {
+    "en": "The latest figures show that prices are going up.",
+    "zh": "最新數據顯示物價正在上漲。"
+   },
+   "exB": {
+    "en": "Can I have your phone number so I can call you later?",
+    "zh": "可以給我你的電話號碼，讓我晚點打給你嗎？"
+   }
+  },
+  {
+   "a": "eventual",
+   "b": "final",
+   "kind": "semantic",
+   "score": 0.787,
+   "aZh": "adj. 最後的；最終的",
+   "bZh": "adj. 最後的；最終的",
+   "diff": "final 是排在最後或不再改變的；eventual 強調經過一段過程後最終發生的結果。",
+   "points": [
+    "搭配：the final exam、a final decision",
+    "搭配：the eventual winner 最後勝出的人"
+   ],
+   "tip": "順序上最後一個用 final；經過一番波折才有的結果用 eventual。",
+   "exA": {
+    "en": "After many games, Tom was the eventual winner.",
+    "zh": "比了很多場之後，Tom 最終勝出。"
+   },
+   "exB": {
+    "en": "The final round of the contest is on Sunday.",
+    "zh": "比賽的最後一輪在星期日。"
+   }
+  },
+  {
+   "a": "company",
+   "b": "firm",
+   "kind": "semantic",
+   "score": 0.589,
+   "aZh": "n. 公司；企業",
+   "bZh": "n. 公司；事務所",
+   "diff": "company 是最常用的「公司」，大小都可以；firm 多指提供專業服務的公司或事務所，如律師、會計事務所。",
+   "points": [
+    "搭配：a law firm、an accounting firm",
+    "使用情境：一般說公司用 company"
+   ],
+   "tip": "律師、會計師的事務所是 firm；其他公司說 company 最安全。",
+   "exA": {
+    "en": "My mother works for a large computer company.",
+    "zh": "我媽媽在一家大型電腦公司上班。"
+   },
+   "exB": {
+    "en": "She works as a lawyer at a law firm.",
+    "zh": "她在一家法律事務所當律師。"
+   }
+  },
+  {
+   "a": "farm",
+   "b": "firm",
+   "kind": "visual",
+   "score": 0.615,
+   "aZh": "n. 農場",
+   "bZh": "n. 公司；adj. 堅定的",
+   "diff": "farm 是農場；firm 是公司或堅定的。兩字只差 a 和 i，發音也不同。",
+   "points": [
+    "發音：farm /fɑːrm/，firm /fɜːrm/",
+    "拼字：f-a-rm 農場，f-i-rm 公司"
+   ],
+   "tip": "farm 的 a 像張大嘴吃農作物；firm 的 i 像站得直挺挺的人，堅定不動。",
+   "exA": {
+    "en": "My grandparents raise chickens and pigs on their farm.",
+    "zh": "我祖父母在農場上養雞和豬。"
+   },
+   "exB": {
+    "en": "My cousin works for a design firm in Taipei.",
+    "zh": "我表姊在台北一家設計公司工作。"
+   }
+  },
+  {
+   "a": "fit",
+   "b": "suit",
+   "kind": "semantic",
+   "score": 0.643,
+   "aZh": "v. 合身；適合（尺寸）",
+   "bZh": "v. 適合（顏色、款式）",
+   "diff": "fit 指大小、尺寸合適；suit 指顏色、款式或風格適合某人，也指符合需要。",
+   "points": [
+    "使用情境：衣服太小說 doesn't fit",
+    "使用情境：顏色不好看說 doesn't suit you"
+   ],
+   "tip": "量尺寸用 fit；看好不好看用 suit。",
+   "exA": {
+    "en": "These jeans don't fit me; they are too tight.",
+    "zh": "這條牛仔褲不合身，太緊了。"
+   },
+   "exB": {
+    "en": "That red dress really suits you; you should buy it.",
+    "zh": "那件紅洋裝很適合你，你應該買下來。"
+   }
+  },
+  {
+   "a": "fix",
+   "b": "repair",
+   "kind": "semantic",
+   "score": 0.849,
+   "aZh": "v. 修理；修補",
+   "bZh": "v. 修理；修補",
+   "diff": "兩者都是修理。fix 較口語，用途廣，也可指解決問題或安排時間；repair 較正式，多指修理壞掉的機器、建築。",
+   "points": [
+    "語氣或正式程度：repair 較正式",
+    "詞性：repair 也可當名詞，如 under repair"
+   ],
+   "tip": "日常說 fix；店家、新聞說 repair。",
+   "exA": {
+    "en": "Dad fixed my broken bike in just ten minutes.",
+    "zh": "爸爸只花十分鐘就把我壞掉的腳踏車修好了。"
+   },
+   "exB": {
+    "en": "The road is closed for repairs this week.",
+    "zh": "這條路本週因整修封閉。"
+   }
+  },
+  {
+   "a": "apartment",
+   "b": "flat",
+   "kind": "semantic",
+   "score": 0.579,
+   "aZh": "n. 公寓",
+   "bZh": "n. 公寓（英式）；adj. 平的",
+   "diff": "apartment 和 flat 都指公寓，apartment 是美式用法，flat 是英式用法；flat 還有「平的」等意思。",
+   "points": [
+    "使用情境：美國說 apartment，英國說 flat",
+    "詞性：flat 也可當形容詞「平坦的」"
+   ],
+   "tip": "美國人住 apartment，英國人住 flat。",
+   "exA": {
+    "en": "We live in a small apartment on the fifth floor.",
+    "zh": "我們住在五樓的一間小公寓。"
+   },
+   "exB": {
+    "en": "My cousin in London shares a flat with two friends.",
+    "zh": "我在倫敦的表哥和兩個朋友合租一間公寓。"
+   }
+  },
+  {
+   "a": "fight",
+   "b": "flight",
+   "kind": "visual",
+   "score": 0.77,
+   "aZh": "v. 打架；n. 打鬥",
+   "bZh": "n. 飛行；航班",
+   "diff": "fight 是打架、爭吵；flight 是飛行或航班。flight 只比 fight 多一個 l。",
+   "points": [
+    "拼字：f-l-ight 多一個 l",
+    "詞性：fight 可當動詞，flight 只當名詞"
+   ],
+   "tip": "flight 裡的 l 像飛機的機翼，多了翅膀就能飛。",
+   "exA": {
+    "en": "The two boys had a fight over a toy.",
+    "zh": "兩個男孩為了一個玩具打架。"
+   },
+   "exB": {
+    "en": "Our flight to Tokyo leaves at nine tomorrow morning.",
+    "zh": "我們飛往東京的班機明天早上九點起飛。"
+   }
+  },
+  {
+   "a": "cold",
+   "b": "flu",
+   "kind": "semantic",
+   "score": 0.554,
+   "aZh": "n. 感冒",
+   "bZh": "n. 流行性感冒",
+   "diff": "cold 是一般感冒，症狀較輕，如流鼻水、喉嚨痛；flu 是流感，會發高燒、全身痠痛，比較嚴重。",
+   "points": [
+    "搭配：catch a cold、have a cold（加 a）",
+    "搭配：catch the flu、have the flu（加 the）"
+   ],
+   "tip": "小感冒說 a cold；流感說 the flu。",
+   "exA": {
+    "en": "I caught a cold after playing in the rain.",
+    "zh": "我在雨中玩耍後感冒了。"
+   },
+   "exB": {
+    "en": "She had the flu and stayed in bed for a week.",
+    "zh": "她得了流感，在床上躺了一個星期。"
+   }
+  },
+  {
+   "a": "concentrate",
+   "b": "focus",
+   "kind": "semantic",
+   "score": 0.759,
+   "aZh": "v. 專心；集中",
+   "bZh": "v. 專注；集中",
+   "diff": "兩者都接 on 表示專心。focus 也可當名詞「焦點」；concentrate 較強調排除干擾、用力集中精神。",
+   "points": [
+    "詞性：focus 可當名詞，concentrate 只當動詞",
+    "搭配：focus on、concentrate on"
+   ],
+   "tip": "把鏡頭對準是 focus；用力不分心是 concentrate。",
+   "exA": {
+    "en": "I can't concentrate on my homework with the TV on.",
+    "zh": "電視開著我沒辦法專心寫作業。"
+   },
+   "exB": {
+    "en": "Let's focus on the most important question first.",
+    "zh": "我們先專注在最重要的問題上。"
+   }
+  },
+  {
+   "a": "fog",
+   "b": "mist",
+   "kind": "semantic",
+   "score": 0.517,
+   "aZh": "n. 霧；濃霧",
+   "bZh": "n. 薄霧；水氣",
+   "diff": "fog 是濃霧，會讓人看不清楚、影響交通；mist 是淡淡的薄霧，常出現在清晨的山上或水面。",
+   "points": [
+    "程度：fog 較濃，mist 較淡",
+    "搭配：thick fog、morning mist"
+   ],
+   "tip": "開車會危險的是 fog；美美的山嵐是 mist。",
+   "exA": {
+    "en": "The thick fog made it hard to see the road.",
+    "zh": "濃霧讓人很難看清楚路。"
+   },
+   "exB": {
+    "en": "A light mist covered the lake in the early morning.",
+    "zh": "清晨湖面籠罩著一層薄霧。"
+   }
+  },
+  {
+   "a": "foolish",
+   "b": "stupid",
+   "kind": "semantic",
+   "score": 0.856,
+   "aZh": "adj. 愚蠢的；不明智的",
+   "bZh": "adj. 愚蠢的；笨的",
+   "diff": "兩者都是愚蠢。foolish 多形容一時的決定或行為不明智；stupid 語氣較重，口語中常帶有罵人的意味。",
+   "points": [
+    "語氣：stupid 較不禮貌",
+    "使用情境：說自己做了傻事常用 foolish"
+   ],
+   "tip": "說行為不明智用 foolish 比較客氣；stupid 容易傷人。",
+   "exA": {
+    "en": "It was foolish of me to leave my umbrella at home.",
+    "zh": "我把傘留在家裡真是太傻了。"
+   },
+   "exB": {
+    "en": "Don't call your brother stupid; it hurts his feelings.",
+    "zh": "別罵你弟弟笨，這會傷他的心。"
+   }
+  },
+  {
+   "a": "football",
+   "b": "soccer",
+   "kind": "semantic",
+   "score": 0.924,
+   "aZh": "n. 足球；美式足球",
+   "bZh": "n. 足球",
+   "diff": "football 在英國等多數國家指足球，在美國指美式足球；soccer 只指足球，美國人用它來區分。",
+   "points": [
+    "使用情境：英式英語 football = 足球",
+    "使用情境：美式英語 football = 美式足球，足球說 soccer"
+   ],
+   "tip": "怕誤會就說 soccer，一定是用腳踢的足球。",
+   "exA": {
+    "en": "In England, football is the most popular sport.",
+    "zh": "在英國，足球是最受歡迎的運動。"
+   },
+   "exB": {
+    "en": "My brother plays soccer with his friends every Sunday.",
+    "zh": "我哥哥每週日和朋友踢足球。"
+   }
+  },
+  {
+   "a": "force",
+   "b": "power",
+   "kind": "semantic",
+   "score": 0.499,
+   "aZh": "n. 力量；武力",
+   "bZh": "n. 力量；權力；電力",
+   "diff": "force 是推動或撞擊的物理力量，或強迫的武力；power 是做事的能力、權力或電力。",
+   "points": [
+    "搭配：the force of the wind、use force",
+    "搭配：have the power to、political power、power plant"
+   ],
+   "tip": "推、撞、強迫是 force；能力、權力、電是 power。",
+   "exA": {
+    "en": "The force of the waves broke the small boat.",
+    "zh": "海浪的力量打碎了那艘小船。"
+   },
+   "exB": {
+    "en": "The mayor has the power to make this decision.",
+    "zh": "市長有權做這個決定。"
+   }
+  },
+  {
+   "a": "forget",
+   "b": "forgive",
+   "kind": "visual",
+   "score": 0.601,
+   "aZh": "v. 忘記",
+   "bZh": "v. 原諒",
+   "diff": "forget 是忘記；forgive 是原諒。兩字都以 for 開頭，後面分別接 get 和 give。",
+   "points": [
+    "拼字：for + get 忘記，for + give 原諒",
+    "三態：forget · forgot · forgotten；forgive · forgave · forgiven"
+   ],
+   "tip": "forgive 裡有 give，把寬容給出去就是原諒。",
+   "exA": {
+    "en": "Don't forget to bring your umbrella to school tomorrow.",
+    "zh": "明天別忘了帶傘去學校。"
+   },
+   "exB": {
+    "en": "Please forgive me for being late this morning.",
+    "zh": "請原諒我今天早上遲到。"
+   }
+  },
+  {
+   "a": "forgive",
+   "b": "pardon",
+   "kind": "semantic",
+   "score": 0.879,
+   "aZh": "v. 原諒；寬恕",
+   "bZh": "v. 原諒；赦免",
+   "diff": "forgive 是日常的原諒，不再怪對方；pardon 較正式，也指政府赦免罪犯，口語常用 Pardon? 請人再說一次。",
+   "points": [
+    "使用情境：Pardon? / I beg your pardon. 請對方重說",
+    "語氣或正式程度：pardon 較正式"
+   ],
+   "tip": "朋友之間說 forgive；沒聽清楚說 Pardon?",
+   "exA": {
+    "en": "I can't forgive him for telling my secret.",
+    "zh": "我無法原諒他把我的祕密說出去。"
+   },
+   "exB": {
+    "en": "Pardon? Could you say that again more slowly?",
+    "zh": "抱歉，可以再慢慢說一次嗎？"
+   }
+  },
+  {
+   "a": "formal",
+   "b": "former",
+   "kind": "visual",
+   "score": 0.678,
+   "aZh": "adj. 正式的",
+   "bZh": "adj. 以前的；前者的",
+   "diff": "formal 是正式的；former 是以前的或前者。兩字都以 form 開頭，只差字尾 -al 和 -er。",
+   "points": [
+    "拼字：form-al 正式，form-er 以前",
+    "搭配：formal clothes、former teacher"
+   ],
+   "tip": "former 的 er 像 earlier，比較早的。",
+   "exA": {
+    "en": "You need to wear formal clothes to the wedding.",
+    "zh": "參加婚禮需要穿正式服裝。"
+   },
+   "exB": {
+    "en": "Our former teacher came back to visit us.",
+    "zh": "我們以前的老師回來看我們。"
+   }
+  },
+  {
+   "a": "formal",
+   "b": "official",
+   "kind": "semantic",
+   "score": 0.624,
+   "aZh": "adj. 正式的",
+   "bZh": "adj. 官方的；正式的",
+   "diff": "formal 指符合正式場合的形式或禮儀；official 指由政府或機構正式發布、認可的。",
+   "points": [
+    "搭配：formal clothes、formal language",
+    "搭配：official website、official language"
+   ],
+   "tip": "穿著、說話正不正式用 formal；是不是官方發布的用 official。",
+   "exA": {
+    "en": "The dinner was formal, so everyone wore suits.",
+    "zh": "那是正式晚宴，所以每個人都穿西裝。"
+   },
+   "exB": {
+    "en": "Please check the official website for the test results.",
+    "zh": "請到官方網站查看考試結果。"
+   }
+  },
+  {
+   "a": "farmer",
+   "b": "former",
+   "kind": "visual",
+   "score": 0.748,
+   "aZh": "n. 農夫",
+   "bZh": "adj. 以前的；前者的",
+   "diff": "farmer 是農夫；former 是以前的。兩字只差 a 和 o，發音也不同。",
+   "points": [
+    "發音：farmer /ˈfɑːrmər/，former /ˈfɔːrmər/",
+    "詞性：farmer 是名詞，former 是形容詞"
+   ],
+   "tip": "farmer 來自 farm 農場；former 來自 for(e) 前面。",
+   "exA": {
+    "en": "The farmer gets up at five to feed his cows.",
+    "zh": "農夫五點起床餵牛。"
+   },
+   "exB": {
+    "en": "The former mayor now teaches at a university.",
+    "zh": "前任市長現在在大學教書。"
+   }
+  },
+  {
+   "a": "forth",
+   "b": "forward",
+   "kind": "semantic",
+   "score": 0.735,
+   "aZh": "adv. 向前；往外",
+   "bZh": "adv. 向前；往前",
+   "diff": "forward 是一般的向前，用途最廣；forth 較正式，多出現在固定說法，如 back and forth、and so forth。",
+   "points": [
+    "搭配：back and forth、and so forth、set forth",
+    "搭配：move forward、look forward to"
+   ],
+   "tip": "一般說向前用 forward；forth 多半背固定片語。",
+   "exA": {
+    "en": "He walked back and forth in the room, waiting for news.",
+    "zh": "他在房間裡走來走去等消息。"
+   },
+   "exB": {
+    "en": "Please take one step forward when I call your name.",
+    "zh": "我叫到你名字時，請往前一步。"
+   }
+  },
+  {
+   "a": "find",
+   "b": "found",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "v. 找到（過去式 found）",
+   "bZh": "v. 創立（過去式 founded）",
+   "diff": "found 也是 find 的過去式「找到了」；但 found 本身是動詞「創立」，過去式是 founded。",
+   "points": [
+    "三態：find · found · found",
+    "三態：found · founded · founded"
+   ],
+   "tip": "看到 founded 一定是創立；found 要看上下文。",
+   "exA": {
+    "en": "Did you find your key? Yes, I found it under the sofa.",
+    "zh": "你找到鑰匙了嗎？有，我在沙發底下找到了。"
+   },
+   "exB": {
+    "en": "The school was founded more than a hundred years ago.",
+    "zh": "這所學校創立於一百多年前。"
+   }
+  },
+  {
+   "a": "establish",
+   "b": "found",
+   "kind": "semantic",
+   "score": 0.924,
+   "aZh": "v. 建立；創立",
+   "bZh": "v. 創立；建立",
+   "diff": "found 指從無到有創立學校、公司等組織；establish 用途較廣，也可建立關係、制度或規則。",
+   "points": [
+    "搭配：found a school、found a company",
+    "搭配：establish a relationship、establish rules"
+   ],
+   "tip": "成立一個組織兩者都可；建立關係、規則用 establish。",
+   "exA": {
+    "en": "The two schools established a close relationship many years ago.",
+    "zh": "兩所學校多年前就建立了密切的關係。"
+   },
+   "exB": {
+    "en": "Her grandfather founded the small company more than fifty years ago.",
+    "zh": "她爺爺五十多年前創立了這家小公司。"
+   }
+  },
+  {
+   "a": "freedom",
+   "b": "liberty",
+   "kind": "semantic",
+   "score": 0.8,
+   "aZh": "n. 自由",
+   "bZh": "n. 自由；自主權",
+   "diff": "freedom 是最常用的自由，泛指能自己做選擇；liberty 較正式，多指法律或政治上的自由權利。",
+   "points": [
+    "搭配：freedom of speech、freedom to choose",
+    "搭配：the Statue of Liberty"
+   ],
+   "tip": "日常說 freedom；正式文件、歷史用 liberty。",
+   "exA": {
+    "en": "Teenagers want more freedom to make their own choices.",
+    "zh": "青少年想要更多自己做決定的自由。"
+   },
+   "exB": {
+    "en": "The people of the country fought hard for their liberty.",
+    "zh": "這個國家的人民為了自由奮力抗爭。"
+   }
+  },
+  {
+   "a": "freezer",
+   "b": "refrigerator",
+   "kind": "semantic",
+   "score": 0.428,
+   "aZh": "n. 冷凍庫",
+   "bZh": "n. 冰箱",
+   "diff": "refrigerator 是冷藏食物的冰箱，溫度在零度以上；freezer 是冷凍庫，溫度在零度以下，用來結冰。",
+   "points": [
+    "使用情境：牛奶、蔬菜放 refrigerator",
+    "使用情境：冰淇淋、冷凍肉放 freezer"
+   ],
+   "tip": "freezer 裡有 freeze，會結冰的那一格。",
+   "exA": {
+    "en": "Put the ice cream back in the freezer before it melts.",
+    "zh": "冰淇淋融化前把它放回冷凍庫。"
+   },
+   "exB": {
+    "en": "Keep the milk in the refrigerator after you open it.",
+    "zh": "牛奶開封後要放冰箱冷藏。"
+   }
+  },
+  {
+   "a": "chip",
+   "b": "fries",
+   "kind": "semantic",
+   "score": 0.391,
+   "aZh": "n. 洋芋片；（英）薯條",
+   "bZh": "n. 薯條",
+   "diff": "fries 是條狀的炸薯條；chips 在美式英文指洋芋片，在英式英文卻指薯條。",
+   "points": [
+    "使用情境：美式 fries 薯條、chips 洋芋片",
+    "使用情境：英式 chips 薯條、crisps 洋芋片"
+   ],
+   "tip": "在美國點 fries 拿到薯條；說 chips 會拿到一包洋芋片。",
+   "exA": {
+    "en": "Let's buy a bag of potato chips for the movie.",
+    "zh": "我們買一包洋芋片邊看電影邊吃吧。"
+   },
+   "exB": {
+    "en": "I always order a large box of fries with my hamburger.",
+    "zh": "我吃漢堡時總會點一大盒薯條。"
+   }
+  },
+  {
+   "a": "farther",
+   "b": "further",
+   "kind": "both",
+   "score": 0.721,
+   "aZh": "adv. 更遠地",
+   "bZh": "adv. 進一步；更遠地",
+   "diff": "farther 只用在實際距離更遠；further 可指距離，更常指程度上「進一步」，如進一步資訊。",
+   "points": [
+    "使用情境：抽象的進一步只能用 further",
+    "搭配：further information、further study"
+   ],
+   "tip": "farther 裡有 far，量距離；further 往深處推進。",
+   "exA": {
+    "en": "The park is farther from my home than the school.",
+    "zh": "公園離我家比學校還遠。"
+   },
+   "exB": {
+    "en": "Please call us if you need further information.",
+    "zh": "如果需要進一步資訊，請打電話給我們。"
+   }
+  },
+  {
+   "a": "gain",
+   "b": "win",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "v. 獲得；增加",
+   "bZh": "v. 贏；贏得",
+   "diff": "win 是在比賽或競爭中贏得勝利、獎品；gain 是逐漸獲得經驗、體重、信心等，或使某物增加。",
+   "points": [
+    "搭配：win a game、win a prize",
+    "搭配：gain experience、gain weight"
+   ],
+   "tip": "有對手、有輸贏用 win；慢慢累積用 gain。",
+   "exA": {
+    "en": "She gained a lot of experience from her summer job.",
+    "zh": "她從暑期打工中獲得許多經驗。"
+   },
+   "exB": {
+    "en": "Our team won the game in the last minute.",
+    "zh": "我們隊在最後一分鐘贏得比賽。"
+   }
+  },
+  {
+   "a": "garage",
+   "b": "garbage",
+   "kind": "visual",
+   "score": 0.786,
+   "aZh": "n. 車庫",
+   "bZh": "n. 垃圾",
+   "diff": "garage 是停車的車庫；garbage 是垃圾。兩字只差一個 b，發音也接近。",
+   "points": [
+    "拼字：gar-b-age 多一個 b",
+    "發音：garage /ɡəˈrɑːʒ/，garbage /ˈɡɑːrbɪdʒ/"
+   ],
+   "tip": "garbage 裡的 b 像 bin 垃圾桶。",
+   "exA": {
+    "en": "Dad parks his car in the garage every night.",
+    "zh": "爸爸每晚都把車停在車庫。"
+   },
+   "exB": {
+    "en": "Please take the garbage out to the street after dinner.",
+    "zh": "晚餐後請把垃圾拿到街上。"
+   }
+  },
+  {
+   "a": "collect",
+   "b": "gather",
+   "kind": "semantic",
+   "score": 0.602,
+   "aZh": "v. 收集；收藏",
+   "bZh": "v. 聚集；採集",
+   "diff": "gather 多指把散開的東西或人聚在一起，也常說人群聚集；collect 指有目的地收集、收藏，或去領取。",
+   "points": [
+    "搭配：gather information、people gather",
+    "搭配：collect stamps、collect money、collect a package"
+   ],
+   "tip": "人群聚在一起用 gather；集郵、收錢用 collect。",
+   "exA": {
+    "en": "My brother collects old coins from different countries.",
+    "zh": "我哥哥收集各國的舊硬幣。"
+   },
+   "exB": {
+    "en": "People gathered in the park to watch the fireworks.",
+    "zh": "人們聚集在公園看煙火。"
+   }
+  },
+  {
+   "a": "general",
+   "b": "generous",
+   "kind": "visual",
+   "score": 0.688,
+   "aZh": "adj. 一般的；普遍的",
+   "bZh": "adj. 慷慨的；大方的",
+   "diff": "general 是一般的、大致的；generous 是慷慨大方的。兩字開頭相同，只差字尾 -al 和 -ous。",
+   "points": [
+    "拼字：gener-al 一般，gener-ous 慷慨",
+    "搭配：in general；be generous with"
+   ],
+   "tip": "generous 的 ous 像 our，願意把我們的東西分出去。",
+   "exA": {
+    "en": "In general, people in Taiwan are very friendly to visitors.",
+    "zh": "一般來說，台灣人對遊客非常友善。"
+   },
+   "exB": {
+    "en": "My uncle is generous and often buys us gifts.",
+    "zh": "我叔叔很大方，常買禮物給我們。"
+   }
+  },
+  {
+   "a": "goal",
+   "b": "target",
+   "kind": "semantic",
+   "score": 0.708,
+   "aZh": "n. 目標；目的",
+   "bZh": "n. 目標；靶子",
+   "diff": "goal 是長期努力想達成的目標；target 多指具體、可以衡量的目標，如數字或業績，也指射擊的靶。",
+   "points": [
+    "搭配：achieve a goal、life goal",
+    "搭配：hit a target、sales target"
+   ],
+   "tip": "人生的夢想是 goal；要達到的具體數字是 target。",
+   "exA": {
+    "en": "Her goal is to become a doctor one day.",
+    "zh": "她的目標是有一天成為醫生。"
+   },
+   "exB": {
+    "en": "The store's target is to sell one thousand cakes this month.",
+    "zh": "這家店這個月的目標是賣出一千個蛋糕。"
+   }
+  },
+  {
+   "a": "gold",
+   "b": "golden",
+   "kind": "visual",
+   "score": 0.7,
+   "aZh": "n. 黃金；adj. 金製的",
+   "bZh": "adj. 金色的；寶貴的",
+   "diff": "gold 當形容詞多指用金子做的；golden 多指金黃色的，或比喻寶貴、美好的。",
+   "points": [
+    "搭配：a gold ring、a gold medal",
+    "搭配：golden hair、a golden chance"
+   ],
+   "tip": "真的是金子做的用 gold；顏色像金子或很珍貴用 golden。",
+   "exA": {
+    "en": "My grandmother gave me a gold ring for my birthday.",
+    "zh": "奶奶送我一只金戒指當生日禮物。"
+   },
+   "exB": {
+    "en": "This is a golden chance to practice your English.",
+    "zh": "這是練習英文的大好機會。"
+   }
   }
  ]
 }
