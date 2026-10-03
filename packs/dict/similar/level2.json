@@ -1020,6 +1020,1285 @@
     "en": "We boarded the train ten minutes before it left.",
     "zh": "我們在火車開車前十分鐘上車。"
    }
+  },
+  {
+   "a": "border",
+   "b": "boundary",
+   "kind": "semantic",
+   "score": 0.514,
+   "aZh": "n. 邊界；邊境",
+   "bZh": "n. 界線；範圍",
+   "diff": "border 多指國與國之間的邊界；boundary 是任何範圍的界線，例如土地、學區或行為的分寸。",
+   "points": [
+    "使用情境：過國界用 border，土地或抽象的界線用 boundary",
+    "搭配：cross the border，set boundaries"
+   ],
+   "tip": "要拿護照的是 border；畫地為界、講分寸的是 boundary。",
+   "exA": {
+    "en": "We waited two hours to cross the border into Canada.",
+    "zh": "我們等了兩個小時才通過邊境進入加拿大。"
+   },
+   "exB": {
+    "en": "The river marks the boundary of the farm.",
+    "zh": "這條河是農場的界線。"
+   }
+  },
+  {
+   "a": "bother",
+   "b": "brother",
+   "kind": "visual",
+   "score": 0.766,
+   "aZh": "v. 打擾；使煩惱",
+   "bZh": "n. 兄弟",
+   "diff": "bother 是動詞「打擾」；brother 是名詞「兄弟」。兩個字只差一個 r。",
+   "points": [
+    "拼字：brother 的 b 後面多一個 r",
+    "發音：bother /ˈbɑːðər/，brother /ˈbrʌðər/"
+   ],
+   "tip": "家裡有 r 的是 brother，沒有 r 的 bother 只會來打擾你。",
+   "exA": {
+    "en": "My little brother bothers me when I study.",
+    "zh": "我弟弟在我讀書時一直煩我。"
+   },
+   "exB": {
+    "en": "My older brother plays basketball with his friends every weekend.",
+    "zh": "我哥哥每個週末都和朋友打籃球。"
+   }
+  },
+  {
+   "a": "bother",
+   "b": "disturb",
+   "kind": "semantic",
+   "score": 0.646,
+   "aZh": "v. 打擾；使煩惱",
+   "bZh": "v. 打擾；妨礙",
+   "diff": "bother 是口語的打擾，也指讓人心煩；disturb 較正式，指打斷別人正在做的事，常見於告示。",
+   "points": [
+    "語氣或正式程度：disturb 較正式，Do not disturb 是常見告示",
+    "用法：bother to V 表示費心去做，disturb 沒有這種用法"
+   ],
+   "tip": "門把上掛的是 Do not disturb；朋友之間說 Sorry to bother you。",
+   "exA": {
+    "en": "Sorry to bother you, but where is the library?",
+    "zh": "不好意思打擾一下，請問圖書館在哪裡？"
+   },
+   "exB": {
+    "en": "Please do not disturb the students during the exam.",
+    "zh": "考試期間請不要打擾學生。"
+   }
+  },
+  {
+   "a": "brain",
+   "b": "mind",
+   "kind": "semantic",
+   "score": 0.409,
+   "aZh": "n. 大腦；頭腦",
+   "bZh": "n. 心智；想法",
+   "diff": "brain 是頭裡的器官，也指聰明才智；mind 是想法、記憶和意識，不是看得到的器官。",
+   "points": [
+    "搭配：change one's mind、make up one's mind 都只能用 mind",
+    "使用情境：講器官、腦部受傷用 brain"
+   ],
+   "tip": "醫生看得到的是 brain，改變主意改的是 mind。",
+   "exA": {
+    "en": "Scientists are studying how the brain stores new memories.",
+    "zh": "科學家正在研究大腦如何儲存新的記憶。"
+   },
+   "exB": {
+    "en": "Amy changed her mind and joined the art club.",
+    "zh": "Amy 改變主意，加入了美術社。"
+   }
+  },
+  {
+   "a": "branch",
+   "b": "twig",
+   "kind": "semantic",
+   "score": 0.548,
+   "aZh": "n. 樹枝",
+   "bZh": "n. 細枝；小樹枝",
+   "diff": "branch 是從樹幹長出的樹枝，可粗可細；twig 專指末端又細又小的枝條。",
+   "points": [
+    "使用情境：鳥停在 branch 上，用 twig 生火或築巢",
+    "搭配：branch 還能指分店，twig 沒有這個意思"
+   ],
+   "tip": "twig 小小的，一折就斷；branch 粗一點，能讓鳥站上去。",
+   "exA": {
+    "en": "A monkey jumped from one branch to another.",
+    "zh": "一隻猴子從一根樹枝跳到另一根。"
+   },
+   "exB": {
+    "en": "The bird built its nest with small twigs.",
+    "zh": "那隻鳥用小樹枝築巢。"
+   }
+  },
+  {
+   "a": "brief",
+   "b": "grief",
+   "kind": "visual",
+   "score": 0.719,
+   "aZh": "adj. 簡短的；短暫的",
+   "bZh": "n. 悲傷；悲痛",
+   "diff": "brief 是形容詞「簡短的」；grief 是名詞「悲痛」。兩字只差開頭的 b 和 g。",
+   "points": [
+    "詞性：brief 是 adj.，grief 是 n.",
+    "拼字：都是 -ief 結尾，只差第一個字母"
+   ],
+   "tip": "grief 和 grieve（悲傷）是一家，brief 和 briefly（簡短地）是一家。",
+   "exA": {
+    "en": "The principal gave a brief speech at the meeting.",
+    "zh": "校長在會上做了簡短的致詞。"
+   },
+   "exB": {
+    "en": "She was filled with grief after her dog died.",
+    "zh": "她的狗死後，她非常悲傷。"
+   }
+  },
+  {
+   "a": "brief",
+   "b": "short",
+   "kind": "semantic",
+   "score": 0.535,
+   "aZh": "adj. 簡短的；短暫的",
+   "bZh": "adj. 短的；矮的",
+   "diff": "short 最常用，可指長度、高度和時間；brief 只指時間短或內容簡短，不能形容人矮或東西短。",
+   "points": [
+    "使用情境：a short boy、short hair 不能換成 brief",
+    "語氣或正式程度：brief 比 short 正式"
+   ],
+   "tip": "能量長度的是 short，只講時間和內容的是 brief。",
+   "exA": {
+    "en": "We had a brief talk with the coach before class.",
+    "zh": "我們上課前和教練簡短聊了一下。"
+   },
+   "exB": {
+    "en": "My sister cut her hair short this summer.",
+    "zh": "我姊姊這個夏天把頭髮剪短了。"
+   }
+  },
+  {
+   "a": "bright",
+   "b": "brilliant",
+   "kind": "semantic",
+   "score": 0.624,
+   "aZh": "adj. 明亮的；聰明的",
+   "bZh": "adj. 傑出的；燦爛的",
+   "diff": "bright 是一般的明亮、聰明；brilliant 程度更強，表示非常聰明、非常出色或光彩奪目。",
+   "points": [
+    "語氣或正式程度：brilliant 比 bright 強烈",
+    "搭配：a bright room，a brilliant idea"
+   ],
+   "tip": "bright 是亮，brilliant 是亮到發光、讓人讚嘆。",
+   "exA": {
+    "en": "Kevin is a bright student who learns quickly.",
+    "zh": "Kevin 是個聰明、學得很快的學生。"
+   },
+   "exB": {
+    "en": "Jenny came up with a brilliant plan for the trip.",
+    "zh": "Jenny 為這趟旅行想出一個絕妙的計畫。"
+   }
+  },
+  {
+   "a": "abroad",
+   "b": "broad",
+   "kind": "visual",
+   "score": 0.81,
+   "aZh": "adv. 在國外；到國外",
+   "bZh": "adj. 寬廣的；廣泛的",
+   "diff": "broad 是形容詞「寬的、廣的」；abroad 是副詞「在國外」。abroad 前面多了一個 a。",
+   "points": [
+    "詞性：broad 是 adj.，abroad 是 adv.",
+    "搭配：a broad road，study abroad"
+   ],
+   "tip": "a + broad，走到寬廣的遠方，就到國外了。",
+   "exA": {
+    "en": "My cousin plans to study abroad next year.",
+    "zh": "我表哥打算明年出國留學。"
+   },
+   "exB": {
+    "en": "The river is broad and deep at this point.",
+    "zh": "這條河在這裡又寬又深。"
+   }
+  },
+  {
+   "a": "board",
+   "b": "broad",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 板子；v. 登上",
+   "bZh": "adj. 寬廣的；廣泛的",
+   "diff": "board 是名詞「板子」或動詞「登上」；broad 是形容詞「寬廣的」。兩字只差 o 和 r 的位置。",
+   "points": [
+    "詞性：board 是 n./v.，broad 是 adj.",
+    "拼字：b-oa-rd 和 b-ro-ad，母音的位置不同",
+    "發音：board /bɔːrd/，broad /brɔːd/"
+   ],
+   "tip": "先 o 後 r 的 board 是板子，先 r 後 o 的 broad 是寬廣。",
+   "exA": {
+    "en": "The teacher wrote the answer on the board.",
+    "zh": "老師把答案寫在黑板上。"
+   },
+   "exB": {
+    "en": "My cousin has broad shoulders because he swims every day.",
+    "zh": "我表哥每天游泳，所以肩膀很寬。"
+   }
+  },
+  {
+   "a": "broad",
+   "b": "wide",
+   "kind": "semantic",
+   "score": 0.897,
+   "aZh": "adj. 寬廣的；廣泛的",
+   "bZh": "adj. 寬的；廣泛的",
+   "diff": "wide 最常用來說實際寬度和張開的程度；broad 也指寬，但常用在身體部位和抽象的範圍。",
+   "points": [
+    "搭配：broad shoulders、a broad smile，wide open、ten meters wide",
+    "使用情境：說具體寬幾公尺要用 wide"
+   ],
+   "tip": "量尺寸用 wide，形容肩膀和知識面用 broad。",
+   "exA": {
+    "en": "Our history teacher has a broad knowledge of world cultures.",
+    "zh": "我們歷史老師對世界各地文化的知識很廣博。"
+   },
+   "exB": {
+    "en": "The new road in front of our school is ten meters wide.",
+    "zh": "我們學校前面的新馬路寬十公尺。"
+   }
+  },
+  {
+   "a": "blush",
+   "b": "brush",
+   "kind": "visual",
+   "score": 0.687,
+   "aZh": "v. 臉紅",
+   "bZh": "v. 刷；n. 刷子",
+   "diff": "brush 是刷子或刷、梳；blush 是害羞時臉紅。兩字只差 r 和 l。",
+   "points": [
+    "拼字：br-ush 和 bl-ush 只差一個字母",
+    "發音：r 和 l 要分清楚"
+   ],
+   "tip": "blush 的 l 像 love，被稱讚時會臉紅。",
+   "exA": {
+    "en": "Amy blushed when the teacher praised her in front of everyone.",
+    "zh": "老師當著大家的面稱讚 Amy，她臉紅了。"
+   },
+   "exB": {
+    "en": "Remember to brush your teeth before you go to bed.",
+    "zh": "睡覺前記得刷牙。"
+   }
+  },
+  {
+   "a": "brush",
+   "b": "comb",
+   "kind": "semantic",
+   "score": 0.467,
+   "aZh": "v. 刷；梳（頭髮）",
+   "bZh": "v. 梳理；n. 梳子",
+   "diff": "兩個字都能說梳頭髮。comb 是用一排細齒的梳子；brush 是用毛刷，還可以刷牙、刷鞋。",
+   "points": [
+    "使用情境：刷牙只能用 brush one's teeth",
+    "搭配：comb one's hair，brush one's hair 都可以"
+   ],
+   "tip": "有齒的是 comb，有毛的是 brush。",
+   "exA": {
+    "en": "She brushed her hair a hundred times every night.",
+    "zh": "她每晚梳頭一百下。"
+   },
+   "exB": {
+    "en": "Kevin combed his hair before the class photo was taken.",
+    "zh": "Kevin 在拍班級合照前梳了頭髮。"
+   }
+  },
+  {
+   "a": "burst",
+   "b": "explode",
+   "kind": "semantic",
+   "score": 0.636,
+   "aZh": "v. 爆裂；突然爆發",
+   "bZh": "v. 爆炸；爆發",
+   "diff": "burst 多指東西因為脹太滿而破開，例如氣球、水管；explode 指炸彈等猛烈爆炸，力量更大。",
+   "points": [
+    "使用情境：氣球、輪胎、水管用 burst，炸彈、瓦斯用 explode",
+    "搭配：burst into tears，explode with anger"
+   ],
+   "tip": "氣球 burst 是啪一聲，炸彈 explode 是轟一聲。",
+   "exA": {
+    "en": "The balloon burst with a loud noise at the party.",
+    "zh": "派對上氣球砰的一聲破了。"
+   },
+   "exB": {
+    "en": "The gas tank exploded and started a fire.",
+    "zh": "瓦斯桶爆炸，引起了火災。"
+   }
+  },
+  {
+   "a": "businessman",
+   "b": "merchant",
+   "kind": "semantic",
+   "score": 0.616,
+   "aZh": "n. 商人；企業家",
+   "bZh": "n. 商人",
+   "diff": "businessman 泛指現代做生意、經營公司的人；merchant 指買賣貨物的商人，多見於歷史或貿易。",
+   "points": [
+    "使用情境：古代絲路上的商人用 merchant",
+    "語氣或正式程度：merchant 較書面"
+   ],
+   "tip": "穿西裝開會的是 businessman，駕船運貨的是 merchant。",
+   "exA": {
+    "en": "The businessman flew to Tokyo for a meeting.",
+    "zh": "那位商人飛到東京開會。"
+   },
+   "exB": {
+    "en": "The merchant sold silk and tea in the market.",
+    "zh": "那個商人在市場上賣絲綢和茶葉。"
+   }
+  },
+  {
+   "a": "calendar",
+   "b": "schedule",
+   "kind": "semantic",
+   "score": 0.373,
+   "aZh": "n. 日曆；行事曆",
+   "bZh": "n. 時間表；行程表",
+   "diff": "calendar 是按日期排列的日曆或行事曆；schedule 是某件事何時做什麼的時間安排。",
+   "points": [
+    "使用情境：看今天幾號用 calendar，安排要做的事用 schedule",
+    "搭配：on schedule 準時，behind schedule 落後"
+   ],
+   "tip": "calendar 告訴你日期，schedule 告訴你行程。",
+   "exA": {
+    "en": "I marked my best friend's birthday on the calendar.",
+    "zh": "我在日曆上標出好朋友的生日。"
+   },
+   "exB": {
+    "en": "The train left on schedule even though it was raining.",
+    "zh": "雖然下著雨，火車還是準時出發。"
+   }
+  },
+  {
+   "a": "calm",
+   "b": "quiet",
+   "kind": "semantic",
+   "score": 0.602,
+   "aZh": "adj. 平靜的；冷靜的",
+   "bZh": "adj. 安靜的",
+   "diff": "calm 指情緒不慌亂或海面無風浪；quiet 指聲音小、沒有吵鬧。安靜的圖書館要用 quiet。",
+   "points": [
+    "使用情境：講心情、天氣用 calm，講聲音用 quiet",
+    "搭配：stay calm，keep quiet"
+   ],
+   "tip": "心不慌是 calm，耳朵沒聽到聲音是 quiet。",
+   "exA": {
+    "en": "Please stay calm and walk out of the building slowly.",
+    "zh": "請保持冷靜，慢慢走出大樓。"
+   },
+   "exB": {
+    "en": "Please be quiet because the baby is sleeping.",
+    "zh": "請安靜，寶寶在睡覺。"
+   }
+  },
+  {
+   "a": "cancel",
+   "b": "postpone",
+   "kind": "semantic",
+   "score": 0.397,
+   "aZh": "v. 取消",
+   "bZh": "v. 延後；延期",
+   "diff": "cancel 是取消，活動不辦了；postpone 是延期，活動之後還是會舉行。",
+   "points": [
+    "使用情境：改到別天用 postpone，不辦了用 cancel",
+    "搭配：postpone + N + until／to + 時間"
+   ],
+   "tip": "postpone 有 post（之後），表示挪到之後再辦。",
+   "exA": {
+    "en": "The concert was canceled, so we got our money back.",
+    "zh": "演唱會取消了，所以我們拿回了錢。"
+   },
+   "exB": {
+    "en": "The game was postponed until next Saturday because of rain.",
+    "zh": "比賽因為下雨延到下週六。"
+   }
+  },
+  {
+   "a": "carton",
+   "b": "cartoon",
+   "kind": "visual",
+   "score": 0.933,
+   "aZh": "n. 紙盒；紙箱",
+   "bZh": "n. 卡通；漫畫",
+   "diff": "cartoon 是卡通、漫畫；carton 是裝牛奶、果汁的紙盒。cartoon 中間多一個 o。",
+   "points": [
+    "拼字：cartoon 有兩個 o，carton 只有一個",
+    "發音：cartoon 重音在後 /kɑːrˈtuːn/，carton 重音在前 /ˈkɑːrtən/"
+   ],
+   "tip": "看卡通時眼睛睜大成 oo，所以 cartoon 有兩個 o。",
+   "exA": {
+    "en": "Please put the empty milk carton in the recycling bin.",
+    "zh": "請把空的牛奶紙盒放進回收桶。"
+   },
+   "exB": {
+    "en": "My little sister watches cartoons every Saturday morning.",
+    "zh": "我妹妹每個星期六早上都看卡通。"
+   }
+  },
+  {
+   "a": "cartoon",
+   "b": "comic",
+   "kind": "semantic",
+   "score": 0.648,
+   "aZh": "n. 卡通；漫畫",
+   "bZh": "n. 漫畫；漫畫書",
+   "diff": "cartoon 多指電視上的卡通，也可指報紙的單格漫畫；comic 指一格一格連下去的漫畫或漫畫書。",
+   "points": [
+    "使用情境：電視上動的用 cartoon，一本拿在手上看的用 comic",
+    "搭配：watch cartoons，read comics"
+   ],
+   "tip": "看的是 cartoon，翻的是 comic。",
+   "exA": {
+    "en": "Many kids love watching cartoons on Saturday mornings.",
+    "zh": "很多小孩喜歡在星期六早上看卡通。"
+   },
+   "exB": {
+    "en": "Tom spent the whole afternoon reading comics in his room.",
+    "zh": "Tom 整個下午都在房間看漫畫。"
+   }
+  },
+  {
+   "a": "castle",
+   "b": "palace",
+   "kind": "semantic",
+   "score": 0.536,
+   "aZh": "n. 城堡",
+   "bZh": "n. 宮殿；皇宮",
+   "diff": "castle 是有厚牆和塔樓、用來防守的城堡；palace 是國王或總統居住、辦典禮的華麗宮殿。",
+   "points": [
+    "使用情境：打仗防守用 castle，皇室居住用 palace",
+    "搭配：a royal palace，a castle on the hill"
+   ],
+   "tip": "castle 為了守城，palace 為了住得氣派。",
+   "exA": {
+    "en": "The old castle on the hill once protected the town.",
+    "zh": "山丘上的古堡曾經保護這座城鎮。"
+   },
+   "exB": {
+    "en": "The queen lives in a large palace in the city.",
+    "zh": "女王住在城裡一座很大的宮殿。"
+   }
+  },
+  {
+   "a": "cause",
+   "b": "reason",
+   "kind": "semantic",
+   "score": 0.658,
+   "aZh": "n. 原因",
+   "bZh": "n. 理由；原因",
+   "diff": "cause 是直接造成某個結果的原因；reason 是用來解釋為什麼的理由，常接 for。",
+   "points": [
+    "搭配：the cause of + N，the reason for + N",
+    "使用情境：火災、疾病的起因用 cause，個人做決定的理由用 reason"
+   ],
+   "tip": "事情的源頭是 cause，人說出來的解釋是 reason。",
+   "exA": {
+    "en": "Heavy rain was the main cause of the flood.",
+    "zh": "大雨是這次淹水的主要原因。"
+   },
+   "exB": {
+    "en": "What is the reason for your late arrival today?",
+    "zh": "你今天遲到的理由是什麼？"
+   }
+  },
+  {
+   "a": "ceiling",
+   "b": "roof",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "n. 天花板",
+   "bZh": "n. 屋頂",
+   "diff": "ceiling 是在房間裡抬頭看到的天花板；roof 是房子外面最上方、擋風遮雨的屋頂。",
+   "points": [
+    "使用情境：在室內看到的是 ceiling，從外面看到的是 roof",
+    "搭配：on the roof 在屋頂上，on the ceiling 在天花板上"
+   ],
+   "tip": "在屋裡看 ceiling，在屋外看 roof。",
+   "exA": {
+    "en": "A big lamp hangs from the ceiling of the hall.",
+    "zh": "大廳的天花板上掛著一盞大燈。"
+   },
+   "exB": {
+    "en": "The cat climbed onto the roof of the house.",
+    "zh": "那隻貓爬到房子的屋頂上。"
+   }
+  },
+  {
+   "a": "cell",
+   "b": "sell",
+   "kind": "visual",
+   "score": 0.729,
+   "aZh": "n. 細胞",
+   "bZh": "v. 賣；出售",
+   "diff": "cell 和 sell 發音完全相同，但 cell 是名詞「細胞」，sell 是動詞「賣」。",
+   "points": [
+    "發音：兩個字都唸 /sɛl/",
+    "詞性：cell 是 n.，sell 是 v."
+   ],
+   "tip": "細胞 cell 用 c 開頭，像一個圓圓的細胞。",
+   "exA": {
+    "en": "We looked at the cells of an onion in biology class.",
+    "zh": "我們在生物課觀察洋蔥的細胞。"
+   },
+   "exB": {
+    "en": "The shop on the corner sells fresh bread every morning.",
+    "zh": "轉角那家店每天早上賣新鮮麵包。"
+   }
+  },
+  {
+   "a": "cereal",
+   "b": "serial",
+   "kind": "visual",
+   "score": 0.599,
+   "aZh": "n. 穀類食品；早餐穀片",
+   "bZh": "adj. 連續的；連載的",
+   "diff": "cereal 和 serial 發音相同。cereal 是早餐吃的穀片，serial 是形容詞「連續的、連載的」。",
+   "points": [
+    "發音：兩個字都唸 /ˈsɪriəl/",
+    "詞性：cereal 是 n.，serial 是 adj."
+   ],
+   "tip": "serial 和 series（系列）是一家，cereal 和吃有關。",
+   "exA": {
+    "en": "I eat a bowl of cereal with milk every morning.",
+    "zh": "我每天早上吃一碗牛奶配穀片。"
+   },
+   "exB": {
+    "en": "Please write the serial number of your phone on the form.",
+    "zh": "請在表格上寫下你手機的序號。"
+   }
+  },
+  {
+   "a": "challenge",
+   "b": "dare",
+   "kind": "semantic",
+   "score": 0.567,
+   "aZh": "v. 向…挑戰",
+   "bZh": "v. 敢於；挑戰",
+   "diff": "challenge 是邀人比賽或要人做到某件難事，語氣中性；dare 是激人去做危險或丟臉的事，帶挑釁。",
+   "points": [
+    "搭配：challenge + 人 + to + N／V，dare + 人 + to V",
+    "語氣或正式程度：dare 較有挑釁意味"
+   ],
+   "tip": "老師會 challenge 你進步，朋友會 dare 你去冒險。",
+   "exA": {
+    "en": "Tom challenged me to a game of chess after school.",
+    "zh": "Tom 放學後向我挑戰下一盤西洋棋。"
+   },
+   "exB": {
+    "en": "My friends dared me to jump into the cold river.",
+    "zh": "朋友們激我跳進冰冷的河裡。"
+   }
+  },
+  {
+   "a": "canal",
+   "b": "channel",
+   "kind": "both",
+   "score": 0.633,
+   "aZh": "n. 運河；水道",
+   "bZh": "n. 頻道；水道；海峽",
+   "diff": "canal 是人工挖成的運河；channel 可指天然的水道或海峽，也常指電視頻道和溝通管道。",
+   "points": [
+    "使用情境：人工開挖、行船用的運河是 canal",
+    "拼字：兩字同源，canal 短，channel 有雙 n",
+    "搭配：a TV channel，the Panama Canal"
+   ],
+   "tip": "人挖的是 canal，電視轉的是 channel。",
+   "exA": {
+    "en": "Boats carry goods along the canal to the city.",
+    "zh": "船沿著運河把貨物運進城裡。"
+   },
+   "exB": {
+    "en": "Kevin changed the channel to watch the baseball game.",
+    "zh": "Kevin 轉台去看棒球比賽。"
+   }
+  },
+  {
+   "a": "character",
+   "b": "personality",
+   "kind": "semantic",
+   "score": 0.549,
+   "aZh": "n. 性格；品格",
+   "bZh": "n. 個性；人格",
+   "diff": "character 著重品德，例如誠實、勇敢；personality 著重待人的個性，例如外向、幽默。",
+   "points": [
+    "使用情境：說人品好壞用 character，說好不好相處用 personality",
+    "搭配：a strong character，an outgoing personality"
+   ],
+   "tip": "character 看人品，personality 看個性。",
+   "exA": {
+    "en": "Honesty is the most important part of his character.",
+    "zh": "誠實是他品格中最重要的部分。"
+   },
+   "exB": {
+    "en": "Amy has a cheerful personality and makes friends easily.",
+    "zh": "Amy 個性開朗，很容易交到朋友。"
+   }
+  },
+  {
+   "a": "accuse",
+   "b": "charge",
+   "kind": "semantic",
+   "score": 0.495,
+   "aZh": "v. 指控；指責",
+   "bZh": "v. 指控；控告",
+   "diff": "charge 多指警方或法院正式控告，接 with；accuse 是一般的指責，也可用於日常，接 of。",
+   "points": [
+    "搭配：charge + 人 + with，accuse + 人 + of",
+    "語氣或正式程度：charge 是法律上的正式控告"
+   ],
+   "tip": "charge 配 with，accuse 配 of。",
+   "exA": {
+    "en": "Tom accused his brother of eating his cake.",
+    "zh": "Tom 指責他弟弟吃了他的蛋糕。"
+   },
+   "exB": {
+    "en": "The police charged the driver with drunk driving.",
+    "zh": "警方以酒駕控告那名司機。"
+   }
+  },
+  {
+   "a": "charge",
+   "b": "fee",
+   "kind": "semantic",
+   "score": 0.572,
+   "aZh": "n. 費用；收費",
+   "bZh": "n. 費用；手續費",
+   "diff": "fee 是付給專業服務或入會、入場的費用；charge 是提供某項服務或商品時收的錢，常說 extra charge。",
+   "points": [
+    "搭配：school fees、entrance fee，free of charge、an extra charge",
+    "使用情境：學費、報名費多用 fee"
+   ],
+   "tip": "付給學校和醫生的是 fee，店家額外加收的是 charge。",
+   "exA": {
+    "en": "The hotel added an extra charge for room service.",
+    "zh": "飯店對客房服務另外加收費用。"
+   },
+   "exB": {
+    "en": "The entrance fee for the zoo is one hundred dollars.",
+    "zh": "動物園的門票是一百元。"
+   }
+  },
+  {
+   "a": "change",
+   "b": "charge",
+   "kind": "visual",
+   "score": 0.714,
+   "aZh": "v. 改變；n. 零錢",
+   "bZh": "v. 收費；充電",
+   "diff": "change 是改變或零錢；charge 是收費、充電或控告。兩字只差 n 和 r。",
+   "points": [
+    "拼字：cha-n-ge 和 cha-r-ge 只差一個字母",
+    "搭配：keep the change 不用找零，charge a phone 手機充電"
+   ],
+   "tip": "店員找你 change，向你 charge。",
+   "exA": {
+    "en": "Here is your change, and thank you for coming.",
+    "zh": "這是找您的零錢，謝謝光臨。"
+   },
+   "exB": {
+    "en": "The restaurant charges an extra ten percent for service.",
+    "zh": "這家餐廳另外收一成服務費。"
+   }
+  },
+  {
+   "a": "chart",
+   "b": "graph",
+   "kind": "semantic",
+   "score": 0.635,
+   "aZh": "n. 圖表；排名表",
+   "bZh": "n. 圖表；曲線圖",
+   "diff": "chart 泛指各種圖表，也可指排行榜；graph 專指用座標線條呈現數字變化的圖。",
+   "points": [
+    "使用情境：音樂排行榜只能用 chart",
+    "搭配：a pie chart，a line graph"
+   ],
+   "tip": "有座標軸、畫線的是 graph，其他圖表多半叫 chart。",
+   "exA": {
+    "en": "The pie chart shows how students spend their free time.",
+    "zh": "這張圓餅圖顯示學生如何運用空閒時間。"
+   },
+   "exB": {
+    "en": "The line graph shows the temperature rising every year.",
+    "zh": "這張折線圖顯示氣溫逐年上升。"
+   }
+  },
+  {
+   "a": "chase",
+   "b": "pursue",
+   "kind": "semantic",
+   "score": 0.691,
+   "aZh": "v. 追趕；追逐",
+   "bZh": "v. 追求；追趕",
+   "diff": "chase 多指快速追趕眼前移動的人或物；pursue 較正式，常指長期追求目標或理想。",
+   "points": [
+    "語氣或正式程度：pursue 較正式",
+    "搭配：chase the bus，pursue a career"
+   ],
+   "tip": "追公車用 chase，追夢想多用 pursue。",
+   "exA": {
+    "en": "The cat chased the mouse around the kitchen.",
+    "zh": "貓在廚房裡追著老鼠跑。"
+   },
+   "exB": {
+    "en": "My sister wants to pursue a career in medicine.",
+    "zh": "我姊姊想從事醫學方面的工作。"
+   }
+  },
+  {
+   "a": "cheat",
+   "b": "deceive",
+   "kind": "semantic",
+   "score": 0.621,
+   "aZh": "v. 作弊；欺騙",
+   "bZh": "v. 欺騙；蒙騙",
+   "diff": "cheat 指作弊，或用不誠實手段占人便宜；deceive 指讓人相信假的事，不能用在考試作弊。",
+   "points": [
+    "搭配：cheat on a test，deceive someone into V-ing",
+    "語氣或正式程度：deceive 較正式"
+   ],
+   "tip": "考試抄答案是 cheat，說謊讓人誤信是 deceive。",
+   "exA": {
+    "en": "Anyone who cheats on the exam will get a zero.",
+    "zh": "考試作弊的人會得零分。"
+   },
+   "exB": {
+    "en": "The man deceived the old woman into giving him money.",
+    "zh": "那名男子騙老婦人把錢交給他。"
+   }
+  },
+  {
+   "a": "chef",
+   "b": "chief",
+   "kind": "visual",
+   "score": 0.684,
+   "aZh": "n. 主廚；廚師",
+   "bZh": "n. 首長；adj. 主要的",
+   "diff": "chef 是餐廳的主廚；chief 是首長或主要的。兩字同源，chief 多一個 i。",
+   "points": [
+    "拼字：chef 沒有 i，chief 有 i",
+    "發音：chef /ʃef/，chief /tʃiːf/"
+   ],
+   "tip": "chef 唸起來像 shef，在廚房；chief 多了 i，是帶頭的人。",
+   "exA": {
+    "en": "The chef cooked a special meal for our class party.",
+    "zh": "主廚為我們班的派對煮了一頓特別的餐點。"
+   },
+   "exB": {
+    "en": "The fire chief warned people to stay away from the building.",
+    "zh": "消防隊長警告民眾遠離那棟大樓。"
+   }
+  },
+  {
+   "a": "applaud",
+   "b": "clap",
+   "kind": "semantic",
+   "score": 0.76,
+   "aZh": "v. 鼓掌；稱讚",
+   "bZh": "v. 拍手；鼓掌",
+   "diff": "clap 是雙手拍打的動作，口語常用；applaud 較正式，指觀眾鼓掌喝采，也可表示讚許。",
+   "points": [
+    "語氣或正式程度：applaud 較正式",
+    "使用情境：跟著節奏拍手只能用 clap"
+   ],
+   "tip": "跟著音樂拍手是 clap，表演結束時全場 applaud。",
+   "exA": {
+    "en": "The audience applauded the young pianist for a long time.",
+    "zh": "觀眾為那位年輕鋼琴家鼓掌了很久。"
+   },
+   "exB": {
+    "en": "The children clapped along to the happy song.",
+    "zh": "孩子們跟著快樂的歌拍手。"
+   }
+  },
+  {
+   "a": "classic",
+   "b": "classical",
+   "kind": "visual",
+   "score": 0.796,
+   "aZh": "adj. 經典的；典型的",
+   "bZh": "adj. 古典的",
+   "diff": "classic 是經典的、典型的；classical 是古典的，多指古希臘羅馬文化或古典音樂。",
+   "points": [
+    "搭配：a classic example，classical music",
+    "拼字：classical 多了字尾 -al"
+   ],
+   "tip": "Mozart 的音樂是 classical，好看又耐看的電影是 classic。",
+   "exA": {
+    "en": "This book is a classic that everyone should read.",
+    "zh": "這本書是每個人都應該讀的經典。"
+   },
+   "exB": {
+    "en": "My piano teacher loves classical music from Europe.",
+    "zh": "我的鋼琴老師很喜歡歐洲的古典音樂。"
+   }
+  },
+  {
+   "a": "clever",
+   "b": "wise",
+   "kind": "semantic",
+   "score": 0.501,
+   "aZh": "adj. 聰明的；靈巧的",
+   "bZh": "adj. 明智的；有智慧的",
+   "diff": "clever 指反應快、腦筋靈活；wise 指有經驗和判斷力，能做出正確的決定。",
+   "points": [
+    "使用情境：年輕的天才可以 clever，長者的忠告常說 wise",
+    "搭配：a clever trick，a wise decision"
+   ],
+   "tip": "clever 靠頭腦快，wise 靠經驗多。",
+   "exA": {
+    "en": "The clever student solved the puzzle in five minutes.",
+    "zh": "那個聰明的學生五分鐘就解開了謎題。"
+   },
+   "exB": {
+    "en": "It was wise of you to save some money for later.",
+    "zh": "你留一些錢以備日後之需，真是明智。"
+   }
+  },
+  {
+   "a": "climate",
+   "b": "weather",
+   "kind": "semantic",
+   "score": 0.475,
+   "aZh": "n. 氣候",
+   "bZh": "n. 天氣",
+   "diff": "weather 是某天、某段短時間的天氣；climate 是一個地區長年下來的平均天氣狀況。",
+   "points": [
+    "使用情境：今天下雨是 weather，台灣夏天濕熱是 climate",
+    "搭配：weather forecast 天氣預報，climate change 氣候變遷"
+   ],
+   "tip": "weather 看今天，climate 看一整年。",
+   "exA": {
+    "en": "Taiwan has a warm and wet climate in summer.",
+    "zh": "台灣夏天氣候溫暖潮濕。"
+   },
+   "exB": {
+    "en": "The weather was so nice that we went to the beach.",
+    "zh": "天氣很好，所以我們去了海邊。"
+   }
+  },
+  {
+   "a": "cloth",
+   "b": "clothes",
+   "kind": "visual",
+   "score": 0.709,
+   "aZh": "n. 布；布料",
+   "bZh": "n. 衣服",
+   "diff": "cloth 是布料，可以做成衣服或拿來擦東西；clothes 是穿在身上的衣服，永遠是複數。",
+   "points": [
+    "拼字：clothes 比 cloth 多了 -es",
+    "發音：cloth /klɔːθ/，clothes /kloʊðz/",
+    "詞性：clothes 沒有單數形，不說 a clothes"
+   ],
+   "tip": "cloth 拿來擦桌子，clothes 拿來穿。",
+   "exA": {
+    "en": "Wipe the table with a wet cloth after dinner.",
+    "zh": "晚餐後用濕布擦桌子。"
+   },
+   "exB": {
+    "en": "I need to buy some new clothes for the trip.",
+    "zh": "我需要為這趟旅行買些新衣服。"
+   }
+  },
+  {
+   "a": "clothes",
+   "b": "clothing",
+   "kind": "semantic",
+   "score": 0.648,
+   "aZh": "n. 衣服",
+   "bZh": "n. 衣物；服裝",
+   "diff": "clothes 是日常說法，是複數名詞；clothing 較正式，是不可數名詞，常用在商店和告示。",
+   "points": [
+    "詞性：clothes 接複數動詞，clothing 接單數動詞",
+    "搭配：a piece of clothing 一件衣物"
+   ],
+   "tip": "clothes 有 s 是複數，clothing 不能加 s。",
+   "exA": {
+    "en": "My clothes are wet because I forgot my umbrella.",
+    "zh": "我忘了帶傘，衣服都濕了。"
+   },
+   "exB": {
+    "en": "Warm clothing is necessary for the mountain trip.",
+    "zh": "爬山旅行需要準備保暖衣物。"
+   }
+  },
+  {
+   "a": "coast",
+   "b": "shore",
+   "kind": "semantic",
+   "score": 0.804,
+   "aZh": "n. 海岸；沿海地區",
+   "bZh": "n. 岸邊",
+   "diff": "coast 指陸地靠海的一大片區域，常用於地圖和地理；shore 指緊貼水邊的地方，湖邊也能用。",
+   "points": [
+    "使用情境：east coast 指東部沿海地區，lake shore 指湖岸",
+    "搭配：along the coast，on the shore"
+   ],
+   "tip": "從地圖看是 coast，站在水邊踩沙是 shore。",
+   "exA": {
+    "en": "Many fishing villages lie along the east coast of Taiwan.",
+    "zh": "台灣東海岸有許多漁村。"
+   },
+   "exB": {
+    "en": "We sat on the shore and watched the waves come in.",
+    "zh": "我們坐在岸邊看著海浪拍上來。"
+   }
+  },
+  {
+   "a": "colleague",
+   "b": "college",
+   "kind": "visual",
+   "score": 0.696,
+   "aZh": "n. 同事；同僚",
+   "bZh": "n. 大學；學院",
+   "diff": "college 是大學；colleague 是同事。兩字拼法很像，colleague 結尾是 -eague。",
+   "points": [
+    "拼字：college 結尾 -ege，colleague 結尾 -eague",
+    "發音：college /ˈkɑːlɪdʒ/，colleague /ˈkɑːliːɡ/"
+   ],
+   "tip": "colleague 裡有 league（聯盟），一起工作的人。",
+   "exA": {
+    "en": "My mother had lunch with her colleagues from the office.",
+    "zh": "我媽媽和辦公室的同事一起吃午餐。"
+   },
+   "exB": {
+    "en": "My brother is going to college in the United States.",
+    "zh": "我哥哥要去美國讀大學。"
+   }
+  },
+  {
+   "a": "college",
+   "b": "university",
+   "kind": "semantic",
+   "score": 0.803,
+   "aZh": "n. 大學；學院",
+   "bZh": "n. 大學",
+   "diff": "美國人說上大學常說 go to college；university 名稱較正式，指有很多學院、可讀研究所的大學。",
+   "points": [
+    "搭配：go to college，a university professor",
+    "使用情境：大學裡的學院可以叫 college of science"
+   ],
+   "tip": "日常說上大學用 college，正式名稱多用 university。",
+   "exA": {
+    "en": "Amy wants to go to college and study music.",
+    "zh": "Amy 想上大學讀音樂。"
+   },
+   "exB": {
+    "en": "My sister studies chemistry at a university in Taipei.",
+    "zh": "我姊姊在台北一所大學讀化學。"
+   }
+  },
+  {
+   "a": "command",
+   "b": "order",
+   "kind": "semantic",
+   "score": 0.52,
+   "aZh": "v. 命令；指揮",
+   "bZh": "v. 命令",
+   "diff": "order 是日常最常用的命令；command 較正式，多用在軍隊、有權力的人或電腦指令。",
+   "points": [
+    "語氣或正式程度：command 較正式",
+    "搭配：order food 點餐，a good command of English 精通英文"
+   ],
+   "tip": "老師叫你做事用 order，將軍下令用 command。",
+   "exA": {
+    "en": "The captain commanded his men to stay on the ship.",
+    "zh": "船長命令船員留在船上。"
+   },
+   "exB": {
+    "en": "The doctor ordered him to stay in bed for a week.",
+    "zh": "醫生要他臥床休息一週。"
+   }
+  },
+  {
+   "a": "compare",
+   "b": "contrast",
+   "kind": "semantic",
+   "score": 0.498,
+   "aZh": "v. 比較；對照",
+   "bZh": "v. 對比；形成對照",
+   "diff": "compare 是找出兩者的相同和不同；contrast 只強調兩者的差異有多大。",
+   "points": [
+    "搭配：compare A with B，contrast A with B",
+    "使用情境：作文寫比較與對比時常同時出現"
+   ],
+   "tip": "compare 看同也看異，contrast 只看異。",
+   "exA": {
+    "en": "Let's compare the two phones before we decide.",
+    "zh": "我們決定之前先比較這兩支手機。"
+   },
+   "exB": {
+    "en": "The teacher contrasted city life with country life.",
+    "zh": "老師把城市生活和鄉村生活做了對比。"
+   }
+  },
+  {
+   "a": "compete",
+   "b": "complete",
+   "kind": "visual",
+   "score": 0.874,
+   "aZh": "v. 競爭；比賽",
+   "bZh": "v. 完成；adj. 完整的",
+   "diff": "complete 是完成；compete 是競爭、比賽。complete 比 compete 多一個 l。",
+   "points": [
+    "拼字：com-plete 有 l，com-pete 沒有",
+    "搭配：complete a task，compete with／against someone"
+   ],
+   "tip": "complete 多一個 l，像把最後一塊拼圖補上。",
+   "exA": {
+    "en": "Ten schools will compete in the singing contest this year.",
+    "zh": "今年有十所學校參加歌唱比賽。"
+   },
+   "exB": {
+    "en": "Please complete the form before you leave the office.",
+    "zh": "離開辦公室前請填完表格。"
+   }
+  },
+  {
+   "a": "complete",
+   "b": "finish",
+   "kind": "semantic",
+   "score": 0.758,
+   "aZh": "v. 完成",
+   "bZh": "v. 完成；結束",
+   "diff": "finish 是日常最常用的完成、做完；complete 較正式，強調把所有部分都做齊。",
+   "points": [
+    "搭配：finish + V-ing，complete + N",
+    "語氣或正式程度：complete a form 填完表格較正式"
+   ],
+   "tip": "吃完飯用 finish，填完表格用 complete。",
+   "exA": {
+    "en": "You must complete all the questions on the test.",
+    "zh": "考卷上的所有題目都必須作答。"
+   },
+   "exB": {
+    "en": "I finished reading the whole book last night before bed.",
+    "zh": "我昨晚睡前把整本書讀完了。"
+   }
+  },
+  {
+   "a": "concern",
+   "b": "worry",
+   "kind": "semantic",
+   "score": 0.637,
+   "aZh": "n. 擔心；關切",
+   "bZh": "v. 擔心；n. 煩惱",
+   "diff": "worry 是日常的擔心，常用 worry about；concern 較正式，多用名詞或 be concerned about，常見於新聞。",
+   "points": [
+    "語氣或正式程度：concern 較正式",
+    "搭配：worry about，be concerned about，a major concern"
+   ],
+   "tip": "跟朋友說用 worry，新聞報導用 concern。",
+   "exA": {
+    "en": "Air pollution is a growing concern in many big cities.",
+    "zh": "空氣污染在許多大城市越來越受關注。"
+   },
+   "exB": {
+    "en": "Don't worry about the test; you have studied hard.",
+    "zh": "別擔心考試，你已經很努力讀書了。"
+   }
+  },
+  {
+   "a": "condition",
+   "b": "situation",
+   "kind": "semantic",
+   "score": 0.519,
+   "aZh": "n. 狀況；狀態",
+   "bZh": "n. 情況；處境",
+   "diff": "condition 指人或物本身的狀態，例如身體、車子；situation 指整體發生的情況或處境。",
+   "points": [
+    "搭配：in good condition，a difficult situation",
+    "使用情境：說東西好不好用 condition，說遇到什麼事用 situation"
+   ],
+   "tip": "車子壞不壞看 condition，遇到麻煩看 situation。",
+   "exA": {
+    "en": "My grandfather's old car is still in good condition.",
+    "zh": "我爺爺的舊車狀況還很好。"
+   },
+   "exB": {
+    "en": "Losing your passport abroad is a difficult situation.",
+    "zh": "在國外弄丟護照是很棘手的處境。"
+   }
+  },
+  {
+   "a": "confident",
+   "b": "confidential",
+   "kind": "visual",
+   "score": 0.764,
+   "aZh": "adj. 有信心的",
+   "bZh": "adj. 機密的；保密的",
+   "diff": "confident 是有信心的；confidential 是機密的、要保密的。兩字同源，confidential 多了 -ial。",
+   "points": [
+    "拼字：confidential 比 confident 多了 -ial",
+    "使用情境：人可以 confident，文件或資料是 confidential"
+   ],
+   "tip": "人有自信是 confident，文件要保密是 confidential。",
+   "exA": {
+    "en": "Jenny felt confident before her English speech contest.",
+    "zh": "Jenny 在英文演講比賽前很有信心。"
+   },
+   "exB": {
+    "en": "Please keep this information confidential and don't tell anyone.",
+    "zh": "請把這個資訊保密，別告訴任何人。"
+   }
+  },
+  {
+   "a": "consider",
+   "b": "considerate",
+   "kind": "visual",
+   "score": 0.788,
+   "aZh": "v. 考慮；認為",
+   "bZh": "adj. 體貼的",
+   "diff": "consider 是動詞「考慮、認為」；considerate 是形容詞「體貼的、替人著想的」。",
+   "points": [
+    "詞性：consider 是 v.，considerate 是 adj.",
+    "搭配：It is considerate of + 人 + to V"
+   ],
+   "tip": "considerate 多了 -ate，是會考慮到別人的那種人。",
+   "exA": {
+    "en": "We are considering a trip to Japan next summer.",
+    "zh": "我們正在考慮明年夏天去日本旅行。"
+   },
+   "exB": {
+    "en": "It was considerate of Tom to bring me some soup when I was sick.",
+    "zh": "我生病時 Tom 帶湯來給我，真體貼。"
+   }
+  },
+  {
+   "a": "contact",
+   "b": "contract",
+   "kind": "visual",
+   "score": 0.81,
+   "aZh": "n. 聯絡；接觸；v. 聯絡",
+   "bZh": "n. 合約；v. 收縮",
+   "diff": "contact 是聯絡、接觸；contract 是合約，或收縮、感染。contract 中間多了一個 r。",
+   "points": [
+    "拼字：cont-r-act 多一個 r",
+    "搭配：keep in contact，sign a contract"
+   ],
+   "tip": "要簽名的是 contract，要打電話、寫信的是 contact。",
+   "exA": {
+    "en": "Please contact me if you need any help.",
+    "zh": "如果需要幫忙，請和我聯絡。"
+   },
+   "exB": {
+    "en": "The player signed a three-year contract with the team.",
+    "zh": "那位球員和球隊簽了三年的合約。"
+   }
+  },
+  {
+   "a": "contain",
+   "b": "include",
+   "kind": "semantic",
+   "score": 0.547,
+   "aZh": "v. 包含；容納",
+   "bZh": "v. 包含；包括",
+   "diff": "contain 指東西裡面裝著或含有某物；include 指把某項目算在整體或清單之內。",
+   "points": [
+    "使用情境：飲料含糖用 contain，價錢包含早餐用 include",
+    "搭配：contain sugar，include tax"
+   ],
+   "tip": "瓶子裡裝的是 contain，清單上列的是 include。",
+   "exA": {
+    "en": "This big bottle contains two liters of cold water.",
+    "zh": "這個大瓶子裝了兩公升的冷水。"
+   },
+   "exB": {
+    "en": "The price of the hotel room includes breakfast for two.",
+    "zh": "這間飯店的房價包含兩人份早餐。"
+   }
+  },
+  {
+   "a": "control",
+   "b": "manage",
+   "kind": "semantic",
+   "score": 0.606,
+   "aZh": "v. 控制；管理",
+   "bZh": "v. 管理；設法做到",
+   "diff": "control 強調讓人事物照自己的意思走、不失控；manage 強調妥善處理、安排，也有設法做到的意思。",
+   "points": [
+    "搭配：control one's anger，manage one's time",
+    "用法：manage to V 表示設法做到，control 沒有這種用法"
+   ],
+   "tip": "怕失控用 control，要安排好用 manage。",
+   "exA": {
+    "en": "Try to control your temper when you are angry.",
+    "zh": "生氣時要試著控制脾氣。"
+   },
+   "exB": {
+    "en": "Amy manages her time well, so she never misses a deadline.",
+    "zh": "Amy 時間管理得很好，從不錯過期限。"
+   }
+  },
+  {
+   "a": "conservation",
+   "b": "conversation",
+   "kind": "visual",
+   "score": 0.81,
+   "aZh": "n. 保育；節約",
+   "bZh": "n. 對話；談話",
+   "diff": "conversation 是對話；conservation 是保育、節約。兩字只差 v 和 s 的位置。",
+   "points": [
+    "拼字：con-ver-sation 與 con-ser-vation，v 和 s 對調",
+    "相關字：converse 交談，conserve 保存"
+   ],
+   "tip": "conversation 裡有 verse，話一句一句說；conservation 裡有 serve，保護自然。",
+   "exA": {
+    "en": "Water conservation is important during the dry season.",
+    "zh": "乾季時節約用水很重要。"
+   },
+   "exB": {
+    "en": "I had a long conversation with my grandmother last night.",
+    "zh": "我昨晚和奶奶聊了很久。"
+   }
+  },
+  {
+   "a": "country",
+   "b": "countryside",
+   "kind": "both",
+   "score": 0.684,
+   "aZh": "n. 國家；鄉村",
+   "bZh": "n. 鄉間；鄉村地區",
+   "diff": "country 最常指國家，the country 也可指鄉下；countryside 只指城市以外的鄉村地區。",
+   "points": [
+    "用法：countryside 通常說 the countryside，不加 a",
+    "使用情境：說國家只能用 country"
+   ],
+   "tip": "countryside 多了 side，是國家裡城市旁邊的那一大片鄉下。",
+   "exA": {
+    "en": "Japan is a country with many beautiful mountains.",
+    "zh": "日本是個有許多美麗山脈的國家。"
+   },
+   "exB": {
+    "en": "We spent the weekend in the quiet countryside.",
+    "zh": "我們在安靜的鄉間度過週末。"
+   }
+  },
+  {
+   "a": "couple",
+   "b": "pair",
+   "kind": "semantic",
+   "score": 0.766,
+   "aZh": "n. 一對；兩三個",
+   "bZh": "n. 一雙；一對",
+   "diff": "pair 指成對使用的東西，例如鞋子、筷子；couple 多指一對情侶或夫妻，a couple of 也可表示兩三個。",
+   "points": [
+    "搭配：a pair of shoes，a married couple",
+    "用法：a couple of days 是幾天，不一定剛好兩天"
+   ],
+   "tip": "鞋子、筷子是 pair，戀人是 couple。",
+   "exA": {
+    "en": "The old couple walk in the park every morning.",
+    "zh": "那對老夫妻每天早上都在公園散步。"
+   },
+   "exB": {
+    "en": "I need a new pair of running shoes.",
+    "zh": "我需要一雙新的跑鞋。"
+   }
   }
  ]
 }
