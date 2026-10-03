@@ -10170,6 +10170,958 @@
     "en": "Be careful not to slip on the wet floor.",
     "zh": "小心別在濕地板上滑倒。"
    }
+  },
+  {
+   "a": "slipper",
+   "b": "slippery",
+   "kind": "visual",
+   "score": 0.874,
+   "aZh": "n. 室內拖鞋",
+   "bZh": "adj. 滑溜的",
+   "diff": "slipper 是名詞，指室內拖鞋；slippery 是形容詞，形容地面或東西很滑。",
+   "points": [
+    "詞性：slipper 是 n.，slippery 是 adj.",
+    "拼字：slippery 多了字尾 -y",
+    "搭配：a pair of slippers；a slippery floor"
+   ],
+   "tip": "多了 y 就變成形容詞「滑的」，穿 slippers 走在 slippery 地上要小心。",
+   "exA": {
+    "en": "Dad always wears warm slippers in the house at night.",
+    "zh": "爸爸晚上在家裡總是穿著保暖的室內拖鞋。"
+   },
+   "exB": {
+    "en": "The floor is slippery after the rain, so walk slowly.",
+    "zh": "下雨後地板很滑，所以要慢慢走。"
+   }
+  },
+  {
+   "a": "snack",
+   "b": "snake",
+   "kind": "visual",
+   "score": 0.592,
+   "aZh": "n. 點心；零食",
+   "bZh": "n. 蛇",
+   "diff": "snack 是零食；snake 是蛇。兩個字只差最後的 ck 和 ke，發音也不同。",
+   "points": [
+    "拼字：snack 結尾是 -ck，snake 結尾是 -ke",
+    "發音：snack 是短母音 /æ/，snake 是長母音 /eɪ/"
+   ],
+   "tip": "snake 結尾有 e，讀成長音 /eɪ/；snack 的 a 是短音。",
+   "exA": {
+    "en": "I always eat a small snack after school.",
+    "zh": "我放學後總是會吃一點點心。"
+   },
+   "exB": {
+    "en": "I saw a long snake in the grass after school.",
+    "zh": "我放學後在草叢裡看到一條長長的蛇。"
+   }
+  },
+  {
+   "a": "soap",
+   "b": "soup",
+   "kind": "visual",
+   "score": 0.584,
+   "aZh": "n. 肥皂",
+   "bZh": "n. 湯",
+   "diff": "soap 是洗手用的肥皂；soup 是喝的湯。兩個字只差一個母音字母。",
+   "points": [
+    "拼字：soap 是 oa，soup 是 ou",
+    "發音：soap /soʊp/，soup /suːp/"
+   ],
+   "tip": "soup 裡有 u，喝湯會發出 u 的聲音。",
+   "exA": {
+    "en": "Remember to wash your hands with soap before dinner.",
+    "zh": "晚餐前記得用肥皂洗手。"
+   },
+   "exB": {
+    "en": "Mom made a bowl of hot soup for dinner.",
+    "zh": "媽媽晚餐做了一碗熱湯。"
+   }
+  },
+  {
+   "a": "sociable",
+   "b": "social",
+   "kind": "visual",
+   "score": 0.727,
+   "aZh": "adj. 好交際的；合群的",
+   "bZh": "adj. 社會的；社交的",
+   "diff": "social 是和社會或社交活動有關的；sociable 是形容一個人喜歡和別人來往的個性。",
+   "points": [
+    "使用情境：social media、social problems；a sociable person",
+    "語意：sociable 描述個性，social 多描述事物或活動"
+   ],
+   "tip": "形容人愛交朋友用 sociable，able 表示「能」和人相處。",
+   "exA": {
+    "en": "Amy is very sociable and makes friends easily.",
+    "zh": "Amy 很好相處，很容易交到朋友。"
+   },
+   "exB": {
+    "en": "Our school has many social activities for new students.",
+    "zh": "我們學校為新生辦了很多社交活動。"
+   }
+  },
+  {
+   "a": "community",
+   "b": "society",
+   "kind": "semantic",
+   "score": 0.632,
+   "aZh": "n. 社區；社群",
+   "bZh": "n. 社會",
+   "diff": "society 是整個大社會；community 是住在同一地區或有共同特點的一群人，範圍較小。",
+   "points": [
+    "範圍：society 是整個社會，community 是一個社區或群體",
+    "搭配：modern society；the local community"
+   ],
+   "tip": "全國大社會用 society；附近鄰居組成的社區用 community。",
+   "exA": {
+    "en": "The volunteers cleaned the park for the local community.",
+    "zh": "志工們替當地社區打掃了公園。"
+   },
+   "exB": {
+    "en": "Technology has changed the way people live in modern society.",
+    "zh": "科技改變了現代社會人們的生活方式。"
+   }
+  },
+  {
+   "a": "pop",
+   "b": "soda",
+   "kind": "semantic",
+   "score": 0.445,
+   "aZh": "n. 汽水",
+   "bZh": "n. 汽水；蘇打水",
+   "diff": "兩個字都可以指汽水；soda 是最常見的說法，pop 較口語，只在部分地區常用。",
+   "points": [
+    "使用情境：soda 最通用；pop 是美國部分地區和加拿大的口語",
+    "其他字義：pop 也指流行音樂、砰的一聲"
+   ],
+   "tip": "不確定時用 soda 最保險。",
+   "exA": {
+    "en": "The kids drank a bottle of pop at the party.",
+    "zh": "孩子們在派對上喝了一瓶汽水。"
+   },
+   "exB": {
+    "en": "The kids drank a can of soda at the party.",
+    "zh": "孩子們在派對上喝了一罐汽水。"
+   }
+  },
+  {
+   "a": "gentle",
+   "b": "soft",
+   "kind": "semantic",
+   "score": 0.661,
+   "aZh": "adj. 溫和的；輕柔的",
+   "bZh": "adj. 柔軟的；輕柔的",
+   "diff": "soft 多形容東西摸起來軟，或聲音、光線柔和；gentle 多形容人的動作、態度溫和不粗魯。",
+   "points": [
+    "使用情境：a soft pillow、soft light；a gentle touch、a gentle person",
+    "語意：gentle 常帶有小心、不傷人的意思"
+   ],
+   "tip": "東西摸起來軟用 soft；人的動作溫柔用 gentle。",
+   "exA": {
+    "en": "Be gentle with the baby when you hold him.",
+    "zh": "抱寶寶的時候動作要輕柔。"
+   },
+   "exB": {
+    "en": "This pillow is very soft and comfortable to sleep on.",
+    "zh": "這個枕頭又軟又好睡。"
+   }
+  },
+  {
+   "a": "dirt",
+   "b": "soil",
+   "kind": "semantic",
+   "score": 0.658,
+   "aZh": "n. 污垢；泥土",
+   "bZh": "n. 土壤；泥土",
+   "diff": "soil 是讓植物生長的土壤，常用在農業和自然科學；dirt 是一般的泥土，也指弄髒東西的污垢。",
+   "points": [
+    "使用情境：rich soil、soil quality；dirt on your shoes",
+    "語意：dirt 常帶有髒的意思，soil 沒有"
+   ],
+   "tip": "種菜看 soil 好不好；鞋上沾到的是 dirt。",
+   "exA": {
+    "en": "There was dirt all over his shoes after the game.",
+    "zh": "比賽後他的鞋子上沾滿了泥土。"
+   },
+   "exB": {
+    "en": "Tomatoes grow best in rich soil with plenty of sunlight.",
+    "zh": "番茄在肥沃、日照充足的土壤裡長得最好。"
+   }
+  },
+  {
+   "a": "resolve",
+   "b": "solve",
+   "kind": "semantic",
+   "score": 0.707,
+   "aZh": "v. 解決；處理",
+   "bZh": "v. 解決；解答",
+   "diff": "solve 常用在找出題目、謎題或問題的答案；resolve 較正式，多指處理爭執或困難，讓它結束。",
+   "points": [
+    "搭配：solve a math problem、solve a mystery；resolve a conflict、resolve a dispute",
+    "語氣：resolve 較正式"
+   ],
+   "tip": "解數學題用 solve；化解爭吵用 resolve。",
+   "exA": {
+    "en": "The two classes met to resolve their argument.",
+    "zh": "兩個班開會化解彼此的爭執。"
+   },
+   "exB": {
+    "en": "Can you solve this math problem in five minutes?",
+    "zh": "你能在五分鐘內解出這道數學題嗎？"
+   }
+  },
+  {
+   "a": "somehow",
+   "b": "somewhat",
+   "kind": "visual",
+   "score": 0.592,
+   "aZh": "adv. 不知怎麼地；以某種方式",
+   "bZh": "adv. 有點；稍微",
+   "diff": "somewhat 表示程度「有點」，修飾形容詞；somehow 表示「不知怎麼地」或「用某種方法」。",
+   "points": [
+    "語意：somewhat = a little；somehow = in some way",
+    "位置：somewhat 常放在形容詞前，somehow 常修飾整句"
+   ],
+   "tip": "what 問程度，所以 somewhat 是有點；how 問方法，所以 somehow 是用某種方法。",
+   "exA": {
+    "en": "Somehow I lost my keys on the way home.",
+    "zh": "不知怎麼地，我在回家路上弄丟了鑰匙。"
+   },
+   "exB": {
+    "en": "The test was somewhat harder than I expected.",
+    "zh": "考試比我預期的難一點。"
+   }
+  },
+  {
+   "a": "sole",
+   "b": "soul",
+   "kind": "visual",
+   "score": 0.605,
+   "aZh": "n. 鞋底；adj. 唯一的",
+   "bZh": "n. 靈魂；心靈",
+   "diff": "soul 和 sole 發音完全相同，但 soul 是靈魂，sole 是唯一的或鞋底。",
+   "points": [
+    "發音：兩個字都唸 /soʊl/",
+    "拼字：soul 有 u，sole 結尾是 e",
+    "詞性：sole 常作形容詞「唯一的」"
+   ],
+   "tip": "soul 裡有 u，像 you 的靈魂；sole 的 e 像鞋底一樣在最後。",
+   "exA": {
+    "en": "He is the sole person who knows the answer.",
+    "zh": "他是唯一知道答案的人。"
+   },
+   "exB": {
+    "en": "Many people believe that music is good for the soul.",
+    "zh": "許多人相信音樂對心靈有益。"
+   }
+  },
+  {
+   "a": "soul",
+   "b": "spirit",
+   "kind": "semantic",
+   "score": 0.492,
+   "aZh": "n. 靈魂；心靈",
+   "bZh": "n. 精神；心境",
+   "diff": "soul 是人的靈魂、內心深處；spirit 偏向精神狀態、意志或氣氛，例如團隊精神。",
+   "points": [
+    "搭配：body and soul；team spirit、in high spirits",
+    "語意：spirit 可指心情好壞，soul 不行"
+   ],
+   "tip": "團隊精神是 team spirit，不說 team soul。",
+   "exA": {
+    "en": "She put her heart and soul into the school play.",
+    "zh": "她全心全意投入學校的話劇演出。"
+   },
+   "exB": {
+    "en": "Our team showed great spirit in the final game.",
+    "zh": "我們隊在決賽中展現了很棒的精神。"
+   }
+  },
+  {
+   "a": "resource",
+   "b": "source",
+   "kind": "both",
+   "score": 0.703,
+   "aZh": "n. 資源；資料",
+   "bZh": "n. 來源；出處",
+   "diff": "source 是東西從哪裡來的來源；resource 是可以拿來使用的資源，例如水、石油、資料。",
+   "points": [
+    "語意：source 強調出處，resource 強調可利用的東西",
+    "搭配：a source of information；natural resources",
+    "拼字：resource 多了字首 re-"
+   ],
+   "tip": "東西的出處用 source；可以用的資源用 resource。",
+   "exA": {
+    "en": "Water is one of our most important natural resources.",
+    "zh": "水是我們最重要的自然資源之一。"
+   },
+   "exB": {
+    "en": "The reporter said the news came from a reliable source.",
+    "zh": "記者說這則新聞來自可靠的消息來源。"
+   }
+  },
+  {
+   "a": "speak",
+   "b": "speech",
+   "kind": "visual",
+   "score": 0.538,
+   "aZh": "v. 說話；交談",
+   "bZh": "n. 演講；說話",
+   "diff": "speak 是動詞「說話」；speech 是名詞「演講」。學生常把 give a speech 寫成 give a speak。",
+   "points": [
+    "詞性：speak 是 v.，speech 是 n.",
+    "搭配：give a speech、make a speech；speak to someone"
+   ],
+   "tip": "前面有 a 或 give，就要用名詞 speech。",
+   "exA": {
+    "en": "Our English teacher speaks slowly and clearly in class.",
+    "zh": "我們的英文老師上課時說話又慢又清楚。"
+   },
+   "exB": {
+    "en": "Our English teacher gave a speech at the school meeting.",
+    "zh": "我們的英文老師在全校集會上演講。"
+   }
+  },
+  {
+   "a": "exercise",
+   "b": "sport",
+   "kind": "semantic",
+   "score": 0.708,
+   "aZh": "n. 運動；練習",
+   "bZh": "n. 運動；體育",
+   "diff": "sport 指有規則、常有比賽的運動項目；exercise 是為了健康而活動身體，像散步、做伸展。",
+   "points": [
+    "可數與否：sport 可數，a sport；exercise 表運動時多不可數",
+    "搭配：play a sport；do exercise、get some exercise"
+   ],
+   "tip": "籃球、棒球這類比賽項目是 sport；為了健康動一動是 exercise。",
+   "exA": {
+    "en": "Walking every day is a good form of exercise.",
+    "zh": "每天走路是一種很好的運動。"
+   },
+   "exB": {
+    "en": "Soccer is my favorite sport because I love team games.",
+    "zh": "足球是我最喜歡的運動，因為我喜歡團隊比賽。"
+   }
+  },
+  {
+   "a": "state",
+   "b": "status",
+   "kind": "both",
+   "score": 0.67,
+   "aZh": "n. 狀態；情形",
+   "bZh": "n. 地位；狀態",
+   "diff": "state 多指人或東西當下的狀態；status 多指在社會或團體中的地位，也可指事情的進度。",
+   "points": [
+    "使用情境：in a state of shock；social status",
+    "拼字：status 多了字尾 -us"
+   ],
+   "tip": "講心情、身體狀況用 state；講社會地位用 status。",
+   "exA": {
+    "en": "After the earthquake, the town was in a state of shock.",
+    "zh": "地震過後，整個小鎮陷入震驚。"
+   },
+   "exB": {
+    "en": "Doctors usually have a high status in our society.",
+    "zh": "醫生在我們的社會中通常地位很高。"
+   }
+  },
+  {
+   "a": "stake",
+   "b": "steak",
+   "kind": "visual",
+   "score": 0.629,
+   "aZh": "n. 木樁；賭注",
+   "bZh": "n. 牛排",
+   "diff": "steak 和 stake 發音完全一樣，steak 是牛排，stake 是木樁或賭注、利害關係。",
+   "points": [
+    "發音：兩個字都唸 /steɪk/",
+    "拼字：steak 是 ea，stake 是 a 加結尾 e"
+   ],
+   "tip": "牛排 steak 裡有 eat 的 ea，可以吃。",
+   "exA": {
+    "en": "The farmer put a wooden stake in the ground to hold the young tree.",
+    "zh": "農夫在地上打了一根木樁來固定小樹。"
+   },
+   "exB": {
+    "en": "We ordered a steak and a salad for dinner.",
+    "zh": "我們晚餐點了一份牛排和一份沙拉。"
+   }
+  },
+  {
+   "a": "steal",
+   "b": "steel",
+   "kind": "visual",
+   "score": 0.809,
+   "aZh": "v. 偷；竊取",
+   "bZh": "n. 鋼；鋼鐵",
+   "diff": "steal 和 steel 發音完全一樣，steal 是動詞「偷」，steel 是名詞「鋼」。",
+   "points": [
+    "發音：兩個字都唸 /stiːl/",
+    "詞性：steal 是 v.，steel 是 n.",
+    "拼字：steal 是 ea，steel 是 ee"
+   ],
+   "tip": "steel 的兩個 e 像兩根堅硬的鋼條。",
+   "exA": {
+    "en": "Someone tried to steal my bike from the school gate.",
+    "zh": "有人想從校門口偷走我的腳踏車。"
+   },
+   "exB": {
+    "en": "The new school gate is made of strong steel.",
+    "zh": "新校門是用堅固的鋼做的。"
+   }
+  },
+  {
+   "a": "steep",
+   "b": "step",
+   "kind": "visual",
+   "score": 0.854,
+   "aZh": "adj. 陡峭的",
+   "bZh": "n. 步；步驟",
+   "diff": "step 是一步或步驟；steep 是形容詞，形容山坡或階梯很陡。兩個字只差一個 e。",
+   "points": [
+    "詞性：step 是 n./v.，steep 是 adj.",
+    "發音：step /stɛp/ 短音，steep /stiːp/ 長音"
+   ],
+   "tip": "多一個 e 拉長音變成 steep，像拉長的陡坡。",
+   "exA": {
+    "en": "The path up the mountain is very steep and narrow.",
+    "zh": "上山的小路又陡又窄。"
+   },
+   "exB": {
+    "en": "Watch your step when you walk down the old stairs.",
+    "zh": "走下舊樓梯時要小心腳步。"
+   }
+  },
+  {
+   "a": "rock",
+   "b": "stone",
+   "kind": "semantic",
+   "score": 0.635,
+   "aZh": "n. 岩石；石頭",
+   "bZh": "n. 石頭；石材",
+   "diff": "stone 多指小塊的石頭或建築用的石材；rock 多指大塊的岩石、山壁，美式口語也可指小石頭。",
+   "points": [
+    "大小：rock 通常比較大，stone 通常較小",
+    "搭配：a stone wall、throw a stone；rock climbing"
+   ],
+   "tip": "攀岩是 rock climbing；蓋石牆用 stone。",
+   "exA": {
+    "en": "We went rock climbing on the huge rocks by the sea.",
+    "zh": "我們去海邊的大岩石上攀岩。"
+   },
+   "exB": {
+    "en": "The boy threw a small stone into the lake.",
+    "zh": "那個男孩把一顆小石頭丟進湖裡。"
+   }
+  },
+  {
+   "a": "strange",
+   "b": "stranger",
+   "kind": "visual",
+   "score": 0.882,
+   "aZh": "adj. 奇怪的；陌生的",
+   "bZh": "n. 陌生人",
+   "diff": "strange 是形容詞「奇怪的」；stranger 是名詞「陌生人」，不是 strange 的比較級。",
+   "points": [
+    "詞性：strange 是 adj.，stranger 是 n.",
+    "用法：a stranger 前面要有冠詞；strange 可直接放在 be 動詞後"
+   ],
+   "tip": "說「他是陌生人」要用 He is a stranger，不是 He is strange。",
+   "exA": {
+    "en": "I heard a strange noise outside my window last night.",
+    "zh": "昨晚我聽到窗外有奇怪的聲音。"
+   },
+   "exB": {
+    "en": "Children should not open the door to a stranger.",
+    "zh": "小孩不應該替陌生人開門。"
+   }
+  },
+  {
+   "a": "foreigner",
+   "b": "stranger",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "n. 外國人",
+   "bZh": "n. 陌生人",
+   "diff": "stranger 是你不認識的人，不一定是外國人；foreigner 是來自別的國家的人。",
+   "points": [
+    "語意：stranger 重點是不認識；foreigner 重點是國籍不同",
+    "語氣：直接稱人 foreigner 有時不太禮貌"
+   ],
+   "tip": "不認識的人是 stranger，就算他是台灣人也一樣。",
+   "exA": {
+    "en": "Many foreigners come to Taiwan to learn Chinese.",
+    "zh": "很多外國人來台灣學中文。"
+   },
+   "exB": {
+    "en": "My mother told me never to get into a car with a stranger.",
+    "zh": "媽媽告訴我絕對不要上陌生人的車。"
+   }
+  },
+  {
+   "a": "steam",
+   "b": "stream",
+   "kind": "visual",
+   "score": 0.789,
+   "aZh": "n. 蒸氣",
+   "bZh": "n. 溪流；小河",
+   "diff": "stream 是溪流，steam 是水煮開時冒出的蒸氣。兩字只差一個 r。",
+   "points": [
+    "拼字：stream 有 r，steam 沒有",
+    "發音：stream /striːm/，steam /stiːm/"
+   ],
+   "tip": "stream 裡的 r 像 river，是流動的水。",
+   "exA": {
+    "en": "Steam rose from the hot cup of tea.",
+    "zh": "熱茶冒出了蒸氣。"
+   },
+   "exB": {
+    "en": "We walked along a small stream in the forest.",
+    "zh": "我們沿著森林裡的一條小溪散步。"
+   }
+  },
+  {
+   "a": "emphasize",
+   "b": "stress",
+   "kind": "semantic",
+   "score": 1.0,
+   "aZh": "v. 強調；著重",
+   "bZh": "v. 強調；n. 壓力",
+   "diff": "兩個字都可以表示強調；emphasize 只能當動詞，stress 還可以當名詞「壓力」，也可指加重讀音。",
+   "points": [
+    "詞性：emphasize 只作 v.；stress 可作 n. 和 v.",
+    "搭配：stress / emphasize the importance of"
+   ],
+   "tip": "強調時兩個都能用；講壓力只能用 stress。",
+   "exA": {
+    "en": "Our teacher emphasized the importance of reading every day.",
+    "zh": "老師強調每天閱讀的重要性。"
+   },
+   "exB": {
+    "en": "Our teacher stressed the importance of reading every day.",
+    "zh": "老師強調每天閱讀的重要性。"
+   }
+  },
+  {
+   "a": "serious",
+   "b": "strict",
+   "kind": "semantic",
+   "score": 0.48,
+   "aZh": "adj. 認真的；嚴肅的",
+   "bZh": "adj. 嚴格的",
+   "diff": "strict 是對規定、要求很嚴格；serious 是態度認真或表情嚴肅，不等於要求嚴格。",
+   "points": [
+    "語意：strict 指要求多、不放寬；serious 指認真、不開玩笑",
+    "搭配：be strict with students；a serious face"
+   ],
+   "tip": "老師規定多、不通融是 strict，不說 serious。",
+   "exA": {
+    "en": "Mr. Lee looked serious when he talked about the test.",
+    "zh": "李老師談到考試時表情很嚴肅。"
+   },
+   "exB": {
+    "en": "Mr. Lee is strict with students who come to class late.",
+    "zh": "李老師對上課遲到的學生很嚴格。"
+   }
+  },
+  {
+   "a": "hit",
+   "b": "strike",
+   "kind": "semantic",
+   "score": 0.741,
+   "aZh": "v. 打；撞擊",
+   "bZh": "v. 打；撞擊；侵襲",
+   "diff": "hit 是最常用的「打中」；strike 較正式、力道較強，也常用在地震、颱風、閃電來襲。",
+   "points": [
+    "語氣：hit 口語常用，strike 較正式",
+    "搭配：lightning strikes、an earthquake strikes；hit the ball"
+   ],
+   "tip": "新聞報災害常用 strike；日常打到東西用 hit。",
+   "exA": {
+    "en": "The ball hit Tom on the head during the game.",
+    "zh": "比賽時球打到 Tom 的頭。"
+   },
+   "exB": {
+    "en": "A strong typhoon struck the east coast last night.",
+    "zh": "昨晚強颱侵襲東部沿海。"
+   }
+  },
+  {
+   "a": "strive",
+   "b": "struggle",
+   "kind": "semantic",
+   "score": 0.703,
+   "aZh": "v. 努力；力求",
+   "bZh": "v. 努力；奮鬥",
+   "diff": "struggle 強調做得很辛苦、很吃力；strive 強調朝目標持續努力，語氣正面、較正式。",
+   "points": [
+    "語意：struggle 有掙扎、困難的感覺；strive 較正面",
+    "搭配：struggle to V、struggle with；strive for、strive to V"
+   ],
+   "tip": "做得很吃力是 struggle；朝目標努力是 strive。",
+   "exA": {
+    "en": "Our school strives to give every student a good education.",
+    "zh": "我們學校努力讓每個學生都受到良好教育。"
+   },
+   "exB": {
+    "en": "Many students struggle to wake up early on cold mornings.",
+    "zh": "很多學生在寒冷的早晨很難早起。"
+   }
+  },
+  {
+   "a": "succeed",
+   "b": "success",
+   "kind": "visual",
+   "score": 0.675,
+   "aZh": "v. 成功",
+   "bZh": "n. 成功",
+   "diff": "succeed 是動詞，success 是名詞。學生常把 succeed 當名詞，或把 success 當動詞用。",
+   "points": [
+    "詞性：succeed 是 v.，success 是 n.",
+    "搭配：succeed in V-ing；achieve success、a great success",
+    "拼字：succeed 結尾是 -eed，success 結尾是 -ess"
+   ],
+   "tip": "有 a 或 great 修飾的是名詞 success。",
+   "exA": {
+    "en": "Amy succeeded in winning first prize in the contest.",
+    "zh": "Amy 成功在比賽中拿到第一名。"
+   },
+   "exB": {
+    "en": "Hard work is the key to success in school.",
+    "zh": "努力是在學業上成功的關鍵。"
+   }
+  },
+  {
+   "a": "achieve",
+   "b": "succeed",
+   "kind": "semantic",
+   "score": 0.792,
+   "aZh": "v. 達成；實現",
+   "bZh": "v. 成功",
+   "diff": "achieve 是及物動詞，後面直接接目標；succeed 是不及物動詞，要用 succeed in 加 V-ing。",
+   "points": [
+    "及物與否：achieve a goal；succeed in reaching a goal",
+    "語意：achieve 強調達成某個目標"
+   ],
+   "tip": "achieve 後面直接接 goal；succeed 後面要先接 in。",
+   "exA": {
+    "en": "She worked hard and finally achieved her goal.",
+    "zh": "她努力工作，終於達成了目標。"
+   },
+   "exB": {
+    "en": "She worked hard and finally succeeded in reaching her goal.",
+    "zh": "她努力工作，終於成功達成目標。"
+   }
+  },
+  {
+   "a": "so",
+   "b": "such",
+   "kind": "semantic",
+   "score": 0.3,
+   "aZh": "adv. 如此；這麼",
+   "bZh": "adj. 這樣的；如此的",
+   "diff": "so 後面接形容詞或副詞；such 後面接名詞片語，常用 such a + adj. + N。",
+   "points": [
+    "句型：so + adj.；such a + adj. + N",
+    "句型：so ... that 和 such ... that 都表示「太……以致於」"
+   ],
+   "tip": "看後面有沒有名詞：有名詞用 such，沒有名詞用 so。",
+   "exA": {
+    "en": "The movie was so funny that we laughed all night.",
+    "zh": "這部電影好好笑，我們笑了一整晚。"
+   },
+   "exB": {
+    "en": "It was such a funny movie that we laughed all night.",
+    "zh": "那是一部好好笑的電影，我們笑了一整晚。"
+   }
+  },
+  {
+   "a": "advise",
+   "b": "suggest",
+   "kind": "semantic",
+   "score": 0.685,
+   "aZh": "v. 建議；勸告",
+   "bZh": "v. 建議；提議",
+   "diff": "advise 可以接人再接 to V；suggest 不能接人再接 to V，要接 V-ing 或 that 子句。",
+   "points": [
+    "句型：advise + 人 + to V；suggest + V-ing / that 子句",
+    "語氣：advise 較像專業意見或勸告"
+   ],
+   "tip": "suggest 後面不能直接接人加 to V。",
+   "exA": {
+    "en": "The doctor advised me to drink more water.",
+    "zh": "醫生建議我多喝水。"
+   },
+   "exB": {
+    "en": "The doctor suggested that I drink more water.",
+    "zh": "醫生建議我多喝水。"
+   }
+  },
+  {
+   "a": "suit",
+   "b": "suite",
+   "kind": "visual",
+   "score": 0.736,
+   "aZh": "v. 適合；n. 西裝",
+   "bZh": "n. 套房",
+   "diff": "suit 是適合或西裝；suite 是飯店的套房或一組東西。兩個字只差最後的 e，發音也不同。",
+   "points": [
+    "拼字：suite 多了結尾 e",
+    "發音：suit /suːt/，suite /swiːt/，和 sweet 同音"
+   ],
+   "tip": "suite 唸起來像 sweet，甜蜜的蜜月套房。",
+   "exA": {
+    "en": "My father bought a new suit for the wedding.",
+    "zh": "我爸爸為了婚禮買了一套新西裝。"
+   },
+   "exB": {
+    "en": "We stayed in a large suite on the top floor of the hotel.",
+    "zh": "我們住在飯店頂樓的一間大套房。"
+   }
+  },
+  {
+   "a": "super",
+   "b": "supper",
+   "kind": "visual",
+   "score": 0.904,
+   "aZh": "adj. 極好的；adv. 非常",
+   "bZh": "n. 晚餐",
+   "diff": "super 是很棒的、非常；supper 是晚餐。兩個字差在 p 有沒有雙寫。",
+   "points": [
+    "拼字：supper 有兩個 p",
+    "發音：super 的 u 是長音 /uː/，supper 的 u 是短音 /ʌ/"
+   ],
+   "tip": "雙 p 的 supper 是吃的，兩個 p 像一雙筷子。",
+   "exA": {
+    "en": "The view from the top of the mountain was super.",
+    "zh": "從山頂看出去的景色超棒。"
+   },
+   "exB": {
+    "en": "We had a simple supper of soup and bread.",
+    "zh": "我們晚餐簡單吃了湯和麵包。"
+   }
+  },
+  {
+   "a": "dinner",
+   "b": "supper",
+   "kind": "semantic",
+   "score": 0.771,
+   "aZh": "n. 晚餐；正餐",
+   "bZh": "n. 晚餐；宵夜",
+   "diff": "dinner 是最常用的晚餐，也可指正式的一餐或晚宴；supper 多指在家吃、比較簡單的晚飯。",
+   "points": [
+    "語氣：dinner 較正式，可用於宴會；supper 較家常",
+    "搭配：a dinner party；have supper at home"
+   ],
+   "tip": "請客吃飯、晚宴用 dinner。",
+   "exA": {
+    "en": "We had a big dinner at a restaurant for Mom's birthday.",
+    "zh": "我們為媽媽的生日在餐廳吃了一頓大餐。"
+   },
+   "exB": {
+    "en": "We had a simple supper at home after the long trip.",
+    "zh": "長途旅行後，我們在家簡單吃了晚飯。"
+   }
+  },
+  {
+   "a": "shallow",
+   "b": "swallow",
+   "kind": "visual",
+   "score": 0.721,
+   "aZh": "adj. 淺的",
+   "bZh": "v. 吞下；n. 燕子",
+   "diff": "shallow 是形容詞「淺的」；swallow 是動詞「吞下」或名詞「燕子」。兩字只差開頭的 sh 和 sw。",
+   "points": [
+    "詞性：shallow 是 adj.，swallow 是 v./n.",
+    "拼字：sh-allow；sw-allow"
+   ],
+   "tip": "swallow 的 w 像張開的嘴巴在吞東西。",
+   "exA": {
+    "en": "The water is shallow here, so it is safe for children.",
+    "zh": "這裡的水很淺，所以對小孩來說很安全。"
+   },
+   "exB": {
+    "en": "The baby could not swallow the big piece of apple.",
+    "zh": "寶寶吞不下那塊大蘋果。"
+   }
+  },
+  {
+   "a": "tail",
+   "b": "tale",
+   "kind": "visual",
+   "score": 0.605,
+   "aZh": "n. 尾巴",
+   "bZh": "n. 故事；傳說",
+   "diff": "tail 和 tale 發音完全相同，tail 是動物的尾巴，tale 是故事。",
+   "points": [
+    "發音：兩個字都唸 /teɪl/",
+    "拼字：tail 是 ai，tale 是 a 加結尾 e"
+   ],
+   "tip": "童話 fairy tale 的 tale 和 table 一樣是 -ale 結尾。",
+   "exA": {
+    "en": "The dog wagged its tail when it saw me.",
+    "zh": "那隻狗看到我就搖起尾巴。"
+   },
+   "exB": {
+    "en": "Grandpa told us an old tale about a brave dog.",
+    "zh": "爺爺跟我們講了一個關於勇敢小狗的古老故事。"
+   }
+  },
+  {
+   "a": "job",
+   "b": "task",
+   "kind": "semantic",
+   "score": 0.791,
+   "aZh": "n. 工作；職業",
+   "bZh": "n. 任務；工作",
+   "diff": "job 可以是有薪水的職業，也可以是一件要做的事；task 是一件需要完成的具體任務，不指職業。",
+   "points": [
+    "使用情境：get a job、a part-time job；complete a task",
+    "可數：兩者都是可數名詞，但 work 是不可數"
+   ],
+   "tip": "找工作是 find a job，不說 find a task。",
+   "exA": {
+    "en": "My sister found a job at a bank after college.",
+    "zh": "我姊姊大學畢業後在銀行找到工作。"
+   },
+   "exB": {
+    "en": "Our first task today is to clean the classroom windows.",
+    "zh": "我們今天的第一項任務是擦教室的窗戶。"
+   }
+  },
+  {
+   "a": "fee",
+   "b": "tax",
+   "kind": "semantic",
+   "score": 0.387,
+   "aZh": "n. 費用；手續費",
+   "bZh": "n. 稅；稅金",
+   "diff": "tax 是政府依法向人民收的稅；fee 是為了某種服務、課程或使用權付的費用。",
+   "points": [
+    "使用情境：income tax、sales tax；school fees、an entrance fee",
+    "收錢的人：tax 給政府，fee 給提供服務的單位"
+   ],
+   "tip": "交給政府的是 tax；付給學校、醫生、博物館的是 fee。",
+   "exA": {
+    "en": "The entrance fee for the museum is two hundred dollars.",
+    "zh": "這間博物館的門票費用是兩百元。"
+   },
+   "exB": {
+    "en": "The price of the shoes does not include tax.",
+    "zh": "這雙鞋的價格不含稅。"
+   }
+  },
+  {
+   "a": "technique",
+   "b": "technology",
+   "kind": "semantic",
+   "score": 0.692,
+   "aZh": "n. 技巧；技術",
+   "bZh": "n. 科技；技術",
+   "diff": "technology 是應用科學做出的工具、機器和系統；technique 是做某件事的方法或技巧。",
+   "points": [
+    "使用情境：modern technology、information technology；a painting technique、cooking techniques",
+    "可數與否：technique 多為可數；technology 常作不可數"
+   ],
+   "tip": "手機、電腦是 technology；畫畫、游泳的方法是 technique。",
+   "exA": {
+    "en": "The coach taught us a new technique for kicking the ball.",
+    "zh": "教練教我們一種新的踢球技巧。"
+   },
+   "exB": {
+    "en": "Modern technology makes it easy to talk with friends abroad.",
+    "zh": "現代科技讓我們很容易和國外的朋友聊天。"
+   }
+  },
+  {
+   "a": "so",
+   "b": "therefore",
+   "kind": "semantic",
+   "score": 0.78,
+   "aZh": "conj. 所以；因此",
+   "bZh": "adv. 因此；所以",
+   "diff": "so 是連接詞，可以直接連接兩個句子；therefore 是副詞，前面要用分號、句號或 and。",
+   "points": [
+    "詞性：so 是 conj.，therefore 是 adv.",
+    "標點：子句, so 子句；子句; therefore, 子句",
+    "語氣：therefore 較正式，多用於寫作"
+   ],
+   "tip": "therefore 不能像 so 一樣只用逗號連接兩個句子。",
+   "exA": {
+    "en": "It was late, so we took a taxi home.",
+    "zh": "時間很晚了，所以我們搭計程車回家。"
+   },
+   "exB": {
+    "en": "It was late; therefore, we decided to take a taxi home.",
+    "zh": "時間很晚了，因此我們決定搭計程車回家。"
+   }
+  },
+  {
+   "a": "robber",
+   "b": "thief",
+   "kind": "semantic",
+   "score": 0.458,
+   "aZh": "n. 搶劫者；強盜",
+   "bZh": "n. 小偷；竊賊",
+   "diff": "thief 是趁人不注意偷偷拿走東西的人；robber 是用威脅或暴力當面搶東西的人。",
+   "points": [
+    "方式：thief 偷偷拿，robber 當面搶",
+    "動詞：thief 對應 steal，robber 對應 rob"
+   ],
+   "tip": "偷偷摸摸的是 thief；拿刀搶銀行的是 robber。",
+   "exA": {
+    "en": "Two robbers with knives took money from the store.",
+    "zh": "兩名持刀搶匪搶走了店裡的錢。"
+   },
+   "exB": {
+    "en": "A thief took my wallet while I was sleeping on the train.",
+    "zh": "我在火車上睡覺時，有小偷偷走了我的皮夾。"
+   }
+  },
+  {
+   "a": "though",
+   "b": "thought",
+   "kind": "visual",
+   "score": 0.792,
+   "aZh": "conj. 雖然；儘管",
+   "bZh": "n. 想法；念頭",
+   "diff": "though 是連接詞「雖然」；thought 是名詞「想法」，也是 think 的過去式。兩字只差最後的 t。",
+   "points": [
+    "詞性：though 是 conj./adv.，thought 是 n. 或 think 的過去式",
+    "發音：though /ðoʊ/，thought /θɔt/"
+   ],
+   "tip": "多一個 t 的 thought 和 think 有關。",
+   "exA": {
+    "en": "Though it was raining, we still went to the beach.",
+    "zh": "雖然下著雨，我們還是去了海邊。"
+   },
+   "exB": {
+    "en": "I had a sudden thought about how to solve the problem.",
+    "zh": "我突然想到一個解決問題的辦法。"
+   }
+  },
+  {
+   "a": "through",
+   "b": "throughout",
+   "kind": "visual",
+   "score": 0.718,
+   "aZh": "prep. 穿過；經由",
+   "bZh": "prep. 遍及；在整段期間",
+   "diff": "through 是穿過或經由；throughout 強調從頭到尾、每個地方都是，範圍更完整。",
+   "points": [
+    "語意：through the tunnel 穿過隧道；throughout the year 一整年",
+    "拼字：throughout 是 through 加上 out"
+   ],
+   "tip": "多了 out 就是「全部、徹底」：throughout the country 全國各地。",
+   "exA": {
+    "en": "The train went through a long tunnel under the mountain.",
+    "zh": "火車穿過山下一條長長的隧道。"
+   },
+   "exB": {
+    "en": "It rains a lot in this city throughout the year.",
+    "zh": "這座城市一整年都常下雨。"
+   }
   }
  ]
 }

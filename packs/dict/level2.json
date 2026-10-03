@@ -75246,11 +75246,15 @@
     {
      "pos": "n.",
      "zh": "室內拖鞋",
-     "ext": "",
+     "ext": "slip 輕輕滑入 → 腳一套就能穿上的室內便鞋",
      "examples": [
       {
        "en": "Dad wore warm slippers while reading in the living room.",
        "zh": "爸爸在客廳看書時穿著保暖的室內拖鞋。"
+      },
+      {
+       "en": "Please put on these slippers before you walk into the house.",
+       "zh": "進屋前請換上這雙室內拖鞋。"
       }
      ],
      "patterns": [],
@@ -75271,11 +75275,6 @@
      "word": "slipper",
      "note": "指在室內穿的輕便鞋，常以複數 slippers 出現。",
      "example": "a pair of slippers"
-    },
-    {
-     "word": "house shoe",
-     "note": "指在家穿的鞋，意思相近但較少見。",
-     "example": "comfortable house shoes"
     }
    ],
    "antonyms": [],
@@ -75315,12 +75314,16 @@
    "meanings": [
     {
      "pos": "adj.",
-     "zh": "平滑的；順利的",
-     "ext": "",
+     "zh": "平滑的；光滑的",
+     "ext": "古英語「平坦、沒有起伏」→ 表面摸起來沒有凹凸",
      "examples": [
       {
        "en": "The smooth road made the trip more comfortable.",
        "zh": "路面平坦，讓旅程舒服許多。"
+      },
+      {
+       "en": "This cream will keep your skin soft and smooth in winter.",
+       "zh": "這種乳液能讓你的皮膚在冬天保持柔軟光滑。"
       }
      ],
      "patterns": [],
@@ -75330,19 +75333,49 @@
        "zh": "光滑的皮膚"
       },
       {
+       "en": "a smooth surface",
+       "zh": "平滑的表面"
+      }
+     ]
+    },
+    {
+     "pos": "adj.",
+     "zh": "順利的；平順的",
+     "ext": "表面平滑沒有阻礙 → 事情進行得很順",
+     "examples": [
+      {
+       "en": "We wish you a smooth journey back to Taipei.",
+       "zh": "祝你回台北一路順利。"
+      },
+      {
+       "en": "Good planning made the change to the new system quick and smooth.",
+       "zh": "良好的規劃讓換新系統的過程又快又順利。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
        "en": "a smooth journey",
        "zh": "順利的旅程"
+      },
+      {
+       "en": "a smooth flight",
+       "zh": "平穩的飛行"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "使平滑；使順利",
-     "ext": "",
+     "ext": "把表面弄平滑 → 也比喻把困難處理好",
      "examples": [
       {
        "en": "The team met early to smooth out the final details of the event.",
        "zh": "團隊提早開會，把活動最後的細節談妥。"
+      },
+      {
+       "en": "Mom smoothed the sheets on my bed with her hands.",
+       "zh": "媽媽用手把我床上的床單撫平。"
       }
      ],
      "patterns": [
@@ -75356,6 +75389,10 @@
       {
        "en": "smooth out a problem",
        "zh": "解決問題"
+      },
+      {
+       "en": "smooth one's hair",
+       "zh": "把頭髮撫平"
       }
      ]
     }
@@ -75368,13 +75405,8 @@
     },
     {
      "word": "even",
-     "note": "常指表面平坦、沒有高低起伏。",
+     "note": "只指表面平坦、沒有高低起伏，不形容觸感光滑。",
      "example": "an even surface"
-    },
-    {
-     "word": "easy",
-     "note": "指事情不困難，不能直接表示表面平滑。",
-     "example": "an easy task"
     }
    ],
    "antonyms": [
@@ -75420,6 +75452,10 @@
       {
        "en": "Amy packed a healthy snack for the long bus ride.",
        "zh": "Amy 為長途公車旅程準備了健康點心。"
+      },
+      {
+       "en": "We bought some snacks at the convenience store before the movie.",
+       "zh": "看電影前，我們在便利商店買了一些零食。"
       }
      ],
      "patterns": [],
@@ -75431,17 +75467,25 @@
       {
        "en": "a light snack",
        "zh": "簡單的點心"
+      },
+      {
+       "en": "snack food",
+       "zh": "零食"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "吃點心；吃零食",
-     "ext": "",
+     "ext": "點心 → 當動詞指在正餐之間吃一點東西",
      "examples": [
       {
        "en": "The students snacked on fruit during the afternoon break.",
        "zh": "學生們在下午休息時間吃水果當點心。"
+      },
+      {
+       "en": "Try not to snack too much between meals if you want to stay healthy.",
+       "zh": "想保持健康，就盡量別在正餐之間吃太多零食。"
       }
      ],
      "patterns": [
@@ -75451,7 +75495,16 @@
        "zh": "練習結束後，我們吃了三明治當點心。"
       }
      ],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "snack on fruit",
+       "zh": "吃水果當點心"
+      },
+      {
+       "en": "snack between meals",
+       "zh": "在正餐之間吃零食"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -75459,16 +75512,6 @@
      "word": "snack",
      "note": "指正餐之間少量吃的食物，也可作動詞。",
      "example": "a quick snack"
-    },
-    {
-     "word": "bite",
-     "note": "a bite 可指少量食物，常用於非正式情境。",
-     "example": "grab a bite"
-    },
-    {
-     "word": "treat",
-     "note": "常指偶爾享用的特別點心。",
-     "example": "a sweet treat"
     }
    ],
    "antonyms": [],
@@ -75502,6 +75545,10 @@
       {
        "en": "After the rain, the children saw a snail on the garden wall.",
        "zh": "下雨後，孩子們在花園圍牆上看到一隻蝸牛。"
+      },
+      {
+       "en": "The snail moved so slowly that it took an hour to cross the path.",
+       "zh": "蝸牛爬得好慢，花了一個小時才爬過小路。"
       }
      ],
      "patterns": [],
@@ -75522,11 +75569,6 @@
      "word": "snail",
      "note": "指有殼、移動緩慢的軟體動物。",
      "example": "a small snail"
-    },
-    {
-     "word": "slug",
-     "note": "指外形近似蝸牛但沒有外殼的動物。",
-     "example": "a garden slug"
     }
    ],
    "antonyms": [],
@@ -75547,11 +75589,15 @@
     {
      "pos": "adj.",
      "zh": "下雪的；被雪覆蓋的",
-     "ext": "",
+     "ext": "snow 雪 + -y 有……的 → 正在下雪或覆滿了雪",
      "examples": [
       {
        "en": "The snowy mountain looked beautiful from our hotel window.",
        "zh": "從飯店窗外看去，白雪覆蓋的山很美。"
+      },
+      {
+       "en": "On snowy days, the children love to play in the yard.",
+       "zh": "下雪天，孩子們很喜歡在院子裡玩。"
       }
      ],
      "patterns": [],
@@ -75572,16 +75618,6 @@
      "word": "snowy",
      "note": "表示正在下雪或覆蓋著雪。",
      "example": "a snowy morning"
-    },
-    {
-     "word": "snow-covered",
-     "note": "明確表示表面被雪覆蓋。",
-     "example": "a snow-covered road"
-    },
-    {
-     "word": "wintry",
-     "note": "表示冬天般寒冷，不一定有雪。",
-     "example": "a wintry day"
     }
    ],
    "antonyms": [],
@@ -75621,12 +75657,16 @@
    "meanings": [
     {
      "pos": "n.",
-     "zh": "肥皂；肥皂劇",
+     "zh": "肥皂",
      "ext": "",
      "examples": [
       {
        "en": "Wash your hands with soap before eating lunch.",
        "zh": "吃午餐前要用肥皂洗手。"
+      },
+      {
+       "en": "There is no soap in the school bathroom, so please tell the office.",
+       "zh": "學校廁所沒有肥皂了，請通知辦公室。"
       }
      ],
      "patterns": [],
@@ -75648,11 +75688,15 @@
     {
      "pos": "v.",
      "zh": "用肥皂洗",
-     "ext": "",
+     "ext": "肥皂 → 當動詞指抹上肥皂來清洗",
      "examples": [
       {
        "en": "She soaped her hands before preparing the food.",
        "zh": "她準備食物前先用肥皂洗手。"
+      },
+      {
+       "en": "Dad soaped the car and then washed it with clean water.",
+       "zh": "爸爸先在車上抹肥皂，再用清水沖乾淨。"
       }
      ],
      "patterns": [
@@ -75662,7 +75706,16 @@
        "zh": "他先用肥皂洗髒盤子，再把盤子沖乾淨。"
       }
      ],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "soap one's hands",
+       "zh": "用肥皂洗手"
+      },
+      {
+       "en": "soap the car",
+       "zh": "給車子抹肥皂"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -75670,16 +75723,6 @@
      "word": "soap",
      "note": "指用來清潔的肥皂，也可作動詞表示用肥皂洗。",
      "example": "a bar of soap"
-    },
-    {
-     "word": "cleanser",
-     "note": "指清潔用品，種類不限於肥皂。",
-     "example": "a gentle cleanser"
-    },
-    {
-     "word": "detergent",
-     "note": "常指用於洗衣或洗碗的清潔劑。",
-     "example": "laundry detergent"
     }
    ],
    "antonyms": [],
@@ -75705,6 +75748,10 @@
       {
        "en": "Our class plays soccer in the park every Friday.",
        "zh": "我們班每週五都在公園踢足球。"
+      },
+      {
+       "en": "Millions of people around the world watch the soccer World Cup on TV.",
+       "zh": "全世界有數百萬人在電視上看世界盃足球賽。"
       }
      ],
      "patterns": [
@@ -75767,12 +75814,46 @@
    "meanings": [
     {
      "pos": "adj.",
-     "zh": "社會的；社交的",
-     "ext": "",
+     "zh": "社會的",
+     "ext": "拉丁文 socius 同伴 → 和整個社會大眾有關的",
+     "examples": [
+      {
+       "en": "Poverty is a serious social problem in many big cities.",
+       "zh": "貧窮是許多大城市嚴重的社會問題。"
+      },
+      {
+       "en": "Our teacher asked us to write a report on a social issue.",
+       "zh": "老師要我們針對一個社會議題寫報告。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
+       "en": "a social problem",
+       "zh": "社會問題"
+      },
+      {
+       "en": "social issues",
+       "zh": "社會議題"
+      },
+      {
+       "en": "social change",
+       "zh": "社會變遷"
+      }
+     ]
+    },
+    {
+     "pos": "adj.",
+     "zh": "社交的；交際的",
+     "ext": "和同伴有關 → 和人際往來、交朋友有關的",
      "examples": [
       {
        "en": "The club gives new students a chance to make social connections.",
        "zh": "社團讓新生有機會建立社交關係。"
+      },
+      {
+       "en": "Many teenagers spend hours on social media every day.",
+       "zh": "許多青少年每天花好幾個小時在社群媒體上。"
       }
      ],
      "patterns": [],
@@ -75786,8 +75867,8 @@
        "zh": "社交技巧"
       },
       {
-       "en": "social problem",
-       "zh": "社會問題"
+       "en": "social life",
+       "zh": "社交生活"
       }
      ]
     }
@@ -75797,16 +75878,6 @@
      "word": "social",
      "note": "指與社會、群體或人際互動有關。",
      "example": "social activities"
-    },
-    {
-     "word": "friendly",
-     "note": "形容待人友善，不等同於社會層面的。",
-     "example": "a friendly classmate"
-    },
-    {
-     "word": "sociable",
-     "note": "形容喜歡與人交往，著重個人性格。",
-     "example": "a sociable student"
     }
    ],
    "antonyms": [
@@ -75856,11 +75927,15 @@
     {
      "pos": "n.",
      "zh": "社會；社群",
-     "ext": "",
+     "ext": "拉丁文 societas 夥伴關係 → 一群人共同生活的整體",
      "examples": [
       {
        "en": "Technology has changed the way people communicate in society.",
        "zh": "科技改變了人們在社會中的溝通方式。"
+      },
+      {
+       "en": "Older people play an important role in our society.",
+       "zh": "年長者在我們的社會中扮演重要的角色。"
       }
      ],
      "patterns": [],
@@ -75878,11 +75953,15 @@
     {
      "pos": "n.",
      "zh": "協會；社團",
-     "ext": "",
+     "ext": "夥伴關係 → 有共同興趣或目標的人組成的團體",
      "examples": [
       {
        "en": "Amy joined the science society to meet students with similar interests.",
        "zh": "Amy 加入科學社，認識興趣相近的同學。"
+      },
+      {
+       "en": "The local history society holds a meeting every month.",
+       "zh": "當地的歷史學會每個月開一次會。"
       }
      ],
      "patterns": [],
@@ -75890,6 +75969,10 @@
       {
        "en": "a student society",
        "zh": "學生社團"
+      },
+      {
+       "en": "join a society",
+       "zh": "加入協會"
       }
      ]
     }
@@ -75901,13 +75984,8 @@
      "example": "modern society"
     },
     {
-     "word": "community",
-     "note": "指住在同一地區或有共同特點的人群。",
-     "example": "the local community"
-    },
-    {
      "word": "association",
-     "note": "較正式，常指為特定目的成立的組織。",
+     "note": "只用於協會的意思，較正式，常指為特定目的成立的組織。",
      "example": "a business association"
     }
    ],
@@ -75947,6 +76025,10 @@
       {
        "en": "Tom put on a clean pair of socks before school.",
        "zh": "Tom 上學前穿上一雙乾淨的短襪。"
+      },
+      {
+       "en": "My grandmother knitted me a pair of warm socks for winter.",
+       "zh": "奶奶替我織了一雙冬天穿的保暖襪子。"
       }
      ],
      "patterns": [],
@@ -75967,11 +76049,6 @@
      "word": "sock",
      "note": "一般指穿在腳上的短襪。",
      "example": "a pair of socks"
-    },
-    {
-     "word": "stocking",
-     "note": "通常較長，常指薄的女用長襪。",
-     "example": "silk stockings"
     }
    ],
    "antonyms": [],
@@ -76005,6 +76082,10 @@
       {
        "en": "We ordered soda and sandwiches at the small cafe.",
        "zh": "我們在小咖啡館點了汽水和三明治。"
+      },
+      {
+       "en": "Drinking too much soda is bad for your teeth.",
+       "zh": "喝太多汽水對牙齒不好。"
       }
      ],
      "patterns": [],
@@ -76027,14 +76108,9 @@
      "example": "a can of soda"
     },
     {
-     "word": "soft drink",
-     "note": "泛指不含酒精的汽水類飲料，範圍較廣。",
-     "example": "a soft drink"
-    },
-    {
-     "word": "fizzy drink",
-     "note": "英式用法，指有氣泡的飲料。",
-     "example": "a fizzy drink"
+     "word": "pop",
+     "note": "也指汽水，較口語，美國部分地區常用。",
+     "example": "a bottle of pop"
     }
    ],
    "antonyms": [],
@@ -76063,11 +76139,15 @@
     {
      "pos": "adj.",
      "zh": "柔軟的",
-     "ext": "",
+     "ext": "古英語「舒適、溫和」→ 摸起來不硬、容易壓下去",
      "examples": [
       {
        "en": "The soft blanket kept the baby warm during the trip.",
        "zh": "柔軟的毯子讓寶寶旅途中保持溫暖。"
+      },
+      {
+       "en": "This bed is too soft for me, so I can't sleep well.",
+       "zh": "這張床對我來說太軟了，我睡不好。"
       }
      ],
      "patterns": [],
@@ -76075,17 +76155,29 @@
       {
        "en": "soft material",
        "zh": "柔軟的材質"
+      },
+      {
+       "en": "a soft bed",
+       "zh": "柔軟的床"
+      },
+      {
+       "en": "soft skin",
+       "zh": "柔嫩的皮膚"
       }
      ]
     },
     {
      "pos": "adj.",
      "zh": "輕柔的；不強烈的",
-     "ext": "",
+     "ext": "摸起來柔軟 → 聲音、光線不刺耳也不刺眼",
      "examples": [
       {
        "en": "The teacher spoke in a soft voice during the reading activity.",
        "zh": "閱讀活動時，老師用柔和的聲音說話。"
+      },
+      {
+       "en": "Soft music was playing in the background at the restaurant.",
+       "zh": "餐廳裡播放著輕柔的背景音樂。"
       }
      ],
      "patterns": [],
@@ -76113,13 +76205,8 @@
     },
     {
      "word": "gentle",
-     "note": "常形容動作、態度或影響溫和。",
-     "example": "a gentle touch"
-    },
-    {
-     "word": "smooth",
-     "note": "強調表面平滑，不一定柔軟。",
-     "example": "smooth skin"
+     "note": "常形容動作、態度溫和，和 soft 的聲音、光線柔和相近。",
+     "example": "a gentle voice"
     }
    ],
    "antonyms": [
@@ -76177,11 +76264,15 @@
     {
      "pos": "n.",
      "zh": "土壤；泥土",
-     "ext": "",
+     "ext": "大地上的一層 → 讓植物生長的泥土",
      "examples": [
       {
        "en": "Healthy soil helps vegetables grow well in the school garden.",
        "zh": "健康的土壤能讓蔬菜在校園菜園裡長得好。"
+      },
+      {
+       "en": "Farmers in this area grow rice in the rich soil near the river.",
+       "zh": "這一帶的農夫在河邊肥沃的土壤上種稻。"
       }
      ],
      "patterns": [],
@@ -76199,11 +76290,15 @@
     {
      "pos": "v.",
      "zh": "弄髒；玷污",
-     "ext": "",
+     "ext": "泥土 → 沾上泥土 → 把東西弄髒",
      "examples": [
       {
        "en": "Please remove your shoes so you do not soil the clean floor.",
        "zh": "請脫下鞋子，才不會弄髒乾淨的地板。"
+      },
+      {
+       "en": "The baby soiled his new shirt with chocolate.",
+       "zh": "寶寶的新襯衫被巧克力弄髒了。"
       }
      ],
      "patterns": [
@@ -76213,24 +76308,33 @@
        "zh": "濕鞋子可能會弄髒門邊的地毯。"
       }
      ],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "soil one's clothes",
+       "zh": "弄髒衣服"
+      },
+      {
+       "en": "soiled clothes",
+       "zh": "髒衣服"
+      }
+     ]
     }
    ],
    "synonyms": [
     {
      "word": "soil",
-     "note": "作名詞指植物生長的土壤；作動詞指弄髒。",
+     "note": "作名詞指植物生長的土壤，多用於農業、自然科學。",
      "example": "rich soil"
     },
     {
      "word": "earth",
-     "note": "可指地面上的土，也可指地球，意思較廣。",
+     "note": "也可指泥土，但另有地球、土地的意思，用法較廣。",
      "example": "dig in the earth"
     },
     {
      "word": "dirt",
-     "note": "常指地上的髒土或污垢，語氣較日常。",
-     "example": "remove dirt"
+     "note": "美式口語常指地上的土，也指髒東西、污垢。",
+     "example": "a dirt road"
     }
    ],
    "antonyms": [
@@ -76256,11 +76360,15 @@
     {
      "pos": "n.",
      "zh": "解答；解決方法",
-     "ext": "",
+     "ext": "拉丁文 solvere 解開 → 解開難題的方法",
      "examples": [
       {
        "en": "Our group found a simple solution to the problem after discussion.",
        "zh": "我們小組討論後找到這個問題的簡單解決方法。"
+      },
+      {
+       "en": "Recycling is one solution to the problem of too much trash.",
+       "zh": "回收是解決垃圾太多問題的一個辦法。"
       }
      ],
      "patterns": [
@@ -76284,11 +76392,15 @@
     {
      "pos": "n.",
      "zh": "溶液",
-     "ext": "",
+     "ext": "解開 → 東西在水裡散開、溶化後的液體",
      "examples": [
       {
        "en": "The students mixed salt with water to make a solution.",
        "zh": "學生把鹽和水混合，製成溶液。"
+      },
+      {
+       "en": "Clean the cut with a salt solution to keep it from getting worse.",
+       "zh": "用食鹽水清洗傷口，避免傷口惡化。"
       }
      ],
      "patterns": [],
@@ -76296,6 +76408,10 @@
       {
        "en": "a salt solution",
        "zh": "鹽溶液"
+      },
+      {
+       "en": "a sugar solution",
+       "zh": "糖水溶液"
       }
      ]
     }
@@ -76363,11 +76479,15 @@
     {
      "pos": "v.",
      "zh": "解決；解答",
-     "ext": "",
+     "ext": "拉丁文 solvere 解開 → 解開問題或謎題",
      "examples": [
       {
        "en": "The students worked together to solve the math problem.",
        "zh": "學生一起合作解出這道數學題。"
+      },
+      {
+       "en": "The police are still trying to solve the case of the missing bike.",
+       "zh": "警方還在設法偵破腳踏車失竊案。"
       }
      ],
      "patterns": [
@@ -76456,11 +76576,15 @@
     {
      "pos": "adv.",
      "zh": "有點；稍微",
-     "ext": "",
+     "ext": "some 某些 + what 什麼 → 在某種程度上，有一點",
      "examples": [
       {
        "en": "The new science lesson was somewhat difficult but still interesting.",
        "zh": "新的自然課有點難，但還是很有趣。"
+      },
+      {
+       "en": "Prices in Japan were somewhat higher than we had expected.",
+       "zh": "日本的物價比我們預期的稍微高一些。"
       }
      ],
      "patterns": [
@@ -76492,11 +76616,6 @@
      "word": "rather",
      "note": "可表示相當或有點，程度常比 somewhat 強。",
      "example": "rather tired"
-    },
-    {
-     "word": "slightly",
-     "note": "表示程度很小，常修飾形容詞或副詞。",
-     "example": "slightly different"
     }
    ],
    "antonyms": [],
@@ -76517,11 +76636,15 @@
     {
      "pos": "n.",
      "zh": "種類；類型",
-     "ext": "",
+     "ext": "拉丁文 sors 抽籤、命運 → 分到的那一類",
      "examples": [
       {
        "en": "What sort of music do you listen to while studying?",
        "zh": "你讀書時會聽哪一種音樂？"
+      },
+      {
+       "en": "Swimming is the sort of exercise that is good for your whole body.",
+       "zh": "游泳是對全身都有益的那種運動。"
       }
      ],
      "patterns": [
@@ -76535,17 +76658,25 @@
       {
        "en": "this sort of thing",
        "zh": "這類事情"
+      },
+      {
+       "en": "all sorts of",
+       "zh": "各式各樣的"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "分類；整理",
-     "ext": "",
+     "ext": "種類 → 依種類把東西分開放",
      "examples": [
       {
        "en": "Kevin sorted the books by subject before putting them away.",
        "zh": "Kevin 把書按科目分類後再收好。"
+      },
+      {
+       "en": "Please sort your trash into paper, plastic, and food waste.",
+       "zh": "請把垃圾分成紙類、塑膠和廚餘。"
       }
      ],
      "patterns": [
@@ -76559,6 +76690,10 @@
       {
        "en": "sort the papers",
        "zh": "整理文件"
+      },
+      {
+       "en": "sort out",
+       "zh": "整理；解決"
       }
      ]
     }
@@ -76616,8 +76751,12 @@
      "ext": "",
      "examples": [
       {
-       "en": "The story asks whether the soul can remain hopeful during hard times.",
-       "zh": "故事探討人在艱難時是否仍能保有希望。"
+       "en": "Many people believe that the soul lives on after death.",
+       "zh": "許多人相信人死後靈魂依然存在。"
+      },
+      {
+       "en": "Reading good poems is food for the soul.",
+       "zh": "讀好詩是心靈的糧食。"
       }
      ],
      "patterns": [],
@@ -76635,11 +76774,15 @@
     {
      "pos": "n.",
      "zh": "人；某個人",
-     "ext": "",
+     "ext": "靈魂 → 用一個靈魂代表一個人",
      "examples": [
       {
        "en": "Not a soul was in the library when Amy arrived early.",
        "zh": "Amy 提早到圖書館時，裡面一個人也沒有。"
+      },
+      {
+       "en": "Grandma is a kind old soul who helps everyone in the village.",
+       "zh": "奶奶是個善良的老人家，村裡每個人她都幫。"
       }
      ],
      "patterns": [
@@ -76649,7 +76792,16 @@
        "zh": "半夜過後，公車站一個人也沒有。"
       }
      ],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "not a soul",
+       "zh": "一個人也沒有"
+      },
+      {
+       "en": "a kind soul",
+       "zh": "好心人"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -76660,13 +76812,8 @@
     },
     {
      "word": "spirit",
-     "note": "常指精神、意志或情緒，也可指靈體。",
-     "example": "a team spirit"
-    },
-    {
-     "word": "person",
-     "note": "一般指一個人，沒有靈魂或內在的含意。",
-     "example": "a young person"
+     "note": "較強調精神、意志或情緒，不用來指一個人。",
+     "example": "team spirit"
     }
    ],
    "antonyms": [],
@@ -76692,6 +76839,10 @@
       {
        "en": "The sour lemon made Tom close his eyes for a moment.",
        "zh": "酸檸檬讓 Tom 短暫地閉上眼睛。"
+      },
+      {
+       "en": "The milk turned sour because I left it out of the refrigerator.",
+       "zh": "牛奶因為我沒放冰箱而酸掉了。"
       }
      ],
      "patterns": [],
@@ -76703,6 +76854,10 @@
       {
        "en": "sour milk",
        "zh": "酸掉的牛奶"
+      },
+      {
+       "en": "turn sour",
+       "zh": "變酸；變質"
       }
      ]
     }
@@ -76712,16 +76867,6 @@
      "word": "sour",
      "note": "常形容檸檬等食物的酸味，也可指變酸或變質。",
      "example": "sour milk"
-    },
-    {
-     "word": "tart",
-     "note": "指明顯、清爽的酸味，常形容水果或飲料。",
-     "example": "tart fruit"
-    },
-    {
-     "word": "acidic",
-     "note": "較正式，指酸性或帶酸的味道。",
-     "example": "acidic juice"
     }
    ],
    "antonyms": [
@@ -76747,11 +76892,15 @@
     {
      "pos": "n.",
      "zh": "來源；出處",
-     "ext": "",
+     "ext": "古法語「泉源」→ 水流出來的地方 → 事物的來源",
      "examples": [
       {
        "en": "The students checked the source before using the information in their report.",
        "zh": "學生在報告中使用資訊前先確認了來源。"
+      },
+      {
+       "en": "The sun is the main source of energy for all living things.",
+       "zh": "太陽是所有生物的主要能量來源。"
       }
      ],
      "patterns": [
@@ -76785,26 +76934,13 @@
     },
     {
      "word": "origin",
-     "note": "較強調事物最初開始或形成的地方。",
+     "note": "較強調事物最初開始或形成的地方，不指資料出處。",
      "example": "the origin of the tradition"
-    },
-    {
-     "word": "cause",
-     "note": "專指造成某件事的原因，不泛指資料出處。",
-     "example": "the cause of the delay"
     }
    ],
    "antonyms": [],
    "confusables": [],
-   "commonErrors": [
-    {
-     "wrong": "Where did you get this information source?",
-     "right": "Where did you get this information from?",
-     "note": "source 指來源本身；詢問資訊來自何處時可用 from。",
-     "exWrong": "The teacher asked where the news source came.",
-     "exRight": "The teacher asked where the news came from."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
    "origin": "",
@@ -76842,11 +76978,15 @@
     {
      "pos": "adj.",
      "zh": "南方的；南部的",
-     "ext": "",
+     "ext": "south 南方 + -ern 方向的 → 位在南方或來自南方的",
      "examples": [
       {
        "en": "My family visited a small town in southern Taiwan during the winter break.",
        "zh": "寒假期間，我們家去了台灣南部的一個小鎮。"
+      },
+      {
+       "en": "The weather in southern Europe is usually warm and sunny.",
+       "zh": "南歐的天氣通常溫暖又晴朗。"
       }
      ],
      "patterns": [
@@ -76873,16 +77013,6 @@
      "word": "southern",
      "note": "表示位於南方或南部，常置於地名或地區名之前。",
      "example": "southern Taiwan"
-    },
-    {
-     "word": "south",
-     "note": "可作名詞、副詞或形容詞，southern 通常是形容詞。",
-     "example": "the south coast"
-    },
-    {
-     "word": "southerly",
-     "note": "較常形容來自南方的風或方向。",
-     "example": "a southerly wind"
     }
    ],
    "antonyms": [
@@ -76947,11 +77077,15 @@
     {
      "pos": "n.",
      "zh": "黃豆；大豆",
-     "ext": "",
+     "ext": "soy 醬油 + bean 豆子 → 用來做醬油的豆子",
      "examples": [
       {
        "en": "The farmer grows soybeans in the field behind the school.",
        "zh": "農夫在學校後方的田裡種大豆。"
+      },
+      {
+       "en": "Tofu and soybean milk are both made from soybeans.",
+       "zh": "豆腐和豆漿都是用黃豆做的。"
       }
      ],
      "patterns": [],
@@ -76959,6 +77093,10 @@
       {
        "en": "soybean oil",
        "zh": "大豆油"
+      },
+      {
+       "en": "soybean milk",
+       "zh": "豆漿"
       }
      ]
     }
@@ -76968,16 +77106,6 @@
      "word": "soybean",
      "note": "美式英文常用的「大豆」說法。",
      "example": "soybean oil"
-    },
-    {
-     "word": "soy",
-     "note": "常指黃豆製成的食品或原料，也可指大豆。",
-     "example": "soy milk"
-    },
-    {
-     "word": "soya bean",
-     "note": "英式拼法，意思與 soybean 相同。",
-     "example": "soya bean crop"
     }
    ],
    "antonyms": [],
@@ -77009,11 +77137,15 @@
     {
      "pos": "n.",
      "zh": "演講者；發言者",
-     "ext": "",
+     "ext": "speak 說話 + -er 人 → 在眾人面前說話的人",
      "examples": [
       {
        "en": "The speaker shared useful study tips with students at the school event.",
        "zh": "演講者在校園活動中分享了實用的讀書技巧。"
+      },
+      {
+       "en": "Each speaker has five minutes to share an idea with the class.",
+       "zh": "每位發言者有五分鐘向全班分享一個想法。"
       }
      ],
      "patterns": [],
@@ -77030,12 +77162,48 @@
     },
     {
      "pos": "n.",
+     "zh": "說某種語言的人",
+     "ext": "說話的人 → 會說、使用某種語言的人",
+     "examples": [
+      {
+       "en": "Our school invited a native speaker of English to teach us.",
+       "zh": "我們學校請了一位英語母語人士來教我們。"
+      },
+      {
+       "en": "There are more than one billion speakers of Chinese in the world.",
+       "zh": "全世界說中文的人超過十億。"
+      }
+     ],
+     "patterns": [
+      {
+       "pattern": "a speaker of + 語言",
+       "en": "Amy is a fluent speaker of Japanese.",
+       "zh": "Amy 說日文很流利。"
+      }
+     ],
+     "collocations": [
+      {
+       "en": "a native speaker",
+       "zh": "母語人士"
+      },
+      {
+       "en": "English speakers",
+       "zh": "說英語的人"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
      "zh": "喇叭；揚聲器",
-     "ext": "",
+     "ext": "說話的人 → 替機器把聲音放出來的裝置",
      "examples": [
       {
        "en": "The teacher used a small speaker so everyone could hear the recording.",
        "zh": "老師使用小型喇叭，讓每個人都聽得到錄音。"
+      },
+      {
+       "en": "Turn down the speakers, or the neighbors will complain about the noise.",
+       "zh": "把喇叭轉小聲，不然鄰居會抱怨噪音。"
       }
      ],
      "patterns": [],
@@ -77056,16 +77224,6 @@
      "word": "speaker",
      "note": "可指說話或演講的人，也可指播放聲音的設備。",
      "example": "guest speaker"
-    },
-    {
-     "word": "presenter",
-     "note": "常指主持或介紹節目、活動內容的人。",
-     "example": "the presenter at the event"
-    },
-    {
-     "word": "lecturer",
-     "note": "通常指在大學或正式場合授課的人。",
-     "example": "a guest lecturer"
     }
    ],
    "antonyms": [],
@@ -77109,12 +77267,16 @@
    "meanings": [
     {
      "pos": "n.",
-     "zh": "演講；說話",
-     "ext": "",
+     "zh": "演講；致詞",
+     "ext": "說話 → 對一群人正式地說一段話",
      "examples": [
       {
        "en": "Amy gave a short speech about protecting the environment.",
        "zh": "Amy 發表了一段關於保護環境的簡短演講。"
+      },
+      {
+       "en": "The principal gave a speech at the graduation ceremony.",
+       "zh": "校長在畢業典禮上致詞。"
       }
      ],
      "patterns": [
@@ -77130,8 +77292,38 @@
        "zh": "發表演講"
       },
       {
+       "en": "make a speech",
+       "zh": "發表演說"
+      },
+      {
+       "en": "a speech contest",
+       "zh": "演講比賽"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "說話；言語",
+     "ext": "古英語 spaec 說話 → 說話的能力或方式",
+     "examples": [
+      {
+       "en": "In Taiwan, people enjoy freedom of speech and can share their ideas.",
+       "zh": "在台灣，人民享有言論自由，可以分享自己的想法。"
+      },
+      {
+       "en": "After the accident, he lost his speech for a few weeks.",
+       "zh": "那場意外後，他有好幾個星期無法說話。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
        "en": "freedom of speech",
        "zh": "言論自由"
+      },
+      {
+       "en": "speech sounds",
+       "zh": "語音"
       }
      ]
     }
@@ -77139,7 +77331,7 @@
    "synonyms": [
     {
      "word": "speech",
-     "note": "可指正式演講，也可泛指說話的能力。",
+     "note": "多指正式的演講，也可泛指說話的能力。",
      "example": "give a speech"
     },
     {
@@ -77149,8 +77341,8 @@
     },
     {
      "word": "address",
-     "note": "較正式，常指對一群人發表演說。",
-     "example": "deliver an address"
+     "note": "較正式，常指重要人物對一群人發表的演說。",
+     "example": "a public address"
     }
    ],
    "antonyms": [],
@@ -77166,16 +77358,20 @@
    "word": "speed",
    "phonetic": "/spiːd/",
    "level": 2,
-   "forms": "sped · sped · speeding · speedy",
+   "forms": "speeds · sped · sped · speeding · speedy",
    "meanings": [
     {
      "pos": "n.",
      "zh": "速度；速率",
-     "ext": "",
+     "ext": "古英語「成功、進展」→ 前進得快不快",
      "examples": [
       {
        "en": "The train reached a high speed before it entered the tunnel.",
        "zh": "火車進入隧道前達到很快的速度。"
+      },
+      {
+       "en": "Please slow down; the speed limit near the school is thirty.",
+       "zh": "請放慢速度，學校附近的速限是三十。"
       }
      ],
      "patterns": [
@@ -77199,11 +77395,15 @@
     {
      "pos": "v.",
      "zh": "加速；快速前進",
-     "ext": "",
+     "ext": "速度 → 當動詞指快速前進或開車超速",
      "examples": [
       {
        "en": "The bus sped away after all the students got on.",
        "zh": "學生都上車後，公車便快速開走了。"
+      },
+      {
+       "en": "The police stopped a car that was speeding on the highway.",
+       "zh": "警察攔下一輛在高速公路上超速的車。"
       }
      ],
      "patterns": [
@@ -77217,6 +77417,10 @@
       {
        "en": "speed up",
        "zh": "加快速度"
+      },
+      {
+       "en": "speed away",
+       "zh": "快速離開"
       }
      ]
     }
@@ -77238,12 +77442,7 @@
      "example": "growth rate"
     }
    ],
-   "antonyms": [
-    {
-     "word": "slowness",
-     "zh": "緩慢"
-    }
-   ],
+   "antonyms": [],
    "confusables": [],
    "commonErrors": [
     {
@@ -77269,11 +77468,15 @@
     {
      "pos": "n.",
      "zh": "拼字；拼法",
-     "ext": "",
+     "ext": "spell 拼字 + -ing → 一個字的拼寫方式",
      "examples": [
       {
        "en": "Amy checked the spelling of each word before handing in her report.",
        "zh": "Amy 交報告前檢查了每個字的拼法。"
+      },
+      {
+       "en": "My little sister got full marks on her spelling test today.",
+       "zh": "我妹妹今天的拼字小考拿了滿分。"
       }
      ],
      "patterns": [
@@ -77291,6 +77494,10 @@
       {
        "en": "correct spelling",
        "zh": "正確拼法"
+      },
+      {
+       "en": "a spelling test",
+       "zh": "拼字測驗"
       }
      ]
     }
@@ -77300,11 +77507,6 @@
      "word": "spelling",
      "note": "指單字中字母的排列方式或拼字能力。",
      "example": "check the spelling"
-    },
-    {
-     "word": "orthography",
-     "note": "較正式，指一種語言的拼字規則。",
-     "example": "English orthography"
     }
    ],
    "antonyms": [],
@@ -77353,6 +77555,10 @@
       {
        "en": "A small spider built its web near the window in our classroom.",
        "zh": "一隻小蜘蛛在教室窗邊結了網。"
+      },
+      {
+       "en": "Many people are afraid of spiders, but most of them are harmless.",
+       "zh": "很多人怕蜘蛛，但大部分的蜘蛛都無害。"
       }
      ],
      "patterns": [],
@@ -77400,11 +77606,15 @@
     {
      "pos": "n.",
      "zh": "精神；心境",
-     "ext": "",
+     "ext": "拉丁文 spiritus 呼吸 → 人的生命力和精神狀態",
      "examples": [
       {
        "en": "The team kept its spirit high even after losing the first game.",
        "zh": "即使輸了第一場比賽，隊伍仍保持高昂的士氣。"
+      },
+      {
+       "en": "A warm letter from her friend lifted Amy's spirits.",
+       "zh": "朋友一封溫暖的信讓 Amy 精神振作起來。"
       }
      ],
      "patterns": [
@@ -77428,11 +77638,15 @@
     {
      "pos": "n.",
      "zh": "精神；信念",
-     "ext": "",
+     "ext": "人的精神 → 一群人共有的態度或信念",
      "examples": [
       {
        "en": "The story celebrates the spirit of kindness in a small town.",
        "zh": "這個故事頌揚小鎮裡的善良精神。"
+      },
+      {
+       "en": "Volunteers who clean the beach show the spirit of caring for nature.",
+       "zh": "清理海灘的志工展現了愛護自然的精神。"
       }
      ],
      "patterns": [
@@ -77525,6 +77739,10 @@
       {
        "en": "Tom used a spoon to stir sugar into his cup of tea.",
        "zh": "Tom 用湯匙把糖攪進茶裡。"
+      },
+      {
+       "en": "The baby is learning to eat rice with a spoon.",
+       "zh": "寶寶正在學用湯匙吃飯。"
       }
      ],
      "patterns": [],
@@ -77545,16 +77763,6 @@
      "word": "spoon",
      "note": "常見的匙形餐具，可用來喝湯或舀食物。",
      "example": "a spoonful of soup"
-    },
-    {
-     "word": "ladle",
-     "note": "長柄大湯勺，常用來舀湯或盛菜。",
-     "example": "a soup ladle"
-    },
-    {
-     "word": "scoop",
-     "note": "指舀取的動作或舀取用的工具。",
-     "example": "a scoop of ice cream"
     }
    ],
    "antonyms": [],
@@ -77580,6 +77788,10 @@
       {
        "en": "Many students play a sport after school to stay healthy.",
        "zh": "許多學生放學後會做運動來保持健康。"
+      },
+      {
+       "en": "Baseball is one of the most popular sports in Taiwan.",
+       "zh": "棒球是台灣最受歡迎的運動之一。"
       }
      ],
      "patterns": [],
@@ -77591,6 +77803,10 @@
       {
        "en": "sports center",
        "zh": "運動中心"
+      },
+      {
+       "en": "play a sport",
+       "zh": "做運動；打球"
       }
      ]
     }
@@ -77598,18 +77814,8 @@
    "synonyms": [
     {
      "word": "sport",
-     "note": "英式英文常指運動；美式英文也常用 sports 泛指運動。",
+     "note": "指有規則、常帶比賽性質的運動項目，如籃球、游泳。",
      "example": "play a sport"
-    },
-    {
-     "word": "game",
-     "note": "指有規則的比賽或遊戲，不一定是運動種類。",
-     "example": "a basketball game"
-    },
-    {
-     "word": "exercise",
-     "note": "指為了健康而活動身體，不一定有競賽。",
-     "example": "daily exercise"
     }
    ],
    "antonyms": [],
@@ -77630,11 +77836,15 @@
     {
      "pos": "n.",
      "zh": "地點；場所",
-     "ext": "",
+     "ext": "小斑點 → 地圖上的一個點 → 一個特定的地方",
      "examples": [
       {
        "en": "We found a quiet spot near the lake to eat our lunch.",
        "zh": "我們在湖邊找到一個安靜的地方吃午餐。"
+      },
+      {
+       "en": "This beach is a popular spot for tourists in summer.",
+       "zh": "這個海灘是夏天很受觀光客歡迎的景點。"
       }
      ],
      "patterns": [
@@ -77652,17 +77862,25 @@
       {
        "en": "a parking spot",
        "zh": "停車位"
+      },
+      {
+       "en": "a tourist spot",
+       "zh": "觀光景點"
       }
      ]
     },
     {
      "pos": "n.",
      "zh": "斑點；污漬",
-     "ext": "",
+     "ext": "中古英語「小污點」→ 表面上的小點或污跡",
      "examples": [
       {
        "en": "There was a dark spot on the front of his white shirt.",
        "zh": "他的白襯衫前面有一塊深色污漬。"
+      },
+      {
+       "en": "Our dog is white with black spots on its back.",
+       "zh": "我們家的狗是白色的，背上有黑色斑點。"
       }
      ],
      "patterns": [],
@@ -77670,17 +77888,25 @@
       {
        "en": "a spot of paint",
        "zh": "一點油漆"
+      },
+      {
+       "en": "black spots",
+       "zh": "黑色斑點"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "看見；認出",
-     "ext": "",
+     "ext": "看出一個小點 → 在很多東西中一眼認出",
      "examples": [
       {
        "en": "Jenny spotted her teacher across the crowded school hall.",
        "zh": "Jenny 在擁擠的學校大廳另一端看見了老師。"
+      },
+      {
+       "en": "Can you spot the difference between these two pictures?",
+       "zh": "你能看出這兩張圖的差別嗎？"
       }
      ],
      "patterns": [
@@ -77732,16 +77958,20 @@
    "word": "spread",
    "phonetic": "/sprɛd/",
    "level": 2,
-   "forms": "spread · spread · spreading",
+   "forms": "spreads · spread · spread · spreading",
    "meanings": [
     {
      "pos": "v.",
      "zh": "散布；傳播",
-     "ext": "",
+     "ext": "把東西攤開 → 向四周擴散 → 消息或疾病傳開",
      "examples": [
       {
        "en": "The school shared the news online, and it spread quickly among students.",
        "zh": "學校把消息分享到網路上，很快就在學生間傳開了。"
+      },
+      {
+       "en": "Wash your hands often to stop the virus from spreading.",
+       "zh": "常洗手，阻止病毒擴散。"
       }
      ],
      "patterns": [
@@ -77770,11 +78000,15 @@
     {
      "pos": "v.",
      "zh": "攤開；塗抹",
-     "ext": "",
+     "ext": "古英語「伸展、展開」→ 把東西攤開或抹開",
      "examples": [
       {
        "en": "She spread butter on the bread before making breakfast.",
        "zh": "她做早餐前先在麵包上塗了奶油。"
+      },
+      {
+       "en": "We spread a map on the table to plan our trip.",
+       "zh": "我們把地圖攤在桌上規劃旅行。"
       }
      ],
      "patterns": [
@@ -77788,17 +78022,29 @@
       {
        "en": "spread butter",
        "zh": "塗奶油"
+      },
+      {
+       "en": "spread a map",
+       "zh": "攤開地圖"
+      },
+      {
+       "en": "spread one's arms",
+       "zh": "張開雙臂"
       }
      ]
     },
     {
      "pos": "n.",
      "zh": "傳播；擴散",
-     "ext": "",
+     "ext": "向四周散開 → 當名詞指擴散的情形",
      "examples": [
       {
        "en": "The spread of the flu kept many students home that week.",
        "zh": "那週流感擴散，許多學生因此待在家裡。"
+      },
+      {
+       "en": "The internet has made the spread of news much faster.",
+       "zh": "網路讓新聞傳播的速度快了很多。"
       }
      ],
      "patterns": [
@@ -77812,6 +78058,10 @@
       {
        "en": "the spread of disease",
        "zh": "疾病的傳播"
+      },
+      {
+       "en": "the spread of information",
+       "zh": "資訊的傳播"
       }
      ]
     }
@@ -77860,11 +78110,15 @@
     {
      "pos": "n.",
      "zh": "階段；時期",
-     "ext": "",
+     "ext": "古法語「一層樓」→ 發展過程中的一層 → 階段",
      "examples": [
       {
        "en": "At this stage, students should review their notes before the final exam.",
        "zh": "在這個階段，學生應該在期末考前複習筆記。"
+      },
+      {
+       "en": "The new library is still in the early stages of planning.",
+       "zh": "新圖書館還在規劃的初期階段。"
       }
      ],
      "patterns": [
@@ -77888,11 +78142,15 @@
     {
      "pos": "n.",
      "zh": "舞台",
-     "ext": "",
+     "ext": "一層高起的地方 → 讓演員站上去表演的台子",
      "examples": [
       {
        "en": "The school band performed on the stage in front of many parents.",
        "zh": "校園樂團在舞台上為許多家長表演。"
+      },
+      {
+       "en": "Jenny felt nervous when she walked onto the stage.",
+       "zh": "Jenny 走上舞台時覺得很緊張。"
       }
      ],
      "patterns": [],
@@ -77910,11 +78168,15 @@
     {
      "pos": "v.",
      "zh": "舉辦；上演",
-     "ext": "",
+     "ext": "舞台 → 把戲或活動搬上舞台 → 上演、舉辦",
      "examples": [
       {
        "en": "The students staged a play about life in their town.",
        "zh": "學生們上演了一齣描述家鄉生活的戲劇。"
+      },
+      {
+       "en": "The city staged a big festival to welcome the new year.",
+       "zh": "這座城市舉辦了一場盛大的節慶迎接新年。"
       }
      ],
      "patterns": [
@@ -77944,13 +78206,8 @@
     },
     {
      "word": "phase",
-     "note": "常指一連串發展過程中的一個時期。",
+     "note": "只用於階段的意思，較正式，常指一連串變化中的一個時期。",
      "example": "a new phase"
-    },
-    {
-     "word": "step",
-     "note": "指完成事情時的一個步驟，不一定是一段時期。",
-     "example": "the next step"
     }
    ],
    "antonyms": [],
@@ -77970,12 +78227,16 @@
    "meanings": [
     {
      "pos": "n.",
-     "zh": "郵票；印章",
-     "ext": "",
+     "zh": "郵票",
+     "ext": "蓋了印的紙 → 貼在信上、證明已付郵資的票",
      "examples": [
       {
        "en": "Amy put a stamp on the postcard before mailing it to her cousin.",
        "zh": "Amy 在明信片上貼了郵票，才寄給表親。"
+      },
+      {
+       "en": "My grandfather has collected stamps from all over the world.",
+       "zh": "我爺爺收集了世界各地的郵票。"
       }
      ],
      "patterns": [
@@ -77991,19 +78252,49 @@
        "zh": "郵票"
       },
       {
+       "en": "collect stamps",
+       "zh": "集郵"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "印章；戳記",
+     "ext": "用力踩壓 → 壓在紙上留下圖案的工具",
+     "examples": [
+      {
+       "en": "The teacher put a star stamp on my homework.",
+       "zh": "老師在我的作業上蓋了一個星星印章。"
+      },
+      {
+       "en": "You need an entry stamp in your passport to enter the country.",
+       "zh": "要入境這個國家，護照上必須有入境章。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
        "en": "rubber stamp",
        "zh": "橡皮印章"
+      },
+      {
+       "en": "a date stamp",
+       "zh": "日期章"
       }
      ]
     },
     {
      "pos": "v.",
-     "zh": "蓋章；跺腳",
-     "ext": "",
+     "zh": "蓋章；蓋印",
+     "ext": "印章 → 當動詞指用印章蓋上記號",
      "examples": [
       {
        "en": "The clerk stamped the form after checking all the information.",
        "zh": "職員確認所有資料後，在表格上蓋了章。"
+      },
+      {
+       "en": "The officer stamped my passport and let me through.",
+       "zh": "官員在我的護照上蓋章，讓我通過。"
       }
      ],
      "patterns": [
@@ -78019,8 +78310,40 @@
        "zh": "在文件上蓋章"
       },
       {
+       "en": "stamp a passport",
+       "zh": "在護照上蓋章"
+      }
+     ]
+    },
+    {
+     "pos": "v.",
+     "zh": "跺腳；用力踩",
+     "ext": "古英語「搗碎」→ 用腳重重往下踩",
+     "examples": [
+      {
+       "en": "The angry child stamped his foot and refused to leave.",
+       "zh": "那個生氣的孩子跺著腳，不肯離開。"
+      },
+      {
+       "en": "We stamped our feet to keep warm while waiting for the bus.",
+       "zh": "等公車時，我們跺腳讓身體保持溫暖。"
+      }
+     ],
+     "patterns": [
+      {
+       "pattern": "stamp one's foot / feet",
+       "en": "Amy stamped her feet to shake off the snow.",
+       "zh": "Amy 跺跺腳，把雪抖掉。"
+      }
+     ],
+     "collocations": [
+      {
        "en": "stamp one's foot",
        "zh": "跺腳"
+      },
+      {
+       "en": "stamp on",
+       "zh": "用力踩"
       }
      ]
     }
@@ -78030,16 +78353,6 @@
      "word": "stamp",
      "note": "可指郵票或印記，也可作動詞表示蓋章或重重踩踏。",
      "example": "stamp a form"
-    },
-    {
-     "word": "seal",
-     "note": "常指用印章封住或正式確認文件。",
-     "example": "seal an envelope"
-    },
-    {
-     "word": "mark",
-     "note": "泛指留下記號，不一定使用印章。",
-     "example": "mark the paper"
     }
    ],
    "antonyms": [],
@@ -78060,11 +78373,15 @@
     {
      "pos": "adj.",
      "zh": "標準的；一般的",
-     "ext": "",
+     "ext": "大家看齊的標準 → 符合一般規格、最普通的",
      "examples": [
       {
        "en": "All students must use the standard form when they submit their applications.",
        "zh": "所有學生提交申請時都必須使用標準表格。"
+      },
+      {
+       "en": "Free breakfast is standard in most hotels in Taiwan.",
+       "zh": "在台灣，大部分飯店都有附免費早餐。"
       }
      ],
      "patterns": [
@@ -78088,11 +78405,15 @@
     {
      "pos": "n.",
      "zh": "標準；水準",
-     "ext": "",
+     "ext": "古法語「軍旗」→ 讓眾人看齊的旗子 → 衡量的標準",
      "examples": [
       {
        "en": "The school raised its standard for science projects this year.",
        "zh": "學校今年提高了科學專題的標準。"
+      },
+      {
+       "en": "Living standards in Taiwan have risen a lot over the years.",
+       "zh": "這些年來台灣的生活水準提高了很多。"
       }
      ],
      "patterns": [
@@ -78122,13 +78443,8 @@
     },
     {
      "word": "level",
-     "note": "常指能力、品質或數值所達到的程度。",
+     "note": "指能力、品質或數值所達到的程度，不含「要求的標準」之意。",
      "example": "a high level"
-    },
-    {
-     "word": "norm",
-     "note": "指社會或群體普遍接受的常態或規範。",
-     "example": "social norms"
     }
    ],
    "antonyms": [],
@@ -78158,11 +78474,15 @@
     {
      "pos": "v.",
      "zh": "陳述；說明",
-     "ext": "",
+     "ext": "把狀態說清楚 → 正式地陳述、說明",
      "examples": [
       {
        "en": "The report states that regular exercise can improve students' health.",
        "zh": "報告指出，規律運動能改善學生的健康。"
+      },
+      {
+       "en": "Please state your name and age clearly before the interview.",
+       "zh": "面試前請清楚說出你的姓名和年齡。"
       }
      ],
      "patterns": [
@@ -78186,11 +78506,15 @@
     {
      "pos": "n.",
      "zh": "狀態；情形",
-     "ext": "",
+     "ext": "拉丁文 status 站立的樣子 → 所處的狀態",
      "examples": [
       {
        "en": "The old classroom was in a poor state after the heavy rain.",
        "zh": "大雨過後，舊教室的狀況很差。"
+      },
+      {
+       "en": "After hearing the bad news, she was in a state of shock.",
+       "zh": "聽到壞消息後，她整個人處於震驚之中。"
       }
      ],
      "patterns": [
@@ -78204,6 +78528,40 @@
       {
        "en": "state of mind",
        "zh": "心境"
+      },
+      {
+       "en": "in a good state",
+       "zh": "狀況良好"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "州；國家",
+     "ext": "國家所處的狀態 → 有政府管理的國家或州",
+     "examples": [
+      {
+       "en": "California is the largest state on the west coast of the United States.",
+       "zh": "加州是美國西岸最大的州。"
+      },
+      {
+       "en": "The state should provide free education for all children.",
+       "zh": "國家應該讓所有孩子接受免費教育。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
+       "en": "the United States",
+       "zh": "美國"
+      },
+      {
+       "en": "a member state",
+       "zh": "會員國"
+      },
+      {
+       "en": "state school",
+       "zh": "公立學校"
       }
      ]
     }
@@ -78248,6 +78606,10 @@
       {
        "en": "My brother ordered steak and vegetables at the restaurant near school.",
        "zh": "我哥哥在學校附近的餐廳點了牛排和蔬菜。"
+      },
+      {
+       "en": "Dad cooked steak on the grill for our family dinner.",
+       "zh": "爸爸在烤架上烤牛排當我們的家庭晚餐。"
       }
      ],
      "patterns": [],
@@ -78268,16 +78630,6 @@
      "word": "steak",
      "note": "通常指切成厚片、煎烤食用的肉排。",
      "example": "a grilled steak"
-    },
-    {
-     "word": "beef",
-     "note": "指牛肉這種肉類，不特指肉排切法。",
-     "example": "fresh beef"
-    },
-    {
-     "word": "chop",
-     "note": "通常指帶骨的肉排，常見於豬肉或羊肉。",
-     "example": "a pork chop"
     }
    ],
    "antonyms": [],
@@ -78310,6 +78662,10 @@
       {
        "en": "The new bridge is made of steel and can carry many cars safely.",
        "zh": "這座新橋由鋼材建成，可以安全承載許多汽車。"
+      },
+      {
+       "en": "These knives are made of steel, so they will not break easily.",
+       "zh": "這些刀子是鋼做的，不容易斷。"
       }
      ],
      "patterns": [
@@ -78336,16 +78692,6 @@
      "word": "steel",
      "note": "指強度高的金屬材料，可用於橋梁和建築。",
      "example": "a steel bridge"
-    },
-    {
-     "word": "iron",
-     "note": "指鐵這種金屬，和鋼的成分與用途不同。",
-     "example": "an iron gate"
-    },
-    {
-     "word": "metal",
-     "note": "泛指金屬，不特指鋼材。",
-     "example": "a useful metal"
     }
    ],
    "antonyms": [],
@@ -78372,12 +78718,16 @@
    "meanings": [
     {
      "pos": "n.",
-     "zh": "步；步驟",
-     "ext": "",
+     "zh": "腳步；一步",
+     "ext": "古英語「踏」→ 走路時腳踏出的一步",
      "examples": [
       {
-       "en": "The first step is to read the questions carefully.",
-       "zh": "第一步是仔細閱讀題目。"
+       "en": "The baby took her first steps when she was one year old.",
+       "zh": "寶寶一歲時踏出了人生的第一步。"
+      },
+      {
+       "en": "I heard steps outside the door late at night.",
+       "zh": "深夜裡，我聽到門外有腳步聲。"
       }
      ],
      "patterns": [],
@@ -78387,19 +78737,53 @@
        "zh": "踏出一步"
       },
       {
+       "en": "step by step",
+       "zh": "一步一步地"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "步驟；措施",
+     "ext": "走路的一步 → 完成事情的其中一步",
+     "examples": [
+      {
+       "en": "The first step is to read the questions carefully.",
+       "zh": "第一步是仔細閱讀題目。"
+      },
+      {
+       "en": "The government must take steps to reduce air pollution.",
+       "zh": "政府必須採取措施減少空氣污染。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
+       "en": "take steps",
+       "zh": "採取措施"
+      },
+      {
        "en": "follow the steps",
        "zh": "依照步驟"
+      },
+      {
+       "en": "the next step",
+       "zh": "下一步"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "跨步；踩",
-     "ext": "",
+     "ext": "一步 → 當動詞指抬腳踩下、往某方向走",
      "examples": [
       {
-       "en": "Please step back before the bus leaves.",
-       "zh": "公車開走前請先退一步。"
+       "en": "Please step back from the door before the bus leaves.",
+       "zh": "公車開走前，請從車門邊退後一步。"
+      },
+      {
+       "en": "Be careful not to step on the flowers in the garden.",
+       "zh": "小心別踩到花園裡的花。"
       }
      ],
      "patterns": [
@@ -78413,6 +78797,10 @@
       {
        "en": "step forward",
        "zh": "向前跨一步"
+      },
+      {
+       "en": "step on",
+       "zh": "踩到"
       }
      ]
     }
@@ -78425,7 +78813,7 @@
     },
     {
      "word": "pace",
-     "note": "可指走路的一步，也常用來表示行走的速度。",
+     "note": "也可指走路的一步，但更常表示行走或做事的速度。",
      "example": "walk at a steady pace"
     }
    ],
@@ -78477,11 +78865,15 @@
     {
      "pos": "v.",
      "zh": "黏住；貼住",
-     "ext": "",
+     "ext": "古英語「刺入」→ 插住固定 → 黏住不掉",
      "examples": [
       {
        "en": "Wet leaves stuck to the bottom of her shoes.",
        "zh": "濕葉子黏在她鞋底。"
+      },
+      {
+       "en": "Please stick a stamp on the envelope before you mail it.",
+       "zh": "寄信前請在信封上貼郵票。"
       }
      ],
      "patterns": [
@@ -78505,11 +78897,15 @@
     {
      "pos": "v.",
      "zh": "堅持；信守",
-     "ext": "",
+     "ext": "黏住不放 → 一直照著計畫或規則做",
      "examples": [
       {
        "en": "If you stick to your plan, you can finish on time.",
        "zh": "只要照著計畫做，就能準時完成。"
+      },
+      {
+       "en": "Kevin stuck to his promise and called his grandmother every week.",
+       "zh": "Kevin 信守承諾，每週打電話給奶奶。"
       }
      ],
      "patterns": [
@@ -78533,11 +78929,15 @@
     {
      "pos": "n.",
      "zh": "枝條；棍子",
-     "ext": "",
+     "ext": "古英語「尖的木棍」→ 細長的樹枝或棍子",
      "examples": [
       {
        "en": "Tom picked up a stick to draw in the sand.",
        "zh": "Tom 撿起一根樹枝在沙地上畫畫。"
+      },
+      {
+       "en": "The old man walks slowly with a stick in his hand.",
+       "zh": "那位老先生手拄著拐杖慢慢走。"
       }
      ],
      "patterns": [],
@@ -78545,6 +78945,10 @@
       {
        "en": "a walking stick",
        "zh": "手杖"
+      },
+      {
+       "en": "a stick of gum",
+       "zh": "一片口香糖"
       }
      ]
     }
@@ -78554,11 +78958,6 @@
      "word": "stick",
      "note": "可指黏住，也可指持續遵守或堅持。",
      "example": "stick to a plan"
-    },
-    {
-     "word": "adhere",
-     "note": "較正式，表示黏附或遵守規則、原則。",
-     "example": "adhere to the rules"
     }
    ],
    "antonyms": [
@@ -78575,15 +78974,7 @@
      "right": "We had steak for dinner."
     }
    ],
-   "commonErrors": [
-    {
-     "wrong": "stick with the rules",
-     "right": "stick to the rules",
-     "note": "表示遵守規則時，通常用 stick to the rules。",
-     "exWrong": "Students should stick with the school rules.",
-     "exRight": "Students should stick to the school rules."
-    }
-   ],
+   "commonErrors": [],
    "breakdownApplicable": false,
    "breakdown": [],
    "origin": "",
@@ -78622,11 +79013,15 @@
     {
      "pos": "n.",
      "zh": "胃痛；肚子痛",
-     "ext": "",
+     "ext": "stomach 胃 + ache 疼痛 → 胃或肚子在痛",
      "examples": [
       {
        "en": "Amy stayed home because she had a stomachache.",
        "zh": "Amy 因為肚子痛而待在家裡。"
+      },
+      {
+       "en": "Eating too much ice cream gave my little brother a stomachache.",
+       "zh": "吃太多冰淇淋讓我弟弟肚子痛。"
       }
      ],
      "patterns": [
@@ -78653,11 +79048,6 @@
      "word": "stomachache",
      "note": "常指胃部或腹部疼痛，也常分開寫成 stomach ache。",
      "example": "have a stomachache"
-    },
-    {
-     "word": "stomach pain",
-     "note": "較直接描述胃部疼痛，常見於健康資訊。",
-     "example": "stomach pain after lunch"
     }
    ],
    "antonyms": [],
@@ -78702,6 +79092,10 @@
       {
        "en": "The students used a small stone to mark the trail.",
        "zh": "學生用一顆小石頭標出小徑。"
+      },
+      {
+       "en": "This old temple was built of stone more than two hundred years ago.",
+       "zh": "這座老廟是兩百多年前用石材蓋成的。"
       }
      ],
      "patterns": [],
@@ -78713,6 +79107,10 @@
       {
        "en": "stone bridge",
        "zh": "石橋"
+      },
+      {
+       "en": "throw a stone",
+       "zh": "丟石頭"
       }
      ]
     }
@@ -78725,7 +79123,7 @@
     },
     {
      "word": "rock",
-     "note": "可指岩石或石塊，通常比 stone 更大或更廣泛。",
+     "note": "也指石頭，但常指較大的岩石或山壁，美式口語也指小石頭。",
      "example": "climb a rock"
     }
    ],
@@ -78752,6 +79150,10 @@
       {
        "en": "The storm forced the school to cancel the outdoor event.",
        "zh": "暴風雨讓學校取消了戶外活動。"
+      },
+      {
+       "en": "Many trees fell down during the storm last night.",
+       "zh": "昨晚暴風雨期間，很多樹都倒了。"
       }
      ],
      "patterns": [],
@@ -78769,11 +79171,15 @@
     {
      "pos": "v.",
      "zh": "怒氣沖沖地走",
-     "ext": "",
+     "ext": "像暴風一樣猛烈 → 氣沖沖地衝出去",
      "examples": [
       {
        "en": "After the argument, he stormed out of the classroom.",
        "zh": "爭論過後，他氣沖沖地走出教室。"
+      },
+      {
+       "en": "Tom stormed off after his brother broke his new phone.",
+       "zh": "弟弟弄壞他的新手機後，Tom 氣沖沖地走掉了。"
       }
      ],
      "patterns": [
@@ -78787,6 +79193,10 @@
       {
        "en": "storm out",
        "zh": "怒氣沖沖地離開"
+      },
+      {
+       "en": "storm off",
+       "zh": "氣沖沖地走掉"
       }
      ]
     }
@@ -78796,11 +79206,6 @@
      "word": "storm",
      "note": "指強烈的暴風雨，也可作動詞表示怒氣沖沖地走。",
      "example": "a winter storm"
-    },
-    {
-     "word": "thunderstorm",
-     "note": "特指伴隨雷聲、閃電的暴風雨。",
-     "example": "a summer thunderstorm"
     }
    ],
    "antonyms": [],
@@ -78839,16 +79244,20 @@
    "word": "stranger",
    "phonetic": "/ˈstreɪndʒɚ/",
    "level": 2,
-   "forms": "strangers · strangely · strangeness",
+   "forms": "strangers",
    "meanings": [
     {
      "pos": "n.",
      "zh": "陌生人；外人",
-     "ext": "",
+     "ext": "strange 陌生的 + -er 人 → 不認識的陌生人",
      "examples": [
       {
        "en": "Amy never gets into a car with a stranger.",
        "zh": "Amy 從不搭陌生人的車。"
+      },
+      {
+       "en": "A kind stranger helped me find the way to the train station.",
+       "zh": "一位好心的陌生人幫我找到去火車站的路。"
       }
      ],
      "patterns": [
@@ -78887,14 +79296,6 @@
     {
      "word": "strange",
      "note": "奇怪的；陌生的"
-    },
-    {
-     "word": "strangely",
-     "note": "奇怪地"
-    },
-    {
-     "word": "strangeness",
-     "note": "陌生；奇怪"
     }
    ],
    "phrases": []
@@ -78913,6 +79314,10 @@
       {
        "en": "We bought fresh strawberries at the market this morning.",
        "zh": "我們今天早上在市場買了新鮮草莓。"
+      },
+      {
+       "en": "My favorite flavor of ice cream is strawberry with chocolate.",
+       "zh": "我最喜歡的冰淇淋口味是草莓加巧克力。"
       }
      ],
      "patterns": [],
@@ -78953,11 +79358,15 @@
     {
      "pos": "n.",
      "zh": "溪流；小河",
-     "ext": "",
+     "ext": "古英語「流動的水」→ 細細流動的小河",
      "examples": [
       {
        "en": "The class followed a small stream during the nature trip.",
        "zh": "自然旅行時，全班沿著一條小溪前進。"
+      },
+      {
+       "en": "Clear water runs down the stream from the mountains.",
+       "zh": "清澈的水從山上沿著小溪流下來。"
       }
      ],
      "patterns": [],
@@ -78975,11 +79384,15 @@
     {
      "pos": "n.",
      "zh": "一連串；流動",
-     "ext": "",
+     "ext": "像溪水不斷流 → 接連不斷出現的人或東西",
      "examples": [
       {
        "en": "A stream of visitors entered the museum after lunch.",
        "zh": "午餐後，一批批遊客進入博物館。"
+      },
+      {
+       "en": "A stream of cars moved slowly along the road to the beach.",
+       "zh": "一長串車子沿著往海邊的路緩慢前進。"
       }
      ],
      "patterns": [
@@ -78993,17 +79406,25 @@
       {
        "en": "a stream of traffic",
        "zh": "車流"
+      },
+      {
+       "en": "a stream of people",
+       "zh": "一波波的人潮"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "串流播放",
-     "ext": "",
+     "ext": "像水流般傳送 → 在網路上即時播放影音",
      "examples": [
       {
        "en": "We streamed the school concert for families at home.",
        "zh": "我們把學校音樂會串流給在家的家人收看。"
+      },
+      {
+       "en": "Many people now stream movies at home instead of going to theaters.",
+       "zh": "現在許多人在家串流看電影，而不去電影院。"
       }
      ],
      "patterns": [
@@ -79033,8 +79454,8 @@
     },
     {
      "word": "flow",
-     "note": "表示流動，常用於水、空氣或交通，不專指串流媒體。",
-     "example": "water flows downhill"
+     "note": "強調持續流動的狀態，常用於水、空氣、車流，不指溪流本身。",
+     "example": "a flow of traffic"
     }
    ],
    "antonyms": [],
@@ -79055,11 +79476,15 @@
     {
      "pos": "n.",
      "zh": "壓力；緊張",
-     "ext": "",
+     "ext": "古法語「壓迫、狹窄」→ 心理上的緊繃與壓力",
      "examples": [
       {
-       "en": "Many students feel stress before important exams.",
-       "zh": "許多學生在重要考試前會感到壓力。"
+       "en": "Many students feel a lot of stress before important exams.",
+       "zh": "許多學生在重要考試前會感到很大的壓力。"
+      },
+      {
+       "en": "Listening to music helps my mother deal with stress from work.",
+       "zh": "聽音樂幫我媽媽紓解工作壓力。"
       }
      ],
      "patterns": [
@@ -79087,11 +79512,15 @@
     {
      "pos": "v.",
      "zh": "強調；著重",
-     "ext": "",
+     "ext": "施加壓力 → 在某一點特別加重 → 強調",
      "examples": [
       {
        "en": "Our teacher stressed the need to check each answer.",
        "zh": "老師強調每一題都要檢查。"
+      },
+      {
+       "en": "The coach stressed the importance of drinking enough water.",
+       "zh": "教練強調喝足夠的水很重要。"
       }
      ],
      "patterns": [
@@ -79179,11 +79608,15 @@
     {
      "pos": "v.",
      "zh": "伸展；拉長",
-     "ext": "",
+     "ext": "古英語「拉長」→ 把身體或東西往外拉長",
      "examples": [
       {
        "en": "Tom stretched his arms before the basketball game.",
        "zh": "Tom 在籃球賽前伸展手臂。"
+      },
+      {
+       "en": "Remember to stretch your legs before you go running.",
+       "zh": "跑步前記得伸展雙腿。"
       }
      ],
      "patterns": [
@@ -79207,11 +79640,15 @@
     {
      "pos": "v.",
      "zh": "延伸；持續",
-     "ext": "",
+     "ext": "拉長 → 道路、土地或時間一路延伸出去",
      "examples": [
       {
        "en": "The bike path stretches along the river for five miles.",
        "zh": "自行車道沿著河岸延伸五英里。"
+      },
+      {
+       "en": "The rainy season usually stretches from May to June.",
+       "zh": "雨季通常從五月持續到六月。"
       }
      ],
      "patterns": [
@@ -79235,11 +79672,15 @@
     {
      "pos": "n.",
      "zh": "一段時間；一片地區",
-     "ext": "",
+     "ext": "延伸出去的長度 → 一段連續的時間或地方",
      "examples": [
       {
        "en": "We studied quietly for a long stretch in the library.",
        "zh": "我們在圖書館安靜讀書好一段時間。"
+      },
+      {
+       "en": "This stretch of the road is dangerous, so drive slowly.",
+       "zh": "這段路很危險，所以要開慢一點。"
       }
      ],
      "patterns": [],
@@ -79263,23 +79704,14 @@
     },
     {
      "word": "extend",
-     "note": "較正式，表示延長時間、範圍或長度。",
+     "note": "較正式，表示把時間、範圍延長，不指伸展身體。",
      "example": "extend the deadline"
-    },
-    {
-     "word": "spread",
-     "note": "表示向四周展開或散布，不一定有拉長的動作。",
-     "example": "spread a map"
     }
    ],
    "antonyms": [
     {
      "word": "shorten",
      "zh": "縮短"
-    },
-    {
-     "word": "contract",
-     "zh": "收縮"
     }
    ],
    "confusables": [],
@@ -79321,11 +79753,15 @@
     {
      "pos": "adj.",
      "zh": "嚴格的；嚴謹的",
-     "ext": "",
+     "ext": "拉丁文 strictus 拉緊 → 規定綁得很緊、不放鬆",
      "examples": [
       {
        "en": "Our teacher is strict about arriving on time.",
        "zh": "我們老師對準時到校要求很嚴格。"
+      },
+      {
+       "en": "The school has strict rules about using phones in class.",
+       "zh": "學校對上課使用手機有嚴格的規定。"
       }
      ],
      "patterns": [
@@ -79361,26 +79797,12 @@
      "word": "strict",
      "note": "表示要求或規定嚴格，常用於規則、父母或老師。",
      "example": "strict school rules"
-    },
-    {
-     "word": "severe",
-     "note": "語氣較強，常指嚴重的懲罰、批評或情況。",
-     "example": "a severe punishment"
-    },
-    {
-     "word": "firm",
-     "note": "表示堅定而不輕易改變，語氣較正面。",
-     "example": "a firm decision"
     }
    ],
    "antonyms": [
     {
-     "word": "lenient",
-     "zh": "寬鬆的"
-    },
-    {
      "word": "flexible",
-     "zh": "彈性的"
+     "zh": "有彈性的"
     }
    ],
    "confusables": [],
@@ -79408,11 +79830,15 @@
     {
      "pos": "v.",
      "zh": "打；撞擊",
-     "ext": "",
+     "ext": "手用力揮出去 → 打中或撞上某物",
      "examples": [
       {
        "en": "The ball struck the window during the school game.",
        "zh": "校園比賽時，球打中了窗戶。"
+      },
+      {
+       "en": "The old tree was struck by lightning during the storm.",
+       "zh": "那棵老樹在暴風雨中被閃電擊中。"
       }
      ],
      "patterns": [
@@ -79435,12 +79861,42 @@
     },
     {
      "pos": "v.",
+     "zh": "侵襲；襲擊",
+     "ext": "猛力打中 → 災難或疾病突然來襲",
+     "examples": [
+      {
+       "en": "A strong earthquake struck the city early this morning.",
+       "zh": "今天清晨一場強烈地震侵襲這座城市。"
+      },
+      {
+       "en": "When the typhoon struck, all the schools were closed.",
+       "zh": "颱風來襲時，所有學校都停課了。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
+       "en": "an earthquake strikes",
+       "zh": "地震侵襲"
+      },
+      {
+       "en": "disaster strikes",
+       "zh": "災難來襲"
+      }
+     ]
+    },
+    {
+     "pos": "v.",
      "zh": "突然想到；留下印象",
-     "ext": "",
+     "ext": "打中 → 某個想法突然打進腦中",
      "examples": [
       {
        "en": "It struck me that the two answers were very similar.",
        "zh": "我突然想到，這兩個答案很相似。"
+      },
+      {
+       "en": "What struck me most about Japan was how clean the streets were.",
+       "zh": "日本最讓我印象深刻的是街道很乾淨。"
       }
      ],
      "patterns": [
@@ -79454,6 +79910,10 @@
       {
        "en": "strike someone as",
        "zh": "讓某人覺得…"
+      },
+      {
+       "en": "it strikes me that",
+       "zh": "我突然覺得"
       }
      ]
     },
@@ -79465,6 +79925,10 @@
       {
        "en": "The bus strike delayed many students on Monday.",
        "zh": "週一的公車罷工耽誤了許多學生。"
+      },
+      {
+       "en": "The workers went on strike because they wanted better pay.",
+       "zh": "工人們罷工，因為他們想要更好的薪水。"
       }
      ],
      "patterns": [],
@@ -79488,13 +79952,8 @@
     },
     {
      "word": "hit",
-     "note": "最常用的「打中」，語氣較一般。",
+     "note": "最常用的「打中」，較口語，strike 語氣較正式或強烈。",
      "example": "hit the target"
-    },
-    {
-     "word": "beat",
-     "note": "指反覆擊打，也可表示打敗對手。",
-     "example": "beat the drum"
     }
    ],
    "antonyms": [],
@@ -79523,11 +79982,15 @@
     {
      "pos": "v.",
      "zh": "努力；奮鬥",
-     "ext": "",
+     "ext": "中古英語「扭打、掙扎」→ 費很大力氣去做",
      "examples": [
       {
        "en": "Jenny struggled to understand the difficult science lesson.",
        "zh": "Jenny 努力理解那堂困難的自然課。"
+      },
+      {
+       "en": "Many families struggle to pay their bills every month.",
+       "zh": "許多家庭每個月都很吃力地付帳單。"
       }
      ],
      "patterns": [
@@ -79556,11 +80019,15 @@
     {
      "pos": "n.",
      "zh": "奮鬥；掙扎",
-     "ext": "",
+     "ext": "掙扎扭打 → 一段辛苦努力的過程",
      "examples": [
       {
        "en": "Learning a new language can be a struggle at first.",
        "zh": "一開始學新語言可能會很辛苦。"
+      },
+      {
+       "en": "After a long struggle, the farmer finally saved his land.",
+       "zh": "經過長時間的奮鬥，農夫終於保住了他的土地。"
       }
      ],
      "patterns": [
@@ -79589,13 +80056,8 @@
      "example": "struggle to learn"
     },
     {
-     "word": "attempt",
-     "note": "較中性，表示嘗試做某事，不一定很困難。",
-     "example": "attempt to answer"
-    },
-    {
      "word": "strive",
-     "note": "較正式，表示為目標持續努力。",
+     "note": "較正式，表示為目標持續努力，不強調過程痛苦。",
      "example": "strive for success"
     }
    ],
@@ -79647,11 +80109,15 @@
     {
      "pos": "n.",
      "zh": "風格；方式",
-     "ext": "",
+     "ext": "拉丁文 stilus 寫字的尖筆 → 寫字的筆法 → 個人風格",
      "examples": [
       {
        "en": "The artist's style makes her paintings easy to recognize.",
        "zh": "這位藝術家的風格讓她的畫很容易辨認。"
+      },
+      {
+       "en": "I like her style of teaching because it is fun and clear.",
+       "zh": "我喜歡她的教學方式，因為有趣又清楚。"
       }
      ],
      "patterns": [
@@ -79669,17 +80135,25 @@
       {
        "en": "a style of writing",
        "zh": "寫作風格"
+      },
+      {
+       "en": "in style",
+       "zh": "時髦；流行"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "設計造型；整理",
-     "ext": "",
+     "ext": "風格 → 替頭髮或物品設計出某種造型",
      "examples": [
       {
        "en": "The student styled her hair before the school photo.",
        "zh": "拍校園照前，那位學生整理了頭髮。"
+      },
+      {
+       "en": "The hairdresser styled my hair for the wedding.",
+       "zh": "美髮師為了婚禮替我做了髮型。"
       }
      ],
      "patterns": [
@@ -79704,13 +80178,8 @@
      "example": "a writing style"
     },
     {
-     "word": "fashion",
-     "note": "較常指流行的穿著或設計趨勢。",
-     "example": "fashion styles"
-    },
-    {
      "word": "manner",
-     "note": "指做事或表達的方式，較少指視覺設計。",
+     "note": "指做事或待人的方式，較正式，不指設計或穿著風格。",
      "example": "a polite manner"
     }
    ],
@@ -79732,11 +80201,15 @@
     {
      "pos": "v.",
      "zh": "成功；達成",
-     "ext": "",
+     "ext": "拉丁文 succedere 接著走上來 → 順利到達目標",
      "examples": [
       {
        "en": "Amy succeeded in passing the driving test on her first try.",
        "zh": "Amy 第一次就成功通過駕照考試。"
+      },
+      {
+       "en": "If you keep working hard, you will succeed one day.",
+       "zh": "只要你持續努力，總有一天會成功。"
       }
      ],
      "patterns": [
@@ -79759,6 +80232,38 @@
       {
        "en": "succeed at school",
        "zh": "學業成功"
+      }
+     ]
+    },
+    {
+     "pos": "v.",
+     "zh": "接替；繼任",
+     "ext": "拉丁文「跟在後面走」→ 接在前一個人之後",
+     "examples": [
+      {
+       "en": "Mr. Lin will succeed Ms. Wang as our school principal.",
+       "zh": "林先生將接替王女士擔任我們的校長。"
+      },
+      {
+       "en": "When the old king died, his son succeeded him.",
+       "zh": "老國王過世後，由他的兒子繼位。"
+      }
+     ],
+     "patterns": [
+      {
+       "pattern": "succeed + 人 + as + 職位",
+       "en": "Amy succeeded Tom as captain of the team.",
+       "zh": "Amy 接替 Tom 當隊長。"
+      }
+     ],
+     "collocations": [
+      {
+       "en": "succeed someone as",
+       "zh": "接替某人擔任"
+      },
+      {
+       "en": "succeed to the throne",
+       "zh": "繼承王位"
       }
      ]
     }
@@ -79836,6 +80341,10 @@
       {
        "en": "Her success came from years of careful practice.",
        "zh": "她多年認真練習，終於獲得成功。"
+      },
+      {
+       "en": "The school fair was a big success, and we raised a lot of money.",
+       "zh": "校慶園遊會辦得很成功，我們募到很多錢。"
       }
      ],
      "patterns": [],
@@ -79856,16 +80365,6 @@
      "word": "success",
      "note": "泛指達成目標或得到好結果。",
      "example": "achieve success"
-    },
-    {
-     "word": "achievement",
-     "note": "強調完成一項值得肯定的成果。",
-     "example": "a major achievement"
-    },
-    {
-     "word": "victory",
-     "note": "指比賽或衝突中的勝利。",
-     "example": "a clear victory"
     }
    ],
    "antonyms": [
@@ -79922,8 +80421,12 @@
      "ext": "指出某一類型或程度 → 表示這樣的情況",
      "examples": [
       {
-       "en": "Such behavior can hurt a close friendship.",
-       "zh": "這樣的行為可能傷害親近的友誼。"
+       "en": "Such behavior can hurt a close friendship between two people.",
+       "zh": "這樣的行為可能傷害兩人之間親近的友誼。"
+      },
+      {
+       "en": "I have never seen such a beautiful view before.",
+       "zh": "我從來沒看過這麼美的景色。"
       }
      ],
      "patterns": [
@@ -79937,6 +80440,10 @@
       {
        "en": "such a good idea",
        "zh": "這麼好的主意"
+      },
+      {
+       "en": "such as",
+       "zh": "例如"
       }
      ]
     }
@@ -79946,11 +80453,6 @@
      "word": "such",
      "note": "常放在名詞前，表示某一類型或程度。",
      "example": "such a problem"
-    },
-    {
-     "word": "similar",
-     "note": "表示相似，通常描述兩者之間的關係。",
-     "example": "a similar problem"
     }
    ],
    "antonyms": [],
@@ -80013,6 +80515,10 @@
       {
        "en": "A sudden rain shower delayed our school trip.",
        "zh": "一場突如其來的雨延誤了校外教學。"
+      },
+      {
+       "en": "The bus came to a sudden stop, and everyone almost fell.",
+       "zh": "公車突然停下，大家都差點跌倒。"
       }
      ],
      "patterns": [],
@@ -80020,6 +80526,14 @@
       {
        "en": "a sudden change",
        "zh": "突然的變化"
+      },
+      {
+       "en": "all of a sudden",
+       "zh": "突然"
+      },
+      {
+       "en": "a sudden stop",
+       "zh": "急停"
       }
      ]
     }
@@ -80029,26 +80543,12 @@
      "word": "sudden",
      "note": "表示事情發生得快，通常沒有預告。",
      "example": "a sudden change"
-    },
-    {
-     "word": "unexpected",
-     "note": "強調事情出乎預料，不一定發生得快。",
-     "example": "an unexpected visit"
-    },
-    {
-     "word": "quick",
-     "note": "強調速度快，可描述有意完成的動作。",
-     "example": "a quick answer"
     }
    ],
    "antonyms": [
     {
      "word": "gradual",
      "zh": "逐漸的"
-    },
-    {
-     "word": "expected",
-     "zh": "預期中的"
     }
    ],
    "confusables": [],
@@ -80080,7 +80580,7 @@
    "word": "suggest",
    "phonetic": "/səˈdʒɛst/",
    "level": 2,
-   "forms": "suggested · suggesting · suggestion",
+   "forms": "suggests · suggested · suggesting · suggestion",
    "meanings": [
     {
      "pos": "v.",
@@ -80090,6 +80590,10 @@
       {
        "en": "Our teacher suggested taking short breaks while studying.",
        "zh": "老師建議讀書時適度休息。"
+      },
+      {
+       "en": "The waiter suggested the fish because it was very fresh today.",
+       "zh": "服務生推薦魚，因為今天的魚很新鮮。"
       }
      ],
      "patterns": [
@@ -80123,6 +80627,10 @@
       {
        "en": "The dark clouds suggest that rain is coming soon.",
        "zh": "烏雲顯示快要下雨了。"
+      },
+      {
+       "en": "His red face and loud voice suggested that he was angry.",
+       "zh": "他漲紅的臉和大嗓門顯示他在生氣。"
       }
      ],
      "patterns": [
@@ -80136,6 +80644,10 @@
       {
        "en": "suggest a possibility",
        "zh": "顯示一種可能"
+      },
+      {
+       "en": "studies suggest",
+       "zh": "研究顯示"
       }
      ]
     }
@@ -80204,6 +80716,10 @@
       {
        "en": "This quiet study room suits students who need fewer distractions.",
        "zh": "這間安靜的自習室適合需要少受干擾的學生。"
+      },
+      {
+       "en": "That blue dress really suits you; you should buy it.",
+       "zh": "那件藍色洋裝真的很適合你，你應該買下來。"
       }
      ],
      "patterns": [
@@ -80227,11 +80743,15 @@
     {
      "pos": "n.",
      "zh": "套裝；西裝",
-     "ext": "",
+     "ext": "一套搭配好的衣服 → 上衣褲子成套的西裝",
      "examples": [
       {
        "en": "Kevin wore a dark suit to his sister's graduation ceremony.",
        "zh": "Kevin 穿深色西裝參加姊姊的畢業典禮。"
+      },
+      {
+       "en": "My father wears a suit and tie to work every day.",
+       "zh": "我爸爸每天穿西裝打領帶上班。"
       }
      ],
      "patterns": [],
@@ -80239,6 +80759,14 @@
       {
        "en": "a business suit",
        "zh": "商務套裝"
+      },
+      {
+       "en": "wear a suit",
+       "zh": "穿西裝"
+      },
+      {
+       "en": "a swimming suit",
+       "zh": "泳衣"
       }
      ]
     }
@@ -80307,6 +80835,10 @@
       {
        "en": "The library is a suitable place for group study.",
        "zh": "圖書館是適合小組讀書的地方。"
+      },
+      {
+       "en": "This movie has some scary parts, so it is not suitable for children.",
+       "zh": "這部電影有些恐怖的片段，所以不適合兒童觀看。"
       }
      ],
      "patterns": [
@@ -80405,6 +80937,10 @@
       {
        "en": "Amy gave a super performance in the school play.",
        "zh": "Amy 在校園戲劇演出中表現得非常出色。"
+      },
+      {
+       "en": "Thanks for the gift; it is super, and I love it.",
+       "zh": "謝謝你的禮物，真是太棒了，我好喜歡。"
       }
      ],
      "patterns": [],
@@ -80412,17 +80948,25 @@
       {
        "en": "a super idea",
        "zh": "很棒的點子"
+      },
+      {
+       "en": "do a super job",
+       "zh": "做得非常好"
       }
      ]
     },
     {
      "pos": "adv.",
      "zh": "非常；格外",
-     "ext": "",
+     "ext": "超級的 → 口語中放在形容詞前表示非常",
      "examples": [
       {
        "en": "The new study space is super quiet after school.",
        "zh": "放學後，新的自習空間非常安靜。"
+      },
+      {
+       "en": "The roller coaster was super fast, and I screamed the whole time.",
+       "zh": "雲霄飛車超級快，我一路尖叫。"
       }
      ],
      "patterns": [],
@@ -80430,6 +80974,10 @@
       {
        "en": "super popular",
        "zh": "非常受歡迎"
+      },
+      {
+       "en": "super easy",
+       "zh": "超級簡單"
       }
      ]
     }
@@ -80455,10 +81003,6 @@
     {
      "word": "terrible",
      "zh": "糟糕的"
-    },
-    {
-     "word": "ordinary",
-     "zh": "普通的"
     }
    ],
    "confusables": [],
@@ -80478,11 +81022,15 @@
     {
      "pos": "n.",
      "zh": "晚餐；宵夜",
-     "ext": "",
+     "ext": "古法語 soper 喝湯 → 晚上吃的一頓簡單餐點",
      "examples": [
       {
        "en": "We had supper together after the school concert ended.",
        "zh": "學校音樂會結束後，我們一起吃了晚餐。"
+      },
+      {
+       "en": "My grandparents usually eat a light supper at six o'clock.",
+       "zh": "我爺爺奶奶通常六點吃一頓清淡的晚餐。"
       }
      ],
      "patterns": [],
@@ -80501,18 +81049,13 @@
    "synonyms": [
     {
      "word": "supper",
-     "note": "指晚間的一餐，部分地區也可指較晚吃的簡餐。",
+     "note": "指晚間的一餐，常指在家吃、較簡單的晚飯。",
      "example": "have supper"
     },
     {
      "word": "dinner",
-     "note": "常指一天中的主要正餐，也常用來指晚餐。",
+     "note": "最常用的「晚餐」，也可指一天中最正式的一餐或晚宴。",
      "example": "have dinner"
-    },
-    {
-     "word": "meal",
-     "note": "泛指一餐，不限定時間。",
-     "example": "a healthy meal"
     }
    ],
    "antonyms": [],
@@ -80545,6 +81088,10 @@
       {
        "en": "The school supplies each student with a tablet for class.",
        "zh": "學校提供每位學生一台平板上課使用。"
+      },
+      {
+       "en": "This power station supplies electricity to the whole city.",
+       "zh": "這座發電廠供電給整個城市。"
       }
      ],
      "patterns": [
@@ -80582,6 +81129,10 @@
       {
        "en": "The classroom has a supply of paper for art projects.",
        "zh": "教室備有美術作業用紙。"
+      },
+      {
+       "en": "After the typhoon, the town was short of food supplies.",
+       "zh": "颱風過後，小鎮缺乏糧食補給。"
       }
      ],
      "patterns": [
@@ -80599,6 +81150,10 @@
       {
        "en": "food supply",
        "zh": "食物供應"
+      },
+      {
+       "en": "in short supply",
+       "zh": "供應不足"
       }
      ]
     }
@@ -80611,13 +81166,8 @@
     },
     {
      "word": "provide",
-     "note": "泛指提供所需的人事物，使用範圍很廣。",
+     "note": "泛指提供所需的人事物，用法最廣，句型 provide A with B。",
      "example": "provide information"
-    },
-    {
-     "word": "offer",
-     "note": "提出可接受的協助或物品，不一定已經提供。",
-     "example": "offer help"
     }
    ],
    "antonyms": [],
@@ -80656,6 +81206,10 @@
       {
        "en": "Her family supported her decision to study abroad.",
        "zh": "她的家人支持她出國留學的決定。"
+      },
+      {
+       "en": "Thousands of fans came to support their team in the final game.",
+       "zh": "數千名球迷來為他們的隊伍加油。"
       }
      ],
      "patterns": [
@@ -80675,19 +81229,55 @@
        "zh": "支持隊伍"
       },
       {
+       "en": "support an idea",
+       "zh": "支持想法"
+      }
+     ]
+    },
+    {
+     "pos": "v.",
+     "zh": "扶養；養活",
+     "ext": "在下方托住 → 負擔家人的生活費用",
+     "examples": [
+      {
+       "en": "My father works two jobs to support our family.",
+       "zh": "我爸爸做兩份工作來養活我們家。"
+      },
+      {
+       "en": "It is hard to support a family of five on one small salary.",
+       "zh": "靠一份微薄的薪水很難養活五口之家。"
+      }
+     ],
+     "patterns": [
+      {
+       "pattern": "support + 人",
+       "en": "She supported herself by teaching English.",
+       "zh": "她靠教英文養活自己。"
+      }
+     ],
+     "collocations": [
+      {
        "en": "support a family",
        "zh": "養家"
+      },
+      {
+       "en": "support oneself",
+       "zh": "自力更生"
       }
      ]
     },
     {
      "pos": "n.",
      "zh": "支持；支援",
-     "ext": "",
+     "ext": "從下方托住 → 給予的幫助和鼓勵",
      "examples": [
       {
        "en": "The students received support from their teachers before the exam.",
        "zh": "考試前，學生得到老師的支持。"
+      },
+      {
+       "en": "Thank you for your support during my difficult time.",
+       "zh": "謝謝你在我困難的時候支持我。"
       }
      ],
      "patterns": [
@@ -80717,23 +81307,14 @@
     },
     {
      "word": "back",
-     "note": "口語用法，常指支持某人或某項計畫。",
+     "note": "口語用法，常指支持某人或某項計畫，不指扶養或支撐。",
      "example": "back a team"
-    },
-    {
-     "word": "assist",
-     "note": "較正式，強調協助完成工作或任務。",
-     "example": "assist a student"
     }
    ],
    "antonyms": [
     {
      "word": "oppose",
      "zh": "反對"
-    },
-    {
-     "word": "abandon",
-     "zh": "放棄"
     }
    ],
    "confusables": [],
@@ -80779,6 +81360,10 @@
       {
        "en": "I suppose the library will be crowded before the exam.",
        "zh": "我猜考試前圖書館會很擠。"
+      },
+      {
+       "en": "I suppose you're tired after such a long flight.",
+       "zh": "我猜你坐了這麼久的飛機一定很累。"
       }
      ],
      "patterns": [
@@ -80792,6 +81377,10 @@
       {
        "en": "I suppose",
        "zh": "我想；我猜"
+      },
+      {
+       "en": "I suppose so",
+       "zh": "我想是吧"
       }
      ]
     },
@@ -80803,6 +81392,10 @@
       {
        "en": "Suppose you miss the bus; how will you get home?",
        "zh": "假設你錯過公車，要怎麼回家？"
+      },
+      {
+       "en": "Suppose you won a lot of money; what would you buy first?",
+       "zh": "假設你贏了一大筆錢，你會先買什麼？"
       }
      ],
      "patterns": [
@@ -80812,7 +81405,16 @@
        "zh": "假如旅行途中天氣變了，我們該怎麼辦？"
       }
      ],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "suppose that",
+       "zh": "假設"
+      },
+      {
+       "en": "supposing that",
+       "zh": "假如"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -80896,11 +81498,15 @@
     {
      "pos": "v.",
      "zh": "衝浪",
-     "ext": "",
+     "ext": "拍岸的浪花 → 站在板子上隨著海浪滑行",
      "examples": [
       {
        "en": "Kevin learned to surf during the summer trip to the coast.",
        "zh": "Kevin 在夏天的海邊旅行時學會了衝浪。"
+      },
+      {
+       "en": "Many people go to the east coast of Taiwan to surf in summer.",
+       "zh": "夏天很多人去台灣東海岸衝浪。"
       }
      ],
      "patterns": [],
@@ -80908,6 +81514,10 @@
       {
        "en": "go surfing",
        "zh": "去衝浪"
+      },
+      {
+       "en": "learn to surf",
+       "zh": "學衝浪"
       }
      ]
     },
@@ -80919,6 +81529,10 @@
       {
        "en": "Amy surfs the Internet to find information for her report.",
        "zh": "Amy 上網搜尋報告需要的資訊。"
+      },
+      {
+       "en": "My brother surfs the Internet for hours every night.",
+       "zh": "我哥哥每晚都上網好幾個小時。"
       }
      ],
      "patterns": [
@@ -80932,6 +81546,10 @@
       {
        "en": "surf the Internet",
        "zh": "瀏覽網路"
+      },
+      {
+       "en": "surf the Web",
+       "zh": "上網瀏覽"
       }
      ]
     }
@@ -80944,13 +81562,8 @@
     },
     {
      "word": "browse",
-     "note": "泛指瀏覽網頁、商店或資料，不特指衝浪。",
+     "note": "只用於瀏覽的意思，可指網頁、商店或書，比 surf 更有目的。",
      "example": "browse a website"
-    },
-    {
-     "word": "search",
-     "note": "強調尋找特定資訊或答案。",
-     "example": "search for information"
     }
    ],
    "antonyms": [],
@@ -80985,6 +81598,10 @@
       {
        "en": "The table's surface was clean after the students finished lunch.",
        "zh": "學生吃完午餐後，桌面很乾淨。"
+      },
+      {
+       "en": "Oil floated on the surface of the water after the accident.",
+       "zh": "意外過後，油漂浮在水面上。"
       }
      ],
      "patterns": [],
@@ -81007,6 +81624,10 @@
       {
        "en": "A new problem surfaced during the final check of the project.",
        "zh": "專案最後檢查時，出現了一個新問題。"
+      },
+      {
+       "en": "The whale surfaced for air and then went back under the water.",
+       "zh": "鯨魚浮出水面換氣，接著又潛回水裡。"
       }
      ],
      "patterns": [],
@@ -81014,6 +81635,10 @@
       {
        "en": "the truth surfaced",
        "zh": "真相浮現"
+      },
+      {
+       "en": "surface for air",
+       "zh": "浮出換氣"
       }
      ]
     }
@@ -81023,24 +81648,9 @@
      "word": "surface",
      "note": "名詞指外層；動詞指出現或顯露。",
      "example": "the water's surface"
-    },
-    {
-     "word": "top",
-     "note": "指最上方或頂部，未必是物體的外層。",
-     "example": "the top of the box"
-    },
-    {
-     "word": "exterior",
-     "note": "較正式，指建築或物體外部。",
-     "example": "the building's exterior"
     }
    ],
-   "antonyms": [
-    {
-     "word": "interior",
-     "zh": "內部"
-    }
-   ],
+   "antonyms": [],
    "confusables": [],
    "commonErrors": [],
    "breakdownApplicable": false,
@@ -81063,6 +81673,10 @@
       {
        "en": "Clean water is necessary for the survival of every community.",
        "zh": "乾淨的水是每個社區生存所必需的。"
+      },
+      {
+       "en": "Many wild animals are fighting for survival as forests disappear.",
+       "zh": "隨著森林消失，許多野生動物正在為生存奮鬥。"
       }
      ],
      "patterns": [
@@ -81093,26 +81707,12 @@
      "word": "survival",
      "note": "指繼續活著或某事物繼續存在。",
      "example": "human survival"
-    },
-    {
-     "word": "existence",
-     "note": "泛指存在，不一定涉及危險或困境。",
-     "example": "daily existence"
-    },
-    {
-     "word": "endurance",
-     "note": "強調承受困難並持續下去的能力。",
-     "example": "physical endurance"
     }
    ],
    "antonyms": [
     {
      "word": "death",
      "zh": "死亡"
-    },
-    {
-     "word": "extinction",
-     "zh": "滅絕"
     }
    ],
    "confusables": [],
@@ -81154,6 +81754,10 @@
       {
        "en": "The family survived the storm by staying inside their home.",
        "zh": "這家人待在家裡，平安度過了暴風雨。"
+      },
+      {
+       "en": "Only two people survived the plane crash in the mountains.",
+       "zh": "那場山區空難只有兩個人生還。"
       }
      ],
      "patterns": [
@@ -81182,6 +81786,10 @@
       {
        "en": "Some old traditions have survived for hundreds of years.",
        "zh": "有些古老傳統已延續數百年。"
+      },
+      {
+       "en": "Few small shops can survive next to a big supermarket.",
+       "zh": "在大型超市旁邊，很少有小店能撐得下去。"
       }
      ],
      "patterns": [
@@ -81208,16 +81816,6 @@
      "word": "survive",
      "note": "經歷危險或困難後仍活著或繼續存在。",
      "example": "survive the storm"
-    },
-    {
-     "word": "live",
-     "note": "泛指活著，沒有特別表示經歷危險。",
-     "example": "live a long life"
-    },
-    {
-     "word": "endure",
-     "note": "強調忍受痛苦或困難並撐下去。",
-     "example": "endure hardship"
     }
    ],
    "antonyms": [
@@ -81259,16 +81857,20 @@
    "word": "swallow",
    "phonetic": "/ˈswɑloʊ/",
    "level": 2,
-   "forms": "swallowed · swallowing · swallowable",
+   "forms": "swallows · swallowed · swallowing",
    "meanings": [
     {
      "pos": "v.",
      "zh": "吞下；嚥下",
-     "ext": "",
+     "ext": "古英語 swelgan 吞 → 把東西嚥進喉嚨",
      "examples": [
       {
        "en": "Please swallow the medicine with a glass of water.",
        "zh": "請配一杯水把藥吞下去。"
+      },
+      {
+       "en": "Chew your food well before you swallow it, or you may get sick.",
+       "zh": "吞下去前要把食物嚼爛，不然可能會不舒服。"
       }
      ],
      "patterns": [
@@ -81292,11 +81894,15 @@
     {
      "pos": "v.",
      "zh": "忍受；接受",
-     "ext": "",
+     "ext": "把食物吞下 → 把不滿或自尊硬吞回去",
      "examples": [
       {
        "en": "He had to swallow his pride and ask for help.",
        "zh": "他只好放下自尊，開口求助。"
+      },
+      {
+       "en": "It was hard for Tom to swallow his anger and stay calm.",
+       "zh": "Tom 很難吞下怒氣、保持冷靜。"
       }
      ],
      "patterns": [],
@@ -81304,6 +81910,10 @@
       {
        "en": "swallow one's pride",
        "zh": "放下自尊"
+      },
+      {
+       "en": "swallow one's anger",
+       "zh": "強壓怒氣"
       }
      ]
     },
@@ -81315,10 +81925,23 @@
       {
        "en": "A swallow flew across the sky above our school.",
        "zh": "一隻燕子飛過學校上方的天空。"
+      },
+      {
+       "en": "Every spring, swallows build nests under the roof of our house.",
+       "zh": "每年春天，燕子都在我家屋簷下築巢。"
       }
      ],
      "patterns": [],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "a swallow's nest",
+       "zh": "燕子窩"
+      },
+      {
+       "en": "swallows fly south",
+       "zh": "燕子南飛"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -81326,11 +81949,6 @@
      "word": "swallow",
      "note": "指把食物或液體嚥下，也可指勉強接受某事。",
      "example": "swallow a pill"
-    },
-    {
-     "word": "gulp",
-     "note": "指快速、大口吞下，常帶有匆忙的感覺。",
-     "example": "gulp down water"
     }
    ],
    "antonyms": [],
@@ -81351,11 +81969,15 @@
     {
      "pos": "n.",
      "zh": "毛衣；針織衫",
-     "ext": "",
+     "ext": "sweat 流汗 + -er → 原指運動時穿來發汗的衣服",
      "examples": [
       {
        "en": "Jenny wore a warm sweater on the cold morning.",
        "zh": "寒冷的早晨，Jenny 穿了一件暖和的毛衣。"
+      },
+      {
+       "en": "Grandma knitted a sweater for me as a birthday gift.",
+       "zh": "奶奶織了一件毛衣當我的生日禮物。"
       }
      ],
      "patterns": [],
@@ -81376,11 +81998,6 @@
      "word": "sweater",
      "note": "泛指套頭或開襟的針織上衣。",
      "example": "a wool sweater"
-    },
-    {
-     "word": "jumper",
-     "note": "英式英文常用來指毛衣，美式英文多指無袖洋裝。",
-     "example": "a warm jumper"
     }
    ],
    "antonyms": [],
@@ -81396,16 +82013,20 @@
    "word": "sweep",
    "phonetic": "/swiːp/",
    "level": 2,
-   "forms": "swept · sweeping · sweeper",
+   "forms": "sweeps · swept · swept · sweeping · sweeper",
    "meanings": [
     {
      "pos": "v.",
      "zh": "打掃；清掃",
-     "ext": "",
+     "ext": "古英語「掃動」→ 用掃帚把灰塵垃圾掃掉",
      "examples": [
       {
        "en": "Kevin sweeps the classroom floor after the club meeting.",
        "zh": "社團活動結束後，Kevin 會掃教室地板。"
+      },
+      {
+       "en": "Dad swept the fallen leaves into a big pile in the yard.",
+       "zh": "爸爸把院子裡的落葉掃成一大堆。"
       }
      ],
      "patterns": [
@@ -81429,11 +82050,15 @@
     {
      "pos": "v.",
      "zh": "席捲；迅速掠過",
-     "ext": "",
+     "ext": "像掃帚掃過 → 快速地橫掃整個地方",
      "examples": [
       {
        "en": "A strong wind swept across the island last night.",
        "zh": "昨晚一陣強風吹過這座島。"
+      },
+      {
+       "en": "A new dance has swept the country, and everyone is learning it.",
+       "zh": "一種新舞蹈席捲全國，大家都在學。"
       }
      ],
      "patterns": [
@@ -81447,6 +82072,10 @@
       {
        "en": "sweep across",
        "zh": "席捲；掠過"
+      },
+      {
+       "en": "sweep the country",
+       "zh": "席捲全國"
       }
      ]
     }
@@ -81456,16 +82085,6 @@
      "word": "sweep",
      "note": "用掃帚或類似工具清除灰塵、垃圾。",
      "example": "sweep the floor"
-    },
-    {
-     "word": "clean",
-     "note": "泛指清潔，方法不限於用掃帚。",
-     "example": "clean the room"
-    },
-    {
-     "word": "brush",
-     "note": "用刷子清理或刷去表面的東西。",
-     "example": "brush away dust"
     }
    ],
    "antonyms": [],
@@ -81503,7 +82122,7 @@
    "word": "swim",
    "phonetic": "/swɪm/",
    "level": 2,
-   "forms": "swam · swum · swimming · swimmer",
+   "forms": "swims · swam · swum · swimming · swimmer",
    "meanings": [
     {
      "pos": "v.",
@@ -81513,6 +82132,10 @@
       {
        "en": "Amy swims at the community pool every Saturday.",
        "zh": "Amy 每週六都到社區游泳池游泳。"
+      },
+      {
+       "en": "Fish swim up the river every spring to lay eggs.",
+       "zh": "每年春天，魚會游到河的上游產卵。"
       }
      ],
      "patterns": [
@@ -81541,6 +82164,10 @@
       {
        "en": "A short swim helped Tom feel more relaxed.",
        "zh": "短暫游了一下泳，讓 Tom 放鬆不少。"
+      },
+      {
+       "en": "Let's go for a swim in the sea before lunch.",
+       "zh": "午餐前我們去海裡游個泳吧。"
       }
      ],
      "patterns": [
@@ -81554,6 +82181,10 @@
       {
        "en": "have a swim",
        "zh": "游一下泳"
+      },
+      {
+       "en": "go for a swim",
+       "zh": "去游泳"
       }
      ]
     }
@@ -81563,11 +82194,6 @@
      "word": "swim",
      "note": "泛指在水中游動，常用於一般游泳活動。",
      "example": "swim every day"
-    },
-    {
-     "word": "bathe",
-     "note": "在英式英文中可指游泳或在水中活動，通常用於海邊。",
-     "example": "bathe in the sea"
     }
    ],
    "antonyms": [],
@@ -81610,11 +82236,15 @@
     {
      "pos": "n.",
      "zh": "泳衣；泳裝",
-     "ext": "",
+     "ext": "swim 游泳 + suit 一套衣服 → 游泳時穿的衣服",
      "examples": [
       {
        "en": "Jenny packed her swimsuit for the school trip to the beach.",
        "zh": "Jenny 為學校的海邊旅行帶了泳衣。"
+      },
+      {
+       "en": "You must wear a swimsuit and a cap in the school pool.",
+       "zh": "在學校游泳池裡一定要穿泳衣、戴泳帽。"
       }
      ],
      "patterns": [],
@@ -81635,11 +82265,6 @@
      "word": "swimsuit",
      "note": "常見的泳裝統稱，男女款式都適用。",
      "example": "wear a swimsuit"
-    },
-    {
-     "word": "bathing suit",
-     "note": "與 swimsuit 同義，常見於美式英文。",
-     "example": "a new bathing suit"
     }
    ],
    "antonyms": [],
@@ -81666,16 +82291,20 @@
    "word": "swing",
    "phonetic": "/swɪŋ/",
    "level": 2,
-   "forms": "swung · swinging",
+   "forms": "swings · swung · swinging",
    "meanings": [
     {
      "pos": "n.",
      "zh": "鞦韆",
-     "ext": "",
+     "ext": "來回搖擺 → 坐上去會前後擺動的遊樂設施",
      "examples": [
       {
        "en": "The children took turns on the swing in the park.",
        "zh": "孩子們輪流坐公園裡的鞦韆。"
+      },
+      {
+       "en": "There are two swings and a slide in the playground.",
+       "zh": "遊樂場裡有兩座鞦韆和一個溜滑梯。"
       }
      ],
      "patterns": [],
@@ -81683,17 +82312,25 @@
       {
        "en": "play on a swing",
        "zh": "玩鞦韆"
+      },
+      {
+       "en": "push someone on a swing",
+       "zh": "推某人盪鞦韆"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "搖擺；揮動",
-     "ext": "",
+     "ext": "古英語「揮打」→ 來回或繞圈地擺動",
      "examples": [
       {
        "en": "The lamp swung gently as the train moved.",
        "zh": "火車行進時，燈輕輕搖晃。"
+      },
+      {
+       "en": "Kevin swung the bat and hit the ball over the fence.",
+       "zh": "Kevin 揮棒，把球打出了圍牆。"
       }
      ],
      "patterns": [
@@ -81711,17 +82348,25 @@
       {
        "en": "swing one's arms",
        "zh": "揮動手臂"
+      },
+      {
+       "en": "swing a bat",
+       "zh": "揮棒"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "盪鞦韆",
-     "ext": "",
+     "ext": "來回搖擺 → 坐在鞦韆上前後擺盪",
      "examples": [
       {
        "en": "The younger children swung on the swings after lunch.",
        "zh": "午餐後，年紀較小的孩子盪了鞦韆。"
+      },
+      {
+       "en": "My little sister loves to swing high in the park.",
+       "zh": "我妹妹很喜歡在公園把鞦韆盪得高高的。"
       }
      ],
      "patterns": [
@@ -81731,7 +82376,16 @@
        "zh": "放學後，Amy 盪了繩索鞦韆。"
       }
      ],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "swing on a swing",
+       "zh": "盪鞦韆"
+      },
+      {
+       "en": "swing high",
+       "zh": "盪得很高"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -81742,13 +82396,8 @@
     },
     {
      "word": "sway",
-     "note": "指因風或動作而緩慢地左右搖動。",
+     "note": "指緩慢、輕輕地左右搖動，幅度比 swing 小。",
      "example": "trees sway in the wind"
-    },
-    {
-     "word": "wave",
-     "note": "指揮手或讓物體上下、左右擺動以示意。",
-     "example": "wave a flag"
     }
    ],
    "antonyms": [],
@@ -81764,38 +82413,78 @@
    "word": "switch",
    "phonetic": "/swɪtʃ/",
    "level": 2,
-   "forms": "switched · switching",
+   "forms": "switches · switched · switching",
    "meanings": [
     {
      "pos": "n.",
-     "zh": "開關；轉換",
-     "ext": "",
+     "zh": "開關",
+     "ext": "可以扳動的細枝 → 扳一下就切換電源的裝置",
      "examples": [
       {
        "en": "Please turn off the light switch before leaving the room.",
        "zh": "離開房間前，請把電燈開關關掉。"
+      },
+      {
+       "en": "Where is the switch for the fan in this classroom?",
+       "zh": "這間教室的電扇開關在哪裡？"
       }
      ],
      "patterns": [],
      "collocations": [
       {
-       "en": "light switch",
+       "en": "a light switch",
        "zh": "電燈開關"
       },
       {
-       "en": "turn on a switch",
-       "zh": "打開開關"
+       "en": "press a switch",
+       "zh": "按開關"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "轉換；改變",
+     "ext": "扳動開關 → 從一種狀態換到另一種",
+     "examples": [
+      {
+       "en": "The switch to the new computer system took a week.",
+       "zh": "換成新的電腦系統花了一週。"
+      },
+      {
+       "en": "Tom made a switch from science to art in his second year.",
+       "zh": "Tom 二年級時從理組轉到藝術。"
+      }
+     ],
+     "patterns": [
+      {
+       "pattern": "a switch from A to B",
+       "en": "There was a switch from paper books to online reading.",
+       "zh": "從讀紙本書轉向線上閱讀。"
+      }
+     ],
+     "collocations": [
+      {
+       "en": "make a switch",
+       "zh": "做出轉換"
+      },
+      {
+       "en": "a switch to",
+       "zh": "轉換成"
       }
      ]
     },
     {
      "pos": "v.",
      "zh": "轉換；改變",
-     "ext": "",
+     "ext": "扳動開關 → 從一種東西換成另一種",
      "examples": [
       {
        "en": "Our class switched to online lessons during the storm.",
        "zh": "暴風雨期間，我們班改上線上課程。"
+      },
+      {
+       "en": "Can I switch seats with you so I can sit by the window?",
+       "zh": "我可以跟你換座位，好讓我坐窗邊嗎？"
       }
      ],
      "patterns": [
@@ -81818,6 +82507,10 @@
       {
        "en": "switch seats",
        "zh": "交換座位"
+      },
+      {
+       "en": "switch on / off",
+       "zh": "打開／關掉"
       }
      ]
     }
@@ -81832,11 +82525,6 @@
      "word": "change",
      "note": "最廣泛的「改變」，不一定涉及兩種選擇間的轉換。",
      "example": "change the plan"
-    },
-    {
-     "word": "replace",
-     "note": "指用另一個人或物取代原來的對象。",
-     "example": "replace the old phone"
     }
    ],
    "antonyms": [],
@@ -81879,11 +82567,15 @@
     {
      "pos": "n.",
      "zh": "象徵；符號",
-     "ext": "",
+     "ext": "希臘文 symbolon 信物 → 代表某種意義的東西或記號",
      "examples": [
       {
        "en": "The dove is a symbol of peace in many cultures.",
        "zh": "在許多文化中，鴿子是和平的象徵。"
+      },
+      {
+       "en": "In math, the symbol + means to add two numbers.",
+       "zh": "在數學裡，符號 + 表示把兩個數相加。"
       }
      ],
      "patterns": [
@@ -81913,13 +82605,8 @@
     },
     {
      "word": "sign",
-     "note": "常指提供資訊或指示的標誌、徵兆。",
-     "example": "a road sign"
-    },
-    {
-     "word": "mark",
-     "note": "常指用來辨認或標示的記號。",
-     "example": "a question mark"
+     "note": "也可指符號，如 a plus sign，但更常指標誌或跡象，不指抽象的象徵。",
+     "example": "a plus sign"
     }
    ],
    "antonyms": [],
@@ -81940,11 +82627,15 @@
     {
      "pos": "n.",
      "zh": "系統；制度",
-     "ext": "",
+     "ext": "希臘文 systema 組合起來的整體 → 有規則運作的系統",
      "examples": [
       {
        "en": "The school uses a new system to share news with parents.",
        "zh": "學校用新的系統和家長分享消息。"
+      },
+      {
+       "en": "The city has a good public transportation system.",
+       "zh": "這座城市有完善的大眾運輸系統。"
       }
      ],
      "patterns": [
@@ -81975,16 +82666,6 @@
      "word": "system",
      "note": "由多個部分組成、依規則運作的整體。",
      "example": "a school system"
-    },
-    {
-     "word": "method",
-     "note": "指完成某件事的具體方法或步驟。",
-     "example": "a simple method"
-    },
-    {
-     "word": "structure",
-     "note": "強調各部分如何安排或組織。",
-     "example": "the structure of a class"
     }
    ],
    "antonyms": [],
@@ -82010,6 +82691,10 @@
       {
        "en": "Grandma told us a tale about a clever fox.",
        "zh": "奶奶講了一個關於聰明狐狸的故事。"
+      },
+      {
+       "en": "Every country has its own folk tales about animals and heroes.",
+       "zh": "每個國家都有自己關於動物和英雄的民間故事。"
       }
      ],
      "patterns": [
@@ -82038,18 +82723,13 @@
    "synonyms": [
     {
      "word": "tale",
-     "note": "常指有情節的故事，也可指傳說或虛構故事。",
+     "note": "常指有情節、多半虛構的故事，如童話、民間故事。",
      "example": "a fairy tale"
     },
     {
      "word": "story",
-     "note": "最常見的「故事」，可指真實或虛構內容。",
+     "note": "最常見的「故事」，可指真實或虛構內容，用法最廣。",
      "example": "a true story"
-    },
-    {
-     "word": "legend",
-     "note": "指流傳已久、帶有傳說色彩的故事。",
-     "example": "an old legend"
     }
    ],
    "antonyms": [],
@@ -82092,11 +82772,15 @@
     {
      "pos": "n.",
      "zh": "目標；對象",
-     "ext": "",
+     "ext": "射箭用的靶 → 想要打中或達成的目標",
      "examples": [
       {
        "en": "Our team set a target of reading ten books this semester.",
        "zh": "我們小組訂下這學期讀十本書的目標。"
+      },
+      {
+       "en": "The arrow missed the target and hit the tree behind it.",
+       "zh": "那支箭沒射中靶，打中了後面的樹。"
       }
      ],
      "patterns": [
@@ -82129,11 +82813,15 @@
     {
      "pos": "v.",
      "zh": "以……為目標；針對",
-     "ext": "",
+     "ext": "瞄準靶心 → 把某群人當成對象",
      "examples": [
       {
        "en": "The school targets students who need extra reading support.",
        "zh": "學校把需要額外閱讀協助的學生列為服務對象。"
+      },
+      {
+       "en": "This new phone is mainly targeted at young people who love games.",
+       "zh": "這支新手機主要以愛玩遊戲的年輕人為目標客群。"
       }
      ],
      "patterns": [
@@ -82147,6 +82835,10 @@
       {
        "en": "target young people",
        "zh": "以年輕人為對象"
+      },
+      {
+       "en": "be targeted at",
+       "zh": "以……為對象"
       }
      ]
     }
@@ -82221,6 +82913,10 @@
       {
        "en": "Each student finished one task before the group meeting.",
        "zh": "每位學生都在小組會議前完成一項任務。"
+      },
+      {
+       "en": "Cleaning the whole house in one day is not an easy task.",
+       "zh": "一天內打掃整間房子不是件容易的事。"
       }
      ],
      "patterns": [
@@ -82253,11 +82949,15 @@
     {
      "pos": "v.",
      "zh": "交付任務",
-     "ext": "",
+     "ext": "任務 → 當動詞指交給某人一項工作",
      "examples": [
       {
        "en": "The teacher tasked our group with planning the class trip.",
        "zh": "老師交給我們小組規劃班級旅行的任務。"
+      },
+      {
+       "en": "Our team was tasked with collecting trash along the beach.",
+       "zh": "我們隊被指派沿著海灘撿垃圾。"
       }
      ],
      "patterns": [
@@ -82267,7 +82967,16 @@
        "zh": "教練交給 Tom 帶領暖身活動的任務。"
       }
      ],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "be tasked with",
+       "zh": "被指派"
+      },
+      {
+       "en": "task someone with",
+       "zh": "交給某人任務"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -82300,16 +83009,20 @@
    "word": "tax",
    "phonetic": "/tæks/",
    "level": 2,
-   "forms": "taxed · taxing · taxes · taxation",
+   "forms": "taxes · taxed · taxing · taxation",
    "meanings": [
     {
      "pos": "n.",
      "zh": "稅；稅金",
-     "ext": "",
+     "ext": "拉丁文 taxare 估價 → 政府估算後向人民收的錢",
      "examples": [
       {
        "en": "The price includes tax, so you do not need to pay more.",
        "zh": "價格已含稅，不需要再多付錢。"
+      },
+      {
+       "en": "Everyone who works must pay income tax every year.",
+       "zh": "每個有工作的人每年都必須繳所得稅。"
       }
      ],
      "patterns": [
@@ -82337,11 +83050,15 @@
     {
      "pos": "v.",
      "zh": "對……課稅",
-     "ext": "",
+     "ext": "稅金 → 當動詞指政府向人或物收稅",
      "examples": [
       {
        "en": "The government taxes some products to protect the environment.",
        "zh": "政府對某些產品課稅，以保護環境。"
+      },
+      {
+       "en": "Many countries tax sweet drinks to protect people's health.",
+       "zh": "許多國家對含糖飲料課稅，以保護人民的健康。"
       }
      ],
      "patterns": [
@@ -82355,6 +83072,10 @@
       {
        "en": "tax goods",
        "zh": "對商品課稅"
+      },
+      {
+       "en": "be heavily taxed",
+       "zh": "被課重稅"
       }
      ]
     }
@@ -82364,16 +83085,6 @@
      "word": "tax",
      "note": "指政府依法徵收的稅，也可作動詞表示課稅。",
      "example": "pay tax"
-    },
-    {
-     "word": "charge",
-     "note": "指收取費用，通常不是政府徵收的稅。",
-     "example": "charge a fee"
-    },
-    {
-     "word": "fee",
-     "note": "指為服務或使用權支付的費用。",
-     "example": "pay a fee"
     }
    ],
    "antonyms": [],
@@ -82402,11 +83113,15 @@
     {
      "pos": "n.",
      "zh": "茶壺",
-     "ext": "",
+     "ext": "tea 茶 + pot 壺 → 用來泡茶、倒茶的壺",
      "examples": [
       {
        "en": "Mom poured hot tea from the teapot into our cups.",
        "zh": "媽媽把茶壺裡的熱茶倒進我們的杯子。"
+      },
+      {
+       "en": "Grandpa keeps an old teapot that his father gave him.",
+       "zh": "爺爺留著一把他父親送他的舊茶壺。"
       }
      ],
      "patterns": [],
@@ -82427,11 +83142,6 @@
      "word": "teapot",
      "note": "用來沖泡或盛裝茶水的壺。",
      "example": "a teapot of tea"
-    },
-    {
-     "word": "kettle",
-     "note": "用來燒開水的壺，通常不是用來泡茶。",
-     "example": "boil water in a kettle"
     }
    ],
    "antonyms": [],
@@ -82458,16 +83168,20 @@
    "word": "tear",
    "phonetic": "/tɛr/, /tɪr/",
    "level": 2,
-   "forms": "tore · torn · tearing · tears",
+   "forms": "tears · tore · torn · tearing",
    "meanings": [
     {
      "pos": "v.",
      "zh": "撕裂；撕開",
-     "ext": "",
+     "ext": "古英語 teran 撕 → 用力把東西撕開或扯破",
      "examples": [
       {
        "en": "Tom tore the paper carefully along the dotted line.",
        "zh": "Tom 沿著虛線小心地把紙撕開。"
+      },
+      {
+       "en": "My new jeans got torn when I fell off my bike.",
+       "zh": "我從腳踏車上摔下來時，新牛仔褲被扯破了。"
       }
      ],
      "patterns": [
@@ -82501,6 +83215,10 @@
       {
        "en": "A tear rolled down Amy's cheek during the sad film.",
        "zh": "看悲傷的電影時，一滴眼淚從 Amy 的臉頰滑落。"
+      },
+      {
+       "en": "Her eyes filled with tears when she said goodbye to her friends.",
+       "zh": "她向朋友道別時，眼中充滿了淚水。"
       }
      ],
      "patterns": [
@@ -82518,6 +83236,14 @@
       {
        "en": "tears of joy",
        "zh": "喜悅的眼淚"
+      },
+      {
+       "en": "in tears",
+       "zh": "流著淚"
+      },
+      {
+       "en": "burst into tears",
+       "zh": "突然大哭"
       }
      ]
     }
@@ -82530,13 +83256,8 @@
     },
     {
      "word": "rip",
-     "note": "指撕裂或撕破，語氣較口語，也常指意外弄破。",
+     "note": "也指撕破，但動作更快、更猛，常是不小心扯破。",
      "example": "rip a bag"
-    },
-    {
-     "word": "split",
-     "note": "指把物體分開或裂開，不一定是用手撕。",
-     "example": "split the paper"
     }
    ],
    "antonyms": [],
@@ -82557,11 +83278,15 @@
     {
      "pos": "n.",
      "zh": "科技；技術",
-     "ext": "",
+     "ext": "希臘文 techne 技藝 + -logy 學問 → 應用科學的技術",
      "examples": [
       {
        "en": "Technology has changed the way students find information.",
        "zh": "科技改變了學生查找資訊的方式。"
+      },
+      {
+       "en": "New technology allows doctors to find diseases much earlier.",
+       "zh": "新科技讓醫生能更早發現疾病。"
       }
      ],
      "patterns": [],
@@ -82573,6 +83298,10 @@
       {
        "en": "use technology",
        "zh": "使用科技"
+      },
+      {
+       "en": "information technology",
+       "zh": "資訊科技"
       }
      ]
     }
@@ -82582,11 +83311,6 @@
      "word": "technology",
      "note": "泛指應用科學知識的工具、方法與系統。",
      "example": "modern technology"
-    },
-    {
-     "word": "technique",
-     "note": "指完成特定工作或活動的方法與技巧。",
-     "example": "a painting technique"
     }
    ],
    "antonyms": [],
@@ -82606,27 +83330,63 @@
    "meanings": [
     {
      "pos": "n.",
-     "zh": "青少年；十幾歲",
-     "ext": "",
+     "zh": "青少年",
+     "ext": "thirteen 到 nineteen 的 -teen → 十幾歲的年輕人",
      "examples": [
       {
        "en": "Many teens use the library to study after school.",
        "zh": "許多青少年放學後會到圖書館讀書。"
       },
       {
-       "en": "My sister began playing the guitar in her teens.",
-       "zh": "我姊姊十幾歲時開始彈吉他。"
+       "en": "The new phone is very popular among teens in Taiwan.",
+       "zh": "這款新手機在台灣的青少年之間很受歡迎。"
       }
      ],
      "patterns": [],
+     "collocations": [
+      {
+       "en": "teens today",
+       "zh": "現在的青少年"
+      },
+      {
+       "en": "young teens",
+       "zh": "年紀較小的青少年"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "十幾歲；十三至十九歲",
+     "ext": "數字結尾 -teen → 十三到十九歲這段年紀",
+     "examples": [
+      {
+       "en": "My sister began playing the guitar in her teens.",
+       "zh": "我姊姊十幾歲時開始彈吉他。"
+      },
+      {
+       "en": "My grandfather left home to work when he was in his teens.",
+       "zh": "我爺爺十幾歲時就離家去工作了。"
+      }
+     ],
+     "patterns": [
+      {
+       "pattern": "in one's teens",
+       "en": "Many people start to wear glasses in their teens.",
+       "zh": "很多人在十幾歲時開始戴眼鏡。"
+      }
+     ],
      "collocations": [
       {
        "en": "in one's teens",
        "zh": "在某人十幾歲時"
       },
       {
-       "en": "teenage years",
-       "zh": "青少年時期"
+       "en": "in one's early teens",
+       "zh": "十三、四歲時"
+      },
+      {
+       "en": "in one's late teens",
+       "zh": "十七到十九歲時"
       }
      ]
     }
@@ -82638,13 +83398,13 @@
      "example": "teens today"
     },
     {
-     "word": "teenagers",
-     "note": "較完整、正式的說法，指十三至十九歲的人。",
-     "example": "teenagers in Taiwan"
+     "word": "teenager",
+     "note": "最常用的「青少年」，可數單數也能用，語氣比 teens 完整。",
+     "example": "a teenager"
     },
     {
-     "word": "adolescents",
-     "note": "較正式，常用於教育或健康等語境。",
+     "word": "adolescent",
+     "note": "較正式，多用於教育、醫學或心理學的文章。",
      "example": "adolescent health"
     }
    ],
@@ -82666,7 +83426,7 @@
     {
      "pos": "n.",
      "zh": "溫度；體溫",
-     "ext": "",
+     "ext": "拉丁文 temperatura 調和 → 冷熱調和的程度",
      "examples": [
       {
        "en": "The temperature will drop tonight, so bring a warm coat.",
@@ -82705,11 +83465,6 @@
      "word": "temperature",
      "note": "表示物體、環境或人體的冷熱程度。",
      "example": "room temperature"
-    },
-    {
-     "word": "heat",
-     "note": "著重熱量或熱度，不一定表示測量出的溫度。",
-     "example": "the summer heat"
     }
    ],
    "antonyms": [],
@@ -82725,16 +83480,20 @@
    "word": "term",
    "phonetic": "/tɝːm/",
    "level": 2,
-   "forms": "terms · termed · terming · termly",
+   "forms": "terms · termed · terming",
    "meanings": [
     {
      "pos": "n.",
      "zh": "學期；任期",
-     "ext": "",
+     "ext": "拉丁文 terminus 界限 → 有起點和終點的一段期間",
      "examples": [
       {
        "en": "Our school term ends two weeks before the summer break.",
        "zh": "我們學校的學期在暑假前兩週結束。"
+      },
+      {
+       "en": "In Taiwan, the president can only serve two terms in a row.",
+       "zh": "在台灣，總統最多只能連續做兩任。"
       }
      ],
      "patterns": [],
@@ -82756,11 +83515,15 @@
     {
      "pos": "n.",
      "zh": "術語；用語",
-     "ext": "",
+     "ext": "界限 → 意思被界定清楚的詞語",
      "examples": [
       {
        "en": "The teacher explained the new term with a simple example.",
        "zh": "老師用一個簡單的例子解釋這個新術語。"
+      },
+      {
+       "en": "Can you explain this medical term in simple words?",
+       "zh": "你能用簡單的話解釋這個醫學術語嗎？"
       }
      ],
      "patterns": [
@@ -82784,11 +83547,15 @@
     {
      "pos": "v.",
      "zh": "把…稱為",
-     "ext": "",
+     "ext": "固定的術語 → 用某個詞語來稱呼某人或某事",
      "examples": [
       {
        "en": "The report termed the change a major success.",
        "zh": "這份報告把這項改變稱為重大成功。"
+      },
+      {
+       "en": "These young people are often termed the digital generation.",
+       "zh": "這群年輕人常被稱為數位世代。"
       }
      ],
      "patterns": [
@@ -82798,7 +83565,52 @@
        "zh": "學生們把這趟旅行稱為寶貴的經驗。"
       }
      ],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "be termed",
+       "zh": "被稱為"
+      },
+      {
+       "en": "what is termed",
+       "zh": "所謂的"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "（複數）關係；條件",
+     "ext": "界限 → 雙方約定的範圍 → 條件或交情",
+     "examples": [
+      {
+       "en": "I am still on good terms with my old classmates.",
+       "zh": "我和以前的同學還保持良好關係。"
+      },
+      {
+       "en": "Both sides finally agreed to the terms of the contract.",
+       "zh": "雙方終於同意合約的條件。"
+      }
+     ],
+     "patterns": [
+      {
+       "pattern": "be on good terms with + 人",
+       "en": "Amy is on good terms with all her neighbors.",
+       "zh": "Amy 和所有鄰居都相處得很好。"
+      }
+     ],
+     "collocations": [
+      {
+       "en": "on good terms",
+       "zh": "關係良好"
+      },
+      {
+       "en": "in terms of",
+       "zh": "就……而言"
+      },
+      {
+       "en": "the terms of a contract",
+       "zh": "合約條件"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -82808,13 +83620,8 @@
      "example": "school term"
     },
     {
-     "word": "period",
-     "note": "泛指一段時間，較少特指學校學期。",
-     "example": "a short period"
-    },
-    {
      "word": "semester",
-     "note": "專指學年中的一個學期，常用於大專院校。",
+     "note": "只用於學期的意思，指一學年分成兩段中的一段。",
      "example": "the fall semester"
     }
    ],
@@ -82858,11 +83665,15 @@
     {
      "pos": "n.",
      "zh": "恐怖主義",
-     "ext": "",
+     "ext": "terror 恐懼 + -ism 主義 → 靠製造恐懼來達到目的",
      "examples": [
       {
        "en": "The news report discussed how communities can prevent terrorism.",
        "zh": "新聞報導討論社區如何預防恐怖主義。"
+      },
+      {
+       "en": "Many countries work together to fight against terrorism.",
+       "zh": "許多國家合作打擊恐怖主義。"
       }
      ],
      "patterns": [],
@@ -82923,11 +83734,15 @@
     {
      "pos": "n.",
      "zh": "恐怖分子",
-     "ext": "",
+     "ext": "terror 恐懼 + -ist 人 → 用暴力製造恐懼的人",
      "examples": [
       {
        "en": "The report described the terrorist and the group's plans.",
        "zh": "報導描述了那名恐怖分子和該組織的計畫。"
+      },
+      {
+       "en": "The police caught two terrorists at the airport yesterday.",
+       "zh": "警方昨天在機場抓到兩名恐怖分子。"
       }
      ],
      "patterns": [],
@@ -82945,15 +83760,28 @@
     {
      "pos": "adj.",
      "zh": "恐怖主義的",
-     "ext": "",
+     "ext": "恐怖分子 → 形容和恐怖分子有關的行動",
      "examples": [
       {
        "en": "The police found evidence of a terrorist plan.",
        "zh": "警方找到了與恐怖主義計畫有關的證據。"
+      },
+      {
+       "en": "Security at the station was tightened after the terrorist attack.",
+       "zh": "恐怖攻擊後，車站的安檢加強了。"
       }
      ],
      "patterns": [],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "a terrorist attack",
+       "zh": "恐怖攻擊"
+      },
+      {
+       "en": "terrorist activities",
+       "zh": "恐怖活動"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -83000,16 +83828,42 @@
    "meanings": [
     {
      "pos": "n.",
-     "zh": "文字；簡訊",
-     "ext": "",
+     "zh": "文字；內容",
+     "ext": "拉丁文 textus 編織物 → 編織在一起的文字",
+     "examples": [
+      {
+       "en": "The text on the screen was too small to read.",
+       "zh": "螢幕上的文字太小，沒辦法看清楚。"
+      },
+      {
+       "en": "Read the text carefully and then answer the questions.",
+       "zh": "仔細閱讀文章內容，再回答問題。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
+       "en": "the full text",
+       "zh": "全文"
+      },
+      {
+       "en": "a short text",
+       "zh": "一篇短文"
+      }
+     ]
+    },
+    {
+     "pos": "n.",
+     "zh": "簡訊；文字訊息",
+     "ext": "文字 → 用手機傳送的文字訊息",
      "examples": [
       {
        "en": "Please send me a text when you arrive at the station.",
        "zh": "你到車站時請傳簡訊給我。"
       },
       {
-       "en": "The text on the screen was too small to read.",
-       "zh": "螢幕上的文字太小，沒辦法看清楚。"
+       "en": "I got a text from Mom asking when I would be home.",
+       "zh": "我收到媽媽傳來的簡訊，問我幾點回家。"
       }
      ],
      "patterns": [],
@@ -83019,7 +83873,7 @@
        "zh": "傳簡訊"
       },
       {
-       "en": "text message",
+       "en": "a text message",
        "zh": "文字訊息"
       }
      ]
@@ -83027,11 +83881,15 @@
     {
      "pos": "v.",
      "zh": "傳簡訊給",
-     "ext": "",
+     "ext": "簡訊 → 當動詞指傳簡訊給某人",
      "examples": [
       {
        "en": "I will text my brother after the meeting ends.",
        "zh": "會議結束後，我會傳簡訊給我弟弟。"
+      },
+      {
+       "en": "Text me when you get home so I know you're safe.",
+       "zh": "到家時傳簡訊給我，讓我知道你平安。"
       }
      ],
      "patterns": [
@@ -83041,7 +83899,16 @@
        "zh": "Jenny 離開學校前傳了簡訊給媽媽。"
       }
      ],
-     "collocations": []
+     "collocations": [
+      {
+       "en": "text someone",
+       "zh": "傳簡訊給某人"
+      },
+      {
+       "en": "text back",
+       "zh": "回簡訊"
+      }
+     ]
     }
    ],
    "synonyms": [
@@ -83052,7 +83919,7 @@
     },
     {
      "word": "message",
-     "note": "可指各種訊息，傳送方式不一定是文字。",
+     "note": "可指各種訊息，傳送方式不一定是文字，也可是語音或口信。",
      "example": "send a message"
     }
    ],
@@ -83074,11 +83941,15 @@
     {
      "pos": "n.",
      "zh": "教科書；課本",
-     "ext": "",
+     "ext": "text 文字 + book 書 → 上課用的教本",
      "examples": [
       {
        "en": "Our science textbook includes a chapter about clean energy.",
        "zh": "我們的自然科課本有一章介紹潔淨能源。"
+      },
+      {
+       "en": "Please open your English textbook to page twenty.",
+       "zh": "請把英文課本翻到第二十頁。"
       }
      ],
      "patterns": [],
@@ -83086,6 +83957,10 @@
       {
        "en": "school textbook",
        "zh": "學校教科書"
+      },
+      {
+       "en": "an English textbook",
+       "zh": "英文課本"
       }
      ]
     }
@@ -83095,11 +83970,6 @@
      "word": "textbook",
      "note": "通常指學校課程使用的教科書或課本。",
      "example": "a science textbook"
-    },
-    {
-     "word": "manual",
-     "note": "著重提供操作或使用指示的手冊。",
-     "example": "a user manual"
     }
    ],
    "antonyms": [],
@@ -83131,14 +84001,24 @@
     {
      "pos": "adv.",
      "zh": "因此；所以",
-     "ext": "",
+     "ext": "there 那個 + fore 為了 → 為了那個原因，所以",
      "examples": [
       {
        "en": "The road was wet, and therefore the driver slowed down.",
        "zh": "路面是濕的，因此駕駛放慢了速度。"
+      },
+      {
+       "en": "Amy studied very hard; therefore, she passed the test easily.",
+       "zh": "Amy 很用功，因此輕鬆通過了考試。"
       }
      ],
-     "patterns": [],
+     "patterns": [
+      {
+       "pattern": "子句; therefore, 子句",
+       "en": "It was raining heavily; therefore, the game was canceled.",
+       "zh": "雨下得很大，因此比賽取消了。"
+      }
+     ],
      "collocations": [
       {
        "en": "and therefore",
@@ -83197,8 +84077,12 @@
      "ext": "",
      "examples": [
       {
-       "en": "The thief returned the lost phone after seeing the owner's name.",
-       "zh": "小偷看到手機主人的名字後，把遺失的手機還了回去。"
+       "en": "The police caught the thief who stole bikes near the station.",
+       "zh": "警方抓到了在車站附近偷腳踏車的小偷。"
+      },
+      {
+       "en": "A thief broke into our neighbor's house while they were on vacation.",
+       "zh": "鄰居去度假時，有小偷闖進他們家。"
       }
      ],
      "patterns": [],
@@ -83219,11 +84103,6 @@
      "word": "thief",
      "note": "泛指偷取他人財物的人，常用於一般情境。",
      "example": "catch a thief"
-    },
-    {
-     "word": "robber",
-     "note": "通常指以威脅或暴力搶奪財物的人。",
-     "example": "a bank robber"
     }
    ],
    "antonyms": [],
@@ -83251,16 +84130,42 @@
    "meanings": [
     {
      "pos": "adj.",
-     "zh": "口渴的；渴望的",
-     "ext": "",
+     "zh": "口渴的",
+     "ext": "古英語「乾的」→ 喉嚨乾、想喝水",
      "examples": [
       {
        "en": "After the long walk, everyone was thirsty for cold water.",
        "zh": "走了很久後，大家都很想喝冰水。"
       },
       {
+       "en": "Eating salty food always makes me feel very thirsty.",
+       "zh": "吃鹹的食物總是讓我覺得很口渴。"
+      }
+     ],
+     "patterns": [],
+     "collocations": [
+      {
+       "en": "feel thirsty",
+       "zh": "覺得口渴"
+      },
+      {
+       "en": "get thirsty",
+       "zh": "變得口渴"
+      }
+     ]
+    },
+    {
+     "pos": "adj.",
+     "zh": "渴望的",
+     "ext": "口渴想喝水 → 非常想得到某樣東西",
+     "examples": [
+      {
        "en": "The team is thirsty for another chance to win.",
        "zh": "這支隊伍渴望再有一次獲勝的機會。"
+      },
+      {
+       "en": "Young people in the village are thirsty for new ideas and chances.",
+       "zh": "村裡的年輕人渴望新的想法和機會。"
       }
      ],
      "patterns": [
@@ -83272,12 +84177,12 @@
      ],
      "collocations": [
       {
-       "en": "feel thirsty",
-       "zh": "覺得口渴"
-      },
-      {
        "en": "thirsty for knowledge",
        "zh": "渴望知識"
+      },
+      {
+       "en": "thirsty for success",
+       "zh": "渴望成功"
       }
      ]
     }
@@ -83290,7 +84195,7 @@
     },
     {
      "word": "eager",
-     "note": "表示熱切期待或想做某事，不限於比喻用法。",
+     "note": "只有渴望的意思，常接 to V，語氣較正面積極。",
      "example": "eager to learn"
     }
    ],
@@ -83325,11 +84230,15 @@
     {
      "pos": "n.",
      "zh": "想法；念頭",
-     "ext": "",
+     "ext": "think 的名詞 → 腦中想到的念頭",
      "examples": [
       {
        "en": "Amy shared her thoughts about the school project with us.",
        "zh": "Amy 和我們分享了她對學校專題的想法。"
+      },
+      {
+       "en": "The thought of the coming exam made me feel nervous.",
+       "zh": "一想到即將到來的考試，我就覺得很緊張。"
       }
      ],
      "patterns": [
@@ -83357,11 +84266,15 @@
     {
      "pos": "n.",
      "zh": "思考；思維",
-     "ext": "",
+     "ext": "心中的念頭 → 動腦想事情的整個過程",
      "examples": [
       {
-       "en": "Clear thought helps students solve difficult problems.",
-       "zh": "清楚的思考有助於學生解決難題。"
+       "en": "Clear thought helps students solve difficult math problems.",
+       "zh": "清楚的思考有助於學生解決困難的數學題。"
+      },
+      {
+       "en": "Grandpa sat quietly by the window, lost in thought.",
+       "zh": "爺爺安靜地坐在窗邊，陷入沉思。"
       }
      ],
      "patterns": [],
@@ -83385,13 +84298,8 @@
     },
     {
      "word": "idea",
-     "note": "常指具體的想法或計畫，語氣較日常。",
+     "note": "常指具體的主意或計畫，語氣較日常，不指思考過程。",
      "example": "a new idea"
-    },
-    {
-     "word": "opinion",
-     "note": "指對事情的看法或判斷，常可與他人不同。",
-     "example": "express an opinion"
     }
    ],
    "antonyms": [],
@@ -83434,15 +84342,15 @@
     {
      "pos": "prep.",
      "zh": "遍及；在整段期間",
-     "ext": "",
+     "ext": "through 穿過 + out 到外面 → 從頭到尾、每個地方",
      "examples": [
       {
        "en": "The festival brought visitors from throughout the country.",
        "zh": "這場節慶吸引了來自全國各地的遊客。"
       },
       {
-       "en": "She stayed focused throughout the long exam.",
-       "zh": "她整場長時間的考試都很專心。"
+       "en": "She stayed calm and focused throughout the long exam.",
+       "zh": "她整場長時間的考試都保持冷靜專心。"
       }
      ],
      "patterns": [],
@@ -83460,11 +84368,15 @@
     {
      "pos": "adv.",
      "zh": "自始至終；到處",
-     "ext": "",
+     "ext": "從頭到尾 → 單獨用時表示每個部分都是",
      "examples": [
       {
        "en": "The room was clean throughout, even after the event.",
        "zh": "即使活動結束後，整個房間依然很乾淨。"
+      },
+      {
+       "en": "The old house has been painted white throughout, inside and out.",
+       "zh": "那棟老房子裡裡外外全都漆成了白色。"
       }
      ],
      "patterns": [],
@@ -83476,16 +84388,6 @@
      "word": "throughout",
      "note": "作介系詞時表示遍及某地或貫穿一段時間。",
      "example": "throughout the year"
-    },
-    {
-     "word": "during",
-     "note": "表示在某段期間內，不強調從頭到尾。",
-     "example": "during the summer"
-    },
-    {
-     "word": "across",
-     "note": "著重橫跨或遍及不同地點。",
-     "example": "across the country"
     }
    ],
    "antonyms": [],
@@ -83511,6 +84413,10 @@
       {
        "en": "The loud thunder woke the children during the storm.",
        "zh": "暴風雨中，響亮的雷聲把孩子們吵醒了。"
+      },
+      {
+       "en": "My dog hides under the bed whenever it hears thunder.",
+       "zh": "我的狗只要聽到雷聲就躲到床底下。"
       }
      ],
      "patterns": [],
@@ -83528,11 +84434,15 @@
     {
      "pos": "v.",
      "zh": "打雷；轟隆作響",
-     "ext": "",
+     "ext": "雷聲 → 打雷或發出像雷一樣的巨響",
      "examples": [
       {
        "en": "It thundered loudly before the heavy rain began.",
        "zh": "大雨開始前，雷聲隆隆作響。"
+      },
+      {
+       "en": "Heavy trucks thundered past our house all night long.",
+       "zh": "重型卡車整晚轟隆隆地從我家門前駛過。"
       }
      ],
      "patterns": [],
@@ -83540,6 +84450,10 @@
       {
        "en": "thunder loudly",
        "zh": "轟隆作響"
+      },
+      {
+       "en": "thunder past",
+       "zh": "轟隆隆地駛過"
       }
      ]
     }
@@ -83549,11 +84463,6 @@
      "word": "thunder",
      "note": "指雷聲或像雷聲般低沉而響亮的聲音。",
      "example": "thunder rumbled"
-    },
-    {
-     "word": "rumble",
-     "note": "表示低沉持續的隆隆聲，不一定來自雷。",
-     "example": "a distant rumble"
     }
    ],
    "antonyms": [],
@@ -83573,29 +84482,46 @@
    "meanings": [
     {
      "pos": "adv.",
-     "zh": "因此；如此",
-     "ext": "",
+     "zh": "因此；所以",
+     "ext": "古英語「這樣」→ 這樣一來，結果就是",
      "examples": [
       {
        "en": "The bus was late, and thus we missed the first part of class.",
        "zh": "公車誤點，因此我們錯過了課程的前半段。"
       },
       {
-       "en": "Fold the paper thus to make a simple card.",
-       "zh": "把紙這樣摺，就能做成一張簡單的卡片。"
+       "en": "The new road is shorter and thus saves drivers a lot of time.",
+       "zh": "新路比較短，因此替駕駛省下很多時間。"
       }
      ],
      "patterns": [],
      "collocations": [
       {
-       "en": "thus far",
-       "zh": "到目前為止"
-      },
-      {
        "en": "and thus",
        "zh": "因此"
+      },
+      {
+       "en": "thus far",
+       "zh": "到目前為止"
       }
      ]
+    },
+    {
+     "pos": "adv.",
+     "zh": "如此；以這種方式",
+     "ext": "古英語「這樣」→ 用這種方法去做",
+     "examples": [
+      {
+       "en": "Fold the paper thus to make a simple card for your mother.",
+       "zh": "把紙這樣摺，就能做一張簡單的卡片給媽媽。"
+      },
+      {
+       "en": "Hold the camera thus, and the picture will come out clear.",
+       "zh": "像這樣拿相機，照片就會很清楚。"
+      }
+     ],
+     "patterns": [],
+     "collocations": []
     }
    ],
    "synonyms": [
@@ -83638,6 +84564,10 @@
       {
        "en": "A tiny garden grows behind our school library.",
        "zh": "學校圖書館後面有一座小小的花園。"
+      },
+      {
+       "en": "The baby held my finger tightly in her tiny hand.",
+       "zh": "寶寶用她的小手緊緊握著我的手指。"
       }
      ],
      "patterns": [],
@@ -83645,6 +84575,10 @@
       {
        "en": "a tiny amount",
        "zh": "極少量"
+      },
+      {
+       "en": "a tiny bit",
+       "zh": "一點點"
       }
      ]
     }
@@ -83725,6 +84659,10 @@
       {
        "en": "Tom checked the tire before the family trip.",
        "zh": "Tom 在全家出遊前檢查了輪胎。"
+      },
+      {
+       "en": "We had a flat tire on the highway and had to stop.",
+       "zh": "我們在高速公路上爆胎，只好停下來。"
       }
      ],
      "patterns": [],
@@ -83732,6 +84670,10 @@
       {
        "en": "flat tire",
        "zh": "漏氣的輪胎"
+      },
+      {
+       "en": "change a tire",
+       "zh": "換輪胎"
       }
      ]
     }
