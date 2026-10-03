@@ -8869,6 +8869,1307 @@
     "en": "A big rat was looking for food in the trash.",
     "zh": "一隻大老鼠在垃圾裡找食物。"
    }
+  },
+  {
+   "a": "realize",
+   "b": "understand",
+   "kind": "semantic",
+   "score": 0.638,
+   "aZh": "v. 察覺；意識到",
+   "bZh": "v. 了解；理解",
+   "diff": "realize 是突然察覺、意識到原本沒注意的事；understand 是理解內容、原因或別人的話。",
+   "points": [
+    "使用情境：realize 多用於「這時才發現」，understand 用於聽懂、看懂",
+    "搭配：suddenly realize；fully understand the question"
+   ],
+   "tip": "realize 有 real，是突然看清「真相」；understand 是把內容弄懂。",
+   "exA": {
+    "en": "I suddenly realized that I had left my keys at home.",
+    "zh": "我突然發現鑰匙忘在家裡了。"
+   },
+   "exB": {
+    "en": "I don't understand this math question at all.",
+    "zh": "這題數學我完全看不懂。"
+   }
+  },
+  {
+   "a": "accept",
+   "b": "receive",
+   "kind": "semantic",
+   "score": 0.468,
+   "aZh": "v. 接受；收下",
+   "bZh": "v. 收到；接到",
+   "diff": "receive 只是東西到了手上，不代表同意；accept 是自己決定收下或答應。",
+   "points": [
+    "使用情境：receive an invitation 是收到邀請，accept an invitation 是答應出席",
+    "語氣：accept 有主動同意的意思，receive 沒有"
+   ],
+   "tip": "收到用 receive，點頭答應才用 accept。",
+   "exA": {
+    "en": "Amy accepted the invitation and went to the party.",
+    "zh": "Amy 接受了邀請，去參加派對。"
+   },
+   "exB": {
+    "en": "Amy received an invitation to the party last week.",
+    "zh": "Amy 上週收到了派對的邀請。"
+   }
+  },
+  {
+   "a": "decent",
+   "b": "recent",
+   "kind": "visual",
+   "score": 0.778,
+   "aZh": "adj. 像樣的；正派的",
+   "bZh": "adj. 最近的",
+   "diff": "recent 和時間有關，指最近的；decent 和品質或品行有關，指還不錯、像樣的。",
+   "points": [
+    "拼字：只差開頭 r 和 d",
+    "發音：recent 是 /ˈrisənt/，decent 是 /ˈdisənt/",
+    "搭配：recent years；a decent job"
+   ],
+   "tip": "Recent 的 R 想成 Right now 剛剛；Decent 的 D 想成 Ding 好。",
+   "exA": {
+    "en": "He finally found a decent job near his home.",
+    "zh": "他終於在家附近找到一份不錯的工作。"
+   },
+   "exB": {
+    "en": "He moved to a new job in recent months.",
+    "zh": "他最近幾個月換了新工作。"
+   }
+  },
+  {
+   "a": "latest",
+   "b": "recent",
+   "kind": "semantic",
+   "score": 0.771,
+   "aZh": "adj. 最新的",
+   "bZh": "adj. 最近的；近來的",
+   "diff": "recent 指不久前發生的，可以有好幾件；latest 指到目前為止最新的那一個。",
+   "points": [
+    "搭配：recent years、a recent study；the latest news、the latest model",
+    "用法：latest 前面通常加 the，recent 不一定"
+   ],
+   "tip": "the latest 只有一個最新的；recent 是最近這段時間的都算。",
+   "exA": {
+    "en": "Have you seen the latest phone from that company?",
+    "zh": "你看過那家公司最新的手機嗎？"
+   },
+   "exB": {
+    "en": "Phone prices have gone up in recent years.",
+    "zh": "近年來手機價格上漲了。"
+   }
+  },
+  {
+   "a": "recover",
+   "b": "restore",
+   "kind": "semantic",
+   "score": 0.643,
+   "aZh": "v. 康復；恢復",
+   "bZh": "v. 恢復；修復",
+   "diff": "recover 常指人從疾病或困境中自己恢復；restore 是把東西或狀態修復回原樣，一定要接受詞。",
+   "points": [
+    "及物與否：recover from 不必接受詞；restore 一定要接受詞",
+    "搭配：recover from an illness；restore an old building、restore order"
+   ],
+   "tip": "人病好了 recover；把東西修回原樣 restore。",
+   "exA": {
+    "en": "It took my father a month to recover from the surgery.",
+    "zh": "我爸爸手術後花了一個月才康復。"
+   },
+   "exB": {
+    "en": "Workers spent a year restoring the old temple.",
+    "zh": "工人花了一年修復那座老廟。"
+   }
+  },
+  {
+   "a": "discover",
+   "b": "recover",
+   "kind": "visual",
+   "score": 0.617,
+   "aZh": "v. 發現；找到",
+   "bZh": "v. 康復；找回",
+   "diff": "recover 是把失去的東西拿回來或身體復原；discover 是第一次發現原本不知道的事。",
+   "points": [
+    "拼字：re-cover 和 dis-cover 只差字首",
+    "使用情境：recover a lost wallet；discover a new planet"
+   ],
+   "tip": "re 是再一次拿回，dis 是把蓋子打開看到新東西。",
+   "exA": {
+    "en": "Scientists discovered a new kind of frog in the forest.",
+    "zh": "科學家在森林裡發現了一種新的青蛙。"
+   },
+   "exB": {
+    "en": "She recovered her lost wallet at the police station.",
+    "zh": "她在警察局找回了遺失的皮夾。"
+   }
+  },
+  {
+   "a": "refuse",
+   "b": "reject",
+   "kind": "semantic",
+   "score": 0.802,
+   "aZh": "v. 拒絕；不肯",
+   "bZh": "v. 拒絕；不接受",
+   "diff": "refuse 常接 to V，表示不肯做某事；reject 只接名詞，表示不採納申請、提議或想法。",
+   "points": [
+    "句型：refuse to V 可以，reject 不接 to V",
+    "使用情境：reject 常用於審核結果，如 reject an application"
+   ],
+   "tip": "不肯做用 refuse to V；審核不通過用 reject。",
+   "exA": {
+    "en": "Tom refused to change his plan for the science fair.",
+    "zh": "Tom 不肯修改他的科展計畫。"
+   },
+   "exB": {
+    "en": "The teacher rejected Tom's plan for the science fair.",
+    "zh": "老師否決了 Tom 的科展計畫。"
+   }
+  },
+  {
+   "a": "consider",
+   "b": "regard",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "v. 認為；考慮",
+   "bZh": "v. 視為；看待",
+   "diff": "兩個都能表示把某人看成什麼，但 regard A as B 一定要有 as；consider A B 可以不加 as。",
+   "points": [
+    "句型：regard A as B；consider A (to be) B",
+    "其他字義：consider 還有考慮的意思，regard 沒有"
+   ],
+   "tip": "regard 後面記得帶 as。",
+   "exA": {
+    "en": "Many people consider him the best player on the team.",
+    "zh": "很多人認為他是隊上最好的球員。"
+   },
+   "exB": {
+    "en": "Many people regard him as the best player on the team.",
+    "zh": "很多人把他視為隊上最好的球員。"
+   }
+  },
+  {
+   "a": "region",
+   "b": "religion",
+   "kind": "visual",
+   "score": 0.708,
+   "aZh": "n. 地區；區域",
+   "bZh": "n. 宗教；信仰",
+   "diff": "region 是地理上的一片區域；religion 是宗教信仰。拼字只差 li。",
+   "points": [
+    "拼字：reg-ion 和 relig-ion，religion 多了 li",
+    "發音：region 是 /ˈridʒən/，religion 是 /rɪˈlɪdʒən/"
+   ],
+   "tip": "religion 多了 li，像多了一座廟宇的屋頂。",
+   "exA": {
+    "en": "This region is famous for its tea and hot springs.",
+    "zh": "這個地區以茶和溫泉聞名。"
+   },
+   "exB": {
+    "en": "In this country, people are free to follow any religion.",
+    "zh": "在這個國家，人民可以自由信仰任何宗教。"
+   }
+  },
+  {
+   "a": "area",
+   "b": "region",
+   "kind": "semantic",
+   "score": 0.722,
+   "aZh": "n. 地區；區域",
+   "bZh": "n. 地區；區域",
+   "diff": "area 最常用，範圍可大可小；region 多指範圍較大、有共同特色的地理區域。",
+   "points": [
+    "使用情境：a parking area、a quiet area；the mountain region、the Asia region",
+    "語氣：region 較正式，常見於新聞或地理課"
+   ],
+   "tip": "小地方用 area，一大片有特色的地方用 region。",
+   "exA": {
+    "en": "There is a large parking area behind the hospital.",
+    "zh": "醫院後面有一大片停車區。"
+   },
+   "exB": {
+    "en": "Rice is the main crop in this region of the country.",
+    "zh": "稻米是這個國家這個地區的主要作物。"
+   }
+  },
+  {
+   "a": "relation",
+   "b": "relationship",
+   "kind": "visual",
+   "score": 0.737,
+   "aZh": "n. 關係；關聯；親戚",
+   "bZh": "n. 關係；人際關係",
+   "diff": "人與人之間的感情關係多用 relationship；relation 較正式，常用於國家之間或事物的關聯，也可指親戚。",
+   "points": [
+    "搭配：a close relationship with my sister；international relations",
+    "字義：relation 可指親戚，relationship 不行"
+   ],
+   "tip": "人和人之間的感情，就用比較長的 relationship。",
+   "exA": {
+    "en": "Relations between the two countries are getting better.",
+    "zh": "兩國之間的關係越來越好。"
+   },
+   "exB": {
+    "en": "My relationship with my brother is getting better.",
+    "zh": "我和哥哥的關係越來越好。"
+   }
+  },
+  {
+   "a": "borrow",
+   "b": "rent",
+   "kind": "semantic",
+   "score": 0.424,
+   "aZh": "v. 借入；借用",
+   "bZh": "v. 租用；出租",
+   "diff": "borrow 是免費借來用，之後歸還；rent 是付錢租用一段時間。",
+   "points": [
+    "使用情境：borrow a book from the library；rent an apartment",
+    "金錢：rent 一定要付租金，borrow 通常不用"
+   ],
+   "tip": "要付錢就是 rent，不用付錢就是 borrow。",
+   "exA": {
+    "en": "Can I borrow your bike for the afternoon?",
+    "zh": "我下午可以借你的腳踏車嗎？"
+   },
+   "exB": {
+    "en": "We rented two bikes at the park for the afternoon.",
+    "zh": "我們下午在公園租了兩輛腳踏車。"
+   }
+  },
+  {
+   "a": "mend",
+   "b": "repair",
+   "kind": "semantic",
+   "score": 0.823,
+   "aZh": "v. 修補；修理",
+   "bZh": "v. 修理；修補",
+   "diff": "repair 用途最廣，機器、房屋、道路都能用；mend 多指修補衣物等小東西，也可指修補關係。",
+   "points": [
+    "使用情境：repair a car；mend a shirt、mend a hole",
+    "語氣：mend 較口語，多用於手工的小修補"
+   ],
+   "tip": "大東西找人 repair，衣服破洞自己 mend。",
+   "exA": {
+    "en": "Grandma mended the hole in my sock last night.",
+    "zh": "奶奶昨晚幫我補好了襪子上的破洞。"
+   },
+   "exB": {
+    "en": "The workers repaired the hole in the road last night.",
+    "zh": "工人昨晚修補了路上的坑洞。"
+   }
+  },
+  {
+   "a": "rely",
+   "b": "reply",
+   "kind": "visual",
+   "score": 0.742,
+   "aZh": "v. 依靠；信賴",
+   "bZh": "v. 回答；回覆",
+   "diff": "reply 是回覆別人；rely 是依靠別人。拼字只差一個 p。",
+   "points": [
+    "拼字：reply 多了 p",
+    "搭配：reply to + 人或訊息；rely on + 人或事"
+   ],
+   "tip": "reply 的 p 想成 phone，接到訊息就回覆；rely 就是 rely on 依靠。",
+   "exA": {
+    "en": "You can always rely on Amy for help.",
+    "zh": "你隨時都可以依靠 Amy 幫忙。"
+   },
+   "exB": {
+    "en": "Amy always replies to my messages within a few minutes.",
+    "zh": "Amy 總是在幾分鐘內就回覆我的訊息。"
+   }
+  },
+  {
+   "a": "answer",
+   "b": "reply",
+   "kind": "semantic",
+   "score": 0.713,
+   "aZh": "v. 回答；接電話",
+   "bZh": "v. 回答；回覆",
+   "diff": "answer 可以直接接受詞；reply 要用 reply to 才能接受詞，而且多用於回覆訊息或信件。",
+   "points": [
+    "句型：answer the question；reply to the question",
+    "搭配：answer the phone、answer the door，不用 reply"
+   ],
+   "tip": "answer 直接接，reply 記得加 to。",
+   "exA": {
+    "en": "Please answer the teacher's email before Friday afternoon.",
+    "zh": "請在星期五下午前回覆老師的電子郵件。"
+   },
+   "exB": {
+    "en": "Please reply to the teacher's email before Friday afternoon.",
+    "zh": "請在星期五下午前回覆老師的電子郵件。"
+   }
+  },
+  {
+   "a": "request",
+   "b": "require",
+   "kind": "both",
+   "score": 0.66,
+   "aZh": "n./v. 請求；要求",
+   "bZh": "v. 需要；要求",
+   "diff": "request 是禮貌地提出請求，對方可以不答應；require 是規定或條件上一定要有。",
+   "points": [
+    "語氣：request 較客氣，require 帶有規定、必須的意思",
+    "詞性：request 可作名詞，require 只作動詞，名詞是 requirement"
+   ],
+   "tip": "請求別人用 request；規定必須用 require。",
+   "exA": {
+    "en": "Visitors are requested to turn off their phones.",
+    "zh": "請參觀者將手機關機。"
+   },
+   "exB": {
+    "en": "All visitors are required to show their tickets at the door.",
+    "zh": "所有參觀者都必須在門口出示門票。"
+   }
+  },
+  {
+   "a": "acquire",
+   "b": "require",
+   "kind": "visual",
+   "score": 0.632,
+   "aZh": "v. 取得；獲得",
+   "bZh": "v. 需要；要求",
+   "diff": "require 是需要、要求；acquire 是經過努力取得能力或東西。只差開頭 ac 和 re。",
+   "points": [
+    "拼字：re-quire 和 ac-quire",
+    "使用情境：acquire a skill；require a skill"
+   ],
+   "tip": "acquire 的 ac 想成 achieve 得到，require 的 re 想成 rule 規定。",
+   "exA": {
+    "en": "She acquired good English skills by reading every day.",
+    "zh": "她靠每天閱讀學到很好的英文能力。"
+   },
+   "exB": {
+    "en": "This job requires good English skills and some experience.",
+    "zh": "這份工作需要很好的英文能力和一些經驗。"
+   }
+  },
+  {
+   "a": "admire",
+   "b": "respect",
+   "kind": "semantic",
+   "score": 0.488,
+   "aZh": "v. 欽佩；欣賞",
+   "bZh": "v. 尊敬；尊重",
+   "diff": "admire 是因為對方的能力或特質而欣賞、佩服；respect 是重視對方，也可以尊重規定、意見或權利。",
+   "points": [
+    "使用情境：respect the rules、respect her choice，不用 admire",
+    "語氣：admire 帶有讚嘆、想學習的感覺"
+   ],
+   "tip": "佩服到想學他用 admire；把對方當一回事用 respect。",
+   "exA": {
+    "en": "I admire Jenny for her talent in music.",
+    "zh": "我很欣賞 Jenny 的音樂天分。"
+   },
+   "exB": {
+    "en": "I respect Jenny's decision even though I disagree.",
+    "zh": "雖然我不同意，但我尊重 Jenny 的決定。"
+   }
+  },
+  {
+   "a": "react",
+   "b": "respond",
+   "kind": "semantic",
+   "score": 0.62,
+   "aZh": "v. 反應；起反應",
+   "bZh": "v. 回答；回應",
+   "diff": "respond 是針對問題、訊息或要求作出回覆；react 是對發生的事產生直接的反應，常是情緒或身體上的。",
+   "points": [
+    "使用情境：respond to an email；react to bad news",
+    "語氣：respond 較有思考後的回覆，react 較即時、自然"
+   ],
+   "tip": "回信、回話用 respond；嚇一跳、生氣用 react。",
+   "exA": {
+    "en": "How did your parents react to the bad news?",
+    "zh": "你父母對這個壞消息有什麼反應？"
+   },
+   "exB": {
+    "en": "How did your parents respond to the school's letter?",
+    "zh": "你父母怎麼回覆學校的信？"
+   }
+  },
+  {
+   "a": "restroom",
+   "b": "toilet",
+   "kind": "semantic",
+   "score": 0.668,
+   "aZh": "n. 洗手間",
+   "bZh": "n. 馬桶；廁所",
+   "diff": "restroom 是美式英文對公共場所洗手間的委婉說法；toilet 原指馬桶，美國人很少用它來問廁所在哪。",
+   "points": [
+    "使用情境：Where is the restroom? 用在餐廳、車站等公共場所",
+    "字義：toilet 也指馬桶本身，如 flush the toilet"
+   ],
+   "tip": "在外面問廁所用 restroom 最保險。",
+   "exA": {
+    "en": "Excuse me, is there a restroom on this floor?",
+    "zh": "請問這一層有洗手間嗎？"
+   },
+   "exB": {
+    "en": "Please remember to flush the toilet after using it.",
+    "zh": "使用後請記得沖馬桶。"
+   }
+  },
+  {
+   "a": "preview",
+   "b": "review",
+   "kind": "visual",
+   "score": 0.802,
+   "aZh": "n./v. 預習；預覽",
+   "bZh": "n./v. 複習；評論",
+   "diff": "preview 是事前先看，例如上課前預習；review 是事後再看，例如考前複習。",
+   "points": [
+    "字首：pre- 是之前，re- 是再一次",
+    "使用情境：preview the next lesson；review for the test"
+   ],
+   "tip": "pre 在前面先看，re 回頭再看。",
+   "exA": {
+    "en": "Students should preview the next lesson at home.",
+    "zh": "學生應該在家預習下一課。"
+   },
+   "exB": {
+    "en": "Students should review the last lesson at home.",
+    "zh": "學生應該在家複習上一課。"
+   }
+  },
+  {
+   "a": "review",
+   "b": "revise",
+   "kind": "both",
+   "score": 0.738,
+   "aZh": "v. 複習；檢視",
+   "bZh": "v. 修改；（英式）複習",
+   "diff": "review 是再看一次、複習或檢查；revise 主要指修改文章或計畫，英式英文也可指複習功課。",
+   "points": [
+    "使用情境：review your notes；revise your essay",
+    "拼字：review 有 view（看），revise 有 vise，和 vision 同源"
+   ],
+   "tip": "看一遍用 review；動筆修改用 revise。",
+   "exA": {
+    "en": "Please review your essay once more before you hand it in.",
+    "zh": "交出去之前請再檢查一次你的作文。"
+   },
+   "exB": {
+    "en": "Please revise your essay and fix the spelling mistakes.",
+    "zh": "請修改你的作文，改正拼字錯誤。"
+   }
+  },
+  {
+   "a": "riches",
+   "b": "wealth",
+   "kind": "semantic",
+   "score": 0.823,
+   "aZh": "n. 財富",
+   "bZh": "n. 財富；豐富",
+   "diff": "wealth 是不可數名詞，用途最廣；riches 一定是複數形，較偏文學或故事的說法，常帶有驚人財寶的感覺。",
+   "points": [
+    "詞形：riches 永遠是複數，wealth 不可數，不加 s",
+    "語氣：wealth 常見於新聞和正式文章，riches 較有故事感"
+   ],
+   "tip": "一般寫作用 wealth，故事裡的金銀財寶用 riches。",
+   "exA": {
+    "en": "The old man left all his riches to his only son.",
+    "zh": "老人把所有財富都留給了唯一的兒子。"
+   },
+   "exB": {
+    "en": "Most of the country's wealth comes from oil and gas.",
+    "zh": "這個國家的財富大多來自石油和天然氣。"
+   }
+  },
+  {
+   "a": "role",
+   "b": "roll",
+   "kind": "visual",
+   "score": 0.747,
+   "aZh": "n. 角色；職責",
+   "bZh": "v. 滾動；n. 小圓麵包",
+   "diff": "role 和 roll 讀音完全一樣，但 role 是角色，roll 是滾動或捲筒。",
+   "points": [
+    "發音：兩者都唸 /roʊl/",
+    "拼字：role 結尾是 e，roll 是雙寫 l"
+   ],
+   "tip": "戲裡的角色是 role；會滾動、能捲起來的是 roll，兩個 l 像兩個輪子。",
+   "exA": {
+    "en": "Amy plays the role of a teacher in the school play.",
+    "zh": "Amy 在校園話劇中演老師的角色。"
+   },
+   "exB": {
+    "en": "The ball rolled under the teacher's desk during the class.",
+    "zh": "上課時球滾到了老師的桌子底下。"
+   }
+  },
+  {
+   "a": "loyal",
+   "b": "royal",
+   "kind": "visual",
+   "score": 0.732,
+   "aZh": "adj. 忠誠的",
+   "bZh": "adj. 王室的；皇家的",
+   "diff": "royal 是和國王、王室有關的；loyal 是對人或團體忠誠的。只差開頭 r 和 l。",
+   "points": [
+    "拼字：r-oyal 和 l-oyal",
+    "發音：/ˈrɔɪəl/ 和 /ˈlɔɪəl/，r 和 l 要分清楚"
+   ],
+   "tip": "Royal 的 R 是 Rex 國王；Loyal 的 L 是 Love 忠心。",
+   "exA": {
+    "en": "The dog stayed loyal to its owner for many years.",
+    "zh": "那隻狗多年來一直對主人忠心耿耿。"
+   },
+   "exB": {
+    "en": "The royal family lives in a large palace in the city.",
+    "zh": "王室住在城裡一座很大的宮殿。"
+   }
+  },
+  {
+   "a": "rub",
+   "b": "wipe",
+   "kind": "semantic",
+   "score": 0.599,
+   "aZh": "v. 摩擦；揉擦",
+   "bZh": "v. 擦；抹去",
+   "diff": "wipe 是用布或手把表面的水、灰塵擦掉；rub 是用力來回摩擦，像搓手、揉眼睛。",
+   "points": [
+    "目的：wipe 是要擦乾淨，rub 不一定",
+    "搭配：rub one's eyes、rub one's hands；wipe the table、wipe one's tears"
+   ],
+   "tip": "擦乾淨用 wipe；來回搓揉用 rub。",
+   "exA": {
+    "en": "She rubbed her eyes because she was very sleepy.",
+    "zh": "她因為很睏而揉了揉眼睛。"
+   },
+   "exB": {
+    "en": "Please wipe the table with this cloth after dinner.",
+    "zh": "晚餐後請用這塊布擦桌子。"
+   }
+  },
+  {
+   "a": "robber",
+   "b": "rubber",
+   "kind": "visual",
+   "score": 0.74,
+   "aZh": "n. 搶劫者；強盜",
+   "bZh": "n. 橡膠；橡皮",
+   "diff": "robber 是搶劫的人，來自 rob；rubber 是橡膠，來自 rub。只差一個母音 o 和 u。",
+   "points": [
+    "拼字：rob-ber 和 rub-ber",
+    "發音：/ˈrɑbɚ/ 和 /ˈrʌbɚ/"
+   ],
+   "tip": "rob 搶的人是 robber；rub 擦的東西是 rubber。",
+   "exA": {
+    "en": "The police caught the robber near the bank.",
+    "zh": "警方在銀行附近抓到了搶匪。"
+   },
+   "exB": {
+    "en": "The children wore rubber boots to play in the rain.",
+    "zh": "孩子們穿著橡膠雨靴在雨中玩。"
+   }
+  },
+  {
+   "a": "crude",
+   "b": "rude",
+   "kind": "visual",
+   "score": 0.764,
+   "aZh": "adj. 粗糙的；粗俗的",
+   "bZh": "adj. 無禮的；粗魯的",
+   "diff": "rude 是對人沒禮貌；crude 多指東西粗糙、未加工，也可指言語粗俗。",
+   "points": [
+    "拼字：crude 只比 rude 多一個 c",
+    "搭配：be rude to someone；crude oil 原油"
+   ],
+   "tip": "多了 c 的 crude 想成 crude oil 原油，沒加工過的。",
+   "exA": {
+    "en": "They built a crude shelter with branches and leaves.",
+    "zh": "他們用樹枝和樹葉搭了一個簡陋的棚子。"
+   },
+   "exB": {
+    "en": "It was rude of him to leave without saying goodbye.",
+    "zh": "他沒說再見就走很沒禮貌。"
+   }
+  },
+  {
+   "a": "safety",
+   "b": "security",
+   "kind": "semantic",
+   "score": 0.661,
+   "aZh": "n. 安全；平安",
+   "bZh": "n. 安全；保安；安全感",
+   "diff": "safety 指不會受傷、沒有意外危險；security 指防範犯罪、攻擊等威脅的保護措施，也可指安全感。",
+   "points": [
+    "使用情境：road safety、food safety；airport security、national security",
+    "搭配：feel a sense of security 有安全感"
+   ],
+   "tip": "防意外用 safety；防壞人用 security。",
+   "exA": {
+    "en": "Wear a helmet for your own safety when you ride a bike.",
+    "zh": "騎腳踏車時為了自身安全要戴安全帽。"
+   },
+   "exB": {
+    "en": "There is tight security at the airport during the holidays.",
+    "zh": "假期期間機場的安檢很嚴格。"
+   }
+  },
+  {
+   "a": "sail",
+   "b": "sale",
+   "kind": "visual",
+   "score": 0.605,
+   "aZh": "v. 航行；n. 帆",
+   "bZh": "n. 銷售；特價",
+   "diff": "sail 和 sale 讀音一樣，sail 是航行或船帆，sale 是賣東西或特價。",
+   "points": [
+    "發音：兩者都唸 /seɪl/",
+    "拼字：sail 有 ai，sale 有字尾 e",
+    "搭配：set sail；on sale、for sale"
+   ],
+   "tip": "sail 的 ai 像船上的帆；sale 和 sell 都是 s-e 開頭的買賣。",
+   "exA": {
+    "en": "We will sail to the small island tomorrow morning.",
+    "zh": "我們明天早上要坐船去那座小島。"
+   },
+   "exB": {
+    "en": "These shoes are on sale for half price this week.",
+    "zh": "這雙鞋這週半價特賣。"
+   }
+  },
+  {
+   "a": "example",
+   "b": "sample",
+   "kind": "both",
+   "score": 0.665,
+   "aZh": "n. 例子；範例",
+   "bZh": "n. 樣本；樣品",
+   "diff": "example 是用來說明的例子；sample 是從整體拿出的一小部分，或給人試用的樣品。",
+   "points": [
+    "搭配：for example 舉例來說，不能說 for sample",
+    "使用情境：a free sample、a blood sample；give an example"
+   ],
+   "tip": "要舉例說明用 example；拿一點來試用或檢驗用 sample。",
+   "exA": {
+    "en": "Can you give me an example of a healthy breakfast?",
+    "zh": "你可以舉一個健康早餐的例子嗎？"
+   },
+   "exB": {
+    "en": "The shop gave me a free sample of the new cookie.",
+    "zh": "店家給了我新餅乾的免費試吃品。"
+   }
+  },
+  {
+   "a": "please",
+   "b": "satisfy",
+   "kind": "semantic",
+   "score": 0.702,
+   "aZh": "v. 使高興；使滿意",
+   "bZh": "v. 滿足；使滿意",
+   "diff": "please 著重讓人高興、討人喜歡；satisfy 著重達到需求或標準，讓人覺得夠了、滿意。",
+   "points": [
+    "搭配：satisfy a need、satisfy hunger，不用 please",
+    "形容詞：pleased 高興的，satisfied 滿意的"
+   ],
+   "tip": "討人開心用 please；需求被滿足用 satisfy。",
+   "exA": {
+    "en": "It is hard to please everyone in a large class.",
+    "zh": "在人數多的班級很難讓每個人都開心。"
+   },
+   "exB": {
+    "en": "This small meal is not enough to satisfy my hunger.",
+    "zh": "這份小餐點不夠填飽我的肚子。"
+   }
+  },
+  {
+   "a": "scared",
+   "b": "scary",
+   "kind": "visual",
+   "score": 0.642,
+   "aZh": "adj. 害怕的",
+   "bZh": "adj. 可怕的；嚇人的",
+   "diff": "scared 形容人覺得害怕；scary 形容事物讓人害怕。",
+   "points": [
+    "使用情境：I am scared.；The movie is scary.",
+    "詞尾：-ed 表示人的感受，-y 表示事物的性質"
+   ],
+   "tip": "人 scared，東西 scary。",
+   "exA": {
+    "en": "I was so scared that I closed my eyes.",
+    "zh": "我嚇到把眼睛閉起來。"
+   },
+   "exB": {
+    "en": "The ghost movie was so scary that I closed my eyes.",
+    "zh": "那部鬼片恐怖到我把眼睛閉起來。"
+   }
+  },
+  {
+   "a": "afraid",
+   "b": "scared",
+   "kind": "semantic",
+   "score": 0.818,
+   "aZh": "adj. 害怕的；擔心的",
+   "bZh": "adj. 害怕的；受驚的",
+   "diff": "兩者都表示害怕，但 afraid 只能放在 be 動詞後面，不能放在名詞前；scared 兩種位置都可以。",
+   "points": [
+    "位置：a scared child 可以，an afraid child 不行",
+    "其他字義：I'm afraid 也可以表示委婉的「恐怕」"
+   ],
+   "tip": "名詞前面只能放 scared。",
+   "exA": {
+    "en": "The child was afraid of the big dog next door.",
+    "zh": "那孩子很怕隔壁的大狗。"
+   },
+   "exB": {
+    "en": "The scared child hid behind his mother and started to cry.",
+    "zh": "那個嚇壞的孩子躲到媽媽身後哭了起來。"
+   }
+  },
+  {
+   "a": "scene",
+   "b": "scenery",
+   "kind": "both",
+   "score": 0.709,
+   "aZh": "n. 場景；景象；現場",
+   "bZh": "n. 風景；景色",
+   "diff": "scenery 是整體的自然風景，不可數；scene 是可數名詞，指某一個畫面、場景或事件現場。",
+   "points": [
+    "可數與否：a scene、two scenes；scenery 不可數，不加 a 或 s",
+    "使用情境：mountain scenery；the scene of the accident"
+   ],
+   "tip": "一幕一幕的 scene 可以數；整片 scenery 數不完。",
+   "exA": {
+    "en": "The last scene of the movie made everyone cry.",
+    "zh": "電影的最後一幕讓大家都哭了。"
+   },
+   "exB": {
+    "en": "The scenery along the east coast is really beautiful.",
+    "zh": "東海岸沿途的風景真的很美。"
+   }
+  },
+  {
+   "a": "arrange",
+   "b": "schedule",
+   "kind": "semantic",
+   "score": 0.655,
+   "aZh": "v. 安排；籌備",
+   "bZh": "v. 安排；排定",
+   "diff": "schedule 是把事情排在某個時間；arrange 是籌備、安排事情的細節，不一定和時間有關。",
+   "points": [
+    "句型：schedule + N + for + 時間；arrange for + 人 + to V",
+    "使用情境：arrange flowers、arrange a trip；schedule a meeting for Monday"
+   ],
+   "tip": "排時間用 schedule；張羅細節用 arrange。",
+   "exA": {
+    "en": "My mother arranged everything for my birthday party.",
+    "zh": "我媽媽把我生日派對的一切都安排好了。"
+   },
+   "exB": {
+    "en": "The doctor scheduled my checkup for next Monday.",
+    "zh": "醫生把我的健康檢查排在下週一。"
+   }
+  },
+  {
+   "a": "grade",
+   "b": "score",
+   "kind": "semantic",
+   "score": 0.493,
+   "aZh": "n. 成績；年級",
+   "bZh": "n. 分數；比分",
+   "diff": "score 是考試或比賽得到的分數；grade 是老師給的成績等級，像 A、B，也可指年級。",
+   "points": [
+    "使用情境：a score of 90；get an A grade",
+    "字義：grade 還有年級的意思，如 in the fifth grade"
+   ],
+   "tip": "數字是 score；等級是 grade。",
+   "exA": {
+    "en": "Amy got good grades in all her subjects this year.",
+    "zh": "Amy 今年每一科成績都很好。"
+   },
+   "exB": {
+    "en": "Amy got a score of 98 on the English test.",
+    "zh": "Amy 英文考試考了九十八分。"
+   }
+  },
+  {
+   "a": "research",
+   "b": "search",
+   "kind": "visual",
+   "score": 0.706,
+   "aZh": "n./v. 研究；調查",
+   "bZh": "v./n. 搜尋；尋找",
+   "diff": "search 是找東西或找資料；research 是有系統、長時間的研究。",
+   "points": [
+    "拼字：re-search 多了 re-",
+    "可數與否：research 作名詞通常不可數，不說 a research",
+    "搭配：search for；do research on"
+   ],
+   "tip": "找一次是 search，反覆深入研究就是 re-search。",
+   "exA": {
+    "en": "She is doing research on air pollution in big cities.",
+    "zh": "她正在研究大城市的空氣污染。"
+   },
+   "exB": {
+    "en": "I searched online for a cheap hotel near the station.",
+    "zh": "我上網搜尋車站附近便宜的旅館。"
+   }
+  },
+  {
+   "a": "search",
+   "b": "seek",
+   "kind": "semantic",
+   "score": 0.611,
+   "aZh": "v. 搜尋；尋找",
+   "bZh": "v. 尋找；尋求",
+   "diff": "search 後面接地點，或用 search for 接目標；seek 直接接目標，語氣較正式，常接抽象名詞。",
+   "points": [
+    "句型：search the room for the key；seek help，不說 seek for help",
+    "語氣：seek 較正式，常見於新聞和書面"
+   ],
+   "tip": "seek 後面不加 for。",
+   "exA": {
+    "en": "We searched everywhere in the park for the lost cat.",
+    "zh": "我們在公園裡到處尋找那隻走失的貓。"
+   },
+   "exB": {
+    "en": "You should seek help from a doctor right away.",
+    "zh": "你應該立刻去找醫生幫忙。"
+   }
+  },
+  {
+   "a": "appear",
+   "b": "seem",
+   "kind": "semantic",
+   "score": 0.609,
+   "aZh": "v. 似乎；出現",
+   "bZh": "v. 似乎；好像",
+   "diff": "兩者都能表示看起來好像，seem 較常用、偏主觀印象；appear 較正式，也有出現的意思。",
+   "points": [
+    "句型：seem / appear + adj.；seem / appear to V",
+    "其他字義：appear 可以指出現，seem 沒有"
+   ],
+   "tip": "口語說 seem；寫作或出現的意思用 appear。",
+   "exA": {
+    "en": "The road appears to be closed because of the flood.",
+    "zh": "那條路似乎因為淹水而封閉了。"
+   },
+   "exB": {
+    "en": "The road seems to be closed because of the flood.",
+    "zh": "那條路好像因為淹水而封閉了。"
+   }
+  },
+  {
+   "a": "choose",
+   "b": "select",
+   "kind": "semantic",
+   "score": 1.0,
+   "aZh": "v. 選擇；挑選",
+   "bZh": "v. 選擇；挑選",
+   "diff": "choose 最常用，可以接 to V 表示決定做某事；select 較正式，強調從很多選項中仔細挑出來。",
+   "points": [
+    "句型：choose to V 可以，select 不接 to V",
+    "語氣：select 常見於網站、表格和正式說明"
+   ],
+   "tip": "決定做某事用 choose to；從清單中挑選用 select。",
+   "exA": {
+    "en": "She chose to study abroad after high school.",
+    "zh": "她選擇高中畢業後出國讀書。"
+   },
+   "exB": {
+    "en": "Please select one answer from the four choices below.",
+    "zh": "請從下面四個選項中選出一個答案。"
+   }
+  },
+  {
+   "a": "elect",
+   "b": "select",
+   "kind": "visual",
+   "score": 0.819,
+   "aZh": "v. 選舉；選出",
+   "bZh": "v. 選擇；挑選",
+   "diff": "elect 是用投票的方式選出某人擔任職位；select 是一般的挑選，不一定投票。",
+   "points": [
+    "拼字：select 多了開頭的 s",
+    "使用情境：elect a class leader；select a book"
+   ],
+   "tip": "要投票才 elect；自己挑就 select。",
+   "exA": {
+    "en": "Our class elected Kevin as the class leader.",
+    "zh": "我們班選 Kevin 當班長。"
+   },
+   "exB": {
+    "en": "Kevin selected a book about space from the library.",
+    "zh": "Kevin 從圖書館挑了一本關於太空的書。"
+   }
+  },
+  {
+   "a": "election",
+   "b": "selection",
+   "kind": "visual",
+   "score": 0.888,
+   "aZh": "n. 選舉",
+   "bZh": "n. 選擇；挑選；精選品",
+   "diff": "election 是投票選舉；selection 是挑選的過程或挑出來的一批東西。",
+   "points": [
+    "拼字：selection 多了開頭的 s",
+    "使用情境：a presidential election；a wide selection of books"
+   ],
+   "tip": "有投票就是 election；店裡的各種商品是 selection。",
+   "exA": {
+    "en": "Many young people voted in the election this year.",
+    "zh": "今年有很多年輕人去選舉投票。"
+   },
+   "exB": {
+    "en": "This store has a wide selection of shoes for kids.",
+    "zh": "這家店有各式各樣的童鞋可以挑。"
+   }
+  },
+  {
+   "a": "sensible",
+   "b": "sensitive",
+   "kind": "visual",
+   "score": 0.635,
+   "aZh": "adj. 明智的；合理的",
+   "bZh": "adj. 敏感的；體貼的",
+   "diff": "sensible 是有判斷力、明智的；sensitive 是敏感、容易感受到刺激或別人的心情。",
+   "points": [
+    "拼字：sensi-ble 和 sensi-tive 只差字尾",
+    "搭配：a sensible choice；sensitive skin、be sensitive to"
+   ],
+   "tip": "做事明智合理用 sensible；一碰就有感覺、容易受影響用 sensitive。",
+   "exA": {
+    "en": "It is sensible to bring an umbrella on a cloudy day.",
+    "zh": "陰天帶把傘是明智的。"
+   },
+   "exB": {
+    "en": "My eyes are very sensitive to bright light in summer.",
+    "zh": "夏天時我的眼睛對強光很敏感。"
+   }
+  },
+  {
+   "a": "settle",
+   "b": "solve",
+   "kind": "semantic",
+   "score": 0.622,
+   "aZh": "v. 解決；處理",
+   "bZh": "v. 解決；解答",
+   "diff": "solve 多指解決問題或解答題目；settle 多指解決爭端、意見不合，或把事情談定。",
+   "points": [
+    "使用情境：solve a math problem；settle an argument",
+    "其他字義：settle 還有定居的意思"
+   ],
+   "tip": "解題目用 solve；擺平爭吵用 settle。",
+   "exA": {
+    "en": "The two brothers settled their argument by talking calmly.",
+    "zh": "兄弟倆冷靜談過之後化解了爭吵。"
+   },
+   "exB": {
+    "en": "Amy solved the difficult math problem in five minutes.",
+    "zh": "Amy 五分鐘就解出那道難的數學題。"
+   }
+  },
+  {
+   "a": "gender",
+   "b": "sex",
+   "kind": "semantic",
+   "score": 0.827,
+   "aZh": "n. 性別",
+   "bZh": "n. 性別；性",
+   "diff": "兩者都能表示性別，sex 偏重生理上的男女，也可指性行為；gender 較常用於社會角色和正式表格，不指性行為。",
+   "points": [
+    "使用情境：gender equality 性別平等；sex education 性教育",
+    "語氣：表格上的性別欄常用 gender，較中性"
+   ],
+   "tip": "談平權用 gender；談生理和性教育用 sex。",
+   "exA": {
+    "en": "The school treats all students equally, whatever their gender.",
+    "zh": "不論性別，學校都平等對待所有學生。"
+   },
+   "exB": {
+    "en": "The doctor can tell the sex of the baby before birth.",
+    "zh": "醫生在出生前就能知道寶寶的性別。"
+   }
+  },
+  {
+   "a": "pity",
+   "b": "shame",
+   "kind": "semantic",
+   "score": 0.587,
+   "aZh": "n. 可惜；同情",
+   "bZh": "n. 可惜；羞恥",
+   "diff": "表示可惜時，It's a pity 和 It's a shame 幾乎一樣；但 pity 還有同情的意思，shame 還有羞愧的意思。",
+   "points": [
+    "句型：It's a pity / shame that + 子句；What a pity / shame!",
+    "其他字義：feel pity for 同情；feel shame 感到羞愧"
+   ],
+   "tip": "可惜兩個都能用；同情用 pity，羞愧用 shame。",
+   "exA": {
+    "en": "It's a pity that Amy can't come to the party.",
+    "zh": "Amy 不能來派對，真可惜。"
+   },
+   "exB": {
+    "en": "He felt deep shame after lying to his parents.",
+    "zh": "他對父母說謊後感到非常羞愧。"
+   }
+  },
+  {
+   "a": "glow",
+   "b": "shine",
+   "kind": "semantic",
+   "score": 0.522,
+   "aZh": "v. 發出微光；n. 光彩",
+   "bZh": "v. 發光；照耀",
+   "diff": "shine 是發出明亮的光，常指太陽或燈；glow 是持續發出柔和、溫暖的光，沒有火焰或刺眼的感覺。",
+   "points": [
+    "亮度：shine 明亮，glow 柔和",
+    "搭配：the sun shines；the lights glow softly、glow in the dark"
+   ],
+   "tip": "亮到刺眼是 shine；暗暗發亮是 glow。",
+   "exA": {
+    "en": "The toy stars on my ceiling glow in the dark.",
+    "zh": "我天花板上的玩具星星在黑暗中會發光。"
+   },
+   "exB": {
+    "en": "The sun was shining brightly over the sea this morning.",
+    "zh": "今天早上陽光明亮地照在海面上。"
+   }
+  },
+  {
+   "a": "shock",
+   "b": "surprise",
+   "kind": "semantic",
+   "score": 0.519,
+   "aZh": "n./v. 震驚",
+   "bZh": "n./v. 驚訝；驚喜",
+   "diff": "surprise 是出乎意料，好事壞事都可以；shock 是非常強烈的驚訝，多半是壞消息，讓人難以接受。",
+   "points": [
+    "程度：shock 比 surprise 強烈得多",
+    "使用情境：a birthday surprise；the shock of the accident"
+   ],
+   "tip": "生日派對是 surprise；車禍消息是 shock。",
+   "exA": {
+    "en": "The news of his accident was a great shock to us.",
+    "zh": "他出車禍的消息讓我們非常震驚。"
+   },
+   "exB": {
+    "en": "The birthday party was a nice surprise for Amy.",
+    "zh": "生日派對對 Amy 來說是個美好的驚喜。"
+   }
+  },
+  {
+   "a": "clerk",
+   "b": "shopkeeper",
+   "kind": "semantic",
+   "score": 0.425,
+   "aZh": "n. 店員；職員",
+   "bZh": "n. 店主；店老闆",
+   "diff": "shopkeeper 是經營商店的老闆；clerk 是受雇在店裡或辦公室工作的人。",
+   "points": [
+    "身分：shopkeeper 擁有或經營商店，clerk 是員工",
+    "使用情境：a store clerk；a local shopkeeper"
+   ],
+   "tip": "店是自己的就是 shopkeeper；領薪水幫忙的是 clerk。",
+   "exA": {
+    "en": "The clerk asked if I needed a bag for my things.",
+    "zh": "店員問我需不需要袋子裝東西。"
+   },
+   "exB": {
+    "en": "The shopkeeper has run this small store for thirty years.",
+    "zh": "這位店老闆經營這家小店已經三十年了。"
+   }
+  },
+  {
+   "a": "close",
+   "b": "shut",
+   "kind": "semantic",
+   "score": 0.755,
+   "aZh": "v. 關閉；結束",
+   "bZh": "v. 關閉；合上",
+   "diff": "關門窗時兩個字常可互換；close 用途較廣，可指商店打烊、結束會議，shut 較口語，語氣較用力。",
+   "points": [
+    "使用情境：close a meeting、close a bank account 不用 shut",
+    "動詞變化：shut 的過去式還是 shut，close 是 closed"
+   ],
+   "tip": "一般都用 close；要強調用力關上才用 shut。",
+   "exA": {
+    "en": "The bank closes at three thirty in the afternoon.",
+    "zh": "銀行下午三點半關門。"
+   },
+   "exB": {
+    "en": "He shut the door hard because he was angry.",
+    "zh": "他因為生氣而用力把門關上。"
+   }
+  },
+  {
+   "a": "quiet",
+   "b": "silent",
+   "kind": "semantic",
+   "score": 0.72,
+   "aZh": "adj. 安靜的；平靜的",
+   "bZh": "adj. 無聲的；沉默的",
+   "diff": "quiet 是聲音很小、不吵；silent 是完全沒有聲音，或人一句話都不說。",
+   "points": [
+    "程度：silent 比 quiet 更徹底",
+    "使用情境：a quiet street；remain silent 保持沉默"
+   ],
+   "tip": "小聲是 quiet；完全無聲是 silent。",
+   "exA": {
+    "en": "Please be quiet in the library so others can study.",
+    "zh": "在圖書館請保持安靜，好讓別人讀書。"
+   },
+   "exB": {
+    "en": "The whole room went silent when the teacher walked in.",
+    "zh": "老師一走進來，整個教室頓時鴉雀無聲。"
+   }
+  },
+  {
+   "a": "silly",
+   "b": "stupid",
+   "kind": "semantic",
+   "score": 0.704,
+   "aZh": "adj. 傻的；愚蠢的",
+   "bZh": "adj. 愚蠢的；笨的",
+   "diff": "silly 語氣較輕，常帶點好笑或可愛；stupid 語氣重，罵人很笨，對人說可能不禮貌。",
+   "points": [
+    "語氣：silly 溫和，stupid 帶有批評、可能傷人",
+    "使用情境：a silly joke；a stupid mistake"
+   ],
+   "tip": "開玩笑說人傻用 silly；stupid 要小心使用。",
+   "exA": {
+    "en": "Don't worry about it. It was just a silly mistake.",
+    "zh": "別擔心，那只是個小小的傻錯誤。"
+   },
+   "exB": {
+    "en": "It was stupid of me to leave my wallet in the taxi.",
+    "zh": "我真笨，竟然把皮夾忘在計程車上。"
+   }
+  },
+  {
+   "a": "same",
+   "b": "similar",
+   "kind": "semantic",
+   "score": 0.532,
+   "aZh": "adj. 相同的；一樣的",
+   "bZh": "adj. 相似的；類似的",
+   "diff": "same 是完全一樣，前面要加 the，接 as；similar 是很像但不完全相同，接 to。",
+   "points": [
+    "句型：the same as；similar to",
+    "程度：same 完全相同，similar 只是相像"
+   ],
+   "tip": "the same 配 as，similar 配 to。",
+   "exA": {
+    "en": "My phone is the same as yours, even the color.",
+    "zh": "我的手機和你的一模一樣，連顏色都一樣。"
+   },
+   "exB": {
+    "en": "My phone is similar to yours, but it is a little bigger.",
+    "zh": "我的手機和你的很像，但大一點。"
+   }
+  },
+  {
+   "a": "single",
+   "b": "singular",
+   "kind": "both",
+   "score": 0.638,
+   "aZh": "adj. 單一的；單身的",
+   "bZh": "adj. 單數的；非凡的",
+   "diff": "single 是一個、單人或單身；singular 主要是文法上的單數，和 plural 相對。",
+   "points": [
+    "使用情境：a single room；the singular form of a noun",
+    "搭配：singular 常和 plural 一起出現"
+   ],
+   "tip": "講文法單複數用 singular；其他一個的意思用 single。",
+   "exA": {
+    "en": "We booked a single room for one night.",
+    "zh": "我們訂了一間單人房住一晚。"
+   },
+   "exB": {
+    "en": "In English, the singular form of children is child.",
+    "zh": "在英文裡，children 的單數形是 child。"
+   }
+  },
+  {
+   "a": "ability",
+   "b": "skill",
+   "kind": "semantic",
+   "score": 0.546,
+   "aZh": "n. 能力；才能",
+   "bZh": "n. 技能；技巧",
+   "diff": "ability 是做得到某事的能力，可以是天生的；skill 是透過學習、練習而學會的技能。",
+   "points": [
+    "句型：the ability to V；skill in V-ing",
+    "可數與否：skills 常用複數，如 language skills"
+   ],
+   "tip": "天生做得到是 ability；練出來的是 skill。",
+   "exA": {
+    "en": "Babies have the ability to learn any language.",
+    "zh": "嬰兒有學會任何語言的能力。"
+   },
+   "exB": {
+    "en": "Reading every day can improve your language skills.",
+    "zh": "每天閱讀可以提升你的語言技能。"
+   }
+  },
+  {
+   "a": "peel",
+   "b": "skin",
+   "kind": "semantic",
+   "score": 0.868,
+   "aZh": "n. 果皮；v. 削皮",
+   "bZh": "n. 皮膚；外皮",
+   "diff": "peel 指水果、蔬菜厚一點、可以剝下來的皮；skin 多指人或動物的皮膚，也可指水果薄薄的皮。",
+   "points": [
+    "使用情境：orange peel、banana peel；skin care、apple skin",
+    "動詞：削水果皮多用 peel，skin 多用於動物或魚"
+   ],
+   "tip": "香蕉、橘子的皮用 peel；人的皮膚用 skin。",
+   "exA": {
+    "en": "Don't throw the banana peel on the ground.",
+    "zh": "不要把香蕉皮丟在地上。"
+   },
+   "exB": {
+    "en": "This cream is good for dry skin in winter.",
+    "zh": "這種乳液適合冬天乾燥的皮膚。"
+   }
+  },
+  {
+   "a": "sleepy",
+   "b": "tired",
+   "kind": "semantic",
+   "score": 0.579,
+   "aZh": "adj. 想睡的；睏倦的",
+   "bZh": "adj. 疲倦的；厭倦的",
+   "diff": "sleepy 是想睡覺；tired 是身體或精神累了，不一定想睡。",
+   "points": [
+    "使用情境：feel sleepy after lunch；feel tired after running",
+    "其他字義：be tired of 表示厭倦"
+   ],
+   "tip": "打哈欠想睡是 sleepy；跑完步很累是 tired。",
+   "exA": {
+    "en": "I always feel sleepy after a big lunch.",
+    "zh": "我吃完一頓豐盛的午餐總是很想睡。"
+   },
+   "exB": {
+    "en": "I felt very tired after running five kilometers yesterday.",
+    "zh": "昨天跑完五公里後我覺得很累。"
+   }
+  },
+  {
+   "a": "slide",
+   "b": "slip",
+   "kind": "both",
+   "score": 0.583,
+   "aZh": "v. 滑動；滑落",
+   "bZh": "v. 滑倒；滑落",
+   "diff": "slide 是平順地滑動，可以是故意的；slip 是不小心滑一下或滑倒，常是意外。",
+   "points": [
+    "使用情境：slide down the slide；slip on the wet floor",
+    "語意：slip 常帶有失去平衡、意外的意思"
+   ],
+   "tip": "玩溜滑梯是 slide；踩到香蕉皮是 slip。",
+   "exA": {
+    "en": "The children love to slide on the ice in winter.",
+    "zh": "孩子們冬天很愛在冰上滑來滑去。"
+   },
+   "exB": {
+    "en": "Be careful not to slip on the wet floor.",
+    "zh": "小心別在濕地板上滑倒。"
+   }
   }
  ]
 }
