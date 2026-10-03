@@ -4940,6 +4940,1276 @@
     "en": "This is a golden chance to practice your English.",
     "zh": "這是練習英文的大好機會。"
    }
+  },
+  {
+   "a": "gradual",
+   "b": "graduate",
+   "kind": "visual",
+   "score": 0.71,
+   "aZh": "adj. 逐漸的；漸進的",
+   "bZh": "v. 畢業；n. 畢業生",
+   "diff": "gradual 是形容詞，表示變化慢慢發生；graduate 是動詞或名詞，指從學校畢業。兩字同源，字首都是 grad-。",
+   "points": [
+    "詞性：gradual 是 adj.，graduate 是 v. 或 n.",
+    "拼字：gradu-al 對 gradu-ate，只差字尾",
+    "搭配：a gradual change；graduate from high school"
+   ],
+   "tip": "grad- 是一步一步：一步步慢慢變是 gradual，一步步讀完學校是 graduate。",
+   "exA": {
+    "en": "There has been a gradual change in his study habits.",
+    "zh": "他的讀書習慣慢慢有了改變。"
+   },
+   "exB": {
+    "en": "My sister will graduate from high school next June.",
+    "zh": "我姊姊明年六月高中畢業。"
+   }
+  },
+  {
+   "a": "cereal",
+   "b": "grain",
+   "kind": "semantic",
+   "score": 0.527,
+   "aZh": "n. 穀類食品；早餐穀片",
+   "bZh": "n. 穀物；穀粒",
+   "diff": "grain 指稻米、小麥等穀物或一粒粒的穀子；cereal 多指用穀物做成的食品，尤其是早餐加牛奶吃的穀片。",
+   "points": [
+    "使用情境：grain 是作物本身，cereal 是加工後的食品",
+    "搭配：whole grains；a bowl of cereal"
+   ],
+   "tip": "田裡長的是 grain，碗裡加牛奶吃的是 cereal。",
+   "exA": {
+    "en": "I eat a bowl of cereal with milk every morning.",
+    "zh": "我每天早上吃一碗加牛奶的穀片。"
+   },
+   "exB": {
+    "en": "Rice is the most important grain in many Asian countries.",
+    "zh": "稻米是許多亞洲國家最重要的穀物。"
+   }
+  },
+  {
+   "a": "grand",
+   "b": "magnificent",
+   "kind": "semantic",
+   "score": 0.881,
+   "aZh": "adj. 宏偉的；盛大的",
+   "bZh": "adj. 壯麗的；宏偉的",
+   "diff": "grand 強調規模大、氣派，也常指活動盛大；magnificent 強調美得令人讚嘆，語氣更強，多用來形容景色或建築。",
+   "points": [
+    "搭配：grand opening、a grand hall；a magnificent view",
+    "語氣：magnificent 的讚嘆語氣比 grand 強"
+   ],
+   "tip": "開幕典禮說 grand opening；看到美景驚呼用 magnificent。",
+   "exA": {
+    "en": "The store held a grand opening with music and free gifts.",
+    "zh": "這家店舉辦了盛大開幕，有音樂和免費贈品。"
+   },
+   "exB": {
+    "en": "We enjoyed a magnificent view of the sea from the hill.",
+    "zh": "我們在山丘上欣賞壯麗的海景。"
+   }
+  },
+  {
+   "a": "grand",
+   "b": "grant",
+   "kind": "visual",
+   "score": 0.751,
+   "aZh": "adj. 宏偉的；盛大的",
+   "bZh": "v. 准許；授予；n. 補助金",
+   "diff": "grand 是形容詞「宏偉的、盛大的」；grant 多當動詞「准許、給予」或名詞「補助金」。兩字只差最後的 d 和 t。",
+   "points": [
+    "詞性：grand 是 adj.，grant 是 v. 或 n.",
+    "拼字：gran-d 對 gran-t",
+    "搭配：grand opening；grant a request"
+   ],
+   "tip": "形容大而氣派用 grand；動詞准許、給予用 grant。",
+   "exA": {
+    "en": "The old palace looked grand under the evening sky.",
+    "zh": "那座老宮殿在傍晚的天空下顯得很宏偉。"
+   },
+   "exB": {
+    "en": "The principal granted our request to use the hall on Sunday.",
+    "zh": "校長准許我們週日使用禮堂的請求。"
+   }
+  },
+  {
+   "a": "greet",
+   "b": "welcome",
+   "kind": "semantic",
+   "score": 0.799,
+   "aZh": "v. 打招呼；迎接",
+   "bZh": "v. 歡迎；迎接",
+   "diff": "greet 是見面時打招呼，不一定帶熱情；welcome 強調歡迎對方到來，帶有樂意接納的意思，也可當形容詞和名詞。",
+   "points": [
+    "使用情境：greet 是打招呼的動作，welcome 是表示歡迎",
+    "詞性：welcome 還可當 adj.，例 You are welcome.",
+    "搭配：greet someone with a smile；welcome someone to + 地點"
+   ],
+   "tip": "說 hello 是 greet；說「歡迎光臨」是 welcome。",
+   "exA": {
+    "en": "Tom greeted his neighbor with a smile in the morning.",
+    "zh": "Tom 早上微笑著跟鄰居打招呼。"
+   },
+   "exB": {
+    "en": "The principal welcomed the new students to our school.",
+    "zh": "校長歡迎新生加入我們學校。"
+   }
+  },
+  {
+   "a": "guard",
+   "b": "protect",
+   "kind": "semantic",
+   "score": 0.589,
+   "aZh": "v. 看守；保護",
+   "bZh": "v. 保護；防護",
+   "diff": "guard 指有人或動物在旁看守、防範危險；protect 泛指保護不受傷害，可以是任何東西提供的保護。",
+   "points": [
+    "使用情境：guard 多是人或狗在旁看守；protect 可以是物品、法律等",
+    "搭配：guard the gate；protect A from B"
+   ],
+   "tip": "站在門口守著是 guard；戴安全帽護頭是 protect。",
+   "exA": {
+    "en": "Two soldiers guard the gate of the palace day and night.",
+    "zh": "兩名士兵日夜看守宮殿大門。"
+   },
+   "exB": {
+    "en": "A helmet can protect your head when you ride a bike.",
+    "zh": "騎腳踏車時，安全帽可以保護你的頭。"
+   }
+  },
+  {
+   "a": "guess",
+   "b": "guest",
+   "kind": "visual",
+   "score": 0.738,
+   "aZh": "v. 猜測",
+   "bZh": "n. 客人；來賓",
+   "diff": "guess 是動詞「猜」；guest 是名詞「客人」。兩字只差最後一個字母 s 和 t，讀音也很像。",
+   "points": [
+    "詞性：guess 是 v. 或 n.，guest 是 n.",
+    "拼字：gues-s 對 gues-t",
+    "發音：guess /ɡes/，guest /ɡest/ 多了 t 音"
+   ],
+   "tip": "guest 結尾的 t 像一張 table，客人坐在桌旁。",
+   "exA": {
+    "en": "Can you guess how many people came to the party?",
+    "zh": "你猜得到有多少人來參加派對嗎？"
+   },
+   "exB": {
+    "en": "Every guest at the party received a small gift.",
+    "zh": "派對上的每位客人都拿到一份小禮物。"
+   }
+  },
+  {
+   "a": "guest",
+   "b": "visitor",
+   "kind": "semantic",
+   "score": 0.515,
+   "aZh": "n. 客人；來賓",
+   "bZh": "n. 訪客；遊客",
+   "diff": "guest 是受邀而來的客人，或飯店住客、節目來賓；visitor 泛指到某地拜訪或參觀的人，不一定受邀。",
+   "points": [
+    "使用情境：guest 用於派對、婚禮、飯店；visitor 用於博物館、城市、景點",
+    "搭配：a guest speaker；visitors to the museum"
+   ],
+   "tip": "主人邀請來的是 guest；自己來參觀的是 visitor。",
+   "exA": {
+    "en": "We invited thirty guests to my brother's wedding.",
+    "zh": "我們邀請了三十位客人參加我哥哥的婚禮。"
+   },
+   "exB": {
+    "en": "The museum gets thousands of visitors every weekend.",
+    "zh": "這間博物館每個週末都有好幾千名參觀者。"
+   }
+  },
+  {
+   "a": "guide",
+   "b": "lead",
+   "kind": "semantic",
+   "score": 0.824,
+   "aZh": "v. 引導；帶領",
+   "bZh": "v. 帶領；領導",
+   "diff": "guide 是陪著人一路指引方向或方法；lead 是走在最前面帶隊，也可以指領導團體或通往某處。",
+   "points": [
+    "使用情境：guide 重在指引說明；lead 重在帶頭、領導",
+    "搭配：guide someone through；lead a team",
+    "用法：lead to + N 表示導致，guide 沒有這個用法"
+   ],
+   "tip": "導遊邊走邊解說是 guide；隊長走在最前面是 lead。",
+   "exA": {
+    "en": "The teacher guided us through the difficult math problem.",
+    "zh": "老師帶著我們一步步解出那道難的數學題。"
+   },
+   "exB": {
+    "en": "Kevin will lead the team in tomorrow's basketball game.",
+    "zh": "Kevin 會在明天的籃球比賽中帶領球隊。"
+   }
+  },
+  {
+   "a": "deal",
+   "b": "handle",
+   "kind": "semantic",
+   "score": 0.694,
+   "aZh": "v. 處理；應付（deal with）",
+   "bZh": "v. 處理；應付",
+   "diff": "表示「處理」時，handle 直接接受詞；deal 要說 deal with。兩者意思接近，deal with 較口語。",
+   "points": [
+    "及物與否：handle + N；deal with + N",
+    "搭配：handle a problem；deal with a problem"
+   ],
+   "tip": "handle 自己就有 hand（手），直接動手處理，不需要 with。",
+   "exA": {
+    "en": "We need to deal with this problem before the exam.",
+    "zh": "我們得在考試前處理這個問題。"
+   },
+   "exB": {
+    "en": "Amy handled the problem calmly and quickly by herself.",
+    "zh": "Amy 獨自冷靜又迅速地處理了這個問題。"
+   }
+  },
+  {
+   "a": "handsome",
+   "b": "pretty",
+   "kind": "semantic",
+   "score": 0.422,
+   "aZh": "adj. 英俊的",
+   "bZh": "adj. 漂亮的；可愛的",
+   "diff": "handsome 多形容男性英俊；pretty 多形容女生或小孩漂亮可愛，也可形容東西。形容女性用 handsome 時是指端莊大方。",
+   "points": [
+    "使用情境：handsome 多用於男性，pretty 多用於女性、小孩或物品",
+    "詞性：pretty 還可當副詞「相當」，例 pretty good"
+   ],
+   "tip": "帥哥是 handsome；漂亮女生是 pretty。",
+   "exA": {
+    "en": "The new English teacher at our school is tall and handsome.",
+    "zh": "我們學校新來的英文老師又高又帥。"
+   },
+   "exB": {
+    "en": "Jenny looked pretty in her pink dress at the party.",
+    "zh": "Jenny 在派對上穿著粉紅色洋裝，看起來很漂亮。"
+   }
+  },
+  {
+   "a": "hard",
+   "b": "hardly",
+   "kind": "visual",
+   "score": 0.689,
+   "aZh": "adv. 努力地；猛烈地",
+   "bZh": "adv. 幾乎不",
+   "diff": "hard 當副詞是「努力地、猛烈地」；hardly 是「幾乎不」，帶否定意味。hardly 不是 hard 的副詞。",
+   "points": [
+    "用法：study hard 努力讀書；hardly study 幾乎不讀書",
+    "位置：hard 放動詞後，hardly 常放動詞前"
+   ],
+   "tip": "加了 -ly 意思反而變成否定：work hard 努力，hardly work 幾乎不做。",
+   "exA": {
+    "en": "Amy studied hard, so she passed the math exam easily.",
+    "zh": "Amy 很努力讀書，所以輕鬆通過了數學考試。"
+   },
+   "exB": {
+    "en": "Tom hardly studied, so he failed the exam.",
+    "zh": "Tom 幾乎沒讀書，所以考試不及格。"
+   }
+  },
+  {
+   "a": "barely",
+   "b": "hardly",
+   "kind": "semantic",
+   "score": 0.722,
+   "aZh": "adv. 勉強；僅僅",
+   "bZh": "adv. 幾乎不",
+   "diff": "hardly 重在否定，表示幾乎沒有；barely 重在勉強做到，表示只差一點就做不到。",
+   "points": [
+    "語氣：hardly 偏否定，barely 偏「剛好夠」",
+    "搭配：hardly ever；barely enough"
+   ],
+   "tip": "barely 是勉強過關；hardly 是幾乎沒做到。",
+   "exA": {
+    "en": "We ran fast and barely caught the last bus home.",
+    "zh": "我們跑得很快，勉強趕上了回家的末班公車。"
+   },
+   "exB": {
+    "en": "I could hardly hear the teacher because of the noise.",
+    "zh": "因為太吵，我幾乎聽不到老師說話。"
+   }
+  },
+  {
+   "a": "high",
+   "b": "highly",
+   "kind": "visual",
+   "score": 0.672,
+   "aZh": "adv. 高高地",
+   "bZh": "adv. 高度地；非常",
+   "diff": "high 當副詞指實際位置或高度；highly 只表示程度或評價很高，不指高度。",
+   "points": [
+    "用法：jump high 跳得高；highly recommend 極力推薦",
+    "搭配：think highly of 高度評價"
+   ],
+   "tip": "看得見的高度用 high，看不見的程度用 highly。",
+   "exA": {
+    "en": "The bird flew high above the trees in the park.",
+    "zh": "那隻鳥飛得比公園裡的樹還高。"
+   },
+   "exB": {
+    "en": "This small restaurant near our school is highly popular with students.",
+    "zh": "學校附近這家小餐廳非常受學生歡迎。"
+   }
+  },
+  {
+   "a": "freeway",
+   "b": "highway",
+   "kind": "semantic",
+   "score": 0.606,
+   "aZh": "n. 高速公路",
+   "bZh": "n. 公路；幹道",
+   "diff": "highway 泛指連接城市的主要公路；freeway 是沒有紅綠燈、車速快的高速公路，台灣的國道是 freeway。",
+   "points": [
+    "使用情境：highway 範圍較廣，freeway 專指高速公路",
+    "搭配：on the highway；take the freeway"
+   ],
+   "tip": "free 是沒有阻礙：一路沒有紅綠燈的是 freeway。",
+   "exA": {
+    "en": "We took the freeway to get to Kaohsiung faster.",
+    "zh": "我們走高速公路，好更快到高雄。"
+   },
+   "exB": {
+    "en": "The old highway runs along the coast through many small towns.",
+    "zh": "那條舊公路沿著海岸穿過許多小鎮。"
+   }
+  },
+  {
+   "a": "hip",
+   "b": "waist",
+   "kind": "semantic",
+   "score": 0.408,
+   "aZh": "n. 臀部；髖部",
+   "bZh": "n. 腰；腰部",
+   "diff": "waist 是肚子高度最細的腰；hip 是腰下面兩側、比較寬的部位。中文的「叉腰」英文說 hands on hips。",
+   "points": [
+    "使用情境：褲子穿在 waist 或 hips 上，量腰圍用 waist",
+    "搭配：hands on hips 雙手叉腰；waist size 腰圍"
+   ],
+   "tip": "細的是 waist，寬的是 hip；叉腰叉的是 hips。",
+   "exA": {
+    "en": "The coach stood with his hands on his hips.",
+    "zh": "教練雙手叉腰站著。"
+   },
+   "exB": {
+    "en": "She tied a belt around her waist to hold up her pants.",
+    "zh": "她在腰上繫了一條腰帶，免得褲子掉下來。"
+   }
+  },
+  {
+   "a": "historic",
+   "b": "historical",
+   "kind": "visual",
+   "score": 0.827,
+   "aZh": "adj. 有歷史意義的",
+   "bZh": "adj. 歷史的；與歷史有關的",
+   "diff": "historic 指在歷史上很重要、值得記住的；historical 只是指和歷史有關、屬於過去的。",
+   "points": [
+    "使用情境：a historic moment 歷史性的一刻；historical records 歷史紀錄",
+    "拼字：historic 加 -al 變 historical，意思也跟著變"
+   ],
+   "tip": "historic 是會被寫進歷史的大事；historical 只是跟歷史有關。",
+   "exA": {
+    "en": "Winning the world title was a historic moment for the team.",
+    "zh": "贏得世界冠軍對球隊來說是歷史性的一刻。"
+   },
+   "exB": {
+    "en": "The museum keeps many historical records of the city.",
+    "zh": "博物館保存了許多這座城市的歷史紀錄。"
+   }
+  },
+  {
+   "a": "hole",
+   "b": "whole",
+   "kind": "visual",
+   "score": 0.827,
+   "aZh": "n. 洞；孔",
+   "bZh": "adj. 全部的；整個的",
+   "diff": "hole 和 whole 讀音完全一樣，但 hole 是名詞「洞」，whole 是形容詞「全部的」。",
+   "points": [
+    "發音：兩個字都讀 /hoʊl/",
+    "詞性：hole 是 n.，whole 是 adj. 或 n.",
+    "拼字：whole 前面多一個不發音的 w"
+   ],
+   "tip": "whole 多了 w，像把整個東西包起來；hole 少一塊，就是洞。",
+   "exA": {
+    "en": "There is a big hole in my sock.",
+    "zh": "我的襪子破了一個大洞。"
+   },
+   "exB": {
+    "en": "I spent the whole day cleaning my room.",
+    "zh": "我花了一整天打掃房間。"
+   }
+  },
+  {
+   "a": "hop",
+   "b": "hope",
+   "kind": "visual",
+   "score": 0.687,
+   "aZh": "v. 單腳跳；跳躍",
+   "bZh": "v. 希望",
+   "diff": "hop 是「跳」，hope 是「希望」。變化形最容易寫錯：hop 的過去式是 hopped，hope 的過去式是 hoped。",
+   "points": [
+    "拼字：hop → hopped、hopping；hope → hoped、hoping",
+    "發音：hop /hɑp/，hope /hoʊp/"
+   ],
+   "tip": "hope 有 e 才是希望；短母音 hop 加 -ed 要雙寫 p。",
+   "exA": {
+    "en": "The little rabbit hopped into the garden to eat the carrots.",
+    "zh": "小兔子跳進花園去吃紅蘿蔔。"
+   },
+   "exB": {
+    "en": "We hoped the rain would stop before the game.",
+    "zh": "我們希望比賽前雨會停。"
+   }
+  },
+  {
+   "a": "hop",
+   "b": "jump",
+   "kind": "semantic",
+   "score": 0.601,
+   "aZh": "v. 單腳跳；輕跳",
+   "bZh": "v. 跳；跳躍",
+   "diff": "jump 是一般的跳，可以跳得高或遠；hop 是短促的小跳，常指單腳跳或兔子、小鳥那種一蹦一蹦的跳。",
+   "points": [
+    "使用情境：hop 多指單腳或小動物；jump 用途最廣",
+    "搭配：hop on one foot；jump over a fence"
+   ],
+   "tip": "兔子一蹦一蹦是 hop；跳過欄杆是 jump。",
+   "exA": {
+    "en": "The children hopped on one foot during the game.",
+    "zh": "孩子們在遊戲中用單腳跳。"
+   },
+   "exB": {
+    "en": "The cat jumped onto the table to catch the fly.",
+    "zh": "貓跳上桌子去抓蒼蠅。"
+   }
+  },
+  {
+   "a": "hold",
+   "b": "host",
+   "kind": "semantic",
+   "score": 0.451,
+   "aZh": "v. 舉行；舉辦",
+   "bZh": "v. 主辦；主持",
+   "diff": "hold 單純指舉行某個活動；host 強調以主人的身分主辦並接待來賓，主詞常是城市、國家或主人。",
+   "points": [
+    "使用情境：hold a meeting 開會；host the Olympic Games 主辦奧運",
+    "語氣：host 帶有招待客人的意味"
+   ],
+   "tip": "活動照常舉行用 hold；當主人招待大家用 host。",
+   "exA": {
+    "en": "Our class will hold a meeting after school.",
+    "zh": "我們班放學後會開會。"
+   },
+   "exB": {
+    "en": "Our school will host students from Japan next month.",
+    "zh": "我們學校下個月會接待來自日本的學生。"
+   }
+  },
+  {
+   "a": "humble",
+   "b": "modest",
+   "kind": "semantic",
+   "score": 0.6,
+   "aZh": "adj. 謙虛的；卑微的",
+   "bZh": "adj. 謙虛的；不多的",
+   "diff": "humble 強調不覺得自己比別人重要，態度放低；modest 強調不誇耀自己的成就，也可指數量不大、價格不高。",
+   "points": [
+    "使用情境：humble 也指出身卑微；modest 也指數量適中",
+    "搭配：humble beginnings；a modest price"
+   ],
+   "tip": "出身低微用 humble；數量不多用 modest。",
+   "exA": {
+    "en": "Although he is rich now, he never forgets his humble beginnings.",
+    "zh": "他雖然現在很有錢，卻從不忘記自己卑微的出身。"
+   },
+   "exB": {
+    "en": "She is modest about her success in the contest.",
+    "zh": "她對自己在比賽中的成功很謙虛。"
+   }
+  },
+  {
+   "a": "hunt",
+   "b": "search",
+   "kind": "semantic",
+   "score": 0.82,
+   "aZh": "v. 打獵；尋找",
+   "bZh": "v. 搜尋；搜查",
+   "diff": "hunt for 是費力地到處找，像追捕獵物；search 強調仔細搜查某個地方，search 後面直接接地方，search for 才接要找的東西。",
+   "points": [
+    "及物與否：search + 地方；search for / hunt for + 要找的東西",
+    "使用情境：hunt 也可指打獵"
+   ],
+   "tip": "search 的受詞是地方，找的東西放在 for 後面。",
+   "exA": {
+    "en": "Tom hunted for his phone all morning before he left home.",
+    "zh": "Tom 出門前花了一整個早上找手機。"
+   },
+   "exB": {
+    "en": "The police searched the house for more clues.",
+    "zh": "警方搜查房子，尋找更多線索。"
+   }
+  },
+  {
+   "a": "hurry",
+   "b": "rush",
+   "kind": "semantic",
+   "score": 0.701,
+   "aZh": "v. 趕快；匆忙",
+   "bZh": "v. 趕忙；急速移動",
+   "diff": "hurry 是因為時間不夠而加快；rush 語氣更急，常帶有衝過去、太倉促的意味。",
+   "points": [
+    "搭配：in a hurry 匆忙；rush hour 尖峰時間",
+    "語氣：rush 比 hurry 更急，常含倉促"
+   ],
+   "tip": "加快腳步是 hurry；衝過去是 rush。",
+   "exA": {
+    "en": "We have to hurry, or we will miss the bus.",
+    "zh": "我們得快一點，不然會錯過公車。"
+   },
+   "exB": {
+    "en": "He rushed to the hospital when he heard the news.",
+    "zh": "他一聽到消息就衝去醫院。"
+   }
+  },
+  {
+   "a": "idea",
+   "b": "ideal",
+   "kind": "visual",
+   "score": 0.794,
+   "aZh": "n. 想法；主意",
+   "bZh": "adj. 理想的；n. 理想",
+   "diff": "idea 是腦中的想法或主意；ideal 是形容詞「理想的」，或名詞「崇高的理想」。兩字只差一個 l。",
+   "points": [
+    "詞性：idea 是 n.；ideal 多當 adj.",
+    "拼字：ide-a 對 ide-al",
+    "發音：idea /aɪˈdiːə/，ideal /aɪˈdiːəl/"
+   ],
+   "tip": "ideal 多了 l，像是把 idea 推到最好（level up）。",
+   "exA": {
+    "en": "That's a good idea, so let's try it.",
+    "zh": "那是個好主意，我們試試看。"
+   },
+   "exB": {
+    "en": "This park is an ideal place for a family picnic.",
+    "zh": "這座公園是家庭野餐的理想地點。"
+   }
+  },
+  {
+   "a": "identify",
+   "b": "identity",
+   "kind": "visual",
+   "score": 0.754,
+   "aZh": "v. 辨認；確認",
+   "bZh": "n. 身分",
+   "diff": "identity 是名詞「身分」；identify 是動詞「辨認出、確認身分」。兩字只差最後的 ty 和 fy。",
+   "points": [
+    "詞性：identity 是 n.，identify 是 v.",
+    "拼字：-ity 名詞字尾，-ify 動詞字尾",
+    "搭配：identity card；identify the problem"
+   ],
+   "tip": "-fy 結尾多是動詞（identify、satisfy）；-ty 結尾多是名詞（identity、safety）。",
+   "exA": {
+    "en": "The police could not identify the man in the photo.",
+    "zh": "警方無法辨認照片中的男子。"
+   },
+   "exB": {
+    "en": "You need to show proof of your identity at the bank.",
+    "zh": "在銀行你需要出示身分證明。"
+   }
+  },
+  {
+   "a": "ignore",
+   "b": "neglect",
+   "kind": "semantic",
+   "score": 0.421,
+   "aZh": "v. 忽視；不理會",
+   "bZh": "v. 忽略；疏於照顧",
+   "diff": "ignore 是故意不理會某人或某事；neglect 是沒有盡到該做的照顧或責任，常帶有失職的意味。",
+   "points": [
+    "使用情境：ignore advice、ignore someone；neglect one's duty、neglect a child",
+    "語氣：neglect 有該做卻沒做的責備意味"
+   ],
+   "tip": "故意當作沒看到是 ignore；該照顧卻沒照顧是 neglect。",
+   "exA": {
+    "en": "He ignored my advice and went swimming in the rain.",
+    "zh": "他不理會我的建議，冒雨去游泳。"
+   },
+   "exB": {
+    "en": "The old house was neglected for years and fell apart.",
+    "zh": "那棟老房子多年沒人照顧，最後倒塌了。"
+   }
+  },
+  {
+   "a": "ignore",
+   "b": "overlook",
+   "kind": "semantic",
+   "score": 0.352,
+   "aZh": "v. 忽視；不理會",
+   "bZh": "v. 忽略；沒注意到",
+   "diff": "ignore 是看到了卻故意不理；overlook 多是不小心沒注意到，或寬容地不追究。",
+   "points": [
+    "語氣：ignore 是有意的，overlook 多是無意的",
+    "搭配：overlook a mistake；ignore a warning"
+   ],
+   "tip": "看到了卻不理是 ignore；沒看到漏掉了是 overlook。",
+   "exA": {
+    "en": "Tom ignored the teacher's warning and kept talking.",
+    "zh": "Tom 不理會老師的警告，繼續講話。"
+   },
+   "exB": {
+    "en": "I overlooked a small mistake in the last line of my report.",
+    "zh": "我漏看了報告最後一行的一個小錯誤。"
+   }
+  },
+  {
+   "a": "ill",
+   "b": "sick",
+   "kind": "semantic",
+   "score": 0.941,
+   "aZh": "adj. 生病的",
+   "bZh": "adj. 生病的；想吐的",
+   "diff": "兩字都表示生病。sick 較口語，可放在名詞前；ill 較正式，多放在 be、feel 後面。sick 還可指想吐或厭煩。",
+   "points": [
+    "位置：a sick child 很自然；ill 多用在 be ill、fall ill",
+    "使用情境：feel sick 也可指想吐；be sick of 厭煩"
+   ],
+   "tip": "想吐、厭煩都用 sick；正式說生病可用 ill。",
+   "exA": {
+    "en": "Kevin was ill and missed the final exam.",
+    "zh": "Kevin 生病了，錯過了期末考。"
+   },
+   "exB": {
+    "en": "I felt sick after eating too much fried chicken.",
+    "zh": "我炸雞吃太多，覺得想吐。"
+   }
+  },
+  {
+   "a": "image",
+   "b": "imagine",
+   "kind": "visual",
+   "score": 0.675,
+   "aZh": "n. 影像；形象",
+   "bZh": "v. 想像",
+   "diff": "image 是名詞「影像、形象」；imagine 是動詞「想像」。兩字同源，但詞性不同，不能互換。",
+   "points": [
+    "詞性：image 是 n.，imagine 是 v.",
+    "拼字：imag-e 對 imag-ine",
+    "發音：image /ˈɪmɪdʒ/，imagine /ɪˈmædʒɪn/，重音不同"
+   ],
+   "tip": "imagine 是在腦中造出 image 的動作。",
+   "exA": {
+    "en": "The image on the screen was not very clear.",
+    "zh": "螢幕上的影像不太清楚。"
+   },
+   "exB": {
+    "en": "Can you imagine living on the moon one day?",
+    "zh": "你能想像有一天住在月球上嗎？"
+   }
+  },
+  {
+   "a": "image",
+   "b": "impression",
+   "kind": "semantic",
+   "score": 0.632,
+   "aZh": "n. 形象",
+   "bZh": "n. 印象；感想",
+   "diff": "impression 是某人或某事在你心中留下的感覺；image 是一個人或機構刻意經營、給大眾看到的形象。",
+   "points": [
+    "搭配：make a good impression；a public image",
+    "使用情境：impression 是個人的感受，image 是對外的形象"
+   ],
+   "tip": "第一次見面留下的是 impression；明星經營的是 image。",
+   "exA": {
+    "en": "The company wants to improve its public image.",
+    "zh": "那家公司想改善自己的公眾形象。"
+   },
+   "exB": {
+    "en": "You only have one chance to make a good first impression.",
+    "zh": "你只有一次機會留下好的第一印象。"
+   }
+  },
+  {
+   "a": "improve",
+   "b": "progress",
+   "kind": "semantic",
+   "score": 0.686,
+   "aZh": "v. 改善；進步",
+   "bZh": "v. 進展；n. 進步",
+   "diff": "improve 表示變得更好，可以接受詞；progress 當動詞是事情向前進展，不接受詞，「進步」常說 make progress。",
+   "points": [
+    "及物與否：improve one's English；progress 不接受詞",
+    "搭配：make progress in + N 在……方面進步",
+    "詞性：progress 當名詞不可數，不說 a progress"
+   ],
+   "tip": "英文變好說 improve my English 或 make progress in English。",
+   "exA": {
+    "en": "Reading English books every day can improve your English.",
+    "zh": "每天讀英文書能提升你的英文。"
+   },
+   "exB": {
+    "en": "Jenny has made great progress in math this year.",
+    "zh": "Jenny 今年數學進步很多。"
+   }
+  },
+  {
+   "a": "income",
+   "b": "outcome",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 收入；所得",
+   "bZh": "n. 結果；成果",
+   "diff": "income 是進來的錢，也就是收入；outcome 是事情最後出來的結果。兩字只差字首 in 和 out。",
+   "points": [
+    "拼字：in-come 進來的錢；out-come 最後出來的結果",
+    "搭配：monthly income；the outcome of the game"
+   ],
+   "tip": "錢 come in 是 income；結果 come out 是 outcome。",
+   "exA": {
+    "en": "His monthly income is not enough to support his family.",
+    "zh": "他的月收入不夠養家。"
+   },
+   "exB": {
+    "en": "Nobody knows the outcome of the game yet.",
+    "zh": "還沒有人知道比賽的結果。"
+   }
+  },
+  {
+   "a": "income",
+   "b": "salary",
+   "kind": "semantic",
+   "score": 0.515,
+   "aZh": "n. 收入；所得",
+   "bZh": "n. 薪水",
+   "diff": "salary 是工作固定領的薪水；income 範圍較廣，包括薪水、房租、投資等所有收入。",
+   "points": [
+    "使用情境：salary 只來自工作，income 可以有多種來源",
+    "搭配：a monthly salary；a high income"
+   ],
+   "tip": "薪水只是收入的一種：salary 是 income 的一部分。",
+   "exA": {
+    "en": "Renting out the old house gives them some extra income.",
+    "zh": "出租老房子讓他們多了一些收入。"
+   },
+   "exB": {
+    "en": "Her salary is paid on the fifth of every month.",
+    "zh": "她的薪水每個月五號發。"
+   }
+  },
+  {
+   "a": "increase",
+   "b": "rise",
+   "kind": "semantic",
+   "score": 0.761,
+   "aZh": "v. 增加；提高",
+   "bZh": "v. 上升；升起",
+   "diff": "increase 可及物也可不及物，可以說 increase the price；rise 是不及物動詞，不能接受詞，不能說 rise the price。",
+   "points": [
+    "及物與否：increase 可接受詞；rise 不接受詞",
+    "變化：rise → rose → risen",
+    "搭配：prices rise；increase the number of"
+   ],
+   "tip": "要把東西變多就用 increase；自己往上升用 rise。",
+   "exA": {
+    "en": "The school will increase the number of English classes.",
+    "zh": "學校將增加英文課的節數。"
+   },
+   "exB": {
+    "en": "Vegetable prices often rise quickly after a strong typhoon.",
+    "zh": "強颱過後，菜價常常很快上漲。"
+   }
+  },
+  {
+   "a": "increase",
+   "b": "raise",
+   "kind": "semantic",
+   "score": 0.641,
+   "aZh": "v. 增加；提高",
+   "bZh": "v. 舉起；提高",
+   "diff": "increase 可以是數量自己變多，也可以是使它變多；raise 一定要有受詞，強調某人把某物提高，也可指舉起、籌錢。",
+   "points": [
+    "及物與否：raise 一定接受詞；increase 可有可無",
+    "搭配：raise your hand、raise money；increase in number"
+   ],
+   "tip": "舉手、籌錢只能用 raise；數量自己變多用 increase。",
+   "exA": {
+    "en": "The number of students in our school increased this year.",
+    "zh": "我們學校今年學生人數增加了。"
+   },
+   "exB": {
+    "en": "The store raised the price of coffee by five dollars.",
+    "zh": "那家店把咖啡價格調高了五元。"
+   }
+  },
+  {
+   "a": "individual",
+   "b": "personal",
+   "kind": "semantic",
+   "score": 0.779,
+   "aZh": "adj. 個別的；個人的",
+   "bZh": "adj. 個人的；私人的",
+   "diff": "individual 強調一個一個分開看，和團體相對；personal 強調屬於某人自己、和他本人有關的，常帶有私人的意思。",
+   "points": [
+    "使用情境：individual needs 每個人不同的需求；personal life 私生活",
+    "搭配：individual help；personal opinion"
+   ],
+   "tip": "一個一個分開是 individual；屬於自己私人的是 personal。",
+   "exA": {
+    "en": "The coach gave individual advice to each player.",
+    "zh": "教練給每位球員個別的建議。"
+   },
+   "exB": {
+    "en": "Please don't ask me such personal questions in front of others.",
+    "zh": "請不要在別人面前問我這麼私人的問題。"
+   }
+  },
+  {
+   "a": "impact",
+   "b": "influence",
+   "kind": "semantic",
+   "score": 0.751,
+   "aZh": "n. 衝擊；影響",
+   "bZh": "n. 影響；影響力",
+   "diff": "influence 多指慢慢地、不知不覺改變人的想法或行為；impact 指強烈、直接的影響或衝擊，常用於重大事件。",
+   "points": [
+    "搭配：have an influence on；have an impact on",
+    "使用情境：influence 多用於人對人；impact 多用於事件、科技、環境"
+   ],
+   "tip": "impact 本義是撞擊，影響來得又快又猛。",
+   "exA": {
+    "en": "The typhoon had a huge impact on farmers in the south.",
+    "zh": "颱風對南部農民造成很大的衝擊。"
+   },
+   "exB": {
+    "en": "My grandmother had a strong influence on my love of reading.",
+    "zh": "奶奶對我熱愛閱讀有很大的影響。"
+   }
+  },
+  {
+   "a": "insist",
+   "b": "persist",
+   "kind": "both",
+   "score": 0.592,
+   "aZh": "v. 堅持；堅稱",
+   "bZh": "v. 堅持下去；持續",
+   "diff": "insist 是堅持某個主張或要求，常接 that 子句或 on；persist 是不放棄、一直做下去，常接 in。",
+   "points": [
+    "搭配：insist on + V-ing；persist in + V-ing",
+    "用法：insist that + 子句；persist 不接 that 子句",
+    "拼字：in-sist 對 per-sist"
+   ],
+   "tip": "insist 是嘴上不讓步；persist 是行動上不放棄。",
+   "exA": {
+    "en": "Mom insisted that I wear a jacket because it was cold.",
+    "zh": "天氣冷，媽媽堅持要我穿外套。"
+   },
+   "exB": {
+    "en": "If you persist in practicing, your English will improve.",
+    "zh": "只要你持續練習，英文就會進步。"
+   }
+  },
+  {
+   "a": "example",
+   "b": "instance",
+   "kind": "semantic",
+   "score": 0.685,
+   "aZh": "n. 例子；範例",
+   "bZh": "n. 例子；實例",
+   "diff": "example 最常用，可指說明觀念的例子，也可指榜樣；instance 較正式，指實際發生過的具體例子。",
+   "points": [
+    "搭配：for example 和 for instance 都表示「例如」",
+    "使用情境：set a good example 樹立好榜樣，不能用 instance"
+   ],
+   "tip": "當榜樣只能用 example；舉例時兩個都可以。",
+   "exA": {
+    "en": "Our captain sets a good example for the whole team.",
+    "zh": "隊長為全隊樹立了好榜樣。"
+   },
+   "exB": {
+    "en": "There have been several instances of cheating on the exam.",
+    "zh": "這次考試發生了幾起作弊事件。"
+   }
+  },
+  {
+   "a": "instance",
+   "b": "instant",
+   "kind": "visual",
+   "score": 0.774,
+   "aZh": "n. 例子；實例",
+   "bZh": "adj. 立即的；n. 瞬間",
+   "diff": "instance 是「例子」；instant 是「立即的」或「一瞬間」。兩字只差字尾 -ce 和 -t。",
+   "points": [
+    "拼字：instan-ce 對 instan-t",
+    "搭配：for instance 例如；in an instant 一瞬間；instant noodles 泡麵"
+   ],
+   "tip": "泡麵是 instant noodles，馬上可以吃；舉例子是 for instance。",
+   "exA": {
+    "en": "Many animals, for instance, dogs and cats, can see at night.",
+    "zh": "許多動物，例如狗和貓，在晚上看得見。"
+   },
+   "exB": {
+    "en": "I had a bowl of instant noodles for dinner last night.",
+    "zh": "我昨晚晚餐吃了一碗泡麵。"
+   }
+  },
+  {
+   "a": "instrument",
+   "b": "tool",
+   "kind": "semantic",
+   "score": 0.764,
+   "aZh": "n. 樂器；儀器",
+   "bZh": "n. 工具；器具",
+   "diff": "tool 是用手拿著做事的一般工具，例如鎚子、剪刀；instrument 多指精密的儀器或醫療器具，也指樂器。",
+   "points": [
+    "使用情境：tool 用於修理、做工；instrument 用於科學、醫療、音樂",
+    "搭配：a useful tool；a musical instrument"
+   ],
+   "tip": "修理東西用 tool；做實驗、看病、演奏用 instrument。",
+   "exA": {
+    "en": "Can you play any musical instrument, such as the guitar?",
+    "zh": "你會彈奏任何樂器嗎？例如吉他？"
+   },
+   "exB": {
+    "en": "My father keeps all his tools in a box in the garage.",
+    "zh": "我爸爸把他所有的工具都放在車庫的箱子裡。"
+   }
+  },
+  {
+   "a": "introduce",
+   "b": "recommend",
+   "kind": "semantic",
+   "score": 0.487,
+   "aZh": "v. 介紹；引見",
+   "bZh": "v. 推薦；建議",
+   "diff": "introduce 是讓兩個人認識，或引進新事物；把好東西推薦給別人要用 recommend。中文說「介紹一家好餐廳」，英文是 recommend。",
+   "points": [
+    "使用情境：introduce A to B 介紹某人認識；recommend + 東西 推薦",
+    "搭配：introduce yourself；highly recommend"
+   ],
+   "tip": "認識新朋友是 introduce；推薦好東西是 recommend。",
+   "exA": {
+    "en": "Let me introduce my friend Tom to you.",
+    "zh": "讓我把我的朋友 Tom 介紹給你。"
+   },
+   "exB": {
+    "en": "Can you recommend a good place to eat near here?",
+    "zh": "你能推薦這附近好吃的地方嗎？"
+   }
+  },
+  {
+   "a": "iron",
+   "b": "steel",
+   "kind": "semantic",
+   "score": 0.55,
+   "aZh": "n. 鐵",
+   "bZh": "n. 鋼；鋼鐵",
+   "diff": "iron 是金屬元素鐵；steel 是鐵加入少量碳等做成的鋼，比鐵更堅硬、不易斷。中文「鋼鐵」多半指 steel。",
+   "points": [
+    "使用情境：iron 也指熨斗、鐵質；steel 常用於大樓、橋梁",
+    "搭配：an iron gate；a steel bridge"
+   ],
+   "tip": "鐵經過加工變得更強，就成了 steel。",
+   "exA": {
+    "en": "The old gate is made of iron and is now covered with rust.",
+    "zh": "那道舊門是鐵做的，現在已經生鏽了。"
+   },
+   "exB": {
+    "en": "Tall buildings need strong steel to stand in earthquakes.",
+    "zh": "高樓需要堅固的鋼材才能在地震中屹立不倒。"
+   }
+  },
+  {
+   "a": "jam",
+   "b": "jelly",
+   "kind": "semantic",
+   "score": 0.655,
+   "aZh": "n. 果醬",
+   "bZh": "n. 果凍；果醬",
+   "diff": "jam 是含有果肉的果醬；jelly 在美國英語也指不含果肉、透明的果醬，但在台灣學生最常用的意思是果凍。",
+   "points": [
+    "使用情境：jam 有果肉；jelly 是透明、Q 彈的果凍",
+    "搭配：strawberry jam；a jelly dessert"
+   ],
+   "tip": "抹在吐司上的果醬用 jam；會晃動的果凍是 jelly。",
+   "exA": {
+    "en": "I like to put strawberry jam on my toast.",
+    "zh": "我喜歡在吐司上抹草莓果醬。"
+   },
+   "exB": {
+    "en": "The children enjoyed the colorful jelly at the party.",
+    "zh": "孩子們在派對上很喜歡那些五顏六色的果凍。"
+   }
+  },
+  {
+   "a": "join",
+   "b": "joint",
+   "kind": "visual",
+   "score": 0.794,
+   "aZh": "v. 加入；參加",
+   "bZh": "adj. 共同的；n. 關節",
+   "diff": "join 是動詞「加入、連接」；joint 是形容詞「共同的」或名詞「關節」，兩字同源，但詞性不同。",
+   "points": [
+    "詞性：join 是 v.，joint 是 adj. 或 n.",
+    "拼字：join 加 t 變成 joint",
+    "搭配：join a club；a joint effort"
+   ],
+   "tip": "join 是動作；接在一起的地方（關節）或一起做的事是 joint。",
+   "exA": {
+    "en": "Kevin wants to join the basketball team this year.",
+    "zh": "Kevin 今年想加入籃球隊。"
+   },
+   "exB": {
+    "en": "The two schools held a joint concert in the city hall.",
+    "zh": "兩所學校在市政廳舉辦聯合音樂會。"
+   }
+  },
+  {
+   "a": "diary",
+   "b": "journal",
+   "kind": "semantic",
+   "score": 0.794,
+   "aZh": "n. 日記",
+   "bZh": "n. 日誌；期刊",
+   "diff": "diary 是記錄每天生活和心情的私人日記；journal 也可以是日誌，但常記錄學習、工作或想法，也指學術期刊。",
+   "points": [
+    "使用情境：diary 偏私人心情；journal 可用於學習或研究",
+    "搭配：keep a diary；a science journal"
+   ],
+   "tip": "寫心事用 diary；記錄學習或刊登研究用 journal。",
+   "exA": {
+    "en": "My sister writes about her feelings in her diary every night.",
+    "zh": "我妹妹每晚都在日記裡寫下自己的心情。"
+   },
+   "exB": {
+    "en": "Our teacher asked us to keep a reading journal this term.",
+    "zh": "老師要我們這學期寫閱讀日誌。"
+   }
+  },
+  {
+   "a": "journal",
+   "b": "journey",
+   "kind": "visual",
+   "score": 0.675,
+   "aZh": "n. 日誌；期刊",
+   "bZh": "n. 旅程",
+   "diff": "journal 是日誌或期刊；journey 是旅程。兩字開頭都是 journ-，源自古法語「一天」，但意思完全不同。",
+   "points": [
+    "拼字：journ-al 對 journ-ey",
+    "搭配：keep a journal；a long journey"
+   ],
+   "tip": "出門旅行是 journey；拿筆記錄的冊子是 journal。",
+   "exA": {
+    "en": "She wrote about her trip to Japan in her journal.",
+    "zh": "她在日誌裡寫下她的日本之旅。"
+   },
+   "exB": {
+    "en": "The journey from Taipei to Hualien took four hours.",
+    "zh": "從台北到花蓮的旅程花了四個小時。"
+   }
+  },
+  {
+   "a": "judge",
+   "b": "referee",
+   "kind": "semantic",
+   "score": 0.472,
+   "aZh": "n. 法官；評審",
+   "bZh": "n. 裁判",
+   "diff": "judge 是法官，或歌唱、作文等比賽中打分數的評審；referee 是足球、籃球等球賽在場上執行規則的裁判。",
+   "points": [
+    "使用情境：judge 評分；referee 吹哨判規則",
+    "搭配：the judges of a contest；the referee blew the whistle"
+   ],
+   "tip": "打分數的是 judge；吹哨子的是 referee。",
+   "exA": {
+    "en": "The judges chose Amy's painting as the best one.",
+    "zh": "評審選了 Amy 的畫作為最佳作品。"
+   },
+   "exB": {
+    "en": "The referee blew the whistle to stop the game.",
+    "zh": "裁判吹哨暫停比賽。"
+   }
+  },
+  {
+   "a": "lack",
+   "b": "shortage",
+   "kind": "semantic",
+   "score": 0.702,
+   "aZh": "n./v. 缺乏；不足",
+   "bZh": "n. 短缺；不足",
+   "diff": "lack 指根本沒有或不夠，可作名詞和動詞，常用於能力、時間、經驗；shortage 只作名詞，多指物資、人力供應短缺。",
+   "points": [
+    "詞性：lack 可當 v.；shortage 只當 n.",
+    "搭配：lack of sleep；a water shortage",
+    "用法：lack 當動詞直接接受詞，不加 of"
+   ],
+   "tip": "缺能力、缺睡眠用 lack；缺水、缺貨用 shortage。",
+   "exA": {
+    "en": "Many students lack confidence when they speak English.",
+    "zh": "許多學生說英文時缺乏自信。"
+   },
+   "exB": {
+    "en": "The long dry summer caused a serious water shortage.",
+    "zh": "漫長乾燥的夏天造成嚴重缺水。"
+   }
+  },
+  {
+   "a": "lamb",
+   "b": "lamp",
+   "kind": "visual",
+   "score": 0.684,
+   "aZh": "n. 小羊；羊肉",
+   "bZh": "n. 燈；檯燈",
+   "diff": "lamb 是小羊，結尾的 b 不發音；lamp 是燈，結尾的 p 要發音。兩字只差最後一個字母。",
+   "points": [
+    "拼字：lam-b 對 lam-p",
+    "發音：lamb /læm/，lamp /læmp/"
+   ],
+   "tip": "lamb 的 b 不發音；lamp 的 p 要唸出來。",
+   "exA": {
+    "en": "The little lamb followed its mother across the field.",
+    "zh": "小羊跟著母羊走過田野。"
+   },
+   "exB": {
+    "en": "Please turn on the lamp on my desk.",
+    "zh": "請打開我書桌上的檯燈。"
+   }
+  },
+  {
+   "a": "last",
+   "b": "latest",
+   "kind": "semantic",
+   "score": 0.445,
+   "aZh": "adj. 最後的；上一個的",
+   "bZh": "adj. 最新的",
+   "diff": "latest 是最新的，之後可能還會有更新的；last 是最後一個，後面不會再有，或指上一次。",
+   "points": [
+    "搭配：the latest news 最新消息；the last bus 末班車",
+    "使用情境：last 也指上一個，例 last week"
+   ],
+   "tip": "還會更新的用 latest；結束了的用 last。",
+   "exA": {
+    "en": "I missed the last bus home and had to take a taxi.",
+    "zh": "我錯過了回家的末班公車，只好搭計程車。"
+   },
+   "exB": {
+    "en": "Have you heard the latest news about the typhoon?",
+    "zh": "你聽說颱風的最新消息了嗎？"
+   }
+  },
+  {
+   "a": "later",
+   "b": "latter",
+   "kind": "visual",
+   "score": 0.866,
+   "aZh": "adv. 之後；稍後",
+   "bZh": "adj. 後者的；n. 後者",
+   "diff": "later 是時間上的「之後、稍後」；latter 是兩者之中的「後者」。latter 多一個 t，讀音也不同。",
+   "points": [
+    "拼字：later 一個 t，latter 兩個 t",
+    "發音：later /ˈleɪtər/，latter /ˈlætər/",
+    "搭配：see you later；the former and the latter"
+   ],
+   "tip": "時間往後是 later；兩個選一個的後者是 latter。",
+   "exA": {
+    "en": "I'm busy now, so I'll call you back later.",
+    "zh": "我現在很忙，等一下再回電給你。"
+   },
+   "exB": {
+    "en": "Between tea and coffee, I prefer the latter.",
+    "zh": "茶和咖啡之間，我比較喜歡後者。"
+   }
+  },
+  {
+   "a": "law",
+   "b": "rule",
+   "kind": "semantic",
+   "score": 0.43,
+   "aZh": "n. 法律",
+   "bZh": "n. 規則；規定",
+   "diff": "law 是國家制定、人人都要遵守的法律，違反會受法律處罰；rule 是學校、家裡、比賽等特定團體的規定。",
+   "points": [
+    "使用情境：break the law 犯法；break the rules 違規",
+    "範圍：law 適用於整個社會；rule 只適用於特定地方或活動"
+   ],
+   "tip": "國家訂的是 law；學校、遊戲訂的是 rule。",
+   "exA": {
+    "en": "In most countries, driving after drinking is against the law.",
+    "zh": "在大多數國家，酒後開車是違法的。"
+   },
+   "exB": {
+    "en": "Our school has a rule against using phones in class.",
+    "zh": "我們學校規定上課不能用手機。"
+   }
+  },
+  {
+   "a": "lay",
+   "b": "lie",
+   "kind": "both",
+   "score": 0.5,
+   "aZh": "v. 放置；下蛋（laid, laid）",
+   "bZh": "v. 躺；平放（lay, lain）",
+   "diff": "lay 是把東西放下，一定要有受詞，過去式 laid；lie 是自己躺著，不接受詞，過去式剛好是 lay，最容易搞混。",
+   "points": [
+    "及物與否：lay + 受詞；lie 不接受詞",
+    "變化：lay → laid → laid；lie → lay → lain",
+    "搭配：lay the book on the desk；lie on the bed"
+   ],
+   "tip": "lay 後面要放東西；lie 是人自己躺下，不用放東西。",
+   "exA": {
+    "en": "Please lay your coats on the bed in my room.",
+    "zh": "請把你們的外套放在我房間的床上。"
+   },
+   "exB": {
+    "en": "I want to lie on the sofa and watch TV.",
+    "zh": "我想躺在沙發上看電視。"
+   }
+  },
+  {
+   "a": "leaf",
+   "b": "leave",
+   "kind": "visual",
+   "score": 0.599,
+   "aZh": "n. 葉子（複數 leaves）",
+   "bZh": "v. 離開；留下",
+   "diff": "leaf 是名詞「葉子」，複數是 leaves；leave 是動詞「離開」，第三人稱單數也是 leaves，要看上下文判斷。",
+   "points": [
+    "拼字：leaf → leaves（複數）；leave → leaves（三單）",
+    "詞性：leaf 是 n.，leave 是 v."
+   ],
+   "tip": "看到 leaves 前面有 the 多半是葉子；主詞後面的 leaves 多半是離開。",
+   "exA": {
+    "en": "A red leaf fell from the tree onto my book.",
+    "zh": "一片紅葉從樹上掉到我的書上。"
+   },
+   "exB": {
+    "en": "The train leaves at seven, so don't be late.",
+    "zh": "火車七點開，所以別遲到。"
+   }
+  },
+  {
+   "a": "borrow",
+   "b": "lend",
+   "kind": "semantic",
+   "score": 0.378,
+   "aZh": "v. 借入；向人借",
+   "bZh": "v. 借出；借給人",
+   "diff": "borrow 是從別人那裡借來；lend 是把自己的東西借給別人。中文都說「借」，要看東西往哪個方向走。",
+   "points": [
+    "搭配：borrow A from B 向 B 借 A；lend A to B 把 A 借給 B",
+    "變化：lend → lent → lent"
+   ],
+   "tip": "東西進來是 borrow；東西出去是 lend。",
+   "exA": {
+    "en": "Can I borrow your pen for a minute?",
+    "zh": "我可以跟你借一下筆嗎？"
+   },
+   "exB": {
+    "en": "Can you lend me your pen for a minute?",
+    "zh": "你可以借我一下筆嗎？"
+   }
   }
  ]
 }
