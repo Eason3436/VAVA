@@ -2299,6 +2299,1063 @@
     "en": "I need a new pair of running shoes.",
     "zh": "我需要一雙新的跑鞋。"
    }
+  },
+  {
+   "a": "course",
+   "b": "court",
+   "kind": "both",
+   "score": 0.679,
+   "aZh": "n. 球場（高爾夫）；課程",
+   "bZh": "n. 球場（網球、籃球）",
+   "diff": "網球、籃球這類畫線的球場是 court；高爾夫球場是 course。course 最常用的意思是課程。",
+   "points": [
+    "搭配：tennis court、basketball court，golf course",
+    "拼字：court 結尾是 t，course 結尾是 se"
+   ],
+   "tip": "打網球、籃球在 court，打高爾夫走一段路線在 course。",
+   "exA": {
+    "en": "My uncle plays golf on a course near the beach.",
+    "zh": "我叔叔在海邊附近的高爾夫球場打球。"
+   },
+   "exB": {
+    "en": "The kids played basketball on the court after school.",
+    "zh": "孩子們放學後在球場上打籃球。"
+   }
+  },
+  {
+   "a": "butter",
+   "b": "cream",
+   "kind": "semantic",
+   "score": 0.389,
+   "aZh": "n. 奶油（固體，塗麵包）",
+   "bZh": "n. 鮮奶油（液態或打發）",
+   "diff": "中文都可能說奶油。塗在麵包上、黃色固體的是 butter；液態、可打發放在蛋糕上的是 cream。",
+   "points": [
+    "使用情境：塗吐司用 butter，蛋糕上的白色奶油用 cream",
+    "搭配：bread and butter，whipped cream"
+   ],
+   "tip": "抹在吐司上的硬塊是 butter，擠在蛋糕上的軟白奶油是 cream。",
+   "exA": {
+    "en": "She spread some butter on the toast for breakfast.",
+    "zh": "她早餐時在吐司上塗了一些奶油。"
+   },
+   "exB": {
+    "en": "She put some whipped cream on the cake for dessert.",
+    "zh": "她在當甜點的蛋糕上放了一些鮮奶油。"
+   }
+  },
+  {
+   "a": "create",
+   "b": "invent",
+   "kind": "semantic",
+   "score": 0.629,
+   "aZh": "v. 創造；創作",
+   "bZh": "v. 發明",
+   "diff": "invent 是發明世上原本沒有的機器或方法；create 範圍較廣，作品、機會、問題都可以 create。",
+   "points": [
+    "搭配：invent a machine，create a painting、create jobs",
+    "使用情境：invent 多用於科技發明，create 多用於藝術與情況"
+   ],
+   "tip": "愛迪生發明燈泡用 invent，畫家創作作品用 create。",
+   "exA": {
+    "en": "The students created a short film for the contest.",
+    "zh": "學生為了比賽拍了一部短片。"
+   },
+   "exB": {
+    "en": "Who invented the telephone more than a hundred years ago?",
+    "zh": "一百多年前是誰發明了電話？"
+   }
+  },
+  {
+   "a": "crime",
+   "b": "sin",
+   "kind": "semantic",
+   "score": 0.525,
+   "aZh": "n. 犯罪；罪行",
+   "bZh": "n. 罪；罪孽",
+   "diff": "crime 是違反法律、會被警察抓的罪；sin 是違反宗教或道德的罪，不一定犯法。",
+   "points": [
+    "使用情境：法律、新聞用 crime，宗教、道德用 sin",
+    "搭配：commit a crime，commit a sin"
+   ],
+   "tip": "被警察抓的是 crime，被上帝怪罪的是 sin。",
+   "exA": {
+    "en": "Stealing a car is a serious crime in every country.",
+    "zh": "在每個國家，偷車都是很嚴重的犯罪。"
+   },
+   "exB": {
+    "en": "Some religions teach that lying is a sin.",
+    "zh": "有些宗教教導說謊是一種罪。"
+   }
+  },
+  {
+   "a": "crow",
+   "b": "crowd",
+   "kind": "visual",
+   "score": 0.736,
+   "aZh": "n. 烏鴉",
+   "bZh": "n. 人群",
+   "diff": "crow 是烏鴉；crowd 是人群。crowd 只比 crow 多一個 d，意思完全不同。",
+   "points": [
+    "拼字：crowd 結尾多一個 d",
+    "發音：crow 讀 /kroʊ/，crowd 讀 /kraʊd/，母音不同"
+   ],
+   "tip": "一群 crow 加上 d，就變成一大群人 crowd。",
+   "exA": {
+    "en": "A black crow sat on the roof of the station.",
+    "zh": "一隻黑色烏鴉停在車站屋頂上。"
+   },
+   "exB": {
+    "en": "A large crowd waited outside the station for the singer.",
+    "zh": "一大群人在車站外等那位歌手。"
+   }
+  },
+  {
+   "a": "crowd",
+   "b": "crown",
+   "kind": "visual",
+   "score": 0.751,
+   "aZh": "n. 人群",
+   "bZh": "n. 王冠",
+   "diff": "crowd 是人群；crown 是國王戴的王冠。兩字只差最後一個字母 d 和 n。",
+   "points": [
+    "拼字：crowd 結尾是 d，crown 結尾是 n",
+    "發音：兩字母音相同，只有字尾子音不同"
+   ],
+   "tip": "crown 的 n 像國王頭上的皇冠，crowd 的 d 是一大群人。",
+   "exA": {
+    "en": "The crowd cheered loudly when the queen appeared at the window.",
+    "zh": "女王出現在窗邊時，人群大聲歡呼。"
+   },
+   "exB": {
+    "en": "The queen wore a gold crown on her head.",
+    "zh": "女王頭上戴著一頂金色王冠。"
+   }
+  },
+  {
+   "a": "civilization",
+   "b": "culture",
+   "kind": "semantic",
+   "score": 0.449,
+   "aZh": "n. 文明",
+   "bZh": "n. 文化",
+   "diff": "culture 指一群人的生活方式、藝術和習俗；civilization 指發展到有城市、文字和制度的整個社會。",
+   "points": [
+    "使用情境：ancient civilizations 指古文明，local culture 指地方文化",
+    "範圍：civilization 通常比 culture 大，指整個社會的發展"
+   ],
+   "tip": "古埃及這種有城市和文字的大社會是 civilization，各地的生活習慣是 culture。",
+   "exA": {
+    "en": "We visited a museum about ancient Egyptian civilization.",
+    "zh": "我們參觀了一間介紹古埃及文明的博物館。"
+   },
+   "exB": {
+    "en": "We visited a museum about the culture of Taiwan's native people.",
+    "zh": "我們參觀了一間介紹台灣原住民文化的博物館。"
+   }
+  },
+  {
+   "a": "cure",
+   "b": "treat",
+   "kind": "semantic",
+   "score": 0.537,
+   "aZh": "v. 治癒；治好",
+   "bZh": "v. 治療；處理",
+   "diff": "treat 是醫治、照顧病人的過程，不一定治好；cure 是結果，病已經完全好了。",
+   "points": [
+    "用法：cure + 人 + of + 病，treat + 人 + for + 病",
+    "語意：treated 不代表 cured"
+   ],
+   "tip": "醫生 treat 是在治療中，病 cure 了才算真的好。",
+   "exA": {
+    "en": "The medicine finally cured him of his bad cough.",
+    "zh": "這藥終於治好了他嚴重的咳嗽。"
+   },
+   "exB": {
+    "en": "The doctor treated him for a bad cough last week.",
+    "zh": "醫生上週為他治療嚴重的咳嗽。"
+   }
+  },
+  {
+   "a": "cure",
+   "b": "heal",
+   "kind": "semantic",
+   "score": 0.662,
+   "aZh": "v. 治癒（疾病）",
+   "bZh": "v. 癒合（傷口）",
+   "diff": "cure 多指用藥物或治療把疾病治好；heal 多指傷口或身體自己慢慢癒合，也可用於心理創傷。",
+   "points": [
+    "搭配：cure a disease，a wound heals",
+    "及物與否：heal 可不及物，The cut healed；cure 通常要接受詞"
+   ],
+   "tip": "生病吃藥治好用 cure，傷口自己長好用 heal。",
+   "exA": {
+    "en": "Scientists hope this new drug may cure the disease.",
+    "zh": "科學家希望這種新藥能治好這種病。"
+   },
+   "exB": {
+    "en": "The cut on my finger healed in a week.",
+    "zh": "我手指上的傷口一週就癒合了。"
+   }
+  },
+  {
+   "a": "curious",
+   "b": "furious",
+   "kind": "visual",
+   "score": 0.785,
+   "aZh": "adj. 好奇的",
+   "bZh": "adj. 非常生氣的",
+   "diff": "curious 是好奇的；furious 是非常生氣的。兩字只差開頭 c 和 f。",
+   "points": [
+    "拼字：c-urious 和 f-urious 只差第一個字母",
+    "搭配：curious about，furious with someone"
+   ],
+   "tip": "furious 的 f 是 fire，氣到冒火；curious 的 c 是 check，想查清楚。",
+   "exA": {
+    "en": "The children were curious about the strange box.",
+    "zh": "孩子們對那個奇怪的盒子很好奇。"
+   },
+   "exB": {
+    "en": "Dad was furious when he saw the broken window.",
+    "zh": "爸爸看到破掉的窗戶時非常生氣。"
+   }
+  },
+  {
+   "a": "curious",
+   "b": "interested",
+   "kind": "semantic",
+   "score": 0.451,
+   "aZh": "adj. 好奇的；想知道的",
+   "bZh": "adj. 感興趣的",
+   "diff": "curious 是想知道答案、想弄清楚；interested 是對某件事有興趣、喜歡去做或了解。",
+   "points": [
+    "搭配：curious about，interested in",
+    "用法：curious to know，interested in + V-ing"
+   ],
+   "tip": "想知道祕密是 curious，喜歡一門科目是 interested。",
+   "exA": {
+    "en": "I am curious about what is inside the box.",
+    "zh": "我很好奇盒子裡裝了什麼。"
+   },
+   "exB": {
+    "en": "I am interested in learning how to cook.",
+    "zh": "我對學做菜很有興趣。"
+   }
+  },
+  {
+   "a": "currency",
+   "b": "current",
+   "kind": "visual",
+   "score": 0.739,
+   "aZh": "adj. 目前的；n. 水流",
+   "bZh": "n. 貨幣",
+   "diff": "current 是目前的或水流；currency 是一個國家使用的貨幣。currency 多了 -cy。",
+   "points": [
+    "拼字：currency 是 current 去 t 加 cy",
+    "使用情境：換錢、匯率用 currency"
+   ],
+   "tip": "錢像水流一樣在社會流動，所以貨幣是 currency。",
+   "exA": {
+    "en": "You need to change money into the local currency.",
+    "zh": "你需要把錢換成當地貨幣。"
+   },
+   "exB": {
+    "en": "The current price of eggs is higher than last year.",
+    "zh": "雞蛋目前的價格比去年高。"
+   }
+  },
+  {
+   "a": "certain",
+   "b": "curtain",
+   "kind": "visual",
+   "score": 0.721,
+   "aZh": "adj. 確定的",
+   "bZh": "n. 窗簾",
+   "diff": "certain 是形容詞「確定的」；curtain 是名詞「窗簾」。兩字讀音和拼字都很像。",
+   "points": [
+    "拼字：cer-tain 和 cur-tain，差在 e 和 u",
+    "詞性：certain 是 adj.，curtain 是 n."
+   ],
+   "tip": "curtain 的 u 像拉開的窗簾，certain 的 e 是 exactly，確定。",
+   "exA": {
+    "en": "I am certain that I closed the window.",
+    "zh": "我確定我有關窗。"
+   },
+   "exB": {
+    "en": "Please close the curtain before you go to bed.",
+    "zh": "睡前請把窗簾拉上。"
+   }
+  },
+  {
+   "a": "costume",
+   "b": "custom",
+   "kind": "visual",
+   "score": 0.5,
+   "aZh": "n. 戲服；服裝",
+   "bZh": "n. 習俗；風俗",
+   "diff": "custom 是習俗；costume 是表演或變裝穿的服裝。兩字字母很像，常被看錯。",
+   "points": [
+    "拼字：cus-tom 和 cos-tume，母音和字尾不同",
+    "發音：custom /ˈkʌstəm/，costume /ˈkɑːstuːm/"
+   ],
+   "tip": "costume 裡有 tu，像穿上 tutu 舞衣；custom 是大家習慣的做法。",
+   "exA": {
+    "en": "She wore a cat costume to the Halloween party.",
+    "zh": "她穿了貓咪裝去參加萬聖節派對。"
+   },
+   "exB": {
+    "en": "Giving red envelopes is a Chinese New Year custom.",
+    "zh": "發紅包是過年的習俗。"
+   }
+  },
+  {
+   "a": "custom",
+   "b": "habit",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "n. 習俗；風俗",
+   "bZh": "n. 習慣",
+   "diff": "habit 是個人的習慣；custom 是一個社會或群體共同的習俗。中文都可能說成「習慣」。",
+   "points": [
+    "使用情境：個人早睡早起是 habit，全社會過年發紅包是 custom",
+    "搭配：a bad habit，a local custom"
+   ],
+   "tip": "一個人的是 habit，一群人的是 custom。",
+   "exA": {
+    "en": "Bowing to others is a common custom in Japan.",
+    "zh": "鞠躬是日本常見的習俗。"
+   },
+   "exB": {
+    "en": "Biting your nails when you are nervous is a bad habit.",
+    "zh": "緊張時咬指甲是個壞習慣。"
+   }
+  },
+  {
+   "a": "client",
+   "b": "customer",
+   "kind": "semantic",
+   "score": 0.702,
+   "aZh": "n. 客戶；委託人",
+   "bZh": "n. 顧客",
+   "diff": "在商店買東西的是 customer；接受律師、會計師這類專業服務的是 client。",
+   "points": [
+    "使用情境：商店、餐廳用 customer，律師、銀行、設計公司用 client",
+    "語氣：client 較正式，常有長期往來"
+   ],
+   "tip": "買東西的是 customer，請專家幫忙的是 client。",
+   "exA": {
+    "en": "The lawyer met her client at the office.",
+    "zh": "律師在辦公室和她的委託人見面。"
+   },
+   "exB": {
+    "en": "The store gives every customer a free bag.",
+    "zh": "這家店送每位顧客一個免費的袋子。"
+   }
+  },
+  {
+   "a": "daily",
+   "b": "dairy",
+   "kind": "visual",
+   "score": 0.659,
+   "aZh": "adj. 每日的",
+   "bZh": "n. 乳製品；乳品業",
+   "diff": "daily 是每天的；dairy 是牛奶和乳製品。兩字只差 l 和 r。",
+   "points": [
+    "拼字：dai-ly 和 dai-ry，差在 l 和 r",
+    "使用情境：dairy products 是乳製品，daily life 是日常生活"
+   ],
+   "tip": "daily 來自 day，每天；dairy 的 r 像牛奶 milk 裡的 rich 濃郁。",
+   "exA": {
+    "en": "Reading the news is part of my daily routine.",
+    "zh": "看新聞是我每天的例行事項。"
+   },
+   "exB": {
+    "en": "Milk, cheese, and yogurt are all dairy products.",
+    "zh": "牛奶、起司和優格都是乳製品。"
+   }
+  },
+  {
+   "a": "damage",
+   "b": "harm",
+   "kind": "semantic",
+   "score": 1.0,
+   "aZh": "v./n. 損壞；損害",
+   "bZh": "v./n. 傷害",
+   "diff": "damage 多用於物品、建築、器官受損；harm 多用於對人、動物或健康造成傷害。",
+   "points": [
+    "使用情境：車子、房子受損用 damage，傷害人用 harm",
+    "可數與否：兩者當名詞時都不可數，不說 a damage"
+   ],
+   "tip": "東西壞掉用 damage，人受傷害用 harm。",
+   "exA": {
+    "en": "The heavy rain damaged many houses in the village.",
+    "zh": "大雨損壞了村裡許多房子。"
+   },
+   "exB": {
+    "en": "The dog looks scary, but it will not harm you.",
+    "zh": "那隻狗看起來很兇，但不會傷害你。"
+   }
+  },
+  {
+   "a": "damage",
+   "b": "injure",
+   "kind": "semantic",
+   "score": 0.556,
+   "aZh": "v. 損壞（物品）",
+   "bZh": "v. 使受傷（人）",
+   "diff": "injure 是人或動物身體受傷；damage 是物品、建築或器官受損。車子不能說 injured。",
+   "points": [
+    "使用情境：人受傷 be injured，車子受損 be damaged",
+    "搭配：be badly injured，be badly damaged"
+   ],
+   "tip": "人身上有傷用 injure，東西壞掉用 damage。",
+   "exA": {
+    "en": "Two cars were badly damaged in the accident.",
+    "zh": "兩輛車在車禍中嚴重受損。"
+   },
+   "exB": {
+    "en": "Two drivers were badly injured in the accident.",
+    "zh": "兩名駕駛在車禍中受了重傷。"
+   }
+  },
+  {
+   "a": "danger",
+   "b": "risk",
+   "kind": "semantic",
+   "score": 0.698,
+   "aZh": "n. 危險",
+   "bZh": "n. 風險",
+   "diff": "danger 指會傷害人的危險情況；risk 指壞事發生的可能性，也可指主動去冒的險。",
+   "points": [
+    "搭配：in danger，at risk，take a risk",
+    "用法：risk 可當動詞 risk + V-ing，danger 不能"
+   ],
+   "tip": "看得到的危險是 danger，算機率的風險是 risk。",
+   "exA": {
+    "en": "The firefighters knew they were in danger inside the building.",
+    "zh": "消防員知道自己在建築物裡正處於危險之中。"
+   },
+   "exB": {
+    "en": "Eating too much sugar increases the risk of disease.",
+    "zh": "吃太多糖會增加生病的風險。"
+   }
+  },
+  {
+   "a": "anger",
+   "b": "danger",
+   "kind": "visual",
+   "score": 0.76,
+   "aZh": "n. 憤怒",
+   "bZh": "n. 危險",
+   "diff": "anger 是憤怒；danger 是危險。danger 只比 anger 多一個開頭的 d。",
+   "points": [
+    "拼字：d + anger = danger",
+    "發音：anger /ˈæŋɡər/，danger /ˈdeɪndʒər/，母音和 g 的讀音都不同"
+   ],
+   "tip": "憤怒 anger 前面加 d，就變成危險 danger。",
+   "exA": {
+    "en": "He could not hide his anger after losing the game.",
+    "zh": "輸了比賽後，他藏不住怒氣。"
+   },
+   "exB": {
+    "en": "The sign warns swimmers of danger in deep water.",
+    "zh": "告示提醒泳客深水區有危險。"
+   }
+  },
+  {
+   "a": "data",
+   "b": "information",
+   "kind": "semantic",
+   "score": 0.437,
+   "aZh": "n. 資料；數據",
+   "bZh": "n. 資訊；消息",
+   "diff": "data 是收集來、還沒整理的事實與數字；information 是整理後讓人能了解事情的資訊。",
+   "points": [
+    "可數與否：information 不可數，不能說 informations",
+    "使用情境：研究、電腦用 data，問路、查消息用 information"
+   ],
+   "tip": "數字一筆一筆收進來是 data，整理好給人看的是 information。",
+   "exA": {
+    "en": "The scientists collected data from many weather stations.",
+    "zh": "科學家從許多氣象站收集資料。"
+   },
+   "exB": {
+    "en": "Can you give me some information about the school trip?",
+    "zh": "你可以給我一些校外教學的資訊嗎？"
+   }
+  },
+  {
+   "a": "dead",
+   "b": "deaf",
+   "kind": "visual",
+   "score": 0.663,
+   "aZh": "adj. 死的",
+   "bZh": "adj. 聾的；聽不見的",
+   "diff": "deaf 是聽不見的；dead 是死去的。兩字只差最後一個字母 f 和 d，發音也很像。",
+   "points": [
+    "拼字：dea-f 和 dea-d，差在最後一個字母",
+    "發音：deaf /dɛf/，dead /dɛd/"
+   ],
+   "tip": "deaf 的 f 想成 far，聲音太遠聽不到。",
+   "exA": {
+    "en": "The plants in the garden are dead because of the hot weather.",
+    "zh": "花園裡的植物因為天氣太熱死掉了。"
+   },
+   "exB": {
+    "en": "My grandmother is deaf, so we write notes to her.",
+    "zh": "我奶奶聽不見，所以我們寫紙條給她。"
+   }
+  },
+  {
+   "a": "debate",
+   "b": "discuss",
+   "kind": "semantic",
+   "score": 0.819,
+   "aZh": "v. 辯論",
+   "bZh": "v. 討論",
+   "diff": "discuss 是一起交換意見、商量；debate 是不同立場互相辯論，比較正式，常有正反兩方。",
+   "points": [
+    "用法：discuss 是及物動詞，不說 discuss about",
+    "使用情境：辯論比賽用 debate，開會商量用 discuss"
+   ],
+   "tip": "有正方反方的是 debate，大家一起想辦法是 discuss。",
+   "exA": {
+    "en": "The two teams debated whether homework should be banned.",
+    "zh": "兩隊辯論是否該禁止回家作業。"
+   },
+   "exB": {
+    "en": "Let's discuss the plan for the class trip after lunch.",
+    "zh": "我們午餐後討論班遊的計畫吧。"
+   }
+  },
+  {
+   "a": "dear",
+   "b": "deer",
+   "kind": "visual",
+   "score": 0.684,
+   "aZh": "adj. 親愛的",
+   "bZh": "n. 鹿",
+   "diff": "dear 和 deer 發音完全相同。dear 是親愛的，常用在信的開頭；deer 是鹿，複數不加 s。",
+   "points": [
+    "發音：兩字都讀 /dɪr/",
+    "拼字：dear 是 ea，deer 是 ee",
+    "用法：deer 單複數同形"
+   ],
+   "tip": "deer 有兩個 e，像鹿頭上的兩支角。",
+   "exA": {
+    "en": "Dear Amy, thank you for the lovely birthday card.",
+    "zh": "親愛的 Amy，謝謝妳可愛的生日卡片。"
+   },
+   "exB": {
+    "en": "A young deer was drinking water by the lake.",
+    "zh": "一隻小鹿在湖邊喝水。"
+   }
+  },
+  {
+   "a": "delay",
+   "b": "postpone",
+   "kind": "semantic",
+   "score": 0.575,
+   "aZh": "v. 延誤；耽擱",
+   "bZh": "v. 延期",
+   "diff": "postpone 是事先決定把活動改期；delay 常是因為意外而延誤，也可以是故意拖延。",
+   "points": [
+    "使用情境：班機誤點用 delay，比賽改天舉行用 postpone",
+    "用法：兩字後面接動作都用 V-ing"
+   ],
+   "tip": "被耽誤的是 delay，主動改期的是 postpone。",
+   "exA": {
+    "en": "The train to Taichung was delayed by heavy rain.",
+    "zh": "往台中的火車因為大雨延誤了。"
+   },
+   "exB": {
+    "en": "The school postponed the sports day until next Friday.",
+    "zh": "學校把運動會延到下週五。"
+   }
+  },
+  {
+   "a": "deny",
+   "b": "refuse",
+   "kind": "semantic",
+   "score": 0.376,
+   "aZh": "v. 否認",
+   "bZh": "v. 拒絕",
+   "diff": "deny 是說某件事不是真的、不承認；refuse 是不肯做或不接受。中文都有「不」的意思，常被混用。",
+   "points": [
+    "用法：deny + V-ing，refuse + to V",
+    "語意：deny 針對事實，refuse 針對要求或邀請"
+   ],
+   "tip": "不承認用 deny，不答應用 refuse。",
+   "exA": {
+    "en": "Tom denied eating the last piece of cake.",
+    "zh": "Tom 否認吃了最後一塊蛋糕。"
+   },
+   "exB": {
+    "en": "Tom refused to share the last piece of cake.",
+    "zh": "Tom 不肯分享最後一塊蛋糕。"
+   }
+  },
+  {
+   "a": "apartment",
+   "b": "department",
+   "kind": "visual",
+   "score": 0.774,
+   "aZh": "n. 公寓",
+   "bZh": "n. 部門；系",
+   "diff": "apartment 是住的公寓；department 是機構裡的部門。兩字只差開頭 a 和 de。",
+   "points": [
+    "拼字：a-partment 和 de-partment",
+    "搭配：department store 是百貨公司，不是公寓"
+   ],
+   "tip": "住家是 apartment，公司部門和百貨公司是 department。",
+   "exA": {
+    "en": "We live in a small apartment near the train station.",
+    "zh": "我們住在火車站附近一間小公寓。"
+   },
+   "exB": {
+    "en": "My father works in the sales department of a bank.",
+    "zh": "我爸爸在一家銀行的業務部工作。"
+   }
+  },
+  {
+   "a": "depend",
+   "b": "rely",
+   "kind": "semantic",
+   "score": 0.699,
+   "aZh": "v. 依靠；取決於",
+   "bZh": "v. 依靠；信賴",
+   "diff": "兩字都接 on 表示依靠；depend on 另外有「取決於」的意思，rely on 沒有。",
+   "points": [
+    "用法：It depends on the weather 不能換成 rely",
+    "語氣：rely on 較強調信任對方"
+   ],
+   "tip": "結果由什麼決定只能用 depend。",
+   "exA": {
+    "en": "Whether we go hiking tomorrow depends on the weather.",
+    "zh": "我們明天要不要去爬山要看天氣。"
+   },
+   "exB": {
+    "en": "You can always rely on your best friend.",
+    "zh": "你永遠可以信賴你最好的朋友。"
+   }
+  },
+  {
+   "a": "desert",
+   "b": "dessert",
+   "kind": "visual",
+   "score": 0.89,
+   "aZh": "n. 沙漠",
+   "bZh": "n. 甜點",
+   "diff": "desert 是沙漠；dessert 是飯後甜點。dessert 多一個 s，重音也不同。",
+   "points": [
+    "拼字：dessert 有兩個 s",
+    "發音：desert /ˈdezərt/ 重音在前，dessert /dɪˈzɜːrt/ 重音在後"
+   ],
+   "tip": "甜點吃了還想再吃一份，所以 dessert 有兩個 s（sweet stuff）。",
+   "exA": {
+    "en": "The Sahara is the largest hot desert in the world.",
+    "zh": "撒哈拉是世界上最大的熱沙漠。"
+   },
+   "exB": {
+    "en": "We had ice cream for dessert after dinner.",
+    "zh": "晚餐後我們吃冰淇淋當甜點。"
+   }
+  },
+  {
+   "a": "conversation",
+   "b": "dialogue",
+   "kind": "semantic",
+   "score": 0.696,
+   "aZh": "n. 對話；談話",
+   "bZh": "n. 對話；對白",
+   "diff": "conversation 是日常聊天、交談；dialogue 多指課本、劇本中的對白，或雙方正式的對話與溝通。",
+   "points": [
+    "使用情境：電影對白、課本對話用 dialogue",
+    "搭配：have a conversation，a dialogue between two countries"
+   ],
+   "tip": "生活中聊天是 conversation，寫在劇本上的是 dialogue。",
+   "exA": {
+    "en": "I had a nice conversation with my neighbor this morning.",
+    "zh": "我今天早上和鄰居聊得很愉快。"
+   },
+   "exB": {
+    "en": "Please read the dialogue on page ten with your partner.",
+    "zh": "請和你的同伴一起讀第十頁的對話。"
+   }
+  },
+  {
+   "a": "dairy",
+   "b": "diary",
+   "kind": "visual",
+   "score": 0.612,
+   "aZh": "n. 乳製品；乳品業",
+   "bZh": "n. 日記",
+   "diff": "diary 是日記；dairy 是乳製品或乳品業。兩字只是 a、i 和 i、a 對調。",
+   "points": [
+    "拼字：di-a-ry 和 da-i-ry，母音順序相反",
+    "發音：diary /ˈdaɪəri/ 三個音節，dairy /ˈderi/ 兩個音節"
+   ],
+   "tip": "diary 裡有 I（我），寫的是我的事；dairy 裡有 air，像牛奶打出的泡泡。",
+   "exA": {
+    "en": "This farm sells fresh milk and other dairy products.",
+    "zh": "這座農場賣新鮮牛奶和其他乳製品。"
+   },
+   "exB": {
+    "en": "I write about my day in my diary every night.",
+    "zh": "我每天晚上在日記裡寫下當天的事。"
+   }
+  },
+  {
+   "a": "direction",
+   "b": "instruction",
+   "kind": "semantic",
+   "score": 0.897,
+   "aZh": "n. 方向；指示；指路",
+   "bZh": "n. 指示；說明",
+   "diff": "directions 常指怎麼走的指路說明；instructions 是操作步驟、使用方法或老師給的指令。",
+   "points": [
+    "使用情境：問路要 directions，組裝家具看 instructions",
+    "用法：兩字當「指示」時常用複數"
+   ],
+   "tip": "怎麼走路看 directions，怎麼操作看 instructions。",
+   "exA": {
+    "en": "Can you give me directions to the train station?",
+    "zh": "你可以告訴我火車站怎麼走嗎？"
+   },
+   "exB": {
+    "en": "Read the instructions before you use the machine.",
+    "zh": "使用機器前先看說明書。"
+   }
+  },
+  {
+   "a": "discover",
+   "b": "invent",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "v. 發現",
+   "bZh": "v. 發明",
+   "diff": "discover 是找到本來就存在、只是不為人知的東西；invent 是創造出世上原本沒有的東西。",
+   "points": [
+    "使用情境：新大陸、新物種用 discover，電話、機器用 invent",
+    "相關名詞：discovery，invention"
+   ],
+   "tip": "本來就在那裡的用 discover，從無到有的用 invent。",
+   "exA": {
+    "en": "Scientists discovered a new kind of fish in the deep sea.",
+    "zh": "科學家在深海發現了一種新的魚。"
+   },
+   "exB": {
+    "en": "Who invented the first computer in the world?",
+    "zh": "世界上第一台電腦是誰發明的？"
+   }
+  },
+  {
+   "a": "divide",
+   "b": "separate",
+   "kind": "semantic",
+   "score": 0.71,
+   "aZh": "v. 分開；分成",
+   "bZh": "v. 分開；分離",
+   "diff": "divide 是把一個整體分成幾部分；separate 是把原本在一起或混在一起的東西分開。",
+   "points": [
+    "搭配：divide A into B，separate A from B",
+    "使用情境：切蛋糕、分組用 divide，垃圾分類、拉開兩人用 separate"
+   ],
+   "tip": "一變多用 divide，拆開兩個東西用 separate。",
+   "exA": {
+    "en": "Mom divided the pizza into eight pieces for the kids.",
+    "zh": "媽媽把披薩分成八片給孩子們。"
+   },
+   "exB": {
+    "en": "Please separate the plastic bottles from the paper.",
+    "zh": "請把塑膠瓶和紙類分開。"
+   }
+  },
+  {
+   "a": "double",
+   "b": "twice",
+   "kind": "semantic",
+   "score": 0.601,
+   "aZh": "adj./v. 兩倍的；加倍",
+   "bZh": "adv. 兩次；兩倍",
+   "diff": "double 可當形容詞或動詞；twice 是副詞，常用 twice as + adj. + as 或表示兩次。",
+   "points": [
+    "詞性：double 是 adj./v.，twice 是 adv.",
+    "搭配：double the price，twice as big as"
+   ],
+   "tip": "能讓數量變兩倍的動作是 double，做兩次是 twice。",
+   "exA": {
+    "en": "The price of eggs has doubled this year.",
+    "zh": "雞蛋的價錢今年漲了一倍。"
+   },
+   "exB": {
+    "en": "The dentist says I should brush my teeth twice a day.",
+    "zh": "牙醫說我一天應該刷兩次牙。"
+   }
+  },
+  {
+   "a": "doubt",
+   "b": "suspect",
+   "kind": "semantic",
+   "score": 0.661,
+   "aZh": "v. 懷疑（認為不是）",
+   "bZh": "v. 懷疑（認為可能是）",
+   "diff": "doubt 是認為某事可能不是真的；suspect 是認為某事可能是真的，多半是壞事。中文都是懷疑，意思剛好相反。",
+   "points": [
+    "語意：I doubt that = I don't think，I suspect that = I think",
+    "用法：suspect + 人 + of + N 表示懷疑某人做了某事"
+   ],
+   "tip": "doubt 是「不太相信」，suspect 是「猜八成是」。",
+   "exA": {
+    "en": "I doubt that he will finish the work on time.",
+    "zh": "我不太相信他能準時完成工作。"
+   },
+   "exB": {
+    "en": "I suspect that he took my umbrella by mistake.",
+    "zh": "我猜是他不小心拿走我的雨傘。"
+   }
+  },
+  {
+   "a": "dove",
+   "b": "pigeon",
+   "kind": "semantic",
+   "score": 0.84,
+   "aZh": "n. 鴿子（多為白鴿）",
+   "bZh": "n. 鴿子",
+   "diff": "pigeon 是城市廣場上常見的灰色鴿子；dove 多指體型較小的白鴿，常象徵和平。",
+   "points": [
+    "使用情境：象徵和平用 dove，公園裡餵的鴿子多用 pigeon",
+    "搭配：a white dove，feed the pigeons"
+   ],
+   "tip": "和平鴿是 dove，廣場上討食的是 pigeon。",
+   "exA": {
+    "en": "A white dove is a symbol of peace.",
+    "zh": "白鴿是和平的象徵。"
+   },
+   "exB": {
+    "en": "The children were feeding the pigeons in the park.",
+    "zh": "孩子們在公園裡餵鴿子。"
+   }
+  },
+  {
+   "a": "download",
+   "b": "upload",
+   "kind": "semantic",
+   "score": 0.5,
+   "aZh": "v. 下載",
+   "bZh": "v. 上傳",
+   "diff": "download 是把網路上的資料存到自己的裝置；upload 是把自己的檔案傳到網路上。",
+   "points": [
+    "方向：down 往下到自己手上，up 往上送到網路",
+    "搭配：download an app，upload a photo"
+   ],
+   "tip": "雲在上面，資料從雲端下來是 download，送上去是 upload。",
+   "exA": {
+    "en": "You can download the app for free from the website.",
+    "zh": "你可以從網站免費下載這個應用程式。"
+   },
+   "exB": {
+    "en": "Amy uploaded her travel photos to the Internet.",
+    "zh": "Amy 把她的旅遊照片上傳到網路。"
+   }
+  },
+  {
+   "a": "drawing",
+   "b": "painting",
+   "kind": "semantic",
+   "score": 0.372,
+   "aZh": "n. 素描；線條畫",
+   "bZh": "n. 繪畫；畫作",
+   "diff": "drawing 是用鉛筆、原子筆等畫出的線條圖；painting 是用顏料塗上顏色的畫。",
+   "points": [
+    "使用情境：鉛筆、蠟筆畫多用 drawing，水彩、油畫用 painting",
+    "相關動詞：draw 畫線條，paint 上顏料"
+   ],
+   "tip": "用筆畫線是 draw，用顏料刷色是 paint。",
+   "exA": {
+    "en": "He made a pencil drawing of his dog.",
+    "zh": "他用鉛筆畫了他的狗。"
+   },
+   "exB": {
+    "en": "This oil painting is more than two hundred years old.",
+    "zh": "這幅油畫已經超過兩百年了。"
+   }
+  },
+  {
+   "a": "drug",
+   "b": "medicine",
+   "kind": "semantic",
+   "score": 0.607,
+   "aZh": "n. 藥物；毒品",
+   "bZh": "n. 藥",
+   "diff": "medicine 是一般治病的藥；drug 也可指藥物，但常指毒品，take drugs 多半是吸毒。",
+   "points": [
+    "搭配：take medicine 吃藥，take drugs 常指吸毒",
+    "使用情境：日常生病吃藥用 medicine，新藥研發、毒品用 drug"
+   ],
+   "tip": "感冒吃的是 medicine，警察抓的是 drugs。",
+   "exA": {
+    "en": "Selling drugs is against the law in almost every country.",
+    "zh": "幾乎在每個國家，販賣毒品都是違法的。"
+   },
+   "exB": {
+    "en": "Take this medicine three times a day after meals.",
+    "zh": "這個藥一天三次飯後吃。"
+   }
+  },
+  {
+   "a": "eager",
+   "b": "eagle",
+   "kind": "visual",
+   "score": 0.63,
+   "aZh": "adj. 渴望的；熱切的",
+   "bZh": "n. 老鷹",
+   "diff": "eagle 是老鷹；eager 是渴望的、熱切的。兩字只差最後的 le 和 er。",
+   "points": [
+    "拼字：eag-le 和 eag-er",
+    "詞性：eagle 是 n.，eager 是 adj.，常用 be eager to V"
+   ],
+   "tip": "兩字讀音只差最後一個音：eager 結尾是 r，eagle 結尾是 l。",
+   "exA": {
+    "en": "The kids were eager to open their birthday presents.",
+    "zh": "孩子們迫不及待想拆生日禮物。"
+   },
+   "exB": {
+    "en": "We saw an eagle flying high above the mountain.",
+    "zh": "我們看到一隻老鷹在山的上空高飛。"
+   }
+  },
+  {
+   "a": "earn",
+   "b": "win",
+   "kind": "semantic",
+   "score": 0.436,
+   "aZh": "v. 賺得；（靠努力）贏得",
+   "bZh": "v. 贏得（比賽、獎項）",
+   "diff": "win 是在比賽或競爭中贏得獎項、勝利；earn 是靠工作或努力換來金錢、尊敬或信任。",
+   "points": [
+    "搭配：win a prize、win a game，earn money、earn respect",
+    "語意：earn 強調付出後應得的回報"
+   ],
+   "tip": "比賽贏來的是 win，辛苦換來的是 earn。",
+   "exA": {
+    "en": "Amy earned the trust of her teammates through hard work.",
+    "zh": "Amy 靠努力贏得了隊友的信任。"
+   },
+   "exB": {
+    "en": "Our class hopes to win first prize in the singing contest.",
+    "zh": "我們班希望在歌唱比賽中得到第一名。"
+   }
+  },
+  {
+   "a": "effective",
+   "b": "efficient",
+   "kind": "both",
+   "score": 0.628,
+   "aZh": "adj. 有效的",
+   "bZh": "adj. 有效率的",
+   "diff": "effective 是能達到想要的效果；efficient 是用最少的時間或資源把事情做好。有效不一定有效率。",
+   "points": [
+    "語意：effective 看結果，efficient 看花費的時間和力氣",
+    "拼字：effect-ive 和 effic-ient，字尾不同"
+   ],
+   "tip": "藥有用是 effective，做事快又省是 efficient。",
+   "exA": {
+    "en": "This medicine is very effective against headaches and fever.",
+    "zh": "這種藥治頭痛和發燒很有效。"
+   },
+   "exB": {
+    "en": "An efficient worker can finish the job in half the time.",
+    "zh": "有效率的員工能用一半的時間完成工作。"
+   }
+  },
+  {
+   "a": "elder",
+   "b": "elderly",
+   "kind": "visual",
+   "score": 0.709,
+   "aZh": "adj. 年紀較大的（親屬）",
+   "bZh": "adj. 年長的；上了年紀的",
+   "diff": "elder 是兩人中比較年長的，多用於 elder brother、elder sister；elderly 是上了年紀的老人，較禮貌的說法。",
+   "points": [
+    "使用情境：哥哥姊姊用 elder，老人家用 elderly",
+    "用法：the elderly 指老年人"
+   ],
+   "tip": "家裡比我大的是 elder，公車上要讓座的是 elderly。",
+   "exA": {
+    "en": "My elder sister is two years older than me.",
+    "zh": "我姊姊比我大兩歲。"
+   },
+   "exB": {
+    "en": "Please give your seat to elderly people on the bus.",
+    "zh": "在公車上請把座位讓給老人家。"
+   }
+  },
+  {
+   "a": "electric",
+   "b": "electrical",
+   "kind": "visual",
+   "score": 0.827,
+   "aZh": "adj. 電動的；用電的",
+   "bZh": "adj. 電力的；電氣的",
+   "diff": "electric 多修飾用電運作的東西，如 electric car；electrical 多修飾和電力有關的事，如 electrical problem。",
+   "points": [
+    "搭配：electric fan、electric car，electrical engineer、electrical problem",
+    "語意：electric 偏具體電器，electrical 偏電力相關類別"
+   ],
+   "tip": "插電就會動的東西用 electric，和電有關的工作或問題用 electrical。",
+   "exA": {
+    "en": "My uncle drives an electric car to work.",
+    "zh": "我叔叔開電動車上班。"
+   },
+   "exB": {
+    "en": "An electrical problem caused the lights to go out.",
+    "zh": "電力問題造成燈全部熄滅。"
+   }
+  },
+  {
+   "a": "electric",
+   "b": "electronic",
+   "kind": "visual",
+   "score": 0.794,
+   "aZh": "adj. 電動的；用電的",
+   "bZh": "adj. 電子的",
+   "diff": "electric 是靠電力運轉的，如電扇、電動車；electronic 是用晶片或電路處理資訊的，如手機、電腦。",
+   "points": [
+    "搭配：electric fan，electronic devices、electronic dictionary",
+    "拼字：electronic 多了 -on-"
+   ],
+   "tip": "會轉會熱的用 electric，會計算會顯示的用 electronic。",
+   "exA": {
+    "en": "We bought a new electric fan for the summer.",
+    "zh": "我們買了一台新電風扇過夏天。"
+   },
+   "exB": {
+    "en": "Please turn off all electronic devices during the exam.",
+    "zh": "考試時請關閉所有電子設備。"
+   }
+  },
+  {
+   "a": "emotion",
+   "b": "mood",
+   "kind": "semantic",
+   "score": 0.755,
+   "aZh": "n. 情緒；情感",
+   "bZh": "n. 心情",
+   "diff": "emotion 是內心的感受，如生氣、害怕、喜悅；mood 是一段時間內持續的心情狀態，多說好心情或壞心情。",
+   "points": [
+    "搭配：in a good mood，show one's emotions",
+    "時間：mood 會持續一陣子，emotion 可以很短暫"
+   ],
+   "tip": "一整天的心情是 mood，一瞬間湧上來的感受是 emotion。",
+   "exA": {
+    "en": "She could not hide her emotions at the sad ending.",
+    "zh": "看到悲傷的結局時，她掩不住情緒。"
+   },
+   "exB": {
+    "en": "Dad is in a good mood because it's Friday.",
+    "zh": "因為是星期五，爸爸心情很好。"
+   }
   }
  ]
 }
